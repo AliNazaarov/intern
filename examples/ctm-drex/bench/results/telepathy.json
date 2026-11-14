@@ -1,0 +1,16 @@
+{
+ "case": "case01",
+ "claims": 8,
+ "batched": {
+  "seconds": 0.3773324590001721,
+  "input_tokens": 2730
+ },
+ "one_per_request": {
+  "seconds": 2.257533625001088,
+  "input_tokens": 14924
+ },
+ "batched_repeat_same_state": {
+  "seconds": 0.45411333299125545,
+  "input_tokens": 2730
+ }
+}

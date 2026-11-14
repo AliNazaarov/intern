@@ -1,0 +1,70 @@
+{
+ "test_claims": 106,
+ "dev_claims": 47,
+ "test_cases": 7,
+ "fitted_threshold": 0.5,
+ "drex_raw": {
+  "n": 106,
+  "accuracy": 0.9905660377358491,
+  "macro_f1": 0.9861874559548979,
+  "balanced_accuracy": 0.9880952380952381,
+  "missed_bad_claims": 0.0,
+  "false_alarms": 0.0,
+  "flag_recall": 1.0
+ },
+ "drex_rules": {
+  "n": 106,
+  "accuracy": 0.9905660377358491,
+  "macro_f1": 0.9861874559548979,
+  "balanced_accuracy": 0.9880952380952381,
+  "missed_bad_claims": 0.0,
+  "false_alarms": 0.0,
+  "flag_recall": 1.0
+ },
+ "drex_rules_fitted": {
+  "n": 106,
+  "accuracy": 0.9905660377358491,
+  "macro_f1": 0.9861874559548979,
+  "balanced_accuracy": 0.9880952380952381,
+  "missed_bad_claims": 0.0,
+  "false_alarms": 0.0,
+  "flag_recall": 1.0
+ },
+ "drex_speed": {
+  "p50_s_per_petition": 0.3380435830040369,
+  "p95_s_per_petition": 0.38062349997926503
+ },
+ "drex_cost_per_1k_claims_usd": 0.016826037735849057,
+ "or-gpt-5.6-sol": {
+  "n": 106,
+  "accuracy": 1.0,
+  "macro_f1": 1.0,
+  "balanced_accuracy": 1.0,
+  "missed_bad_claims": 0.0,
+  "false_alarms": 0.0,
+  "flag_recall": 1.0
+ },
+ "or-gpt-5.6-sol_rules": {
+  "n": 106,
+  "accuracy": 1.0,
+  "macro_f1": 1.0,
+  "balanced_accuracy": 1.0,
+  "missed_bad_claims": 0.0,
+  "false_alarms": 0.0,
+  "flag_recall": 1.0
+ },
+ "or-gpt-5.6-sol_model": "openai/gpt-5.6-sol",
+ "or-gpt-5.6-sol_speed": {
+  "p50_s_per_petition": 2.4074810830061324,
+  "p95_s_per_petition": 2.8940475830167998
+ },
+ "or-gpt-5.6-sol_cost_per_1k_claims_usd": 0.9749433962264151,
+ "or-gpt-5.6-sol_unparsed": 0,
+ "or-gpt-5.6-sol_price_basis": "provider usage.cost (OpenRouter)",
+ "or-gpt-5.6-sol_thinking": "off: reasoning.enabled=false (probe: 0 reasoning tokens; also 0 by default)",
+ "or-gpt-5.6-sol_attempts": 7,
+ "handoff_tokens_estimate": {
+  "draft_plus_exhibits": 2502.785714285714,
+  "receipt": 472.57142857142856
+ }
+}

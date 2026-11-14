@@ -1,0 +1,70 @@
+{
+ "test_claims": 106,
+ "dev_claims": 47,
+ "test_cases": 7,
+ "fitted_threshold": 0.5,
+ "drex_raw": {
+  "n": 106,
+  "accuracy": 0.9905660377358491,
+  "macro_f1": 0.9861874559548979,
+  "balanced_accuracy": 0.9880952380952381,
+  "missed_bad_claims": 0.0,
+  "false_alarms": 0.0,
+  "flag_recall": 1.0
+ },
+ "drex_rules": {
+  "n": 106,
+  "accuracy": 0.9905660377358491,
+  "macro_f1": 0.9861874559548979,
+  "balanced_accuracy": 0.9880952380952381,
+  "missed_bad_claims": 0.0,
+  "false_alarms": 0.0,
+  "flag_recall": 1.0
+ },
+ "drex_rules_fitted": {
+  "n": 106,
+  "accuracy": 0.9905660377358491,
+  "macro_f1": 0.9861874559548979,
+  "balanced_accuracy": 0.9880952380952381,
+  "missed_bad_claims": 0.0,
+  "false_alarms": 0.0,
+  "flag_recall": 1.0
+ },
+ "drex_speed": {
+  "p50_s_per_petition": 0.3380435830040369,
+  "p95_s_per_petition": 0.38062349997926503
+ },
+ "drex_cost_per_1k_claims_usd": 0.016826037735849057,
+ "di-qwen3.8-max": {
+  "n": 106,
+  "accuracy": 1.0,
+  "macro_f1": 1.0,
+  "balanced_accuracy": 1.0,
+  "missed_bad_claims": 0.0,
+  "false_alarms": 0.0,
+  "flag_recall": 1.0
+ },
+ "di-qwen3.8-max_rules": {
+  "n": 106,
+  "accuracy": 1.0,
+  "macro_f1": 1.0,
+  "balanced_accuracy": 1.0,
+  "missed_bad_claims": 0.0,
+  "false_alarms": 0.0,
+  "flag_recall": 1.0
+ },
+ "di-qwen3.8-max_model": "Qwen/Qwen3.8-Max",
+ "di-qwen3.8-max_speed": {
+  "p50_s_per_petition": 5.894717834016774,
+  "p95_s_per_petition": 6.474313374987105
+ },
+ "di-qwen3.8-max_cost_per_1k_claims_usd": 0.31365886792452835,
+ "di-qwen3.8-max_unparsed": 0,
+ "di-qwen3.8-max_price_basis": "provider usage.estimated_cost",
+ "di-qwen3.8-max_thinking": "off: chat_template_kwargs.enable_thinking=false (it thinks by default: 28 reasoning tokens on a probe)",
+ "di-qwen3.8-max_attempts": 7,
+ "handoff_tokens_estimate": {
+  "draft_plus_exhibits": 2502.785714285714,
+  "receipt": 472.57142857142856
+ }
+}

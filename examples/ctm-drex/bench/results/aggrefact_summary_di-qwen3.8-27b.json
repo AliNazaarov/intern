@@ -1,0 +1,103 @@
+{
+ "benchmark": "LLM-AggreFact v1 test (human labels), stratified sample",
+ "source": "huggingface.co/datasets/NinaCalvi/llm_aggrefact_pre_aug9 (public re-upload of lytang/LLM-AggreFact, which is gated)",
+ "licence": "CC BY-ND 4.0 (LLM-AggreFact)",
+ "seed": 7,
+ "n_sample": 200,
+ "n_dev": 50,
+ "n_test": 150,
+ "sub_datasets": [
+  "AggreFact-CNN",
+  "AggreFact-XSum",
+  "ClaimVerify",
+  "ExpertQA",
+  "FactCheck-GPT",
+  "Lfqa",
+  "Reveal",
+  "TofuEval-MediaS",
+  "TofuEval-MeetB",
+  "Wice"
+ ],
+ "drex": {
+  "model": "drex-max-v1.1",
+  "n_test_scored": 150,
+  "errors_all": 0,
+  "balanced_accuracy_thr_0.5": 0.749,
+  "fitted_threshold": 0.8559,
+  "balanced_accuracy_fitted": 0.752,
+  "seconds_p50": 0.274,
+  "seconds_p95": 0.403,
+  "mean_input_tokens": 674.6,
+  "cost_per_1000_claims_usd": 0.0202,
+  "price_basis": "$0.03/M input tokens (Drex Max 1.1 published price), output free",
+  "latency_note": "one request per claim, up to 16 in flight; seconds = HTTP round trip per request"
+ },
+ "di-qwen3.8-27b": {
+  "model": "Qwen/Qwen3.8-27B",
+  "n_test_scored": 150,
+  "errors": 0,
+  "parse_failures": 0,
+  "balanced_accuracy": 0.755,
+  "seconds_p50": 0.627,
+  "seconds_p95": 0.966,
+  "mean_input_tokens": 663.6,
+  "cost_per_1000_claims_usd": 0.1161,
+  "latency_note": "HTTP call per claim incl. retries, 6 concurrent",
+  "price_basis": "provider usage.estimated_cost",
+  "thinking": "off: chat_template_kwargs.enable_thinking=false (it thinks by default: 59 vs 8 output tokens on a probe)",
+  "mean_output_tokens": 8.8
+ },
+ "n_both_scored": 150,
+ "per_dataset_balanced_accuracy_test": {
+  "AggreFact-CNN": {
+   "n": 15,
+   "drex_fitted": 0.812,
+   "di-qwen3.8-27b": 0.688
+  },
+  "AggreFact-XSum": {
+   "n": 14,
+   "drex_fitted": 0.571,
+   "di-qwen3.8-27b": 0.857
+  },
+  "ClaimVerify": {
+   "n": 15,
+   "drex_fitted": 1.0,
+   "di-qwen3.8-27b": 0.917
+  },
+  "ExpertQA": {
+   "n": 14,
+   "drex_fitted": 0.429,
+   "di-qwen3.8-27b": 0.5
+  },
+  "FactCheck-GPT": {
+   "n": 17,
+   "drex_fitted": 0.664,
+   "di-qwen3.8-27b": 0.736
+  },
+  "Lfqa": {
+   "n": 11,
+   "drex_fitted": 0.617,
+   "di-qwen3.8-27b": 0.65
+  },
+  "Reveal": {
+   "n": 18,
+   "drex_fitted": 0.944,
+   "di-qwen3.8-27b": 0.833
+  },
+  "TofuEval-MediaS": {
+   "n": 13,
+   "drex_fitted": 0.524,
+   "di-qwen3.8-27b": 0.595
+  },
+  "TofuEval-MeetB": {
+   "n": 16,
+   "drex_fitted": 0.944,
+   "di-qwen3.8-27b": 0.889
+  },
+  "Wice": {
+   "n": 17,
+   "drex_fitted": 0.833,
+   "di-qwen3.8-27b": 0.764
+  }
+ }
+}

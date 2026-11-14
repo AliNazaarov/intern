@@ -1,0 +1,10 @@
+[project]
+name = "ctm-drex"
+version = "0.1.0"
+description = "Check every claim in a visa petition against its exhibits with Drex, inside Intern."
+requires-python = ">=3.12"
+license = "MIT"
+dependencies = ["httpx>=0.27"]
+
+[tool.setuptools]
+packages = ["ctm_drex"]

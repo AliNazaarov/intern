@@ -1,0 +1,70 @@
+{
+ "test_claims": 106,
+ "dev_claims": 47,
+ "test_cases": 7,
+ "fitted_threshold": 0.5,
+ "drex_raw": {
+  "n": 106,
+  "accuracy": 0.9905660377358491,
+  "macro_f1": 0.9861874559548979,
+  "balanced_accuracy": 0.9880952380952381,
+  "missed_bad_claims": 0.0,
+  "false_alarms": 0.0,
+  "flag_recall": 1.0
+ },
+ "drex_rules": {
+  "n": 106,
+  "accuracy": 0.9905660377358491,
+  "macro_f1": 0.9861874559548979,
+  "balanced_accuracy": 0.9880952380952381,
+  "missed_bad_claims": 0.0,
+  "false_alarms": 0.0,
+  "flag_recall": 1.0
+ },
+ "drex_rules_fitted": {
+  "n": 106,
+  "accuracy": 0.9905660377358491,
+  "macro_f1": 0.9861874559548979,
+  "balanced_accuracy": 0.9880952380952381,
+  "missed_bad_claims": 0.0,
+  "false_alarms": 0.0,
+  "flag_recall": 1.0
+ },
+ "drex_speed": {
+  "p50_s_per_petition": 0.3380435830040369,
+  "p95_s_per_petition": 0.38062349997926503
+ },
+ "drex_cost_per_1k_claims_usd": 0.016826037735849057,
+ "di-gpt-oss-120b": {
+  "n": 106,
+  "accuracy": 0.839622641509434,
+  "macro_f1": 0.8941923607915324,
+  "balanced_accuracy": 0.8341687552213868,
+  "missed_bad_claims": 0.0,
+  "false_alarms": 0.14035087719298245,
+  "flag_recall": 1.0
+ },
+ "di-gpt-oss-120b_rules": {
+  "n": 106,
+  "accuracy": 0.839622641509434,
+  "macro_f1": 0.8941923607915324,
+  "balanced_accuracy": 0.8341687552213868,
+  "missed_bad_claims": 0.0,
+  "false_alarms": 0.14035087719298245,
+  "flag_recall": 1.0
+ },
+ "di-gpt-oss-120b_model": "openai/gpt-oss-120b",
+ "di-gpt-oss-120b_speed": {
+  "p50_s_per_petition": 16.26506987499306,
+  "p95_s_per_petition": 24.360811874998035
+ },
+ "di-gpt-oss-120b_cost_per_1k_claims_usd": 0.013781698113207548,
+ "di-gpt-oss-120b_unparsed": 15,
+ "di-gpt-oss-120b_price_basis": "provider usage.estimated_cost",
+ "di-gpt-oss-120b_thinking": "on at its minimum: reasoning_effort=low (gpt-oss always reasons; none gave the same output)",
+ "di-gpt-oss-120b_attempts": 9,
+ "handoff_tokens_estimate": {
+  "draft_plus_exhibits": 2502.785714285714,
+  "receipt": 472.57142857142856
+ }
+}

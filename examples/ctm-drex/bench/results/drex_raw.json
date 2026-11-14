@@ -1,0 +1,1785 @@
+{
+ "case01": {
+  "usage": {
+   "input_tokens": 9288,
+   "seconds": 0.4425320420123171,
+   "requests": 2,
+   "model": "drex-latest"
+  },
+  "verdicts": [
+   {
+    "claim": "In 2024, Dr. Marwick was named the winner of the Applied AI Innovator of the Year award at the Pacific AI Builders Forum.",
+    "verdict": "contradicted",
+    "probabilities": {
+     "supported": 0.0009881076011816398,
+     "contradicted": 0.997854370455972,
+     "unsupported": 0.001157521942846331
+    },
+    "source": "E3-award-certificate.md",
+    "note": ""
+   },
+   {
+    "claim": "She also received the Golden Gate Founders Medal in 2022 for her early work on model auditing.",
+    "verdict": "unsupported",
+    "probabilities": {
+     "supported": 0.00022767316480922848,
+     "contradicted": 0.00038293262454320556,
+     "unsupported": 0.9993893942106475
+    },
+    "source": null,
+    "note": ""
+   },
+   {
+    "claim": "In February 2024, Dr. Marwick was elevated to Senior Member of the Association for Computational Evaluation, a grade that requires nomination by two Fellows.",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.9991713331903571,
+     "contradicted": 0.0005496838475364465,
+     "unsupported": 0.00027898296210638994
+    },
+    "source": "E8-membership-letter.md",
+    "note": ""
+   },
+   {
+    "claim": "Senior Member status requires at least ten years of professional experience in the field.",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.9976373883523911,
+     "contradicted": 0.001418389555845755,
+     "unsupported": 0.000944222091763141
+    },
+    "source": "E8-membership-letter.md",
+    "note": ""
+   },
+   {
+    "claim": "Byteforge Weekly published a feature article about Dr. Marwick and Quillmetric in August 2024.",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.9976593112560309,
+     "contradicted": 0.0015526617421123985,
+     "unsupported": 0.0007880270018566709
+    },
+    "source": "E2-byteforge-article.md",
+    "note": ""
+   },
+   {
+    "claim": "The article reports that Quillmetric's evaluation platform is used by more than 3,400 companies.",
+    "verdict": "contradicted",
+    "probabilities": {
+     "supported": 0.0008439799486313338,
+     "contradicted": 0.9984355645599714,
+     "unsupported": 0.0007204554913973043
+    },
+    "source": "E2-byteforge-article.md",
+    "note": ""
+   },
+   {
+    "claim": "The same article notes that Quillmetric raised an $18 million Series A round led by Northfold Capital.",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.9983054002909976,
+     "contradicted": 0.0011068531029905365,
+     "unsupported": 0.0005877466060119392
+    },
+    "source": "E2-byteforge-article.md",
+    "note": ""
+   },
+   {
+    "claim": "In 2025, Dr. Marwick was invited to serve as a final-round judge at the Bay Neural Hackathon, where she evaluated 42 competing teams.",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.9700047346670049,
+     "contradicted": 0.020784482301814997,
+     "unsupported": 0.009210783031180177
+    },
+    "source": "E5-judging-invite.md",
+    "note": ""
+   },
+   {
+    "claim": "She has also served as a peer reviewer for the Journal of Machine Reasoning since 2021.",
+    "verdict": "unsupported",
+    "probabilities": {
+     "supported": 0.0007708947450804438,
+     "contradicted": 0.0009448343682415337,
+     "unsupported": 0.998284270886678
+    },
+    "source": null,
+    "note": ""
+   },
+   {
+    "claim": "Dr. Marwick's paper on evaluator drift in LLM judges has been cited 87 times.",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.9834251077948517,
+     "contradicted": 0.006804778893236981,
+     "unsupported": 0.009770113311911322
+    },
+    "source": "E7-paper.md",
+    "note": ""
+   },
+   {
+    "claim": "She is the sole author of the paper \"Calibrated Disagreement: Measuring Evaluator Drift in LLM Judges,\" published in 2023.",
+    "verdict": "contradicted",
+    "probabilities": {
+     "supported": 0.00108160348925003,
+     "contradicted": 0.9978367930215,
+     "unsupported": 0.00108160348925003
+    },
+    "source": "E7-paper.md",
+    "note": ""
+   },
+   {
+    "claim": "Dr. Marwick has served as Chief Technology Officer of Quillmetric AI since March 2023.",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.9827450583615891,
+     "contradicted": 0.01118165101581725,
+     "unsupported": 0.006073290622593638
+    },
+    "source": "E1-offer-letter.md",
+    "note": ""
+   },
+   {
+    "claim": "As CTO, she leads an engineering organization of 40 people.",
+    "verdict": "contradicted",
+    "probabilities": {
+     "supported": 0.0019428394192691008,
+     "contradicted": 0.9957812151219503,
+     "unsupported": 0.002275945458780625
+    },
+    "source": "E6-org-chart.md",
+    "note": ""
+   },
+   {
+    "claim": "She reports directly to the company's Chief Executive Officer, Daniel Osei.",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.9978893665847846,
+     "contradicted": 0.0012671146880372918,
+     "unsupported": 0.0008435187271781671
+    },
+    "source": "E1-offer-letter.md",
+    "note": ""
+   },
+   {
+    "claim": "Her 2025 annualized base salary is $240,000.",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.9937597361397625,
+     "contradicted": 0.002979157392866495,
+     "unsupported": 0.003261106467370978
+    },
+    "source": "E4-payroll-2025.md",
+    "note": ""
+   },
+   {
+    "claim": "This salary places her in the top 5 percent of software executives in the San Francisco area.",
+    "verdict": "unsupported",
+    "probabilities": {
+     "supported": 0.000966307750159492,
+     "contradicted": 0.0008827626981838527,
+     "unsupported": 0.9981509295516566
+    },
+    "source": null,
+    "note": ""
+   }
+  ]
+ },
+ "case02": {
+  "usage": {
+   "input_tokens": 8736,
+   "seconds": 0.379835457977606,
+   "requests": 2,
+   "model": "drex-latest"
+  },
+  "verdicts": [
+   {
+    "claim": "In 2024, Tallyrun won the Best SMB Finance Product award at the Northeast Fintech Awards.",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.9777503349738833,
+     "contradicted": 0.01112483251305832,
+     "unsupported": 0.01112483251305832
+    },
+    "source": "E3-award-certificate.md",
+    "note": ""
+   },
+   {
+    "claim": "Mr. Ferreira-Lind was personally named to the Forty Under Forty in Finance list by Meridian Business Review in 2023.",
+    "verdict": "unsupported",
+    "probabilities": {
+     "supported": 0.00045856774780107356,
+     "contradicted": 0.0007540431714735648,
+     "unsupported": 0.9987873890807254
+    },
+    "source": null,
+    "note": ""
+   },
+   {
+    "claim": "Mr. Ferreira-Lind is a member of the Guild of Financial Technologists, which admits only professionals with outstanding achievements as judged by recognized experts.",
+    "verdict": "contradicted",
+    "probabilities": {
+     "supported": 0.004742514968944524,
+     "contradicted": 0.9840608573688392,
+     "unsupported": 0.011196627662216229
+    },
+    "source": "E8-membership-letter.md",
+    "note": ""
+   },
+   {
+    "claim": "In January 2025, The Ledgerline published an article profiling Mr. Ferreira-Lind and Tallyrun's forecasting engine.",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.9931403296235065,
+     "contradicted": 0.005007641503515715,
+     "unsupported": 0.0018520288729777746
+    },
+    "source": "E2-ledgerline-article.md",
+    "note": ""
+   },
+   {
+    "claim": "According to The Ledgerline, Tallyrun serves approximately 9,000 small businesses.",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.9755994541253971,
+     "contradicted": 0.015937581435717902,
+     "unsupported": 0.008462964438885015
+    },
+    "source": "E2-ledgerline-article.md",
+    "note": ""
+   },
+   {
+    "claim": "The article reports that Tallyrun processes $21 billion in monthly invoice volume.",
+    "verdict": "contradicted",
+    "probabilities": {
+     "supported": 0.0013553356558619269,
+     "contradicted": 0.9973781987451816,
+     "unsupported": 0.0012664655989564825
+    },
+    "source": "E2-ledgerline-article.md",
+    "note": ""
+   },
+   {
+    "claim": "In 2024, Mr. Ferreira-Lind served as a judge for the Hudson Valley Startup Challenge.",
+    "verdict": "contradicted",
+    "probabilities": {
+     "supported": 0.0027845583110862474,
+     "contradicted": 0.9940263764262979,
+     "unsupported": 0.003189065262615826
+    },
+    "source": "E5-judging-invite.md",
+    "note": ""
+   },
+   {
+    "claim": "Mr. Ferreira-Lind personally built the first version of Tallyrun's forecasting model.",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.9774774717846635,
+     "contradicted": 0.009493951500046085,
+     "unsupported": 0.013028576715290443
+    },
+    "source": "E2-ledgerline-article.md",
+    "note": ""
+   },
+   {
+    "claim": "He is a named inventor on a published U.S. patent application for systems for probabilistic receivables forecasting.",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.9986668419983011,
+     "contradicted": 0.0007711901249410866,
+     "unsupported": 0.0005619678767577506
+    },
+    "source": "E7-patent.md",
+    "note": ""
+   },
+   {
+    "claim": "Tallyrun's forecasting method has been adopted as an industry standard by three regional banks.",
+    "verdict": "unsupported",
+    "probabilities": {
+     "supported": 0.00044841358105145553,
+     "contradicted": 0.0005495907148991119,
+     "unsupported": 0.9990019957040495
+    },
+    "source": null,
+    "note": ""
+   },
+   {
+    "claim": "Mr. Ferreira-Lind founded Tallyrun in June 2021 and has served as its Chief Executive Officer since founding.",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.989103793637313,
+     "contradicted": 0.006541517560118103,
+     "unsupported": 0.004354688802568852
+    },
+    "source": "E1-board-resolution.md",
+    "note": ""
+   },
+   {
+    "claim": "Tallyrun currently employs 31 full-time staff.",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.9889821916081261,
+     "contradicted": 0.006251575922833377,
+     "unsupported": 0.004766232469040604
+    },
+    "source": "E6-org-chart.md",
+    "note": ""
+   },
+   {
+    "claim": "The company's Chief Technology Officer, Ana Reyes, reports to the Board rather than to Mr. Ferreira-Lind.",
+    "verdict": "contradicted",
+    "probabilities": {
+     "supported": 0.001033839707887176,
+     "contradicted": 0.9978845050837338,
+     "unsupported": 0.0010816552083789679
+    },
+    "source": "E6-org-chart.md",
+    "note": ""
+   },
+   {
+    "claim": "His 2024 W-2 wages from Tallyrun totaled $195,000.",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.9968133872799934,
+     "contradicted": 0.0014496219088091678,
+     "unsupported": 0.0017369908111975053
+    },
+    "source": "E4-payroll-2025.md",
+    "note": ""
+   },
+   {
+    "claim": "This compensation exceeds the 90th percentile for chief executives of companies of comparable size in New York.",
+    "verdict": "unsupported",
+    "probabilities": {
+     "supported": 0.0005135873809667356,
+     "contradicted": 0.00041903830133703784,
+     "unsupported": 0.9990673743176962
+    },
+    "source": null,
+    "note": ""
+   }
+  ]
+ },
+ "case03": {
+  "usage": {
+   "input_tokens": 9172,
+   "seconds": 0.3234851669985801,
+   "requests": 2,
+   "model": "drex-latest"
+  },
+  "verdicts": [
+   {
+    "claim": "In 2023, Dr. Kowalczyk-Ito received the Early Career Investigator Award from the Kendall Biotech Society.",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.9981029449637111,
+     "contradicted": 0.0008629890285607046,
+     "unsupported": 0.0010340660077281798
+    },
+    "source": "E3-award-certificate.md",
+    "note": ""
+   },
+   {
+    "claim": "She was also a finalist for the Lindqvist Prize in Structural Biology in 2022.",
+    "verdict": "unsupported",
+    "probabilities": {
+     "supported": 0.00020337200722188718,
+     "contradicted": 0.00024925953950738565,
+     "unsupported": 0.9995473684532707
+    },
+    "source": null,
+    "note": ""
+   },
+   {
+    "claim": "Helix Ledger magazine published a profile of Dr. Kowalczyk-Ito in May 2025.",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.998789935671577,
+     "contradicted": 0.0008442794530431104,
+     "unsupported": 0.00036578487537985304
+    },
+    "source": "E2-helix-ledger-article.md",
+    "note": ""
+   },
+   {
+    "claim": "The profile credits her team with identifying five preclinical drug candidates.",
+    "verdict": "contradicted",
+    "probabilities": {
+     "supported": 0.000966184220618728,
+     "contradicted": 0.9980229450704238,
+     "unsupported": 0.0010108707089574716
+    },
+    "source": "E2-helix-ledger-article.md",
+    "note": ""
+   },
+   {
+    "claim": "In 2024, Dr. Kowalczyk-Ito reviewed six manuscripts for the Journal of Structural Pharmacology.",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.9992863115340004,
+     "contradicted": 0.00045879660571751036,
+     "unsupported": 0.00025489186028211755
+    },
+    "source": "E5-judging-invite.md",
+    "note": ""
+   },
+   {
+    "claim": "She serves on the editorial board of the Journal of Structural Pharmacology.",
+    "verdict": "contradicted",
+    "probabilities": {
+     "supported": 0.0007710015856228262,
+     "contradicted": 0.9984223376531902,
+     "unsupported": 0.0008066607611869735
+    },
+    "source": "E5-judging-invite.md",
+    "note": ""
+   },
+   {
+    "claim": "Her 2021 paper on allosteric pocket mapping has been cited more than 140 times.",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.9979870865493058,
+     "contradicted": 0.0014513280700265423,
+     "unsupported": 0.0005615853806676493
+    },
+    "source": "E7-paper.md",
+    "note": ""
+   },
+   {
+    "claim": "Verdant Fold received a $1.2 million seed grant from the Massachusetts Life Sciences Seed Fund, with Dr. Kowalczyk-Ito as principal investigator.",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.9993235327112302,
+     "contradicted": 0.0004097766545621892,
+     "unsupported": 0.00026669063420764786
+    },
+    "source": "E8-grant-letter.md",
+    "note": ""
+   },
+   {
+    "claim": "Her pocket-mapping method is now used by most top-20 pharmaceutical companies.",
+    "verdict": "unsupported",
+    "probabilities": {
+     "supported": 0.0006292171197095125,
+     "contradicted": 0.0007045144320931592,
+     "unsupported": 0.9986662684481973
+    },
+    "source": null,
+    "note": ""
+   },
+   {
+    "claim": "Dr. Kowalczyk-Ito is the first author of a 2021 article in the Annals of Molecular Design.",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.9981935676086334,
+     "contradicted": 0.0009236311358788859,
+     "unsupported": 0.0008828012554876576
+    },
+    "source": "E7-paper.md",
+    "note": ""
+   },
+   {
+    "claim": "Dr. Kowalczyk-Ito has served as Chief Scientific Officer of Verdant Fold Therapeutics since September 2022.",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.9976864786621827,
+     "contradicted": 0.0014508915677457566,
+     "unsupported": 0.000862629770071533
+    },
+    "source": "E1-offer-letter.md",
+    "note": ""
+   },
+   {
+    "claim": "She directs a research team of 25 scientists.",
+    "verdict": "contradicted",
+    "probabilities": {
+     "supported": 0.0019870674289896124,
+     "contradicted": 0.9956851757177656,
+     "unsupported": 0.0023277568532447794
+    },
+    "source": "E6-org-chart.md",
+    "note": ""
+   },
+   {
+    "claim": "Two research directors report directly to her.",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.9798275949889469,
+     "contradicted": 0.010655628001231088,
+     "unsupported": 0.009516777009822052
+    },
+    "source": "E6-org-chart.md",
+    "note": ""
+   },
+   {
+    "claim": "Her 2025 base salary is $290,000.",
+    "verdict": "contradicted",
+    "probabilities": {
+     "supported": 0.0010334917654029746,
+     "contradicted": 0.9975482446364962,
+     "unsupported": 0.0014182635981008478
+    },
+    "source": "E4-payroll-2025.md",
+    "note": ""
+   },
+   {
+    "claim": "In addition to her base salary, she received a $30,000 retention bonus in 2025.",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.9989031781773635,
+     "contradicted": 0.00043834694499792236,
+     "unsupported": 0.000658474877638546
+    },
+    "source": "E4-payroll-2025.md",
+    "note": ""
+   },
+   {
+    "claim": "Her total compensation places her among the highest-paid scientific officers at Boston seed-stage biotech companies.",
+    "verdict": "unsupported",
+    "probabilities": {
+     "supported": 0.00041913377777418964,
+     "contradicted": 0.0002853969043032965,
+     "unsupported": 0.9992954693179226
+    },
+    "source": null,
+    "note": ""
+   }
+  ]
+ },
+ "case04": {
+  "usage": {
+   "input_tokens": 8584,
+   "seconds": 0.34188324998831376,
+   "requests": 2,
+   "model": "drex-latest"
+  },
+  "verdicts": [
+   {
+    "claim": "Mr. Abara's company won first place in the 2024 Rocky Mountain Cleantech Prize.",
+    "verdict": "contradicted",
+    "probabilities": {
+     "supported": 0.0008247691770460062,
+     "contradicted": 0.9980175191325157,
+     "unsupported": 0.0011577116904382585
+    },
+    "source": "E3-award-certificate.md",
+    "note": ""
+   },
+   {
+    "claim": "The prize carried a cash award of $50,000.",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.9895977283423983,
+     "contradicted": 0.006847486765881311,
+     "unsupported": 0.0035547848917203534
+    },
+    "source": "E3-award-certificate.md",
+    "note": ""
+   },
+   {
+    "claim": "The Emissions Brief featured Mr. Abara and Cinderline Carbon in a March 2025 article.",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.997356309949799,
+     "contradicted": 0.0020824596424981654,
+     "unsupported": 0.0005612304077028462
+    },
+    "source": "E2-emissions-brief-article.md",
+    "note": ""
+   },
+   {
+    "claim": "The article reports that Cinderline's pilot plant captures 500 tonnes of carbon dioxide per year.",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.9970257252627697,
+     "contradicted": 0.0018177135948841733,
+     "unsupported": 0.0011565611423461043
+    },
+    "source": "E2-emissions-brief-article.md",
+    "note": ""
+   },
+   {
+    "claim": "In 2025, Mr. Abara served on the judging panel of the Climate Venture Cup, evaluating 18 startups.",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.9960882675322801,
+     "contradicted": 0.0021760051629692375,
+     "unsupported": 0.001735727304750736
+    },
+    "source": "E5-judging-invite.md",
+    "note": ""
+   },
+   {
+    "claim": "Mr. Abara single-handedly invented Cinderline's sorbent chemistry.",
+    "verdict": "contradicted",
+    "probabilities": {
+     "supported": 0.0031139395254421456,
+     "contradicted": 0.9928016976967992,
+     "unsupported": 0.004084362777758701
+    },
+    "source": "E2-emissions-brief-article.md",
+    "note": ""
+   },
+   {
+    "claim": "The sorbent reduces energy use by 60 percent compared with leading competitors.",
+    "verdict": "unsupported",
+    "probabilities": {
+     "supported": 0.0003497591777762447,
+     "contradicted": 0.00044850305167387357,
+     "unsupported": 0.9992017377705499
+    },
+    "source": null,
+    "note": ""
+   },
+   {
+    "claim": "Mr. Abara co-authored a 2022 conference paper on amine-functionalized sorbents.",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.9954976223552623,
+     "contradicted": 0.0029176581833734974,
+     "unsupported": 0.001584719461364204
+    },
+    "source": "E7-paper.md",
+    "note": ""
+   },
+   {
+    "claim": "He is the lead author of that paper.",
+    "verdict": "contradicted",
+    "probabilities": {
+     "supported": 0.001587203208225905,
+     "contradicted": 0.9970578959300905,
+     "unsupported": 0.0013549008616835414
+    },
+    "source": "E7-paper.md",
+    "note": ""
+   },
+   {
+    "claim": "Mr. Abara founded Cinderline Carbon in 2020 and serves as its Chief Executive Officer.",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.9976346409727264,
+     "contradicted": 0.0016615727079563717,
+     "unsupported": 0.0007037863193172121
+    },
+    "source": "E1-founding-certificate.md",
+    "note": ""
+   },
+   {
+    "claim": "Under his leadership, Cinderline closed a $9.5 million seed round in 2024.",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.9600322830656588,
+     "contradicted": 0.016408636126865394,
+     "unsupported": 0.023559080807475843
+    },
+    "source": "E8-investor-update.md",
+    "note": ""
+   },
+   {
+    "claim": "The company has 22 employees.",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.8368616922112543,
+     "contradicted": 0.08341282233240505,
+     "unsupported": 0.07972548545634066
+    },
+    "source": "E6-org-chart.md",
+    "note": ""
+   },
+   {
+    "claim": "Cinderline holds offtake agreements with two Fortune 500 companies.",
+    "verdict": "unsupported",
+    "probabilities": {
+     "supported": 0.00027904308701433257,
+     "contradicted": 0.0003343596342903618,
+     "unsupported": 0.9993865972786953
+    },
+    "source": null,
+    "note": ""
+   },
+   {
+    "claim": "Mr. Abara's 2025 salary is $250,000.",
+    "verdict": "contradicted",
+    "probabilities": {
+     "supported": 0.0005878028790446047,
+     "contradicted": 0.9984009434803917,
+     "unsupported": 0.0010112536405637263
+    },
+    "source": "E4-payroll-2025.md",
+    "note": ""
+   },
+   {
+    "claim": "His equity stake was independently valued at $4 million in 2025.",
+    "verdict": "unsupported",
+    "probabilities": {
+     "supported": 0.0003659061132014405,
+     "contradicted": 0.0005136147095205186,
+     "unsupported": 0.9991204791772781
+    },
+    "source": null,
+    "note": ""
+   }
+  ]
+ },
+ "case05": {
+  "usage": {
+   "input_tokens": 8552,
+   "seconds": 0.33233149998704903,
+   "requests": 2,
+   "model": "drex-latest"
+  },
+  "verdicts": [
+   {
+    "claim": "Dr. Strand's paper received the Best Paper Award at the 2023 International Workshop on Grasping.",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.9654363231939693,
+     "contradicted": 0.01650101105028931,
+     "unsupported": 0.018062665755741312
+    },
+    "source": "E3-award-certificate.md",
+    "note": ""
+   },
+   {
+    "claim": "Dr. Strand is a member of the Society for Robotic Manipulation.",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.9806715930543954,
+     "contradicted": 0.016761392499360143,
+     "unsupported": 0.0025670144462444666
+    },
+    "source": "E8-membership-letter.md",
+    "note": ""
+   },
+   {
+    "claim": "She was elected a Fellow of the Society for Robotic Manipulation in 2024.",
+    "verdict": "contradicted",
+    "probabilities": {
+     "supported": 0.005098984657491314,
+     "contradicted": 0.988651529706154,
+     "unsupported": 0.0062494856363546625
+    },
+    "source": "E8-membership-letter.md",
+    "note": ""
+   },
+   {
+    "claim": "Automation Review Quarterly published an article in October 2024 describing Dr. Strand's work on Lumacrate's vision system.",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.8544923042409125,
+     "contradicted": 0.13385795574549533,
+     "unsupported": 0.011649740013592204
+    },
+    "source": "E2-automation-review-article.md",
+    "note": ""
+   },
+   {
+    "claim": "The article reports that Lumacrate's robots pick 12,000 items per hour.",
+    "verdict": "contradicted",
+    "probabilities": {
+     "supported": 0.0024341954577617856,
+     "contradicted": 0.9951860197426451,
+     "unsupported": 0.002379784799593112
+    },
+    "source": "E2-automation-review-article.md",
+    "note": ""
+   },
+   {
+    "claim": "Dr. Strand served on the program committee of the 2025 Conference on Embodied Perception, where she reviewed nine papers.",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.9971418600751468,
+     "contradicted": 0.001777289697136108,
+     "unsupported": 0.0010808502277170435
+    },
+    "source": "E5-judging-invite.md",
+    "note": ""
+   },
+   {
+    "claim": "Dr. Strand led the development of Lumacrate's tactile-visual perception system.",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.940662327900238,
+     "contradicted": 0.02765980175836545,
+     "unsupported": 0.03167787034139658
+    },
+    "source": "E2-automation-review-article.md",
+    "note": ""
+   },
+   {
+    "claim": "The system has been licensed by two other robotics companies.",
+    "verdict": "unsupported",
+    "probabilities": {
+     "supported": 0.00040053952114127965,
+     "contradicted": 0.0004692133809190851,
+     "unsupported": 0.9991302470979396
+    },
+    "source": null,
+    "note": ""
+   },
+   {
+    "claim": "She is the first author of the 2023 paper \"Tactile-Visual Fusion for Cluttered Bin Picking.\"",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.9960234982656043,
+     "contradicted": 0.002033190270117384,
+     "unsupported": 0.001943311464278328
+    },
+    "source": "E7-paper.md",
+    "note": ""
+   },
+   {
+    "claim": "Dr. Strand serves as Chief Technology Officer of Lumacrate Robotics.",
+    "verdict": "contradicted",
+    "probabilities": {
+     "supported": 0.002851607337744129,
+     "contradicted": 0.9952066749261228,
+     "unsupported": 0.0019417177361330475
+    },
+    "source": "E6-org-chart.md",
+    "note": ""
+   },
+   {
+    "claim": "She joined Lumacrate in January 2022.",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.9901204113802502,
+     "contradicted": 0.00716797029933332,
+     "unsupported": 0.0027116183204164814
+    },
+    "source": "E1-offer-letter.md",
+    "note": ""
+   },
+   {
+    "claim": "She reports directly to the Chief Executive Officer.",
+    "verdict": "contradicted",
+    "probabilities": {
+     "supported": 0.0019879205845347815,
+     "contradicted": 0.9961120366817876,
+     "unsupported": 0.001900042733677616
+    },
+    "source": "E6-org-chart.md",
+    "note": ""
+   },
+   {
+    "claim": "Her perception team comprises nine engineers.",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.9957369855761349,
+     "contradicted": 0.001987170951533217,
+     "unsupported": 0.0022758434723318633
+    },
+    "source": "E6-org-chart.md",
+    "note": ""
+   },
+   {
+    "claim": "Her 2025 base salary is $228,000.",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.9922445081460086,
+     "contradicted": 0.003484622177852976,
+     "unsupported": 0.004270869676138426
+    },
+    "source": "E4-payroll-2025.md",
+    "note": ""
+   },
+   {
+    "claim": "She also holds stock options valued at more than $1 million.",
+    "verdict": "unsupported",
+    "probabilities": {
+     "supported": 0.0007364926030640086,
+     "contradicted": 0.0014186852644350553,
+     "unsupported": 0.9978448221325009
+    },
+    "source": null,
+    "note": ""
+   },
+   {
+    "claim": "Her salary is more than double the median wage for robotics engineers in Pittsburgh.",
+    "verdict": "unsupported",
+    "probabilities": {
+     "supported": 0.0006014888983253408,
+     "contradicted": 0.0005880436845877422,
+     "unsupported": 0.9988104674170869
+    },
+    "source": null,
+    "note": ""
+   }
+  ]
+ },
+ "case06": {
+  "usage": {
+   "input_tokens": 8672,
+   "seconds": 0.32357254199450836,
+   "requests": 2,
+   "model": "drex-latest"
+  },
+  "verdicts": [
+   {
+    "claim": "In 2024, Ms. Halvorsen's Kinwell app design received the Gold Award in the Digital Product category of the Pacific Design Honors.",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.9938487570210277,
+     "contradicted": 0.0026609886399489397,
+     "unsupported": 0.0034902543390233883
+    },
+    "source": "E3-award-certificate.md",
+    "note": ""
+   },
+   {
+    "claim": "The Kinwell design also received the Pacific Design Honors Grand Prize.",
+    "verdict": "contradicted",
+    "probabilities": {
+     "supported": 0.00118182011386793,
+     "contradicted": 0.9960280144302661,
+     "unsupported": 0.0027901654558660075
+    },
+    "source": "E3-award-certificate.md",
+    "note": ""
+   },
+   {
+    "claim": "Formline Magazine published a profile of Ms. Halvorsen in June 2024.",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.9944331573187126,
+     "contradicted": 0.004184612293197396,
+     "unsupported": 0.0013822303880900303
+    },
+    "source": "E2-formline-article.md",
+    "note": ""
+   },
+   {
+    "claim": "The profile describes Fieldglass Studio as a team of 45 designers.",
+    "verdict": "contradicted",
+    "probabilities": {
+     "supported": 0.0031846120699990143,
+     "contradicted": 0.9926383271147688,
+     "unsupported": 0.004177060815232131
+    },
+    "source": "E2-formline-article.md",
+    "note": ""
+   },
+   {
+    "claim": "Ms. Halvorsen was invited to judge the student category of the 2025 Pacific Design Honors.",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.9971176182739921,
+     "contradicted": 0.0015872983171398279,
+     "unsupported": 0.0012950834088679873
+    },
+    "source": "E5-judging-invite.md",
+    "note": ""
+   },
+   {
+    "claim": "She chaired the professional jury of the 2025 Pacific Design Honors.",
+    "verdict": "unsupported",
+    "probabilities": {
+     "supported": 0.006930428178571891,
+     "contradicted": 0.29547682776016854,
+     "unsupported": 0.6975927440612596
+    },
+    "source": null,
+    "note": ""
+   },
+   {
+    "claim": "The Kinwell app, designed by Fieldglass under Ms. Halvorsen's direction, has been downloaded more than two million times.",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.9651633728559145,
+     "contradicted": 0.015070103464765248,
+     "unsupported": 0.01976652367932026
+    },
+    "source": "E7-client-letter.md",
+    "note": ""
+   },
+   {
+    "claim": "Her accessible color system has been adopted by the State of California's digital services team.",
+    "verdict": "unsupported",
+    "probabilities": {
+     "supported": 0.0009882968672556259,
+     "contradicted": 0.0009662060692450319,
+     "unsupported": 0.9980454970634993
+    },
+    "source": null,
+    "note": ""
+   },
+   {
+    "claim": "She delivered a keynote address at the Interface Futures conference in 2023.",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.9959422762786411,
+     "contradicted": 0.002436046676606013,
+     "unsupported": 0.001621677044752872
+    },
+    "source": "E8-conference-program.md",
+    "note": ""
+   },
+   {
+    "claim": "Ms. Halvorsen founded Fieldglass Studio in 2019 and is its sole managing member.",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.9943367083166887,
+     "contradicted": 0.004184209925291028,
+     "unsupported": 0.0014790817580201923
+    },
+    "source": "E1-operating-agreement.md",
+    "note": ""
+   },
+   {
+    "claim": "Fieldglass Studio employs 11 designers.",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.9840608546865429,
+     "contradicted": 0.011196628137980946,
+     "unsupported": 0.004742517175476153
+    },
+    "source": "E6-org-chart.md",
+    "note": ""
+   },
+   {
+    "claim": "Fieldglass's revenue grew 300 percent between 2022 and 2024.",
+    "verdict": "unsupported",
+    "probabilities": {
+     "supported": 0.00026076514315023715,
+     "contradicted": 0.00027906362376938247,
+     "unsupported": 0.9994601712330804
+    },
+    "source": null,
+    "note": ""
+   },
+   {
+    "claim": "Ms. Halvorsen received guaranteed payments of $165,000 from Fieldglass Studio in 2024.",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.997376652043324,
+     "contradicted": 0.001517524550403935,
+     "unsupported": 0.001105823406271996
+    },
+    "source": "E4-payroll-2025.md",
+    "note": ""
+   },
+   {
+    "claim": "Her guaranteed payments for 2025 are set at $210,000.",
+    "verdict": "contradicted",
+    "probabilities": {
+     "supported": 0.0011830676659801381,
+     "contradicted": 0.9970794787309339,
+     "unsupported": 0.0017374536030859047
+    },
+    "source": "E4-payroll-2025.md",
+    "note": ""
+   },
+   {
+    "claim": "This places her compensation above the 95th percentile for design directors in Los Angeles.",
+    "verdict": "unsupported",
+    "probabilities": {
+     "supported": 0.0005495671401380558,
+     "contradicted": 0.0004908306590455876,
+     "unsupported": 0.9989596022008164
+    },
+    "source": null,
+    "note": ""
+   }
+  ]
+ },
+ "case07": {
+  "usage": {
+   "input_tokens": 8270,
+   "seconds": 0.3380435830040369,
+   "requests": 2,
+   "model": "drex-latest"
+  },
+  "verdicts": [
+   {
+    "claim": "Parlo Learning won the Best Use of AI award at the 2022 EdTech Lone Star Awards.",
+    "verdict": "contradicted",
+    "probabilities": {
+     "supported": 0.001482135107152065,
+     "contradicted": 0.9963898553365037,
+     "unsupported": 0.0021280095563442495
+    },
+    "source": "E3-award-certificate.md",
+    "note": ""
+   },
+   {
+    "claim": "Mr. Quintero-Sato is a member of the Learning Engineering Collegium, which admits new members only after nomination and review by a committee of senior members.",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.9970163288059153,
+     "contradicted": 0.002081750681017893,
+     "unsupported": 0.0009019205130668395
+    },
+    "source": "E8-membership-letter.md",
+    "note": ""
+   },
+   {
+    "claim": "Classroom Tech Today published an article about Parlo Learning and Mr. Quintero-Sato in February 2025.",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.9976995071234546,
+     "contradicted": 0.0016996730106428374,
+     "unsupported": 0.0006008198659025554
+    },
+    "source": "E2-classroom-tech-article.md",
+    "note": ""
+   },
+   {
+    "claim": "The article states that Parlo serves 1.4 million learners.",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.9892988149674675,
+     "contradicted": 0.005712910989041006,
+     "unsupported": 0.004988274043491441
+    },
+    "source": "E2-classroom-tech-article.md",
+    "note": ""
+   },
+   {
+    "claim": "His work has also been featured on national television.",
+    "verdict": "unsupported",
+    "probabilities": {
+     "supported": 0.0003268543881467967,
+     "contradicted": 0.0003828944843824922,
+     "unsupported": 0.9992902511274707
+    },
+    "source": null,
+    "note": ""
+   },
+   {
+    "claim": "In 2024, Mr. Quintero-Sato judged the Austin AI Hack, which drew 60 teams.",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.9983449590083228,
+     "contradicted": 0.0009664960095516188,
+     "unsupported": 0.0006885449821256364
+    },
+    "source": "E5-judging-invite.md",
+    "note": ""
+   },
+   {
+    "claim": "Mr. Quintero-Sato designed Parlo's speech-scoring engine.",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.9653349521457154,
+     "contradicted": 0.012023053324295655,
+     "unsupported": 0.022641994529988954
+    },
+    "source": "E2-classroom-tech-article.md",
+    "note": ""
+   },
+   {
+    "claim": "The engine scores pronunciation in under 50 milliseconds.",
+    "verdict": "contradicted",
+    "probabilities": {
+     "supported": 0.0031127381091364775,
+     "contradicted": 0.9924180789559627,
+     "unsupported": 0.0044691829349008194
+    },
+    "source": "E7-paper.md",
+    "note": ""
+   },
+   {
+    "claim": "He is the sole author of the 2022 workshop paper \"Low-Latency Pronunciation Scoring for Mobile Learners.\"",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.9680791271832043,
+     "contradicted": 0.018112109552321266,
+     "unsupported": 0.013808763264474383
+    },
+    "source": "E7-paper.md",
+    "note": ""
+   },
+   {
+    "claim": "Mr. Quintero-Sato co-founded Parlo Learning and has served as its Chief Technology Officer since April 2021.",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.9901851152812357,
+     "contradicted": 0.0074999851977922225,
+     "unsupported": 0.002314899520972151
+    },
+    "source": "E1-offer-letter.md",
+    "note": ""
+   },
+   {
+    "claim": "He manages an engineering department of 29 engineers.",
+    "verdict": "contradicted",
+    "probabilities": {
+     "supported": 0.005845880334614434,
+     "contradicted": 0.9896971919796872,
+     "unsupported": 0.004456927685698365
+    },
+    "source": "E6-org-chart.md",
+    "note": ""
+   },
+   {
+    "claim": "Parlo's product is used in more than 400 public school districts.",
+    "verdict": "unsupported",
+    "probabilities": {
+     "supported": 0.0005135005426062362,
+     "contradicted": 0.0005880957567931373,
+     "unsupported": 0.9988984037006007
+    },
+    "source": null,
+    "note": ""
+   },
+   {
+    "claim": "His 2025 base salary is $215,000.",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.9952066773591263,
+     "contradicted": 0.002851605947731621,
+     "unsupported": 0.0019417166931420863
+    },
+    "source": "E4-payroll-2025.md",
+    "note": ""
+   },
+   {
+    "claim": "His 2025 compensation includes a $60,000 performance bonus.",
+    "verdict": "contradicted",
+    "probabilities": {
+     "supported": 0.001814388922744461,
+     "contradicted": 0.9952021307769029,
+     "unsupported": 0.002983480300352618
+    },
+    "source": "E4-payroll-2025.md",
+    "note": ""
+   },
+   {
+    "claim": "His compensation substantially exceeds that of CTOs at comparable Austin startups.",
+    "verdict": "unsupported",
+    "probabilities": {
+     "supported": 0.0006152327589716804,
+     "contradicted": 0.0005880358688788531,
+     "unsupported": 0.9987967313721494
+    },
+    "source": null,
+    "note": ""
+   }
+  ]
+ },
+ "case08": {
+  "usage": {
+   "input_tokens": 8566,
+   "seconds": 0.38062349997926503,
+   "requests": 2,
+   "model": "drex-latest"
+  },
+  "verdicts": [
+   {
+    "claim": "In 2024, Pulsewright won the Upper Midwest Health Innovation Challenge.",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.9948247925915585,
+     "contradicted": 0.002124667920571163,
+     "unsupported": 0.0030505394878702573
+    },
+    "source": "E3-award-certificate.md",
+    "note": ""
+   },
+   {
+    "claim": "The award included a $1 million grant.",
+    "verdict": "contradicted",
+    "probabilities": {
+     "supported": 0.0011055351247486866,
+     "contradicted": 0.9971172190895912,
+     "unsupported": 0.0017772457856601099
+    },
+    "source": "E3-award-certificate.md",
+    "note": ""
+   },
+   {
+    "claim": "MedDevice Observer published an article on Dr. Brennholt and Pulsewright in September 2024.",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.997222184496382,
+     "contradicted": 0.001990134128026462,
+     "unsupported": 0.0007876813755915212
+    },
+    "source": "E2-meddevice-observer-article.md",
+    "note": ""
+   },
+   {
+    "claim": "In 2025, Dr. Brennholt served on the grant review panel of the Midwest Medical Device Grants program.",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.9975226951161629,
+     "contradicted": 0.0012106557199664666,
+     "unsupported": 0.0012666491638706288
+    },
+    "source": "E5-judging-invite.md",
+    "note": ""
+   },
+   {
+    "claim": "He evaluated 14 grant applications in that role.",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.987086777055534,
+     "contradicted": 0.005090914222327167,
+     "unsupported": 0.007822308722138767
+    },
+    "source": "E5-judging-invite.md",
+    "note": ""
+   },
+   {
+    "claim": "Pulsewright's wearable ultrasound patch was evaluated in a clinical study of 220 patients.",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.9844055235500232,
+     "contradicted": 0.009779853213465388,
+     "unsupported": 0.0058146232365114065
+    },
+    "source": "E8-clinical-study-summary.md",
+    "note": ""
+   },
+   {
+    "claim": "The study found that the patch detected cardiac abnormalities with 99 percent sensitivity.",
+    "verdict": "contradicted",
+    "probabilities": {
+     "supported": 0.0011060021318546431,
+     "contradicted": 0.9975384443607181,
+     "unsupported": 0.0013555535074271739
+    },
+    "source": "E8-clinical-study-summary.md",
+    "note": ""
+   },
+   {
+    "claim": "The device has been adopted by twelve hospital systems.",
+    "verdict": "unsupported",
+    "probabilities": {
+     "supported": 0.0005370457484437963,
+     "contradicted": 0.0009450557687828708,
+     "unsupported": 0.9985178984827733
+    },
+    "source": null,
+    "note": ""
+   },
+   {
+    "claim": "Dr. Brennholt is the first author of a 2023 article in Cardiac Imaging Letters.",
+    "verdict": "contradicted",
+    "probabilities": {
+     "supported": 0.005006993545531902,
+     "contradicted": 0.993011274062316,
+     "unsupported": 0.001981732392152109
+    },
+    "source": "E7-paper.md",
+    "note": ""
+   },
+   {
+    "claim": "Dr. Brennholt founded Pulsewright Diagnostics in 2021 and serves as its Chief Executive Officer.",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.9935775330165539,
+     "contradicted": 0.0050098487547758225,
+     "unsupported": 0.00141261822867027
+    },
+    "source": "E1-founder-agreement.md",
+    "note": ""
+   },
+   {
+    "claim": "Pulsewright has 27 employees.",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.9818848770945101,
+     "contradicted": 0.010678006122282584,
+     "unsupported": 0.007437116783207272
+    },
+    "source": "E6-org-chart.md",
+    "note": ""
+   },
+   {
+    "claim": "Dr. Brennholt is the sole inventor of the Pulsewright patch.",
+    "verdict": "contradicted",
+    "probabilities": {
+     "supported": 0.0022754153690710812,
+     "contradicted": 0.9955497567523605,
+     "unsupported": 0.00217482787856847
+    },
+    "source": "E2-meddevice-observer-article.md",
+    "note": ""
+   },
+   {
+    "claim": "The company is valued at $150 million.",
+    "verdict": "unsupported",
+    "probabilities": {
+     "supported": 0.0002492303279483798,
+     "contradicted": 0.000319592940581087,
+     "unsupported": 0.9994311767314705
+    },
+    "source": null,
+    "note": ""
+   },
+   {
+    "claim": "Dr. Brennholt's 2025 salary is $198,000.",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.9974301177565174,
+     "contradicted": 0.001183484880577324,
+     "unsupported": 0.0013863973629053492
+    },
+    "source": "E4-payroll-2025.md",
+    "note": ""
+   },
+   {
+    "claim": "His salary is in the top decile for medical device executives in Minnesota.",
+    "verdict": "unsupported",
+    "probabilities": {
+     "supported": 0.0006293450152359022,
+     "contradicted": 0.0005020076657299888,
+     "unsupported": 0.9988686473190341
+    },
+    "source": null,
+    "note": ""
+   }
+  ]
+ },
+ "case09": {
+  "usage": {
+   "input_tokens": 8470,
+   "seconds": 0.35508495799149387,
+   "requests": 2,
+   "model": "drex-latest"
+  },
+  "verdicts": [
+   {
+    "claim": "Ms. Arnesen-Wade was named Founder of the Year at the 2024 Florida Insurtech Summit.",
+    "verdict": "contradicted",
+    "probabilities": {
+     "supported": 0.0005018487978309467,
+     "contradicted": 0.9985530621415208,
+     "unsupported": 0.0009450890606482401
+    },
+    "source": "E3-award-certificate.md",
+    "note": ""
+   },
+   {
+    "claim": "Ms. Arnesen-Wade is a Fellow of the Actuarial Guild of the Americas.",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.9988691903506778,
+     "contradicted": 0.0007889823138290333,
+     "unsupported": 0.00034182733549313095
+    },
+    "source": "E8-membership-letter.md",
+    "note": ""
+   },
+   {
+    "claim": "Fellowship requires passing nine professional examinations.",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.9983778599606565,
+     "contradicted": 0.0010343507786426927,
+     "unsupported": 0.0005877892607007244
+    },
+    "source": "E8-membership-letter.md",
+    "note": ""
+   },
+   {
+    "claim": "Coastal Business Journal profiled Ms. Arnesen-Wade in April 2025.",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.9981597760808125,
+     "contradicted": 0.001239126867265192,
+     "unsupported": 0.0006010970519222362
+    },
+    "source": "E2-coastal-business-journal-article.md",
+    "note": ""
+   },
+   {
+    "claim": "The article reports that Brightharbor has issued 80,000 policies.",
+    "verdict": "contradicted",
+    "probabilities": {
+     "supported": 0.0007710550934959477,
+     "contradicted": 0.9984919753451976,
+     "unsupported": 0.0007369695613064812
+    },
+    "source": "E2-coastal-business-journal-article.md",
+    "note": ""
+   },
+   {
+    "claim": "In 2025, she served as a judge at Gulf Coast Pitch Night.",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.9987440452246803,
+     "contradicted": 0.0007540101910048405,
+     "unsupported": 0.0005019445843149038
+    },
+    "source": "E5-judging-invite.md",
+    "note": ""
+   },
+   {
+    "claim": "She has judged the Miami Fintech Week startup competition every year since 2021.",
+    "verdict": "unsupported",
+    "probabilities": {
+     "supported": 0.0006144237483552496,
+     "contradicted": 0.0019026566776539067,
+     "unsupported": 0.9974829195739908
+    },
+    "source": null,
+    "note": ""
+   },
+   {
+    "claim": "Ms. Arnesen-Wade co-authored Brightharbor's 2023 technical whitepaper on index triggers for flood insurance.",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.9988357454968767,
+     "contradicted": 0.0006734846995108065,
+     "unsupported": 0.0004907698036124947
+    },
+    "source": "E7-whitepaper.md",
+    "note": ""
+   },
+   {
+    "claim": "Her trigger design has been adopted by the state's residual insurance market.",
+    "verdict": "unsupported",
+    "probabilities": {
+     "supported": 0.0007204423253529921,
+     "contradicted": 0.0008632608156876121,
+     "unsupported": 0.9984162968589594
+    },
+    "source": null,
+    "note": ""
+   },
+   {
+    "claim": "Ms. Arnesen-Wade founded Brightharbor in 2022 and serves as its Chief Executive Officer.",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.9952397550412218,
+     "contradicted": 0.003656791365192654,
+     "unsupported": 0.0011034535935856207
+    },
+    "source": "E1-cap-table-summary.md",
+    "note": ""
+   },
+   {
+    "claim": "She holds a 75 percent ownership stake in the company.",
+    "verdict": "contradicted",
+    "probabilities": {
+     "supported": 0.001858590314860685,
+     "contradicted": 0.9966588736709512,
+     "unsupported": 0.0014825360141881084
+    },
+    "source": "E1-cap-table-summary.md",
+    "note": ""
+   },
+   {
+    "claim": "Brightharbor has 16 employees.",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.9902149655577277,
+     "contradicted": 0.005223816840685621,
+     "unsupported": 0.004561217601586705
+    },
+    "source": "E6-org-chart.md",
+    "note": ""
+   },
+   {
+    "claim": "Her 2025 compensation includes an annual bonus target of 10 percent of base salary.",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.9992416456420514,
+     "contradicted": 0.0003577703089637219,
+     "unsupported": 0.0004005840489848441
+    },
+    "source": "E4-payroll-2025.md",
+    "note": ""
+   },
+   {
+    "claim": "Her salary was increased to $250,000 effective January 2025.",
+    "verdict": "contradicted",
+    "probabilities": {
+     "supported": 0.0009882973324567257,
+     "contradicted": 0.9980454965987482,
+     "unsupported": 0.000966206068795107
+    },
+    "source": "E4-payroll-2025.md",
+    "note": ""
+   },
+   {
+    "claim": "Her total compensation exceeds that of 90 percent of insurance executives in Miami-Dade County.",
+    "verdict": "unsupported",
+    "probabilities": {
+     "supported": 0.0005495142097956665,
+     "contradicted": 0.0005880747488590724,
+     "unsupported": 0.9988624110413452
+    },
+    "source": null,
+    "note": ""
+   }
+  ]
+ },
+ "case10": {
+  "usage": {
+   "input_tokens": 8338,
+   "seconds": 0.3039944590127561,
+   "requests": 2,
+   "model": "drex-latest"
+  },
+  "verdicts": [
+   {
+    "claim": "In 2024, Dr. Velde received the Sierra Materials Innovation Award.",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.9979322207571659,
+     "contradicted": 0.0010338896214170566,
+     "unsupported": 0.0010338896214170566
+    },
+    "source": "E3-award-certificate.md",
+    "note": ""
+   },
+   {
+    "claim": "Gridbeat published an article in November 2024 describing Dr. Velde's work at Ampcycle.",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.9964392127408407,
+     "contradicted": 0.002791317330576857,
+     "unsupported": 0.0007694699285824372
+    },
+    "source": "E2-gridbeat-article.md",
+    "note": ""
+   },
+   {
+    "claim": "The article reports that Ampcycle's plant can process 30,000 tonnes of batteries per year.",
+    "verdict": "contradicted",
+    "probabilities": {
+     "supported": 0.0015168993543642922,
+     "contradicted": 0.9969662012912714,
+     "unsupported": 0.0015168993543642922
+    },
+    "source": "E2-gridbeat-article.md",
+    "note": ""
+   },
+   {
+    "claim": "According to the article, Ampcycle's process recovers 95 percent of the lithium in spent batteries.",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.9916775342039477,
+     "contradicted": 0.00572664111068753,
+     "unsupported": 0.002595824685364783
+    },
+    "source": "E2-gridbeat-article.md",
+    "note": ""
+   },
+   {
+    "claim": "In 2025, Dr. Velde reviewed four manuscripts for the Journal of Circular Materials.",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.9975591547829,
+     "contradicted": 0.001517801492286712,
+     "unsupported": 0.0009230437248133026
+    },
+    "source": "E5-judging-invite.md",
+    "note": ""
+   },
+   {
+    "claim": "He is a member of the editorial board of the Journal of Circular Materials.",
+    "verdict": "unsupported",
+    "probabilities": {
+     "supported": 0.00437335368265821,
+     "contradicted": 0.0674178265140957,
+     "unsupported": 0.9282088198032461
+    },
+    "source": null,
+    "note": ""
+   },
+   {
+    "claim": "Dr. Velde independently designed Ampcycle's entire hydrometallurgy line.",
+    "verdict": "contradicted",
+    "probabilities": {
+     "supported": 0.0024322193005755074,
+     "contradicted": 0.9943775870336103,
+     "unsupported": 0.0031901936658141395
+    },
+    "source": "E2-gridbeat-article.md",
+    "note": ""
+   },
+   {
+    "claim": "He is the named inventor on a 2023 patent application for a selective lithium leaching process.",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.9953186863553427,
+     "contradicted": 0.0032662205992764156,
+     "unsupported": 0.0014150930453808242
+    },
+    "source": "E8-patent.md",
+    "note": ""
+   },
+   {
+    "claim": "His process has reduced industry-wide recycling costs by 40 percent.",
+    "verdict": "unsupported",
+    "probabilities": {
+     "supported": 0.0033153936766144375,
+     "contradicted": 0.008964386098214486,
+     "unsupported": 0.987720220225171
+    },
+    "source": null,
+    "note": ""
+   },
+   {
+    "claim": "Dr. Velde is the first author of a 2020 article on selective leaching that has been cited 210 times.",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.9960264521866864,
+     "contradicted": 0.0024919533903507555,
+     "unsupported": 0.0014815944229628736
+    },
+    "source": "E7-paper.md",
+    "note": ""
+   },
+   {
+    "claim": "Dr. Velde co-founded Ampcycle Materials and serves as its Chief Executive Officer.",
+    "verdict": "contradicted",
+    "probabilities": {
+     "supported": 0.0032630731810681505,
+     "contradicted": 0.9943591183907629,
+     "unsupported": 0.002377808428168982
+    },
+    "source": "E6-org-chart.md",
+    "note": ""
+   },
+   {
+    "claim": "He leads a team of 23 engineers.",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.9044486427452666,
+     "contradicted": 0.08235526215288737,
+     "unsupported": 0.013196095101846024
+    },
+    "source": "E6-org-chart.md",
+    "note": ""
+   },
+   {
+    "claim": "He joined Ampcycle in July 2022.",
+    "verdict": "supported",
+    "probabilities": {
+     "supported": 0.98729778738347,
+     "contradicted": 0.00980858704967513,
+     "unsupported": 0.002893625566854877
+    },
+    "source": "E1-offer-letter.md",
+    "note": ""
+   },
+   {
+    "claim": "His 2025 base salary is $250,000.",
+    "verdict": "contradicted",
+    "probabilities": {
+     "supported": 0.0007040442425831689,
+     "contradicted": 0.9979997266803405,
+     "unsupported": 0.0012962290770762994
+    },
+    "source": "E4-payroll-2025.md",
+    "note": ""
+   },
+   {
+    "claim": "He was offered a $400,000 position by a competing firm, which he declined.",
+    "verdict": "unsupported",
+    "probabilities": {
+     "supported": 0.0003195502001624349,
+     "contradicted": 0.00038289709857516863,
+     "unsupported": 0.9992975527012624
+    },
+    "source": null,
+    "note": ""
+   }
+  ]
+ }
+}

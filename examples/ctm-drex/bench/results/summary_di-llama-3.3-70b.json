@@ -1,0 +1,70 @@
+{
+ "test_claims": 106,
+ "dev_claims": 47,
+ "test_cases": 7,
+ "fitted_threshold": 0.5,
+ "drex_raw": {
+  "n": 106,
+  "accuracy": 0.9905660377358491,
+  "macro_f1": 0.9861874559548979,
+  "balanced_accuracy": 0.9880952380952381,
+  "missed_bad_claims": 0.0,
+  "false_alarms": 0.0,
+  "flag_recall": 1.0
+ },
+ "drex_rules": {
+  "n": 106,
+  "accuracy": 0.9905660377358491,
+  "macro_f1": 0.9861874559548979,
+  "balanced_accuracy": 0.9880952380952381,
+  "missed_bad_claims": 0.0,
+  "false_alarms": 0.0,
+  "flag_recall": 1.0
+ },
+ "drex_rules_fitted": {
+  "n": 106,
+  "accuracy": 0.9905660377358491,
+  "macro_f1": 0.9861874559548979,
+  "balanced_accuracy": 0.9880952380952381,
+  "missed_bad_claims": 0.0,
+  "false_alarms": 0.0,
+  "flag_recall": 1.0
+ },
+ "drex_speed": {
+  "p50_s_per_petition": 0.3380435830040369,
+  "p95_s_per_petition": 0.38062349997926503
+ },
+ "drex_cost_per_1k_claims_usd": 0.016826037735849057,
+ "di-llama-3.3-70b": {
+  "n": 106,
+  "accuracy": 1.0,
+  "macro_f1": 1.0,
+  "balanced_accuracy": 1.0,
+  "missed_bad_claims": 0.0,
+  "false_alarms": 0.0,
+  "flag_recall": 1.0
+ },
+ "di-llama-3.3-70b_rules": {
+  "n": 106,
+  "accuracy": 1.0,
+  "macro_f1": 1.0,
+  "balanced_accuracy": 1.0,
+  "missed_bad_claims": 0.0,
+  "false_alarms": 0.0,
+  "flag_recall": 1.0
+ },
+ "di-llama-3.3-70b_model": "meta-llama/Llama-3.3-70B-Instruct-Turbo",
+ "di-llama-3.3-70b_speed": {
+  "p50_s_per_petition": 18.457277792011155,
+  "p95_s_per_petition": 47.06686404100037
+ },
+ "di-llama-3.3-70b_cost_per_1k_claims_usd": 0.020093018867924528,
+ "di-llama-3.3-70b_unparsed": 0,
+ "di-llama-3.3-70b_price_basis": "provider usage.estimated_cost",
+ "di-llama-3.3-70b_thinking": "n/a: no thinking mode",
+ "di-llama-3.3-70b_attempts": 7,
+ "handoff_tokens_estimate": {
+  "draft_plus_exhibits": 2502.785714285714,
+  "receipt": 472.57142857142856
+ }
+}

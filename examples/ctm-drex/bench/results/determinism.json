@@ -1,0 +1,20 @@
+{
+ "case01": {
+  "claims": 16,
+  "runs": 5,
+  "identical_verdicts_and_sources": true,
+  "max_p_supported_diff": 0.0
+ },
+ "case02": {
+  "claims": 15,
+  "runs": 5,
+  "identical_verdicts_and_sources": true,
+  "max_p_supported_diff": 0.0
+ },
+ "case03": {
+  "claims": 16,
+  "runs": 5,
+  "identical_verdicts_and_sources": true,
+  "max_p_supported_diff": 0.012184462182453504
+ }
+}

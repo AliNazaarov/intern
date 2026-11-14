@@ -1,0 +1,25 @@
+{
+ "benchmark": "LLM-AggreFact test set, full (public re-upload NinaCalvi/llm_aggrefact_pre_aug9)",
+ "model": "drex-latest (drex-max-v1.1)",
+ "claims_scored": 12949,
+ "claims_failed": 0,
+ "requests": 8031,
+ "threshold": 0.5,
+ "per_dataset_balanced_accuracy": {
+  "AggreFact-CNN": 0.649,
+  "AggreFact-XSum": 0.728,
+  "ClaimVerify": 0.738,
+  "ExpertQA": 0.601,
+  "FactCheck-GPT": 0.811,
+  "Lfqa": 0.876,
+  "Reveal": 0.887,
+  "TofuEval-MediaS": 0.709,
+  "TofuEval-MeetB": 0.803,
+  "Wice": 0.862
+ },
+ "average_balanced_accuracy": 0.766,
+ "input_tokens": 6535567,
+ "cost_usd": 0.1961,
+ "seconds_per_request_p50": 0.281,
+ "claims_per_request_mean": 1.61
+}

@@ -1,0 +1,543 @@
+<!doctype html>
+<!--
+  CTM x Drex: hackathon deck (Apex Predator track, "Drex vs the Giants").
+
+  This file is the TEMPLATE. Never type a result number into it. Two kinds of placeholder, both filled by
+  `python deck/fill.py` from bench/results/*.json, data/aggrefact/sample.jsonl and demo/run1/*:
+    {{ key }}  a formatted scalar         [[ block ]]  a generated chart, card set or receipt excerpt
+  `python deck/fill.py --check` lists every key and its value; `--pdf` also prints deck/CTM-Drex.pdf.
+  Visual style follows the earlier CTM deck: white slides, indigo/lavender cards, serif section label,
+  Inter headlines, an info caveat line and the page number bottom right.
+-->
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CTM x Drex</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,700;1,800&family=Source+Serif+4:opsz,wght@8..60,700&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --ink: #141414; --ink-2: #4d4b5c; --muted: #6b6880;
+    --indigo: #3a1c96; --accent: #4b2bb5; --dark: #22145a;
+    --lav: #efedf9; --lav-2: #e3def8; --lav-line: #c9c0f0; --bar: #b3a8ee;
+    --sans: "Inter", system-ui, -apple-system, sans-serif;
+    --serif: "Source Serif 4", Georgia, serif;
+    --mono: "JetBrains Mono", ui-monospace, Menlo, monospace;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html, body { background: #1b1830; height: 100%; }
+  body { font-family: var(--sans); color: var(--ink); overflow: hidden; -webkit-font-smoothing: antialiased; }
+  #stage { position: absolute; left: 50%; top: 50%; width: 1600px; height: 900px; }
+  .slide { position: absolute; inset: 0; background: #fff; padding: 112px 107px 0; display: none; flex-direction: column; overflow: hidden; }
+  .slide.active { display: flex; }
+
+  .label { font: 700 19px/1 var(--serif); letter-spacing: .07em; text-transform: uppercase; color: var(--indigo); }
+  h2 { font: 700 54px/1.12 var(--sans); letter-spacing: -.022em; margin-top: 22px; max-width: 1400px; }
+  h2 em { font-style: italic; font-weight: 800; }
+  .sub { font-size: 21px; color: var(--ink-2); margin-top: 14px; }
+  .foot { position: absolute; left: 107px; right: 200px; bottom: 54px; font-size: 17px; line-height: 1.35; color: #4f4d5c; }
+  .pn { position: absolute; right: 107px; bottom: 54px; font-size: 19px; color: #222; }
+  .missing { font-size: 40px; color: var(--muted); }
+
+  .card { background: var(--lav); border-radius: 18px; padding: 30px 30px 28px; }
+  .card.dark { background: var(--dark); color: #fff; }
+  .card.line { background: #fff; border: 2px solid var(--lav-line); }
+  .card h3 { font: 700 29px/1.2 var(--sans); letter-spacing: -.01em; margin: 18px 0 14px; }
+  .card p { font-size: 20px; line-height: 1.45; color: var(--ink-2); }
+  .card.dark p { color: #e3defa; }
+  .ico { width: 30px; height: 30px; stroke: var(--accent); fill: none; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+  .dark .ico { stroke: #fff; }
+  .kick { font: 700 15px/1 var(--sans); letter-spacing: .1em; text-transform: uppercase; color: var(--accent); }
+  .dark .kick { color: #c8bdf7; }
+
+  /* stat cards (old deck p03 / p09) */
+  .stat { border-radius: 18px; padding: 22px 26px; background: var(--lav); }
+  .stat.dark { background: var(--dark); color: #fff; }
+  .stat .big { display: flex; align-items: center; gap: 12px; font: 800 36px/1.1 var(--sans); color: var(--accent); letter-spacing: -.01em; }
+  .stat.dark .big { color: #fff; }
+  .stat .big .ico { width: 28px; height: 28px; }
+  .stat p { font-size: 18px; line-height: 1.4; color: var(--ink-2); margin-top: 8px; }
+  .stat.dark p { color: #ddd6fb; }
+
+  svg.chart { width: 100%; height: auto; display: block; font-family: var(--sans); }
+  svg .tick { font-size: 17px; fill: #6b6880; }
+  svg .axis { font-size: 18px; fill: #4d4b5c; font-weight: 600; }
+  svg .lab { font-size: 16px; fill: #3d3a4f; font-weight: 600; }
+  svg .lab.drex { font-size: 21px; fill: var(--accent); font-weight: 800; }
+  svg .blab { font-size: 17px; fill: #333; }
+  svg .bval { font-size: 17px; fill: #222; font-weight: 600; }
+  svg .vval { font-size: 25px; fill: #141414; font-weight: 700; }
+  svg .vlab { font-size: 19px; fill: #141414; font-weight: 700; }
+  svg .vsub { font-size: 17px; fill: #4d4b5c; font-weight: 600; }
+  .legend { display: flex; align-items: center; gap: 22px; font-size: 19px; color: var(--ink-2); }
+  .legend i { display: inline-block; width: 18px; height: 18px; border-radius: 4px; margin-right: 8px; vertical-align: -3px; }
+  .ctitle { font: 700 21px/1.2 var(--sans); }
+
+  /* title slide */
+  .s1 { padding-top: 150px; }
+  .logo { display: flex; align-items: center; gap: 40px; }
+  .logo .word { font: 900 150px/0.9 var(--sans); color: var(--indigo); letter-spacing: -.02em; }
+  .tag { font: 700 29px/1 var(--serif); color: var(--indigo); margin: 14px 0 0 210px; }
+  .s1 .hero { font: 700 46px/1.14 var(--sans); letter-spacing: -.02em; margin-top: 40px; max-width: 960px; }
+  .s1 .hero em { font-style: italic; font-weight: 800; }
+  .chips { display: flex; gap: 18px; margin-top: 36px; }
+  .chip { width: 214px; height: 136px; border-radius: 16px; background: #f1effc; border: 2px solid var(--lav-line); display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 18px; font: 600 20px/1 var(--sans); }
+  .works { display: flex; align-items: center; gap: 30px; margin-top: 34px; font: 600 20px/1 var(--sans); }
+  .works .k { letter-spacing: .12em; color: #4d4b5c; font-size: 18px; }
+  .works span.m { display: inline-flex; align-items: center; gap: 9px; }
+  .works span.m b { width: 22px; height: 22px; border-radius: 6px; display: inline-block; }
+  .net { position: absolute; right: -40px; top: 0; width: 600px; height: 900px; }
+
+  /* problem */
+  .row3 { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 24px; margin-top: 96px; }
+  .row3 .card { min-height: 300px; }
+
+  /* architecture */
+  .arch { margin-top: 18px; }
+  .arch text { font-family: var(--sans); }
+
+  /* results: scatter */
+  .two { display: grid; grid-template-columns: 1fr 350px; gap: 34px; margin-top: 22px; }
+  .stack { display: flex; flex-direction: column; gap: 16px; }
+
+  /* full benchmark */
+  .full { display: grid; grid-template-columns: 1fr 520px; gap: 44px; margin-top: 30px; }
+  .kpis { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+  .kpi { padding: 22px 26px 20px; }
+  .kpi .num { font: 800 52px/1.05 var(--sans); color: var(--accent); letter-spacing: -.02em; margin-top: 12px; }
+  .kpi.dark .num { color: #fff; }
+  .kpi p { font-size: 17px; }
+  .ndi { margin-top: 16px; background: var(--lav-2); border-radius: 14px; padding: 16px 22px; display: flex; gap: 16px; align-items: center; font-size: 18px; line-height: 1.4; color: #2d2a40; }
+  .ndi b.k { font: 700 15px/1 var(--sans); letter-spacing: .1em; color: var(--accent); }
+
+  /* comparison cards */
+  .cmp { display: grid; grid-template-columns: 1fr 540px; gap: 40px; margin-top: 26px; }
+  .mcards { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; }
+  .mcard { background: var(--lav); border-radius: 18px; padding: 20px 20px 18px; }
+  .mcard.dark { background: var(--dark); color: #fff; }
+  .mname { font: 700 19px/1.2 var(--sans); white-space: nowrap; }
+  .mrow { margin-top: 12px; }
+  .mrow span { display: block; font-size: 15px; color: var(--muted); }
+  .mrow b { display: block; font: 800 29px/1.15 var(--sans); color: var(--accent); margin-top: 4px; }
+  .mrow b small { font-size: 17px; font-weight: 600; color: var(--muted); }
+  .mcard.dark .mrow span, .mcard.dark .mrow b small { color: #c8bdf7; }
+  .mcard.dark .mrow b { color: #fff; }
+  .dial { margin-top: 14px; background: var(--lav-2); border-radius: 14px; padding: 16px 22px; display: flex; gap: 16px; align-items: center; font-size: 18px; line-height: 1.4; color: #2d2a40; }
+  .dial b.k { font: 700 15px/1 var(--sans); letter-spacing: .1em; color: var(--accent); white-space: nowrap; }
+
+  /* petition */
+  .three { display: grid; grid-template-columns: 1fr 1fr 330px; gap: 34px; margin-top: 26px; }
+
+  /* telepathy */
+  .tele { display: grid; grid-template-columns: 1fr 1fr 350px; gap: 34px; margin-top: 26px; align-items: start; }
+
+  /* demo */
+  .demo { display: grid; grid-template-columns: 1fr 540px; gap: 30px; margin-top: 22px; }
+  .receipt { background: #fff; border: 2px solid var(--lav-line); border-radius: 18px; padding: 18px 22px; font-family: var(--mono); font-size: 14px; line-height: 1.45; color: #2a2838; }
+  .receipt .hd { font-weight: 600; color: var(--indigo); margin-bottom: 12px; font-size: 16px; }
+  .rl { display: grid; grid-template-columns: 30px 176px 1fr; gap: 6px; padding: 5px 0; border-top: 1px solid #eeebf9; }
+  .rl .vd { font-weight: 600; }
+  .rl .vd.ok { color: #2f7a4f; } .rl .vd.bad { color: #b4471d; }
+  .rl .ex { color: var(--accent); }
+  .receipt .ft { margin-top: 8px; font-weight: 600; color: #b4471d; }
+  .receipt .ft.ok { color: #2f7a4f; }
+  .rec { border: 3px dashed var(--lav-line); border-radius: 18px; background: #faf9fe; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 14px; height: 270px; color: var(--muted); font-size: 20px; text-align: center; }
+  .rec .play { width: 74px; height: 74px; border-radius: 50%; background: var(--accent); display: flex; align-items: center; justify-content: center; }
+  .demo .stats { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 14px; margin-top: 16px; }
+  .demo .stat { padding: 18px 18px; }
+  .demo .stat .big { font-size: 28px; }
+  .demo .stat p { font-size: 16px; }
+
+  /* economics */
+  .econ { display: grid; grid-template-columns: 1fr 470px; gap: 40px; margin-top: 18px; }
+  .road { display: flex; flex-direction: column; gap: 12px; }
+  .road .card { padding: 16px 24px 16px; }
+  .road .card h3 { font-size: 23px; margin: 10px 0 6px; }
+  .road .card p { font-size: 17px; }
+
+  /* thanks */
+  .thanks { background: var(--dark) !important; color: #fff; }
+  .thanks h1 { font: 800 82px/1 var(--sans); letter-spacing: -.02em; text-align: center; margin: 40px 0 0; }
+  .thanks .try { font: 700 34px/1 var(--serif); color: #ad9cf2; text-align: center; margin-top: 54px; }
+  .tcard { position: absolute; background: #fff; color: var(--ink); border-radius: 18px; padding: 30px 36px; }
+  .tcard h3 { font: 700 23px/1.2 var(--sans); margin: 16px 0 10px; }
+  .tcard p { font-size: 20px; line-height: 1.45; color: #3d3a4f; }
+  .tcard .mono { font-family: var(--mono); font-size: 19px; color: #3d3a4f; }
+  .thanks .pn { color: #fff; }
+
+  @media print {
+    @page { size: 1600px 900px; margin: 0; }
+    html, body { background: #fff; overflow: visible; height: auto; }
+    #stage { position: static; transform: none !important; width: 1600px; height: auto; }
+    .slide { position: relative; display: flex !important; width: 1600px; height: 900px; break-after: page; page-break-after: always; }
+    * { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  }
+</style>
+</head>
+<body>
+<svg width="0" height="0" style="position:absolute">
+  <defs>
+    <symbol id="i-zap" viewBox="0 0 24 24"><path d="M13 2 3 14h9l-1 8 10-12h-9l1-8z"/></symbol>
+    <symbol id="i-book" viewBox="0 0 24 24"><path d="M2 4h6a4 4 0 0 1 4 4v13a3 3 0 0 0-3-3H2z"/><path d="M22 4h-6a4 4 0 0 0-4 4v13a3 3 0 0 1 3-3h7z"/></symbol>
+    <symbol id="i-list" viewBox="0 0 24 24"><path d="M9 6h12M9 12h12M9 18h12"/><path d="m3 6 1 1 2-2M3 12l1 1 2-2M3 18l1 1 2-2"/></symbol>
+    <symbol id="i-repeat" viewBox="0 0 24 24"><path d="m17 2 4 4-4 4"/><path d="M3 11v-1a4 4 0 0 1 4-4h14"/><path d="m7 22-4-4 4-4"/><path d="M21 13v1a4 4 0 0 1-4 4H3"/></symbol>
+    <symbol id="i-clock" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></symbol>
+    <symbol id="i-pen" viewBox="0 0 24 24"><path d="M12 20h9"/><path d="M16.5 3.5a2.1 2.1 0 0 1 3 3L7 19l-4 1 1-4z"/></symbol>
+    <symbol id="i-hand" viewBox="0 0 24 24"><path d="M18 11V6a2 2 0 0 0-4 0v5M14 10V4a2 2 0 0 0-4 0v6M10 10.5V6a2 2 0 0 0-4 0v8"/><path d="M18 8a2 2 0 1 1 4 0v6a8 8 0 0 1-8 8h-2c-2.8 0-4.5-.9-6-2.4l-3.6-3.6a2 2 0 0 1 2.8-2.8L7 15"/></symbol>
+    <symbol id="i-chart" viewBox="0 0 24 24"><path d="M3 3v18h18"/><path d="M8 17V9M13 17V5M18 17v-3"/></symbol>
+    <symbol id="i-check" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="m9 12 2 2 4-4"/></symbol>
+    <symbol id="i-dollar" viewBox="0 0 24 24"><path d="M12 1v22M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></symbol>
+    <symbol id="i-dial" viewBox="0 0 24 24"><path d="M4 21v-7M4 10V3M12 21v-9M12 8V3M20 21v-5M20 12V3M1 14h6M9 8h6M17 16h6"/></symbol>
+    <symbol id="i-lock" viewBox="0 0 24 24"><rect x="3" y="11" width="18" height="11" rx="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></symbol>
+    <symbol id="i-file" viewBox="0 0 24 24"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><path d="M14 2v6h6M8 13h8M8 17h6"/></symbol>
+    <symbol id="i-loop" viewBox="0 0 24 24"><path d="M21 12a9 9 0 1 1-3-6.7L21 8"/><path d="M21 3v5h-5"/></symbol>
+    <symbol id="i-code" viewBox="0 0 24 24"><path d="m16 18 6-6-6-6M8 6l-6 6 6 6"/></symbol>
+    <symbol id="i-send" viewBox="0 0 24 24"><path d="m22 2-7 20-4-9-9-4z"/><path d="M22 2 11 13"/></symbol>
+    <symbol id="i-layers" viewBox="0 0 24 24"><path d="m12 2 10 5-10 5L2 7z"/><path d="m2 17 10 5 10-5M2 12l10 5 10-5"/></symbol>
+  </defs>
+</svg>
+<div id="stage">
+
+<!-- 1 TITLE -->
+<section class="slide s1">
+  <svg class="net" viewBox="0 0 600 900" aria-hidden="true">
+    <g stroke="#ddd6fb" stroke-width="5">
+      <line x1="230" y1="470" x2="300" y2="140"/><line x1="230" y1="470" x2="80" y2="270"/><line x1="230" y1="470" x2="510" y2="390"/>
+      <line x1="230" y1="470" x2="320" y2="770"/><line x1="300" y1="140" x2="470" y2="70"/><line x1="80" y1="270" x2="300" y2="140"/>
+      <line x1="510" y1="390" x2="470" y2="710"/><line x1="320" y1="770" x2="470" y2="710"/>
+    </g>
+    <circle cx="230" cy="470" r="93" fill="#cfc6f4"/><circle cx="300" cy="140" r="60" fill="#e1dbfb"/><circle cx="80" cy="270" r="35" fill="#e1dbfb"/>
+    <circle cx="510" cy="390" r="54" fill="#e1dbfb"/><circle cx="470" cy="70" r="42" fill="#e1dbfb"/><circle cx="320" cy="770" r="60" fill="#e1dbfb"/><circle cx="470" cy="710" r="38" fill="#e1dbfb"/>
+  </svg>
+  <div class="logo">
+    <svg width="170" height="170" viewBox="0 0 170 170" aria-hidden="true">
+      <circle cx="85" cy="85" r="77" fill="none" stroke="#3a1c96" stroke-width="11"/>
+      <g stroke="#3a1c96" stroke-width="6" stroke-linecap="round">
+        <line x1="58" y1="52" x2="108" y2="62"/><line x1="58" y1="52" x2="44" y2="94"/><line x1="58" y1="52" x2="82" y2="86"/>
+        <line x1="108" y1="62" x2="82" y2="86"/><line x1="108" y1="62" x2="114" y2="108"/><line x1="44" y1="94" x2="82" y2="86"/>
+        <line x1="44" y1="94" x2="72" y2="122"/><line x1="82" y1="86" x2="114" y2="108"/><line x1="82" y1="86" x2="72" y2="122"/><line x1="72" y1="122" x2="114" y2="108"/>
+      </g>
+      <g fill="#3a1c96"><circle cx="58" cy="52" r="10"/><circle cx="108" cy="62" r="10"/><circle cx="44" cy="94" r="10"/><circle cx="82" cy="86" r="14"/><circle cx="114" cy="108" r="10"/><circle cx="72" cy="122" r="10"/></g>
+    </svg>
+    <div class="word">CTM</div>
+  </div>
+  <div class="tag">Context Telepathy Manager</div>
+  <div class="hero">Agents prepare the 800-page O-1A packet. <em>Drex checks every sentence.</em> The attorney signs one page.</div>
+  <div class="chips">
+    <div class="chip"><svg class="ico"><use href="#i-book"/></svg>Exhibit-cited</div>
+    <div class="chip"><svg class="ico"><use href="#i-list"/></svg>Every sentence</div>
+    <div class="chip"><svg class="ico"><use href="#i-zap"/></svg>Sub-second</div>
+    <div class="chip"><svg class="ico"><use href="#i-repeat"/></svg>Reopens the run</div>
+  </div>
+  <div class="works">
+    <span class="k">WORKS WITH</span>
+    <span class="m"><b style="background:#4b2bb5"></b>Drex</span>
+    <span class="m"><b style="background:#e07a3f"></b>Intern</span>
+    <span class="m"><b style="background:#2c8a6b"></b>NDI</span>
+    <span class="m"><b style="background:#3466e0"></b>DeepInfra (Qwen)</span>
+  </div>
+</section>
+
+<!-- 2 PROBLEM -->
+<section class="slide">
+  <div class="label">The problem</div>
+  <h2>An O-1A packet runs to about 800 pages, and <em>one unbacked sentence costs months</em></h2>
+  <div class="row3">
+    <div class="card">
+      <svg class="ico"><use href="#i-clock"/></svg>
+      <h3>Request for Evidence</h3>
+      <p>One claim its exhibit doesn't back, or contradicts, and the officer sends a Request for Evidence. The case waits months.</p>
+    </div>
+    <div class="card">
+      <svg class="ico"><use href="#i-pen"/></svg>
+      <h3>Confident drafts</h3>
+      <p>AI drafting agents write fluent, confident sentences that their own exhibits don't support.</p>
+    </div>
+    <div class="card dark">
+      <svg class="ico"><use href="#i-hand"/></svg>
+      <h3>Checked once, by hand</h3>
+      <p>Frontier models are too slow and too costly to check every sentence, so checking happens once, at the end, by a person.</p>
+    </div>
+  </div>
+  <div class="foot">ⓘ Motivating firm: Expedite, an AI-native startup law firm. It is not a user of this build; every case here is synthetic.</div>
+  <div class="pn">01</div>
+</section>
+
+<!-- 2b EVIDENCE: real USCIS appeal decisions -->
+<section class="slide">
+  <div class="label">The evidence</div>
+  <h2>We read 1,069 real USCIS appeal decisions: <em>58% of failures were claims the evidence didn't back</em></h2>
+  <div class="tele">
+    <div style="grid-column: span 2"><div class="ctitle" style="margin-bottom:6px">Criteria the officer found <b>not met</b>, O-1 and EB-1A appeals</div><svg viewBox="0 0 900 400" class="chart" xmlns="http://www.w3.org/2000/svg"><text x="228" y="26.0" text-anchor="end" class="blab" font-weight="700">Awards</text><rect x="240" y="7" width="580.0" height="26" rx="4" fill="#4b2bb5"/><text x="830.0" y="26.0" class="bval" font-weight="700">516</text><text x="228" y="66.0" text-anchor="end" class="blab" font-weight="700">Press about them</text><rect x="240" y="47" width="485.6" height="26" rx="4" fill="#4b2bb5"/><text x="735.6" y="66.0" class="bval" font-weight="700">432</text><text x="228" y="106.0" text-anchor="end" class="blab" font-weight="700">Critical role</text><rect x="240" y="87" width="483.3" height="26" rx="4" fill="#4b2bb5"/><text x="733.3" y="106.0" class="bval" font-weight="700">430</text><text x="228" y="146.0" text-anchor="end" class="blab">Memberships</text><rect x="240" y="127" width="394.5" height="26" rx="4" fill="#b3a8ee"/><text x="644.5" y="146.0" class="bval">351</text><text x="228" y="186.0" text-anchor="end" class="blab">Original contributions</text><rect x="240" y="167" width="391.2" height="26" rx="4" fill="#b3a8ee"/><text x="641.2" y="186.0" class="bval">348</text><text x="228" y="226.0" text-anchor="end" class="blab">High salary</text><rect x="240" y="207" width="368.7" height="26" rx="4" fill="#b3a8ee"/><text x="618.7" y="226.0" class="bval">328</text><text x="228" y="266.0" text-anchor="end" class="blab">Judging others</text><rect x="240" y="247" width="151.7" height="26" rx="4" fill="#b3a8ee"/><text x="401.7" y="266.0" class="bval">135</text><text x="228" y="306.0" text-anchor="end" class="blab">Commercial success</text><rect x="240" y="287" width="138.3" height="26" rx="4" fill="#b3a8ee"/><text x="388.3" y="306.0" class="bval">123</text><text x="228" y="346.0" text-anchor="end" class="blab">Scholarly articles</text><rect x="240" y="327" width="125.9" height="26" rx="4" fill="#b3a8ee"/><text x="375.9" y="346.0" class="bval">112</text><text x="228" y="386.0" text-anchor="end" class="blab">Exhibitions</text><rect x="240" y="367" width="50.6" height="26" rx="4" fill="#b3a8ee"/><text x="300.6" y="386.0" class="bval">45</text></svg></div>
+    <div class="stack">
+      <div class="stat dark"><div class="big">90%</div><p>of appeals dismissed, read from each decision's own ORDER line</p></div>
+      <div class="stat"><div class="big">58%</div><p>of failed petitions: evidence didn't show what the petition claimed. CTM checks this before filing.</p></div>
+      <div class="stat"><div class="big">$1.25</div><p>to label 619 O-1 + 450 EB-1A decisions</p></div>
+    </div>
+  </div>
+  <div class="foot">ⓘ Public AAO non-precedent decisions on uscis.gov. Appeals are denied petitions, not all filings. Labels by gemma-4-31B-it, one read per decision; its outcome agrees with the ORDER line in 1,032 of 1,045. Nace console was unavailable during labelling, so Drex did not label these.</div>
+  <div class="pn">02</div>
+</section>
+
+<!-- 3 HOW IT WORKS -->
+<section class="slide">
+  <div class="label">How it works</div>
+  <svg class="arch" viewBox="0 0 1386 640" aria-label="Architecture">
+    <defs>
+      <marker id="ah" viewBox="0 0 12 12" refX="10" refY="6" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M1 1 10 6 1 11" fill="none" stroke="#4b2bb5" stroke-width="2"/></marker>
+      <marker id="ahl" viewBox="0 0 12 12" refX="10" refY="6" markerWidth="11" markerHeight="11" orient="auto-start-reverse"><path d="M1 1 10 6 1 11" fill="none" stroke="#9d8de8" stroke-width="2"/></marker>
+    </defs>
+    <!-- headline in the old "Warm telepathy." style -->
+    <text x="693" y="78" text-anchor="middle" font-size="62" font-weight="800" letter-spacing="-1.5" fill="#141414">Read the exhibits once.</text>
+    <!-- top arc: reopen loop -->
+    <path d="M1090 210 C 1000 110, 330 110, 200 205" fill="none" stroke="#4b2bb5" stroke-width="3" marker-end="url(#ah)"/>
+    <rect x="560" y="122" width="266" height="40" rx="20" fill="#fff"/>
+    <text x="693" y="149" text-anchor="middle" font-size="21" font-weight="700" fill="#4b2bb5">flags? reopen the run</text>
+
+    <!-- row 1 -->
+    <rect x="0" y="210" width="370" height="128" rx="16" fill="#efedf9" stroke="#4b2bb5" stroke-width="3"/>
+    <text x="28" y="258" font-size="32" font-weight="800" fill="#141414">Intern</text>
+    <text x="28" y="292" font-size="19" fill="#4d4b5c">System 2 drafts the petition:</text>
+    <text x="28" y="318" font-size="19" font-weight="600" fill="#3a1c96">Qwen3.8-27B on DeepInfra</text>
+
+    <rect x="470" y="210" width="400" height="128" rx="16" fill="#22145a"/>
+    <text x="498" y="258" font-size="32" font-weight="800" fill="#fff">CTM finish gate</text>
+    <text x="498" y="292" font-size="19" fill="#ddd6fb">Inside Intern: when the agent says</text>
+    <text x="498" y="318" font-size="19" fill="#ddd6fb">"done", every sentence goes to Drex</text>
+
+    <rect x="970" y="210" width="416" height="128" rx="16" fill="#efedf9" stroke="#4b2bb5" stroke-width="3"/>
+    <text x="998" y="258" font-size="32" font-weight="800" fill="#141414">Receipt</text>
+    <text x="998" y="292" font-size="18" font-weight="700" fill="#2f7a4f">PROVEN [exhibit]</text>
+    <text x="1170" y="292" font-size="18" font-weight="700" fill="#b4471d">CONTRADICTED</text>
+    <text x="998" y="318" font-size="18" font-weight="700" fill="#b4471d">CLIENT-STATED ONLY</text>
+
+    <line x1="370" y1="274" x2="466" y2="274" stroke="#4b2bb5" stroke-width="3" marker-end="url(#ah)"/>
+    <line x1="870" y1="274" x2="966" y2="274" stroke="#4b2bb5" stroke-width="3" marker-end="url(#ah)"/>
+    <text x="418" y="262" text-anchor="middle" font-size="17" font-weight="600" fill="#4d4b5c">draft</text>
+
+    <!-- row 2: Drex + NDI -->
+    <line x1="670" y1="338" x2="670" y2="436" stroke="#4b2bb5" stroke-width="3" marker-end="url(#ah)" marker-start="url(#ah)"/>
+    <text x="684" y="395" font-size="17" font-weight="600" fill="#4d4b5c">claims ↓  verdicts ↑</text>
+    <rect x="430" y="440" width="480" height="150" rx="16" fill="#3a1c96"/>
+    <text x="458" y="490" font-size="34" font-weight="800" fill="#fff">Drex</text>
+    <text x="458" y="526" font-size="19" fill="#ece8ff">Holds the exhibits as one warm state,</text>
+    <text x="458" y="552" font-size="19" fill="#ece8ff">answers 16 questions per pass</text>
+    <text x="458" y="578" font-size="19" fill="#ece8ff">(8 claims × supported? × source?)</text>
+
+    <rect x="0" y="456" width="330" height="118" rx="16" fill="#fff" stroke="#c9c0f0" stroke-width="3"/>
+    <text x="28" y="502" font-size="28" font-weight="800" fill="#141414">NDI</text>
+    <text x="28" y="534" font-size="19" fill="#4d4b5c">Parses PDF exhibits into</text>
+    <text x="28" y="558" font-size="19" fill="#4d4b5c">text, once per case</text>
+    <line x1="330" y1="515" x2="426" y2="515" stroke="#9d8de8" stroke-width="3" stroke-dasharray="7 6" marker-end="url(#ahl)"/>
+
+    <rect x="1010" y="456" width="376" height="118" rx="16" fill="#fff" stroke="#c9c0f0" stroke-width="3"/>
+    <text x="1038" y="502" font-size="28" font-weight="800" fill="#141414">Attorney signs</text>
+    <text x="1038" y="534" font-size="19" fill="#4d4b5c">Reads the one-page receipt,</text>
+    <text x="1038" y="558" font-size="19" fill="#4d4b5c">not the whole packet</text>
+    <path d="M1178 338 L1178 452" fill="none" stroke="#4b2bb5" stroke-width="3" marker-end="url(#ah)"/>
+    <text x="1192" y="402" font-size="17" font-weight="600" fill="#4d4b5c">all clear</text>
+
+    <line x1="0" y1="626" x2="1386" y2="626" stroke="#c9c0f0" stroke-width="2"/>
+  </svg>
+  <div class="foot">ⓘ Code checks numbers: a figure in a claim must appear in the cited exhibit. One threshold is fitted on a dev split; nothing else is trained.</div>
+  <div class="pn">03</div>
+</section>
+
+<!-- 4 RESULTS: ACCURACY VS COST -->
+<section class="slide">
+  <div class="label">Results</div>
+  <h2>Same accuracy class, cheapest and fastest of all 15</h2>
+  <div class="two">
+    <div>
+      <div class="ctitle" style="margin-bottom:8px">LLM-AggreFact, 150 held-out claims, 15 models: accuracy against cost</div>
+      <svg viewBox="0 0 1000 470" class="chart" xmlns="http://www.w3.org/2000/svg"><line x1="86" x2="970" y1="404.0" y2="404.0" stroke="#e4e0f5"/><text x="74" y="410.0" text-anchor="end" class="tick">0.68</text><line x1="86" x2="970" y1="339.3" y2="339.3" stroke="#e4e0f5"/><text x="74" y="345.3" text-anchor="end" class="tick">0.70</text><line x1="86" x2="970" y1="274.7" y2="274.7" stroke="#e4e0f5"/><text x="74" y="280.7" text-anchor="end" class="tick">0.72</text><line x1="86" x2="970" y1="210.0" y2="210.0" stroke="#e4e0f5"/><text x="74" y="216.0" text-anchor="end" class="tick">0.74</text><line x1="86" x2="970" y1="145.3" y2="145.3" stroke="#e4e0f5"/><text x="74" y="151.3" text-anchor="end" class="tick">0.76</text><line x1="86" x2="970" y1="80.7" y2="80.7" stroke="#e4e0f5"/><text x="74" y="86.7" text-anchor="end" class="tick">0.78</text><line x1="86" x2="970" y1="16.0" y2="16.0" stroke="#e4e0f5"/><text x="74" y="22.0" text-anchor="end" class="tick">0.80</text><line x1="86.0" x2="86.0" y1="16" y2="404" stroke="#e4e0f5"/><text x="86.0" y="432" text-anchor="middle" class="tick">$0.01</text><line x1="307.0" x2="307.0" y1="16" y2="404" stroke="#e4e0f5"/><text x="307.0" y="432" text-anchor="middle" class="tick">$0.1</text><line x1="528.0" x2="528.0" y1="16" y2="404" stroke="#e4e0f5"/><text x="528.0" y="432" text-anchor="middle" class="tick">$1</text><line x1="749.0" x2="749.0" y1="16" y2="404" stroke="#e4e0f5"/><text x="749.0" y="432" text-anchor="middle" class="tick">$10</text><line x1="970.0" x2="970.0" y1="16" y2="404" stroke="#e4e0f5"/><text x="970.0" y="432" text-anchor="middle" class="tick">$100</text><text x="528" y="462" text-anchor="middle" class="axis">Cost per 1,000 claims (log scale) → cheaper to the left</text><text transform="translate(18 210) rotate(-90)" text-anchor="middle" class="axis">Balanced accuracy</text><circle cx="153.5" cy="171.2" r="22" fill="#4b2bb5" opacity=".14"/><circle cx="153.5" cy="171.2" r="13" fill="#4b2bb5"/><circle cx="451.8" cy="206.8" r="8" fill="#b3a8ee" stroke="#8f80e0" stroke-width="1.5"/><circle cx="498.9" cy="203.5" r="8" fill="#b3a8ee" stroke="#8f80e0" stroke-width="1.5"/><circle cx="559.1" cy="54.8" r="8" fill="#b3a8ee" stroke="#8f80e0" stroke-width="1.5"/><circle cx="337.9" cy="100.1" r="8" fill="#b3a8ee" stroke="#8f80e0" stroke-width="1.5"/><circle cx="215.1" cy="310.2" r="8" fill="#b3a8ee" stroke="#8f80e0" stroke-width="1.5"/><circle cx="597.7" cy="74.2" r="8" fill="#b3a8ee" stroke="#8f80e0" stroke-width="1.5"/><circle cx="267.8" cy="138.9" r="8" fill="#b3a8ee" stroke="#8f80e0" stroke-width="1.5"/><circle cx="321.3" cy="161.5" r="8" fill="#b3a8ee" stroke="#8f80e0" stroke-width="1.5"/><circle cx="535.4" cy="77.4" r="8" fill="#b3a8ee" stroke="#8f80e0" stroke-width="1.5"/><circle cx="795.0" cy="122.7" r="8" fill="#b3a8ee" stroke="#8f80e0" stroke-width="1.5"/><circle cx="515.7" cy="300.5" r="8" fill="#b3a8ee" stroke="#8f80e0" stroke-width="1.5"/><circle cx="646.3" cy="229.4" r="8" fill="#b3a8ee" stroke="#8f80e0" stroke-width="1.5"/><circle cx="630.8" cy="138.9" r="8" fill="#b3a8ee" stroke="#8f80e0" stroke-width="1.5"/><circle cx="651.7" cy="148.6" r="8" fill="#b3a8ee" stroke="#8f80e0" stroke-width="1.5"/><text x="172.5" y="207.6" text-anchor="start" class="lab drex">Drex Max 1.1</text><text x="451.8" y="190.4" text-anchor="middle" class="lab">Claude Haiku 5.5</text><text x="498.9" y="237.1" text-anchor="middle" class="lab">DeepSeek V4 Pro</text><text x="575.1" y="60.4" text-anchor="start" class="lab">Gemini 3.1 Pro</text><text x="353.9" y="105.7" text-anchor="start" class="lab">Gemma 4 31B</text><text x="231.1" y="315.8" text-anchor="start" class="lab">gpt-oss-120b</text><text x="597.7" y="107.8" text-anchor="middle" class="lab">Kimi K3</text><text x="283.8" y="144.5" text-anchor="start" class="lab">Llama 3.3 70B</text><text x="337.3" y="167.1" text-anchor="start" class="lab">Qwen3.8-27B</text><text x="519.4" y="83.0" text-anchor="end" class="lab">Qwen3.8-Max</text><text x="811.0" y="128.3" text-anchor="start" class="lab">Claude Opus 5.5</text><text x="531.7" y="306.1" text-anchor="start" class="lab">Gemini 3.8 Flash</text><text x="662.3" y="235.0" text-anchor="start" class="lab">GPT-5.5</text><text x="614.8" y="144.5" text-anchor="end" class="lab">GPT-5.6 Sol</text><text x="667.7" y="154.2" text-anchor="start" class="lab">Grok 4.7</text></svg>
+    </div>
+    <div class="stack">
+      <div class="stat dark"><div class="big"><svg class="ico"><use href="#i-dollar"/></svg>800× cheaper</div><p>than Claude Opus 5.5 per 1,000 claims: $0.020 for Drex</p></div>
+      <div class="stat"><div class="big"><svg class="ico"><use href="#i-zap"/></svg>0.27 s</div><p>per claim, p50; 15× faster than Opus 5.5</p></div>
+      <div class="stat"><div class="big"><svg class="ico"><use href="#i-chart"/></svg>0.752</div><p>balanced accuracy. 9 of 14 models score higher, by at most 0.036</p></div>
+    </div>
+  </div>
+  <div class="foot">ⓘ LLM-AggreFact (Tang, Laban, Durrett 2024), stratified sample: 150 test claims across 10 sub-datasets, one run each. Other models via DeepInfra or OpenRouter at provider-reported cost, Claude at list price; Claude latency includes CLI start-up; differences of ±0.03 are within noise at this size.</div>
+  <div class="pn">04</div>
+</section>
+
+<!-- 5 FULL BENCHMARK + NDI -->
+<section class="slide">
+  <div class="label">The full benchmark</div>
+  <h2>The whole benchmark for $0.20</h2>
+  <div class="full">
+    <div>
+      <div class="kpis">
+        <div class="stat kpi dark"><svg class="ico"><use href="#i-list"/></svg><div class="num">12,949</div><p>claims, the full LLM-AggreFact test set, in 8,031 requests</p></div>
+        <div class="stat kpi"><svg class="ico"><use href="#i-dollar"/></svg><div class="num">$0.20</div><p>total Drex cost for every claim</p></div>
+        <div class="stat kpi"><svg class="ico"><use href="#i-chart"/></svg><div class="num">0.766</div><p>average balanced accuracy across 10 sub-datasets</p></div>
+        <div class="stat kpi"><svg class="ico"><use href="#i-zap"/></svg><div class="num">0.28 s</div><p>per request, p50; claims on one document share a request</p></div>
+      </div>
+      <div class="ndi">
+        <svg class="ico"><use href="#i-file"/></svg>
+        <b class="k">NDI</b>
+        <span><b>86 PDF exhibits</b> parsed by NDI, 0 errors, $0.30 in all. On the parsed text Drex gets <b>106/106</b> petition claims right.</span>
+      </div>
+    </div>
+    <div>
+      <div class="ctitle" style="margin-bottom:10px">Balanced accuracy by sub-dataset</div>
+      <svg viewBox="0 0 520 330" class="chart" xmlns="http://www.w3.org/2000/svg"><text x="168" y="22.5" text-anchor="end" class="blab">Reveal</text><rect x="180" y="7" width="276.0" height="19" rx="4" fill="#b3a8ee"/><text x="466.0" y="22.5" class="bval">0.887</text><text x="168" y="55.5" text-anchor="end" class="blab">Lfqa</text><rect x="180" y="40" width="272.6" height="19" rx="4" fill="#b3a8ee"/><text x="462.6" y="55.5" class="bval">0.876</text><text x="168" y="88.5" text-anchor="end" class="blab">Wice</text><rect x="180" y="73" width="268.2" height="19" rx="4" fill="#b3a8ee"/><text x="458.2" y="88.5" class="bval">0.862</text><text x="168" y="121.5" text-anchor="end" class="blab">FactCheck-GPT</text><rect x="180" y="106" width="252.4" height="19" rx="4" fill="#b3a8ee"/><text x="442.4" y="121.5" class="bval">0.811</text><text x="168" y="154.5" text-anchor="end" class="blab">TofuEval-MeetB</text><rect x="180" y="139" width="249.9" height="19" rx="4" fill="#b3a8ee"/><text x="439.9" y="154.5" class="bval">0.803</text><text x="168" y="187.5" text-anchor="end" class="blab">ClaimVerify</text><rect x="180" y="172" width="229.6" height="19" rx="4" fill="#b3a8ee"/><text x="419.6" y="187.5" class="bval">0.738</text><text x="168" y="220.5" text-anchor="end" class="blab">AggreFact-XSum</text><rect x="180" y="205" width="226.5" height="19" rx="4" fill="#b3a8ee"/><text x="416.5" y="220.5" class="bval">0.728</text><text x="168" y="253.5" text-anchor="end" class="blab">TofuEval-MediaS</text><rect x="180" y="238" width="220.6" height="19" rx="4" fill="#b3a8ee"/><text x="410.6" y="253.5" class="bval">0.709</text><text x="168" y="286.5" text-anchor="end" class="blab">AggreFact-CNN</text><rect x="180" y="271" width="201.9" height="19" rx="4" fill="#b3a8ee"/><text x="391.9" y="286.5" class="bval">0.649</text><text x="168" y="319.5" text-anchor="end" class="blab">ExpertQA</text><rect x="180" y="304" width="187.0" height="19" rx="4" fill="#b3a8ee"/><text x="377.0" y="319.5" class="bval">0.601</text></svg>
+    </div>
+  </div>
+  <div class="foot">ⓘ LLM-AggreFact (Tang, Laban, Durrett 2024), full test set from a public re-upload of the gated data; one run, threshold 0.5, 0 failed claims. NDI cost is the sum of its reported job costs; the 106 petition claims are synthetic.</div>
+  <div class="pn">05</div>
+</section>
+
+<!-- 6 RESULTS: COMPARISON + STRICTNESS DIAL -->
+<section class="slide">
+  <div class="label">Drex vs the giants</div>
+  <h2>800× cheaper than Opus, and <em>tied for the fewest bad claims let through</em></h2>
+  <div class="cmp">
+    <div>
+      <div class="mcards"><div class="mcard dark"><div class="mname">Drex Max 1.1</div><div class="mrow"><span>Balanced accuracy</span><b>0.752</b></div><div class="mrow"><span>Bad claims passed</span><b>14<small> of 76</small></b></div><div class="mrow"><span>Seconds per claim, p50</span><b>0.27 s</b></div><div class="mrow"><span>$ per 1,000 claims</span><b>$0.020</b></div></div><div class="mcard"><div class="mname">Claude Opus 5.5</div><div class="mrow"><span>Balanced accuracy</span><b>0.767</b></div><div class="mrow"><span>Bad claims passed</span><b>18<small> of 76</small></b></div><div class="mrow"><span>Seconds per claim, p50</span><b>4.19 s</b></div><div class="mrow"><span>$ per 1,000 claims</span><b>$16.15</b></div></div><div class="mcard"><div class="mname">Gemini 3.1 Pro</div><div class="mrow"><span>Balanced accuracy</span><b>0.788</b></div><div class="mrow"><span>Bad claims passed</span><b>26<small> of 76</small></b></div><div class="mrow"><span>Seconds per claim, p50</span><b>1.77 s</b></div><div class="mrow"><span>$ per 1,000 claims</span><b>$1.38</b></div></div><div class="mcard"><div class="mname">Claude Haiku 5.5</div><div class="mrow"><span>Balanced accuracy</span><b>0.741</b></div><div class="mrow"><span>Bad claims passed</span><b>25<small> of 76</small></b></div><div class="mrow"><span>Seconds per claim, p50</span><b>3.88 s</b></div><div class="mrow"><span>$ per 1,000 claims</span><b>$0.45</b></div></div></div>
+      <div class="dial"><svg class="ico"><use href="#i-dial"/></svg><b class="k">A STRICTNESS DIAL</b><span>Drex returns a probability, not a word. One threshold (0.86), fitted on 50 dev rows, sets how strict it is.</span></div>
+    </div>
+    <div>
+      <div class="ctitle">Unsupported claims passed as supported, of 76</div>
+      <div class="legend" style="margin:10px 0 8px;font-size:17px"><span><i style="background:#4b2bb5"></i>Drex, fitted threshold</span><span><i style="background:#b3a8ee"></i>other models</span></div>
+      <svg viewBox="0 0 560 420" class="chart" xmlns="http://www.w3.org/2000/svg"><text x="178" y="20.0" text-anchor="end" class="blab" font-weight="700">Drex Max 1.1</text><rect x="190" y="7" width="131.8" height="14" rx="4" fill="#4b2bb5"/><text x="331.8" y="20.0" class="bval" font-weight="700">14</text><text x="178" y="48.0" text-anchor="end" class="blab">Grok 4.7</text><rect x="190" y="35" width="131.8" height="14" rx="4" fill="#b3a8ee"/><text x="331.8" y="48.0" class="bval">14</text><text x="178" y="76.0" text-anchor="end" class="blab">Gemini 3.8 Flash</text><rect x="190" y="63" width="141.2" height="14" rx="4" fill="#b3a8ee"/><text x="341.2" y="76.0" class="bval">15</text><text x="178" y="104.0" text-anchor="end" class="blab">Claude Opus 5.5</text><rect x="190" y="91" width="169.4" height="14" rx="4" fill="#b3a8ee"/><text x="369.4" y="104.0" class="bval">18</text><text x="178" y="132.0" text-anchor="end" class="blab">Gemma 4 31B</text><rect x="190" y="119" width="216.5" height="14" rx="4" fill="#b3a8ee"/><text x="416.5" y="132.0" class="bval">23</text><text x="178" y="160.0" text-anchor="end" class="blab">Qwen3.8-Max</text><rect x="190" y="147" width="216.5" height="14" rx="4" fill="#b3a8ee"/><text x="416.5" y="160.0" class="bval">23</text><text x="178" y="188.0" text-anchor="end" class="blab">Claude Haiku 5.5</text><rect x="190" y="175" width="235.3" height="14" rx="4" fill="#b3a8ee"/><text x="435.3" y="188.0" class="bval">25</text><text x="178" y="216.0" text-anchor="end" class="blab">Gemini 3.1 Pro</text><rect x="190" y="203" width="244.7" height="14" rx="4" fill="#b3a8ee"/><text x="444.7" y="216.0" class="bval">26</text><text x="178" y="244.0" text-anchor="end" class="blab">GPT-5.5</text><rect x="190" y="231" width="244.7" height="14" rx="4" fill="#b3a8ee"/><text x="444.7" y="244.0" class="bval">26</text><text x="178" y="272.0" text-anchor="end" class="blab">Qwen3.8-27B</text><rect x="190" y="259" width="254.1" height="14" rx="4" fill="#b3a8ee"/><text x="454.1" y="272.0" class="bval">27</text><text x="178" y="300.0" text-anchor="end" class="blab">Kimi K3</text><rect x="190" y="287" width="263.5" height="14" rx="4" fill="#b3a8ee"/><text x="463.5" y="300.0" class="bval">28</text><text x="178" y="328.0" text-anchor="end" class="blab">Llama 3.3 70B</text><rect x="190" y="315" width="272.9" height="14" rx="4" fill="#b3a8ee"/><text x="472.9" y="328.0" class="bval">29</text><text x="178" y="356.0" text-anchor="end" class="blab">GPT-5.6 Sol</text><rect x="190" y="343" width="282.4" height="14" rx="4" fill="#b3a8ee"/><text x="482.4" y="356.0" class="bval">30</text><text x="178" y="384.0" text-anchor="end" class="blab">DeepSeek V4 Pro</text><rect x="190" y="371" width="310.6" height="14" rx="4" fill="#b3a8ee"/><text x="510.6" y="384.0" class="bval">33</text><text x="178" y="412.0" text-anchor="end" class="blab">gpt-oss-120b</text><rect x="190" y="399" width="320.0" height="14" rx="4" fill="#b3a8ee"/><text x="520.0" y="412.0" class="bval">34</text></svg>
+    </div>
+  </div>
+  <div class="foot">ⓘ LLM-AggreFact (Tang, Laban, Durrett 2024), 150 test claims, 76 human-labelled unsupported; one run each. Tied with Grok 4.7, which costs 180× more per claim. At the default 0.5 threshold Drex lets through 32 of 76: the dial, not the model, buys the strictness.</div>
+  <div class="pn">06</div>
+</section>
+
+<!-- 6 PETITION BENCHMARK -->
+<section class="slide">
+  <div class="label">Synthetic O-1A petitions</div>
+  <h2>A whole petition checked in 0.34 s; Opus takes 11.4 s</h2>
+  <div class="three">
+    <div>
+      <div class="ctitle" style="margin-bottom:12px">Seconds per petition, p50</div>
+      <svg viewBox="0 0 600 540" class="chart" xmlns="http://www.w3.org/2000/svg"><text x="168" y="24.0" text-anchor="end" class="blab" font-weight="700">Drex Max 1.1</text><rect x="180" y="7" width="5.1" height="22" rx="4" fill="#4b2bb5"/><text x="195.1" y="24.0" class="bval" font-weight="700">0.34 s</text><text x="168" y="60.0" text-anchor="end" class="blab">GPT-5.6 Sol</text><rect x="180" y="43" width="36.1" height="22" rx="4" fill="#b3a8ee"/><text x="226.1" y="60.0" class="bval">2.41 s</text><text x="168" y="96.0" text-anchor="end" class="blab">Kimi K3</text><rect x="180" y="79" width="46.2" height="22" rx="4" fill="#b3a8ee"/><text x="236.2" y="96.0" class="bval">3.08 s</text><text x="168" y="132.0" text-anchor="end" class="blab">DeepSeek V4 Pro</text><rect x="180" y="115" width="50.1" height="22" rx="4" fill="#b3a8ee"/><text x="240.1" y="132.0" class="bval">3.34 s</text><text x="168" y="168.0" text-anchor="end" class="blab">Gemini 3.8 Flash</text><rect x="180" y="151" width="52.8" height="22" rx="4" fill="#b3a8ee"/><text x="242.8" y="168.0" class="bval">3.52 s</text><text x="168" y="204.0" text-anchor="end" class="blab">GPT-5.5</text><rect x="180" y="187" width="57.6" height="22" rx="4" fill="#b3a8ee"/><text x="247.6" y="204.0" class="bval">3.84 s</text><text x="168" y="240.0" text-anchor="end" class="blab">Qwen3.8-Max</text><rect x="180" y="223" width="88.4" height="22" rx="4" fill="#b3a8ee"/><text x="278.4" y="240.0" class="bval">5.89 s</text><text x="168" y="276.0" text-anchor="end" class="blab">Gemini 3.1 Pro</text><rect x="180" y="259" width="90.7" height="22" rx="4" fill="#b3a8ee"/><text x="280.7" y="276.0" class="bval">6.05 s</text><text x="168" y="312.0" text-anchor="end" class="blab">Qwen3.8-27B</text><rect x="180" y="295" width="119.2" height="22" rx="4" fill="#b3a8ee"/><text x="309.2" y="312.0" class="bval">7.95 s</text><text x="168" y="348.0" text-anchor="end" class="blab">Claude Haiku 5.5</text><rect x="180" y="331" width="168.3" height="22" rx="4" fill="#b3a8ee"/><text x="358.3" y="348.0" class="bval">11.2 s</text><text x="168" y="384.0" text-anchor="end" class="blab">Claude Opus 5.5</text><rect x="180" y="367" width="170.3" height="22" rx="4" fill="#b3a8ee"/><text x="360.3" y="384.0" class="bval">11.4 s</text><text x="168" y="420.0" text-anchor="end" class="blab">gpt-oss-120b</text><rect x="180" y="403" width="243.9" height="22" rx="4" fill="#b3a8ee"/><text x="433.9" y="420.0" class="bval">16.3 s</text><text x="168" y="456.0" text-anchor="end" class="blab">Llama 3.3 70B</text><rect x="180" y="439" width="276.8" height="22" rx="4" fill="#b3a8ee"/><text x="466.8" y="456.0" class="bval">18.5 s</text><text x="168" y="492.0" text-anchor="end" class="blab">Grok 4.7</text><rect x="180" y="475" width="281.5" height="22" rx="4" fill="#b3a8ee"/><text x="471.5" y="492.0" class="bval">18.8 s</text><text x="168" y="528.0" text-anchor="end" class="blab">Gemma 4 31B</text><rect x="180" y="511" width="340.0" height="22" rx="4" fill="#b3a8ee"/><text x="530.0" y="528.0" class="bval">22.7 s</text></svg>
+    </div>
+    <div>
+      <div class="ctitle" style="margin-bottom:12px">$ per 1,000 claims</div>
+      <svg viewBox="0 0 600 540" class="chart" xmlns="http://www.w3.org/2000/svg"><text x="168" y="24.0" text-anchor="end" class="blab">gpt-oss-120b</text><rect x="180" y="7" width="3.0" height="22" rx="4" fill="#b3a8ee"/><text x="193.0" y="24.0" class="bval">$0.014</text><text x="168" y="60.0" text-anchor="end" class="blab" font-weight="700">Drex Max 1.1</text><rect x="180" y="43" width="3.0" height="22" rx="4" fill="#4b2bb5"/><text x="193.0" y="60.0" class="bval" font-weight="700">$0.017</text><text x="168" y="96.0" text-anchor="end" class="blab">Llama 3.3 70B</text><rect x="180" y="79" width="3.0" height="22" rx="4" fill="#b3a8ee"/><text x="193.0" y="96.0" class="bval">$0.020</text><text x="168" y="132.0" text-anchor="end" class="blab">Gemma 4 31B</text><rect x="180" y="115" width="4.2" height="22" rx="4" fill="#b3a8ee"/><text x="194.2" y="132.0" class="bval">$0.039</text><text x="168" y="168.0" text-anchor="end" class="blab">Qwen3.8-27B</text><rect x="180" y="151" width="7.6" height="22" rx="4" fill="#b3a8ee"/><text x="197.6" y="168.0" class="bval">$0.070</text><text x="168" y="204.0" text-anchor="end" class="blab">Claude Haiku 5.5</text><rect x="180" y="187" width="12.2" height="22" rx="4" fill="#b3a8ee"/><text x="202.2" y="204.0" class="bval">$0.11</text><text x="168" y="240.0" text-anchor="end" class="blab">Gemini 3.8 Flash</text><rect x="180" y="223" width="22.2" height="22" rx="4" fill="#b3a8ee"/><text x="212.2" y="240.0" class="bval">$0.21</text><text x="168" y="276.0" text-anchor="end" class="blab">DeepSeek V4 Pro</text><rect x="180" y="259" width="24.2" height="22" rx="4" fill="#b3a8ee"/><text x="214.2" y="276.0" class="bval">$0.22</text><text x="168" y="312.0" text-anchor="end" class="blab">Qwen3.8-Max</text><rect x="180" y="295" width="33.8" height="22" rx="4" fill="#b3a8ee"/><text x="223.8" y="312.0" class="bval">$0.31</text><text x="168" y="348.0" text-anchor="end" class="blab">Kimi K3</text><rect x="180" y="331" width="77.0" height="22" rx="4" fill="#b3a8ee"/><text x="267.0" y="348.0" class="bval">$0.71</text><text x="168" y="384.0" text-anchor="end" class="blab">GPT-5.6 Sol</text><rect x="180" y="367" width="105.1" height="22" rx="4" fill="#b3a8ee"/><text x="295.1" y="384.0" class="bval">$0.97</text><text x="168" y="420.0" text-anchor="end" class="blab">Grok 4.7</text><rect x="180" y="403" width="117.1" height="22" rx="4" fill="#b3a8ee"/><text x="307.1" y="420.0" class="bval">$1.09</text><text x="168" y="456.0" text-anchor="end" class="blab">Gemini 3.1 Pro</text><rect x="180" y="439" width="118.5" height="22" rx="4" fill="#b3a8ee"/><text x="308.5" y="456.0" class="bval">$1.10</text><text x="168" y="492.0" text-anchor="end" class="blab">GPT-5.5</text><rect x="180" y="475" width="167.2" height="22" rx="4" fill="#b3a8ee"/><text x="357.2" y="492.0" class="bval">$1.55</text><text x="168" y="528.0" text-anchor="end" class="blab">Claude Opus 5.5</text><rect x="180" y="511" width="340.0" height="22" rx="4" fill="#b3a8ee"/><text x="530.0" y="528.0" class="bval">$3.15</text></svg>
+    </div>
+    <div class="stack">
+      <div class="stat dark"><div class="big"><svg class="ico"><use href="#i-zap"/></svg>34× faster</div><p>than Opus 5.5 per petition; 7.1× faster than the next fastest (GPT-5.6 Sol)</p></div>
+      <div class="stat"><div class="big"><svg class="ico"><use href="#i-check"/></svg>Easy set</div><p>8 of 15 models score 1.00; Drex scores 0.99. This slide measures speed and cost only.</p></div>
+    </div>
+  </div>
+  <div class="foot">ⓘ 106 held-out claims in 7 synthetic O-1A cases, one run each. Cheaper per claim than Drex here: gpt-oss-120b. Baselines read the whole case per petition; Drex reads it once per 8 claims.</div>
+  <div class="pn">07</div>
+</section>
+
+<!-- 7 READ ONCE, ASK MANY -->
+<section class="slide">
+  <div class="label">Warm telepathy</div>
+  <h2>Read once, ask many: 8 claims in one request</h2>
+  <div class="legend" style="margin-top:16px"><span>Drex checking 8 claims against one case's exhibits:</span><span><i style="background:#b3a8ee"></i>one request per claim</span><span><i style="background:#4b2bb5"></i>all claims in one request</span></div>
+  <div class="tele">
+    <div><div class="ctitle" style="margin-bottom:6px">Input tokens</div><svg viewBox="0 0 500 380" class="chart" xmlns="http://www.w3.org/2000/svg"><line x1="0" x2="500" y1="310" y2="310" stroke="#cfc8f2" stroke-width="2"/><rect x="88.0" y="50.0" width="84" height="260.0" rx="3" fill="#b3a8ee"/><text x="130.0" y="38.0" text-anchor="middle" class="vval">14.9k</text><text x="130.0" y="342" text-anchor="middle" class="vlab">One request per claim</text><text x="130.0" y="368" text-anchor="middle" class="vsub">8 requests</text><rect x="328.0" y="262.4" width="84" height="47.6" rx="3" fill="#4b2bb5"/><text x="370.0" y="250.4" text-anchor="middle" class="vval">2.7k</text><text x="370.0" y="342" text-anchor="middle" class="vlab">All 8 in one request</text><text x="370.0" y="368" text-anchor="middle" class="vsub">1 request</text></svg></div>
+    <div><div class="ctitle" style="margin-bottom:6px">Seconds</div><svg viewBox="0 0 500 380" class="chart" xmlns="http://www.w3.org/2000/svg"><line x1="0" x2="500" y1="310" y2="310" stroke="#cfc8f2" stroke-width="2"/><rect x="88.0" y="50.0" width="84" height="260.0" rx="3" fill="#b3a8ee"/><text x="130.0" y="38.0" text-anchor="middle" class="vval">2.26 s</text><text x="130.0" y="342" text-anchor="middle" class="vlab">One request per claim</text><text x="130.0" y="368" text-anchor="middle" class="vsub">8 requests</text><rect x="328.0" y="266.5" width="84" height="43.5" rx="3" fill="#4b2bb5"/><text x="370.0" y="254.5" text-anchor="middle" class="vval">0.38 s</text><text x="370.0" y="342" text-anchor="middle" class="vlab">All 8 in one request</text><text x="370.0" y="368" text-anchor="middle" class="vsub">1 request</text></svg></div>
+    <div class="stack">
+      <div class="stat dark"><div class="big"><svg class="ico"><use href="#i-zap"/></svg>6.0× faster</div><p>2.26 s → 0.38 s for the same 8 claims</p></div>
+      <div class="stat"><div class="big"><svg class="ico"><use href="#i-layers"/></svg>5.5× fewer</div><p>input tokens: the exhibits are read once, not once per claim</p></div>
+      <div class="stat"><div class="big"><svg class="ico"><use href="#i-repeat"/></svg>0.45 s</div><p>asking again on the same state: the case stays warm between rounds</p></div>
+    </div>
+  </div>
+  <div class="foot">ⓘ One synthetic case, 8 claims, one run each; seconds are wall-clock HTTP round trips. Token counts are as reported by the API.</div>
+  <div class="pn">08</div>
+</section>
+
+<!-- 9 DEMO -->
+<section class="slide">
+  <div class="label">Demo</div>
+  <h2>Drex flagged 8 claims; Qwen rewrote them</h2>
+  <div class="sub">Intern's finish gate reopened the run with the receipt, and Qwen3.8-27B rewrote only the flagged claims.</div>
+  <div class="demo">
+    <div class="receipt">
+      <div class="hd">ctm-receipt.md · Round 1 · 26 claims checked by drex-latest in 0.52 s</div>
+      <div class="rl"><span class="n"> 8.</span><span class="vd bad">CONTRADICTED</span><span class="tx"><span class="ex">[E2-press-article.md]</span> Press coverage in the trade publication *Orchard &amp; Machine Weekly* describes the B…</span></div><div class="rl"><span class="n">15.</span><span class="vd bad">CLIENT-STATED ONLY</span><span class="tx">The Petitioner is a recognized and growing participant in its field.</span></div><div class="rl"><span class="n">18.</span><span class="vd bad">CLIENT-STATED ONLY</span><span class="tx">These distinctions reflect the Petitioner&#x27;s distinguished reputation in autonomous…</span></div>
+      <div class="ft">8 claim(s) need evidence or a rewrite before filing.</div>
+      <div class="hd" style="margin-top:14px">Round 2 · after the rewrite, in 0.45 s</div>
+      <div class="rl"><span class="n"> 8.</span><span class="vd ok">PROVEN</span><span class="tx"><span class="ex">[E2-press-article.md]</span> Press coverage in the trade publication *Orchard &amp; Machine Weekly* describes the B…</span></div><div class="rl"><span class="n">17.</span><span class="vd bad">CLIENT-STATED ONLY</span><span class="tx">The press and financing achievements described above are offered as evidence of th…</span></div>
+      <div class="ft ok">0 claim(s) need evidence or a rewrite; 1 already marked for the client.</div>
+    </div>
+    <div>
+      <div class="rec"><div class="play"><svg width="30" height="30" viewBox="0 0 24 24"><path d="M7 4v16l13-8z" fill="#fff"/></svg></div>Screen recording<br><span style="font-size:17px">Intern drafts → CTM gate → Drex receipt → reopen → re-check</span></div>
+      <div class="stats">
+        <div class="stat dark"><div class="big">0.52 s</div><p>26 claims checked</p></div>
+        <div class="stat"><div class="big">8</div><p>flagged in round 1, 1 contradicted</p></div>
+        <div class="stat"><div class="big">0</div><p>left after the rewrite; 1 marked for the client</p></div>
+      </div>
+    </div>
+  </div>
+  <div class="foot">ⓘ One synthetic case (fictional founder and exhibits), one run (run3), 2 rounds. Excerpt of 5 receipt lines; long lines shortened.</div>
+  <div class="pn">09</div>
+</section>
+
+<!-- 9 WHY IT MATTERS -->
+<section class="slide">
+  <div class="label">Value &amp; economics</div>
+  <h2>Cheap enough to check every sentence as it's written</h2>
+  <div class="econ">
+    <div>
+      <div class="ctitle" style="margin-top:6px">Cost to check one synthetic petition (15 claims)</div>
+      <svg viewBox="0 0 820 380" class="chart" xmlns="http://www.w3.org/2000/svg"><line x1="0" x2="820" y1="310" y2="310" stroke="#cfc8f2" stroke-width="2"/><rect x="68.0" y="50.0" width="84" height="260.0" rx="3" fill="#b3a8ee"/><text x="110.0" y="38.0" text-anchor="middle" class="vval">$0.048</text><text x="110.0" y="342" text-anchor="middle" class="vlab">Opus 5.5</text><text x="110.0" y="368" text-anchor="middle" class="vsub">per petition</text><rect x="268.0" y="219.4" width="84" height="90.6" rx="3" fill="#b3a8ee"/><text x="310.0" y="207.4" text-anchor="middle" class="vval">$0.017</text><text x="310.0" y="342" text-anchor="middle" class="vlab">Gemini 3.1 Pro</text><text x="310.0" y="368" text-anchor="middle" class="vsub">per petition</text><rect x="468.0" y="300.7" width="84" height="9.3" rx="3" fill="#b3a8ee"/><text x="510.0" y="288.7" text-anchor="middle" class="vval">$0.0017</text><text x="510.0" y="342" text-anchor="middle" class="vlab">Haiku 5.5</text><text x="510.0" y="368" text-anchor="middle" class="vsub">per petition</text><rect x="668.0" y="306.0" width="84" height="4.0" rx="3" fill="#4b2bb5"/><text x="710.0" y="294.0" text-anchor="middle" class="vval">$0.00025</text><text x="710.0" y="342" text-anchor="middle" class="vlab">Drex Max 1.1</text><text x="710.0" y="368" text-anchor="middle" class="vsub">per petition</text></svg>
+      <div class="sub" style="margin-top:0">At $0.00025 a pass, 190× less than Opus 5.5, the check can run on every edit instead of once at the end.</div>
+    </div>
+    <div class="road">
+      <div class="kick" style="margin-bottom:2px">Next</div>
+      <div class="card dark"><svg class="ico"><use href="#i-lock"/></svg><h3>Open Drex weights, on-prem</h3><p>A warm case cache inside the firm, so client files never leave it.</p></div>
+      <div class="card"><svg class="ico"><use href="#i-file"/></svg><h3>NDI grounding to exhibit pages</h3><p>Every PROVEN line points to the page and passage, not just the file.</p></div>
+      <div class="card"><svg class="ico"><use href="#i-loop"/></svg><h3>RFE data flywheel</h3><p>Each Request for Evidence becomes a labelled example that tunes the strictness dial.</p></div>
+    </div>
+  </div>
+  <div class="foot">ⓘ Per-petition cost = measured $ per 1,000 claims × 15 claims, the average of 7 synthetic cases. Drex at its published input price, Claude at list price, others at provider-reported cost; one run each.</div>
+  <div class="pn">10</div>
+</section>
+
+<!-- 10 THANK YOU -->
+<section class="slide thanks">
+  <h1>Thank you:)</h1>
+  <div class="try">Check every sentence before it's filed:</div>
+  <svg style="position:absolute;inset:0;width:1600px;height:900px" viewBox="0 0 1600 900" aria-hidden="true">
+    <defs><marker id="ahw" viewBox="0 0 12 12" refX="10" refY="6" markerWidth="12" markerHeight="12" orient="auto"><path d="M1 1 10 6 1 11" fill="none" stroke="#ad9cf2" stroke-width="2"/></marker></defs>
+    <path d="M455 530 C 480 640, 500 700, 560 708" fill="none" stroke="#ad9cf2" stroke-width="3" marker-end="url(#ahw)"/>
+    <path d="M860 700 C 920 690, 950 650, 960 610" fill="none" stroke="#ad9cf2" stroke-width="3" marker-end="url(#ahw)"/>
+  </svg>
+  <div class="tcard" style="left:140px;top:415px;width:330px"><svg class="ico"><use href="#i-code"/></svg><h3>Open source</h3><div class="mono">github.com/AliNazaarov/<br>ctm-drex</div></div>
+  <div class="tcard" style="left:560px;top:600px;width:310px"><svg class="ico"><use href="#i-layers"/></svg><h3>Runs in Intern</h3><p>One extension: your model drafts, Drex checks.</p></div>
+  <div class="tcard" style="left:935px;top:385px;width:520px"><svg class="ico" style="width:36px;height:36px"><use href="#i-send"/></svg><h3 style="font-size:30px">Talk to us</h3><p>muhammadalinazarovps@gmail.com</p></div>
+  <div class="pn">11</div>
+</section>
+
+</div>
+<script>
+  (function () {
+    var slides = Array.prototype.slice.call(document.querySelectorAll('.slide'));
+    var stage = document.getElementById('stage');
+    var i = Math.max(0, Math.min(slides.length - 1, (parseInt(location.hash.slice(1), 10) || 1) - 1));
+    function fit() {
+      var s = Math.min(window.innerWidth / 1600, window.innerHeight / 900);
+      stage.style.transform = 'translate(-50%, -50%) scale(' + s + ')';
+    }
+    function show(n) {
+      i = Math.max(0, Math.min(slides.length - 1, n));
+      slides.forEach(function (el, k) { el.classList.toggle('active', k === i); });
+      history.replaceState(null, '', '#' + (i + 1));
+    }
+    document.addEventListener('keydown', function (e) {
+      if (['ArrowRight', 'ArrowDown', 'PageDown', ' ', 'Enter'].indexOf(e.key) >= 0) { e.preventDefault(); show(i + 1); }
+      else if (['ArrowLeft', 'ArrowUp', 'PageUp', 'Backspace'].indexOf(e.key) >= 0) { e.preventDefault(); show(i - 1); }
+      else if (e.key === 'Home') show(0);
+      else if (e.key === 'End') show(slides.length - 1);
+    });
+    document.addEventListener('click', function (e) { show(e.clientX < window.innerWidth / 3 ? i - 1 : i + 1); });
+    window.addEventListener('resize', fit);
+    fit(); show(i);
+  })();
+</script>
+</body>
+</html>

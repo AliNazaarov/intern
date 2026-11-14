@@ -1,0 +1,67 @@
+{
+ "test_claims": 106,
+ "dev_claims": 47,
+ "test_cases": 7,
+ "fitted_threshold": 0.5,
+ "drex_raw": {
+  "n": 106,
+  "accuracy": 0.9905660377358491,
+  "macro_f1": 0.9861874559548979,
+  "balanced_accuracy": 0.9880952380952381,
+  "missed_bad_claims": 0.0,
+  "false_alarms": 0.0,
+  "flag_recall": 1.0
+ },
+ "drex_rules": {
+  "n": 106,
+  "accuracy": 0.9905660377358491,
+  "macro_f1": 0.9861874559548979,
+  "balanced_accuracy": 0.9880952380952381,
+  "missed_bad_claims": 0.0,
+  "false_alarms": 0.0,
+  "flag_recall": 1.0
+ },
+ "drex_rules_fitted": {
+  "n": 106,
+  "accuracy": 0.9905660377358491,
+  "macro_f1": 0.9861874559548979,
+  "balanced_accuracy": 0.9880952380952381,
+  "missed_bad_claims": 0.0,
+  "false_alarms": 0.0,
+  "flag_recall": 1.0
+ },
+ "drex_speed": {
+  "p50_s_per_petition": 0.3380435830040369,
+  "p95_s_per_petition": 0.38062349997926503
+ },
+ "drex_cost_per_1k_claims_usd": 0.016826037735849057,
+ "opus": {
+  "n": 106,
+  "accuracy": 0.9811320754716981,
+  "macro_f1": 0.9774258133182491,
+  "balanced_accuracy": 0.9782790309106097,
+  "missed_bad_claims": 0.0,
+  "false_alarms": 0.017543859649122806,
+  "flag_recall": 1.0
+ },
+ "opus_rules": {
+  "n": 106,
+  "accuracy": 0.9811320754716981,
+  "macro_f1": 0.9774258133182491,
+  "balanced_accuracy": 0.9782790309106097,
+  "missed_bad_claims": 0.0,
+  "false_alarms": 0.017543859649122806,
+  "flag_recall": 1.0
+ },
+ "opus_model": "claude-opus-5-5",
+ "opus_speed": {
+  "p50_s_per_petition": 11.357569249987137,
+  "p95_s_per_petition": 12.822438416013028
+ },
+ "opus_cost_per_1k_claims_usd": 3.154377358490566,
+ "opus_unparsed": 0,
+ "handoff_tokens_estimate": {
+  "draft_plus_exhibits": 2502.785714285714,
+  "receipt": 472.57142857142856
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "test_claims": 106,
+ "dev_claims": 47,
+ "test_cases": 7,
+ "fitted_threshold": 0.5,
+ "drex_raw": {
+  "n": 106,
+  "accuracy": 1.0,
+  "macro_f1": 1.0,
+  "balanced_accuracy": 1.0,
+  "missed_bad_claims": 0.0,
+  "false_alarms": 0.0,
+  "flag_recall": 1.0
+ },
+ "drex_rules": {
+  "n": 106,
+  "accuracy": 1.0,
+  "macro_f1": 1.0,
+  "balanced_accuracy": 1.0,
+  "missed_bad_claims": 0.0,
+  "false_alarms": 0.0,
+  "flag_recall": 1.0
+ },
+ "drex_rules_fitted": {
+  "n": 106,
+  "accuracy": 1.0,
+  "macro_f1": 1.0,
+  "balanced_accuracy": 1.0,
+  "missed_bad_claims": 0.0,
+  "false_alarms": 0.0,
+  "flag_recall": 1.0
+ },
+ "drex_speed": {
+  "p50_s_per_petition": 0.33787399998982437,
+  "p95_s_per_petition": 0.4462155000073835
+ },
+ "drex_cost_per_1k_claims_usd": 0.017150943396226415,
+ "handoff_tokens_estimate": {
+  "draft_plus_exhibits": 2553.1428571428573,
+  "receipt": 475.57142857142856
+ }
+}

@@ -1,0 +1,1815 @@
+{
+ "pdfs": 86,
+ "parsed_now": 86,
+ "errors": [],
+ "seconds_p50": 2.764147582987789,
+ "note": "cost per item is NDI's reported job cost; it can be misattributed under concurrency, sum is approximate",
+ "items": [
+  {
+   "pdf": "data/cases_pdf/case01/exhibits/E3-award-certificate.pdf",
+   "seconds": 2.814142124989303,
+   "chars": 588,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "data/cases_pdf/case01/exhibits/E2-byteforge-article.pdf",
+   "seconds": 2.8340610419982113,
+   "chars": 999,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "data/cases_pdf/case01/exhibits/E1-offer-letter.pdf",
+   "seconds": 2.9520815419964492,
+   "chars": 906,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "data/cases_pdf/case01/exhibits/E4-payroll-2025.pdf",
+   "seconds": 2.901576208998449,
+   "chars": 904,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "data/cases_pdf/case01/exhibits/E6-org-chart.pdf",
+   "seconds": 2.675962916982826,
+   "chars": 667,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "data/cases_pdf/case01/exhibits/E7-paper.pdf",
+   "seconds": 3.004321041982621,
+   "chars": 870,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "data/cases_pdf/case01/exhibits/E8-membership-letter.pdf",
+   "seconds": 2.9892839590029325,
+   "chars": 769,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "data/cases_pdf/case01/exhibits/E5-judging-invite.pdf",
+   "seconds": 3.091717333009001,
+   "chars": 771,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "data/cases_pdf/case02/exhibits/E1-board-resolution.pdf",
+   "seconds": 2.709227415994974,
+   "chars": 764,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "data/cases_pdf/case02/exhibits/E2-ledgerline-article.pdf",
+   "seconds": 2.53818895801669,
+   "chars": 887,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "data/cases_pdf/case02/exhibits/E4-payroll-2025.pdf",
+   "seconds": 2.736799250007607,
+   "chars": 650,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "data/cases_pdf/case02/exhibits/E3-award-certificate.pdf",
+   "seconds": 2.8430002909735776,
+   "chars": 791,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "data/cases_pdf/case02/exhibits/E6-org-chart.pdf",
+   "seconds": 2.6347166660125367,
+   "chars": 522,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "data/cases_pdf/case02/exhibits/E5-judging-invite.pdf",
+   "seconds": 2.824328917020466,
+   "chars": 764,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "data/cases_pdf/case02/exhibits/E7-patent.pdf",
+   "seconds": 2.7021060419792775,
+   "chars": 777,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "data/cases_pdf/case02/exhibits/E8-membership-letter.pdf",
+   "seconds": 2.6082526670070365,
+   "chars": 731,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "data/cases_pdf/case03/exhibits/E1-offer-letter.pdf",
+   "seconds": 2.752724791003857,
+   "chars": 903,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "data/cases_pdf/case03/exhibits/E2-helix-ledger-article.pdf",
+   "seconds": 2.7819810409855563,
+   "chars": 853,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "data/cases_pdf/case03/exhibits/E4-payroll-2025.pdf",
+   "seconds": 2.6393731250136625,
+   "chars": 798,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "data/cases_pdf/case03/exhibits/E3-award-certificate.pdf",
+   "seconds": 2.8047507909941487,
+   "chars": 653,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "data/cases_pdf/case03/exhibits/E6-org-chart.pdf",
+   "seconds": 2.764147582987789,
+   "chars": 761,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "data/cases_pdf/case03/exhibits/E5-judging-invite.pdf",
+   "seconds": 2.8403978330024984,
+   "chars": 676,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "data/cases_pdf/case03/exhibits/E7-paper.pdf",
+   "seconds": 2.7738974160165526,
+   "chars": 663,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "data/cases_pdf/case03/exhibits/E8-grant-letter.pdf",
+   "seconds": 3.5428717079921626,
+   "chars": 647,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "data/cases_pdf/case04/exhibits/E2-emissions-brief-article.pdf",
+   "seconds": 2.8472179579839576,
+   "chars": 763,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "data/cases_pdf/case04/exhibits/E3-award-certificate.pdf",
+   "seconds": 3.4721941250027157,
+   "chars": 592,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "data/cases_pdf/case04/exhibits/E1-founding-certificate.pdf",
+   "seconds": 3.7096627909922972,
+   "chars": 685,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "data/cases_pdf/case04/exhibits/E4-payroll-2025.pdf",
+   "seconds": 2.9521540419955272,
+   "chars": 832,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "data/cases_pdf/case04/exhibits/E5-judging-invite.pdf",
+   "seconds": 3.7405790420016274,
+   "chars": 661,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "data/cases_pdf/case04/exhibits/E7-paper.pdf",
+   "seconds": 3.05979841700173,
+   "chars": 735,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "data/cases_pdf/case04/exhibits/E6-org-chart.pdf",
+   "seconds": 3.437116082990542,
+   "chars": 699,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "data/cases_pdf/case04/exhibits/E8-investor-update.pdf",
+   "seconds": 3.065572958003031,
+   "chars": 628,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "data/cases_pdf/case05/exhibits/E1-offer-letter.pdf",
+   "seconds": 2.575018082978204,
+   "chars": 640,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "data/cases_pdf/case05/exhibits/E2-automation-review-article.pdf",
+   "seconds": 2.5827579160104506,
+   "chars": 754,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "data/cases_pdf/case05/exhibits/E3-award-certificate.pdf",
+   "seconds": 2.5932034580037,
+   "chars": 651,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "data/cases_pdf/case05/exhibits/E4-payroll-2025.pdf",
+   "seconds": 2.6557808330107946,
+   "chars": 553,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "data/cases_pdf/case05/exhibits/E5-judging-invite.pdf",
+   "seconds": 2.7544685830071103,
+   "chars": 606,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "data/cases_pdf/case05/exhibits/E6-org-chart.pdf",
+   "seconds": 2.8421470419852994,
+   "chars": 749,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "data/cases_pdf/case05/exhibits/E8-membership-letter.pdf",
+   "seconds": 2.5902160839759745,
+   "chars": 663,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "data/cases_pdf/case05/exhibits/E7-paper.pdf",
+   "seconds": 3.1296954590070527,
+   "chars": 589,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "data/cases_pdf/case06/exhibits/E1-operating-agreement.pdf",
+   "seconds": 2.7819916660082527,
+   "chars": 911,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "data/cases_pdf/case06/exhibits/E2-formline-article.pdf",
+   "seconds": 3.807085917011136,
+   "chars": 752,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "data/cases_pdf/case06/exhibits/E3-award-certificate.pdf",
+   "seconds": 3.661804208997637,
+   "chars": 721,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "data/cases_pdf/case06/exhibits/E4-payroll-2025.pdf",
+   "seconds": 3.467527250002604,
+   "chars": 810,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "data/cases_pdf/case06/exhibits/E5-judging-invite.pdf",
+   "seconds": 2.599827208003262,
+   "chars": 673,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "data/cases_pdf/case06/exhibits/E7-client-letter.pdf",
+   "seconds": 2.632438792003086,
+   "chars": 668,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "data/cases_pdf/case06/exhibits/E6-org-chart.pdf",
+   "seconds": 3.0883159579825588,
+   "chars": 667,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "data/cases_pdf/case06/exhibits/E8-conference-program.pdf",
+   "seconds": 2.919393542018952,
+   "chars": 740,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "data/cases_pdf/case07/exhibits/E1-offer-letter.pdf",
+   "seconds": 3.040966375003336,
+   "chars": 681,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "data/cases_pdf/case07/exhibits/E2-classroom-tech-article.pdf",
+   "seconds": 2.740772500023013,
+   "chars": 748,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "data/cases_pdf/case07/exhibits/E3-award-certificate.pdf",
+   "seconds": 2.575216333003482,
+   "chars": 513,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "data/cases_pdf/case07/exhibits/E4-payroll-2025.pdf",
+   "seconds": 2.952547417022288,
+   "chars": 723,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "data/cases_pdf/case07/exhibits/E5-judging-invite.pdf",
+   "seconds": 2.62721975002205,
+   "chars": 583,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "data/cases_pdf/case07/exhibits/E6-org-chart.pdf",
+   "seconds": 2.663914750010008,
+   "chars": 666,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "data/cases_pdf/case07/exhibits/E8-membership-letter.pdf",
+   "seconds": 2.618212208006298,
+   "chars": 633,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "data/cases_pdf/case07/exhibits/E7-paper.pdf",
+   "seconds": 3.5116517919814214,
+   "chars": 603,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "data/cases_pdf/case08/exhibits/E1-founder-agreement.pdf",
+   "seconds": 2.944990666001104,
+   "chars": 782,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "data/cases_pdf/case08/exhibits/E2-meddevice-observer-article.pdf",
+   "seconds": 2.774365790974116,
+   "chars": 798,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "data/cases_pdf/case08/exhibits/E4-payroll-2025.pdf",
+   "seconds": 2.733820208988618,
+   "chars": 774,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "data/cases_pdf/case08/exhibits/E3-award-certificate.pdf",
+   "seconds": 3.450328208011342,
+   "chars": 763,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "data/cases_pdf/case08/exhibits/E5-judging-invite.pdf",
+   "seconds": 3.250958333024755,
+   "chars": 618,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "data/cases_pdf/case08/exhibits/E6-org-chart.pdf",
+   "seconds": 2.5597774580237456,
+   "chars": 678,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "data/cases_pdf/case08/exhibits/E7-paper.pdf",
+   "seconds": 2.660478250007145,
+   "chars": 630,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "data/cases_pdf/case08/exhibits/E8-clinical-study-summary.pdf",
+   "seconds": 2.7452328750223387,
+   "chars": 701,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "data/cases_pdf/case09/exhibits/E1-cap-table-summary.pdf",
+   "seconds": 2.7528141670045443,
+   "chars": 665,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "data/cases_pdf/case09/exhibits/E2-coastal-business-journal-article.pdf",
+   "seconds": 2.7504664169973694,
+   "chars": 697,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "data/cases_pdf/case09/exhibits/E3-award-certificate.pdf",
+   "seconds": 2.929158874991117,
+   "chars": 699,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "data/cases_pdf/case09/exhibits/E4-payroll-2025.pdf",
+   "seconds": 3.3759485830087215,
+   "chars": 611,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "data/cases_pdf/case09/exhibits/E5-judging-invite.pdf",
+   "seconds": 3.0642968339961953,
+   "chars": 570,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "data/cases_pdf/case09/exhibits/E6-org-chart.pdf",
+   "seconds": 2.927538541989634,
+   "chars": 612,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "data/cases_pdf/case09/exhibits/E7-whitepaper.pdf",
+   "seconds": 2.681794042000547,
+   "chars": 681,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "data/cases_pdf/case09/exhibits/E8-membership-letter.pdf",
+   "seconds": 2.584889582998585,
+   "chars": 650,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "data/cases_pdf/case10/exhibits/E1-offer-letter.pdf",
+   "seconds": 2.7508415000047535,
+   "chars": 597,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "data/cases_pdf/case10/exhibits/E2-gridbeat-article.pdf",
+   "seconds": 2.78410449999501,
+   "chars": 735,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "data/cases_pdf/case10/exhibits/E3-award-certificate.pdf",
+   "seconds": 2.6092473329917993,
+   "chars": 604,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "data/cases_pdf/case10/exhibits/E4-payroll-2025.pdf",
+   "seconds": 2.6219996669969987,
+   "chars": 706,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "data/cases_pdf/case10/exhibits/E5-judging-invite.pdf",
+   "seconds": 2.5318572920223232,
+   "chars": 609,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "data/cases_pdf/case10/exhibits/E6-org-chart.pdf",
+   "seconds": 2.6741532089945395,
+   "chars": 689,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "data/cases_pdf/case10/exhibits/E7-paper.pdf",
+   "seconds": 2.578542417002609,
+   "chars": 616,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "data/cases_pdf/case10/exhibits/E8-patent.pdf",
+   "seconds": 2.740660624986049,
+   "chars": 682,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "demo/case-demo/exhibits-pdf/E1-offer-letter.pdf",
+   "seconds": 2.6729092090099584,
+   "chars": 816,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "demo/case-demo/exhibits-pdf/E2-press-article.pdf",
+   "seconds": 2.62479808399803,
+   "chars": 791,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "demo/case-demo/exhibits-pdf/E3-org-chart.pdf",
+   "seconds": 2.4803172499814536,
+   "chars": 622,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "demo/case-demo/exhibits-pdf/E4-payroll-2025.pdf",
+   "seconds": 2.620311542006675,
+   "chars": 641,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "demo/case-demo/exhibits-pdf/E5-email-comp-discussion.pdf",
+   "seconds": 2.6673835830006283,
+   "chars": 581,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  },
+  {
+   "pdf": "demo/case-demo/exhibits-pdf/E6-field-report.pdf",
+   "seconds": 2.629735249996884,
+   "chars": 672,
+   "cost": {
+    "lines": [
+     {
+      "unit": "page",
+      "quantity": 1,
+      "execution": "fresh",
+      "operation": "parse",
+      "amount_usd": "0.0035",
+      "reuse_reason": null,
+      "unit_price_usd": "0.0035"
+     }
+    ],
+    "currency": "USD",
+    "total_usd": "0.0035",
+    "pricing_version": "retail-2026-11-10-v2"
+   }
+  }
+ ]
+}

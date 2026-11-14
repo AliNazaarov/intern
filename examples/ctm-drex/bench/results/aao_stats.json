@@ -1,0 +1,172 @@
+{
+  "aao": {
+    "decisions": 619,
+    "parsed": 619,
+    "cost_usd": 0.6807,
+    "input_tokens": 3221723,
+    "model": "google/gemma-4-31B-it",
+    "outcome_by_order_line": {
+      "rejected": 23,
+      "dismissed": 534,
+      "remanded": 26,
+      "none": 19,
+      "withdrawn": 4,
+      "other": 5,
+      "sustained": 8
+    },
+    "outcome_by_model": {
+      "rejected": 23,
+      "dismissed": 548,
+      "remanded": 28,
+      "withdrawn": 10,
+      "sustained": 10
+    },
+    "model_agrees_with_order_line": "582/595",
+    "form": {
+      "O-1A": 442,
+      "O-1B": 130,
+      "O-2": 13,
+      "other": 27,
+      "EB-1A": 7
+    },
+    "main_reason": {
+      "procedural": 166,
+      "other": 12,
+      "claims_not_backed": 381,
+      "missing_documents": 38,
+      "not_credible": 10,
+      "final_merits": 12
+    },
+    "criteria": {
+      "awards": {
+        "not_addressed": 307,
+        "met": 21,
+        "not_met": 291
+      },
+      "membership": {
+        "not_addressed": 460,
+        "met": 5,
+        "not_met": 154
+      },
+      "press": {
+        "not_addressed": 330,
+        "met": 15,
+        "not_met": 274
+      },
+      "judging": {
+        "not_addressed": 507,
+        "met": 29,
+        "not_met": 83
+      },
+      "contributions": {
+        "not_addressed": 463,
+        "not_met": 145,
+        "met": 11
+      },
+      "articles": {
+        "not_addressed": 541,
+        "met": 22,
+        "not_met": 56
+      },
+      "exhibitions": {
+        "not_addressed": 619
+      },
+      "critical_role": {
+        "not_addressed": 302,
+        "met": 33,
+        "not_met": 284
+      },
+      "salary": {
+        "not_addressed": 404,
+        "not_met": 191,
+        "met": 24
+      },
+      "commercial": {
+        "not_addressed": 519,
+        "not_met": 98,
+        "met": 2
+      }
+    }
+  },
+  "aao_19": {
+    "decisions": 450,
+    "parsed": 450,
+    "cost_usd": 0.5686,
+    "input_tokens": 2709820,
+    "model": "google/gemma-4-31B-it",
+    "outcome_by_order_line": {
+      "dismissed": 381,
+      "remanded": 67,
+      "sustained": 2
+    },
+    "outcome_by_model": {
+      "dismissed": 381,
+      "remanded": 67,
+      "sustained": 2
+    },
+    "model_agrees_with_order_line": "450/450",
+    "form": {
+      "EB-1A": 450
+    },
+    "main_reason": {
+      "claims_not_backed": 216,
+      "procedural": 51,
+      "final_merits": 146,
+      "other": 31,
+      "not_credible": 5,
+      "missing_documents": 1
+    },
+    "criteria": {
+      "awards": {
+        "met": 43,
+        "not_addressed": 182,
+        "not_met": 225
+      },
+      "membership": {
+        "not_met": 197,
+        "not_addressed": 231,
+        "met": 22
+      },
+      "press": {
+        "not_met": 158,
+        "not_addressed": 190,
+        "met": 102
+      },
+      "judging": {
+        "not_addressed": 165,
+        "met": 233,
+        "not_met": 52
+      },
+      "contributions": {
+        "not_addressed": 225,
+        "not_met": 203,
+        "met": 22
+      },
+      "articles": {
+        "not_addressed": 216,
+        "met": 178,
+        "not_met": 56
+      },
+      "exhibitions": {
+        "not_addressed": 371,
+        "met": 34,
+        "not_met": 45
+      },
+      "critical_role": {
+        "met": 131,
+        "not_addressed": 173,
+        "not_met": 146
+      },
+      "salary": {
+        "not_addressed": 264,
+        "not_met": 137,
+        "met": 49
+      },
+      "commercial": {
+        "not_addressed": 423,
+        "not_met": 25,
+        "met": 2
+      }
+    }
+  }
+}

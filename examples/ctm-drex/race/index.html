@@ -1,0 +1,227 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CTM Race</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Geist+Mono:wght@400;500;600&family=Inter:wght@400;500;600&family=Newsreader:opsz,wght@6..72,400&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg: #fbfbf9; --sand: #f4f4f0; --line: #e8e8e3; --ink: #0c0c09; --muted: #7c7c67;
+  --faint: #b9b9aa; --btn: #1d1d16; --ok: #2d8949; --bad: #e40014; --warn: #d6810c;
+  --drex: #6f9c37; --frontier: #e8c1b0; --frontier-ink: #b4664a; --rag: #4677ad;
+  --serif: "Newsreader", "Iowan Old Style", Georgia, serif;
+  --sans: "Inter", system-ui, -apple-system, "Helvetica Neue", sans-serif;
+  --mono: "Geist Mono", ui-monospace, "SF Mono", Menlo, monospace;
+}
+* { box-sizing: border-box; }
+html, body { margin: 0; height: 100%; }
+body { background: var(--bg); color: var(--ink); font: 14px/1.45 var(--sans); -webkit-font-smoothing: antialiased; }
+button, select, input { font: inherit; color: inherit; }
+.page { max-width: 1880px; min-height: 100vh; height: 100vh; min-width: 1180px; margin: 0 auto; padding: 26px 56px 16px; display: flex; flex-direction: column; gap: 16px; }
+@media (max-height: 880px) { .page { height: auto; } .lane-body { max-height: 520px; } }
+@media (max-width: 1500px) { .page { padding: 22px 32px 14px; } }
+
+.mono { font-family: var(--mono); font-variant-numeric: tabular-nums; }
+.label { font: 500 10.5px/1 var(--mono); letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
+
+/* header */
+header { display: flex; align-items: flex-end; justify-content: space-between; gap: 32px; }
+.wordmark { display: flex; align-items: center; gap: 9px; font: 500 12px/1 var(--mono); letter-spacing: .1em; text-transform: uppercase; margin-bottom: 12px; }
+.wordmark i { width: 9px; height: 9px; background: var(--drex); display: block; }
+.wordmark span { color: var(--muted); }
+h1 { font: 400 46px/1.05 var(--serif); letter-spacing: -0.025em; margin: 0; }
+.subline { font: 400 12.5px/1.4 var(--mono); color: var(--muted); margin: 10px 0 0; }
+.legend { display: flex; gap: 14px; align-items: center; flex-wrap: wrap; justify-content: flex-end; padding-bottom: 4px; }
+
+/* controls */
+.controls { display: flex; align-items: center; gap: 22px; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); padding: 11px 0; }
+.field { display: flex; align-items: center; gap: 10px; }
+select { appearance: none; -webkit-appearance: none; height: 38px; min-width: 210px; padding: 0 34px 0 12px; border: 1px solid var(--line); border-radius: 0; background: linear-gradient(45deg, transparent 50%, var(--ink) 50%) no-repeat right 17px center / 5px 5px, linear-gradient(135deg, var(--ink) 50%, transparent 50%) no-repeat right 12px center / 5px 5px, #fff; font: 500 13px/1 var(--mono); cursor: pointer; }
+select:focus-visible, button:focus-visible, .row:focus-visible { outline: 2px solid var(--ink); outline-offset: 2px; }
+.btn { height: 38px; padding: 0 18px; border: 1px solid var(--line); border-radius: 0; background: transparent; font: 500 13px/1 var(--sans); cursor: pointer; white-space: nowrap; }
+.btn:hover { background: var(--sand); }
+.btn.primary { background: var(--btn); border-color: var(--btn); color: var(--bg); padding: 0 34px; font-weight: 600; letter-spacing: .01em; }
+.btn.primary:hover { background: #000; }
+.btn[disabled] { opacity: .45; cursor: default; }
+.status { margin-left: auto; font: 400 12px/1.3 var(--mono); color: var(--muted); text-align: right; }
+.status.err { color: var(--bad); }
+
+/* lanes */
+.lanes { flex: 1 1 auto; min-height: 0; display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 20px; }
+.lane { --c: var(--ink); --ct: var(--ink); background: #fff; border: 1px solid var(--line); border-radius: 6px; display: flex; flex-direction: column; min-height: 0; overflow: hidden; }
+.lane[data-lane="drex"] { --c: var(--drex); --ct: #557a26; }
+.lane[data-lane="rag"] { --c: var(--rag); --ct: var(--rag); }
+.lane[data-lane="frontier"] { --c: var(--frontier); --ct: var(--frontier-ink); }
+.lane-stripe { height: 3px; background: var(--c); flex: none; }
+.lane-head { padding: 14px 20px 12px; border-bottom: 1px solid var(--line); flex: none; }
+.lane-title { display: flex; align-items: baseline; gap: 10px; }
+.lane-name { font: 600 16px/1.2 var(--sans); letter-spacing: -0.01em; white-space: nowrap; }
+.lane-model { font: 400 11.5px/1.2 var(--mono); color: var(--muted); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; min-width: 0; flex: 1; }
+.badge { font: 600 10.5px/1 var(--mono); letter-spacing: .06em; padding: 4px 7px; border: 1px solid var(--ink); visibility: hidden; }
+.badge.on { visibility: visible; }
+.watch { display: flex; align-items: baseline; gap: 8px; margin: 9px 0 10px; }
+.watch-num { font: 500 60px/1 var(--mono); font-variant-numeric: tabular-nums; letter-spacing: -0.04em; color: var(--faint); }
+.lane.running .watch-num, .lane.done .watch-num { color: var(--ink); }
+.lane.failed .watch-num { color: var(--faint); }
+.watch-unit { font: 400 18px/1 var(--mono); color: var(--muted); }
+.watch-note { font: 400 11px/1.3 var(--mono); color: var(--muted); margin-left: auto; text-align: right; }
+.stats { display: grid; grid-template-columns: 1.3fr 1fr 1fr 1.2fr; gap: 12px; }
+.stat b { display: block; margin-top: 6px; font: 500 15px/1 var(--mono); font-variant-numeric: tabular-nums; }
+.stat b.dim { color: var(--faint); }
+.lane-error { display: none; margin-top: 12px; padding: 9px 11px; border-left: 2px solid var(--bad); background: #fdf1f1; font: 400 12px/1.4 var(--mono); color: #9c0010; word-break: break-word; }
+.lane.failed .lane-error { display: block; }
+.lane-body { flex: 1 1 auto; min-height: 0; overflow-y: auto; }
+.row { display: grid; grid-template-columns: 26px minmax(0, 1fr) auto 16px; align-items: center; gap: 10px; width: 100%; min-height: 29px; padding: 3px 20px 3px 16px; border: 0; border-bottom: 1px solid var(--sand); background: transparent; text-align: left; cursor: pointer; }
+.row:hover { background: var(--sand); }
+.row.sel { background: var(--sand); box-shadow: inset 2px 0 0 var(--ink); }
+.row-n { font: 400 11px/1 var(--mono); color: var(--faint); text-align: right; }
+.row-text { font-size: 13.5px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.row.pending .row-text { color: var(--faint); }
+.row-text.skel { height: 9px; background: var(--sand); border-radius: 2px; }
+.mark { font: 600 13px/1 var(--mono); text-align: center; }
+.mark.yes { color: var(--ok); } .mark.no { color: var(--bad); }
+.empty { padding: 28px 20px; font: 400 12.5px/1.5 var(--mono); color: var(--faint); }
+
+.chip { display: inline-block; font: 500 10px/1 var(--mono); letter-spacing: .06em; text-transform: uppercase; padding: 4px 7px; border: 1px solid; border-radius: 2px; white-space: nowrap; }
+.chip.supported { color: var(--ok); border-color: #b9dcc4; background: #f1f8f3; }
+.chip.contradicted { color: var(--bad); border-color: #f5b3b9; background: #fef2f3; }
+.chip.unsupported { color: #a86200; border-color: #efd0a2; background: #fdf6ea; }
+.chip.error { color: var(--muted); border-color: var(--line); background: var(--sand); }
+.chip.wait { color: var(--faint); border-color: var(--line); border-style: dashed; background: transparent; }
+@keyframes in { from { opacity: 0; transform: translateY(2px); } to { opacity: 1; transform: none; } }
+.row .chip.fresh, .row .mark.fresh { animation: in .22s ease-out both; }
+@media (prefers-reduced-motion: reduce) { .row .chip.fresh, .row .mark.fresh { animation: none; } }
+
+/* results */
+.results { flex: none; border: 1px solid var(--line); border-radius: 6px; background: #fff; padding: 14px 22px; display: grid; grid-template-columns: minmax(0, 1.5fr) repeat(3, minmax(0, .62fr)); gap: 34px; align-items: center; min-height: 104px; }
+.results.idle { background: transparent; border-style: dashed; }
+.verdict-line { font: 400 28px/1.15 var(--serif); letter-spacing: -0.02em; margin: 0; }
+.verdict-line em { font-style: normal; box-shadow: inset 0 -0.38em 0 #dfeacb; }
+.results.idle .verdict-line { color: var(--faint); font-size: 22px; }
+.verdict-sub { font: 400 12px/1.5 var(--mono); color: var(--muted); margin: 8px 0 0; }
+.bars .label { margin-bottom: 9px; display: block; }
+.bar-row { display: grid; grid-template-columns: 74px minmax(0, 1fr) 84px; align-items: center; gap: 10px; height: 20px; }
+.bar-name { font: 400 11px/1 var(--mono); color: var(--muted); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.bar-track { height: 9px; background: var(--sand); }
+.bar-fill { height: 100%; min-width: 2px; transition: width .5s cubic-bezier(.2,.7,.2,1); }
+.bar-val { font: 500 11.5px/1 var(--mono); font-variant-numeric: tabular-nums; text-align: right; white-space: nowrap; }
+
+/* footer */
+footer > div:last-child { text-align: right; }
+footer { flex: none; display: flex; justify-content: space-between; gap: 24px; align-items: baseline; font: 400 11.5px/1.4 var(--mono); color: var(--muted); }
+footer b { font-weight: 500; color: var(--ink); }
+footer a { color: var(--muted); text-decoration: underline; text-underline-offset: 3px; cursor: pointer; }
+.tally span + span::before { content: "·"; margin: 0 9px; color: var(--faint); }
+
+/* drawer + upload */
+.scrim { position: fixed; inset: 0; background: rgba(12, 12, 9, .22); opacity: 0; pointer-events: none; transition: opacity .18s; z-index: 10; }
+.scrim.on { opacity: 1; pointer-events: auto; }
+.drawer { position: fixed; top: 0; right: 0; bottom: 0; width: min(760px, 52vw); background: var(--bg); border-left: 1px solid var(--line); transform: translateX(100%); transition: transform .22s cubic-bezier(.2,.7,.2,1); z-index: 11; display: flex; flex-direction: column; }
+.drawer.on { transform: none; }
+@media (prefers-reduced-motion: reduce) { .drawer, .scrim, .bar-fill { transition: none; } }
+.drawer-head { display: flex; justify-content: space-between; align-items: center; padding: 18px 28px; border-bottom: 1px solid var(--line); }
+.drawer-body { padding: 24px 28px 40px; overflow-y: auto; }
+.d-claim { font: 400 27px/1.22 var(--serif); letter-spacing: -0.018em; margin: 0 0 14px; }
+.d-hand { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; margin-bottom: 22px; font: 400 12px/1.4 var(--mono); color: var(--muted); }
+.d-lane { border-top: 1px solid var(--line); padding: 16px 0 18px; }
+.d-lane-head { display: flex; align-items: center; gap: 10px; }
+.d-lane-head .sw { width: 9px; height: 9px; flex: none; }
+.d-lane-head strong { font: 600 14px/1 var(--sans); margin-right: auto; }
+.d-meta { font: 400 12px/1.5 var(--mono); color: var(--muted); margin: 9px 0 0; }
+.d-note { margin: 8px 0 0; font-size: 13.5px; }
+.d-flag { margin: 12px 0 0; padding: 9px 12px; border-left: 2px solid var(--warn); background: #fdf6ea; font: 400 12px/1.5 var(--mono); color: #7d4a00; }
+.source { margin-top: 12px; border: 1px solid var(--line); border-radius: 6px; background: #fff; overflow: hidden; }
+.source-head { display: flex; justify-content: space-between; gap: 12px; padding: 8px 12px; background: var(--sand); border-bottom: 1px solid var(--line); font: 500 11.5px/1.3 var(--mono); }
+.source-head span:last-child { color: var(--muted); font-weight: 400; }
+.source-text { margin: 0; padding: 12px; font: 400 12.5px/1.6 var(--mono); white-space: pre-wrap; word-break: break-word; max-height: 250px; overflow-y: auto; }
+.source-text.chunk { max-height: 110px; }
+
+.modal { position: fixed; top: 50%; left: 50%; width: 560px; transform: translate(-50%, -46%); opacity: 0; pointer-events: none; background: var(--bg); border: 1px solid var(--line); border-radius: 6px; z-index: 12; transition: opacity .18s, transform .18s; }
+.modal.on { opacity: 1; pointer-events: auto; transform: translate(-50%, -50%); }
+.modal-body { padding: 22px 28px 26px; }
+.modal h2 { font: 400 26px/1.15 var(--serif); letter-spacing: -0.02em; margin: 0 0 6px; }
+.modal p { margin: 0 0 18px; color: var(--muted); font-size: 13px; }
+.file { display: block; border: 1px solid var(--line); background: #fff; padding: 12px 14px; margin-bottom: 10px; }
+.file .label { display: block; margin-bottom: 8px; }
+.file input { font: 400 12px/1.3 var(--mono); width: 100%; }
+.steps { list-style: none; margin: 16px 0 18px; padding: 0; border-top: 1px solid var(--line); }
+.steps li { display: flex; justify-content: space-between; gap: 16px; padding: 9px 0; border-bottom: 1px solid var(--line); font: 400 12.5px/1.4 var(--mono); color: var(--faint); }
+.steps li.active, .steps li.done { color: var(--ink); }
+.steps li.done span:first-child::before { content: "✓ "; color: var(--ok); }
+.steps li.fail { color: var(--bad); }
+.modal-actions { display: flex; justify-content: flex-end; gap: 10px; }
+</style>
+</head>
+<body>
+<div class="page">
+  <header>
+    <div>
+      <div class="wordmark"><i></i>CTM <span>×</span> Drex <span>· Drexathon by Nace AI</span></div>
+      <h1>Check every sentence. Watch who finishes first.</h1>
+      <p class="subline">One O-1A petition · every claim checked against its exhibits · three engines, one start signal</p>
+    </div>
+    <div class="legend" aria-label="Verdict legend">
+      <span class="chip supported">Proven</span>
+      <span class="chip contradicted">Contradicted</span>
+      <span class="chip unsupported">Client-stated only</span>
+      <span class="label">✓ ✗ vs hand label</span>
+    </div>
+  </header>
+
+  <section class="controls" aria-label="Race controls">
+    <label class="field"><span class="label">Case</span><select id="case"></select></label>
+    <label class="field"><span class="label">Lane 3 opponent</span><select id="opponent"></select></label>
+    <button id="race" class="btn primary" type="button" disabled>Race</button>
+    <button id="upload-open" class="btn" type="button">Upload PDFs</button>
+    <div id="status" class="status" role="status">Loading cases…</div>
+  </section>
+
+  <main id="lanes" class="lanes"></main>
+
+  <section id="results" class="results idle" aria-live="polite">
+    <div>
+      <p id="verdict-line" class="verdict-line">Press Race. The three lanes start at the same instant.</p>
+      <p id="verdict-sub" class="verdict-sub">Seconds, dollars and correct answers appear here when all three lanes finish.</p>
+    </div>
+    <div class="bars" id="bars-time"></div>
+    <div class="bars" id="bars-cost"></div>
+    <div class="bars" id="bars-acc"></div>
+  </section>
+
+  <footer>
+    <div class="tally" id="tally"></div>
+    <div>Live API calls · synthetic cases (fictional founders and exhibits) · numbers measured on this run</div>
+  </footer>
+</div>
+
+<div id="scrim" class="scrim"></div>
+
+<aside id="drawer" class="drawer" aria-hidden="true" aria-label="Claim detail">
+  <div class="drawer-head"><span class="label" id="drawer-title">Claim</span><button id="drawer-close" class="btn" type="button">Close</button></div>
+  <div class="drawer-body" id="drawer-body"></div>
+</aside>
+
+<div id="upload" class="modal" role="dialog" aria-modal="true" aria-labelledby="upload-h" aria-hidden="true">
+  <div class="modal-body">
+    <h2 id="upload-h">Race your own petition</h2>
+    <p>Exhibits are parsed once with NDI. All three lanes then race on the same parsed text, so parsing time is shown separately.</p>
+    <label class="file"><span class="label">Exhibit PDFs</span><input id="up-exhibits" type="file" accept=".pdf,application/pdf" multiple></label>
+    <label class="file"><span class="label">Draft petition (.md, .txt or .pdf)</span><input id="up-draft" type="file" accept=".md,.txt,.pdf,text/plain,text/markdown,application/pdf"></label>
+    <ul class="steps">
+      <li id="step-upload"><span>Upload files</span><span id="step-upload-v">·</span></li>
+      <li id="step-parse"><span>NDI parsing (shared by all lanes)</span><span id="step-parse-v">·</span></li>
+      <li id="step-ready"><span>Case ready</span><span id="step-ready-v">·</span></li>
+    </ul>
+    <div class="modal-actions">
+      <button id="upload-close" class="btn" type="button">Close</button>
+      <button id="upload-go" class="btn primary" type="button">Parse and add case</button>
+    </div>
+  </div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>

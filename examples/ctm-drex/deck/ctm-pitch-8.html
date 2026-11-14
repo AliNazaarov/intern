@@ -1,0 +1,273 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>CTM × Drex</title><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,400;0,500;0,600;0,700;0,800;1,800&display=swap"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600&display=swap"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700;800;900&display=swap"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,600;8..60,700&display=swap"><style>
+* { margin:0; padding:0; box-sizing:border-box; }
+html, body { background:#0d0826; }
+.frame { width:1920px; height:1080px; position:relative; overflow:hidden; transform-origin:0 0; margin:0 auto 24px; }
+.frame > section { width:1920px; height:1080px; position:relative; }
+aside { display:none; }
+.wrap { display:flex; flex-direction:column; align-items:center; padding:24px 0; }
+@media print { @page { size:1920px 1080px; margin:0 } html,body{background:none} .wrap{padding:0} .frame{margin:0; transform:none!important; page-break-after:always; break-after:page} .holder{width:auto!important;height:auto!important;margin:0!important} .fade-up{animation:none!important} }
+:root {
+  --ink: #120a33;
+  --body: #4a4566;
+  --muted: #6e6890;
+  --paper: #fbfaff;
+  --card: #efecf8;
+  --lav: #a58cff;
+  --indigo: #5b3cf0;
+  --deep: #3b22a8;
+  --dark: #21115B;
+  --on-dark: #ddd6fb;
+  --lime: #c3f00f;
+  --lime-ink: #5f7a00;
+  --rag: #8fb5e0;
+  --good: #2f7a4f;
+  --bad: #b4471d;
+}
+body { font-family: 'Inter', Arial, sans-serif; color: var(--ink); }
+section { background: var(--paper); padding: 112px 128px 160px; display: flex; flex-direction: column; gap: 28px; counter-increment: page; }
+section.darkbg { background: var(--dark); }
+
+.label { font-family: 'Source Serif 4', Georgia, serif; font-size: 25px; font-weight: 700; letter-spacing: 3px; text-transform: uppercase; color: var(--indigo); }
+h1 { font-size: 112px; font-weight: 800; letter-spacing: -3px; line-height: 1.0; color: var(--ink); }
+h2 { font-size: 60px; font-weight: 800; letter-spacing: -1.5px; line-height: 1.08; color: var(--ink); }
+h2 i { color: var(--indigo); }
+h3 { font-size: 32px; font-weight: 700; line-height: 1.2; color: var(--ink); }
+.sub { font-size: 30px; line-height: 1.35; color: var(--body); }
+.foot { position: absolute; left: 128px; bottom: 56px; width: 1560px; font-size: 24px; line-height: 1.3; color: var(--muted); }
+.pn { position: absolute; right: 128px; bottom: 56px; width: 80px; text-align: right; font-size: 24px; color: var(--muted); }
+
+.row { display: flex; gap: 28px; }
+.grow { flex: 1; }
+.col { display: flex; flex-direction: column; gap: 20px; }
+.card { background: var(--card); border-radius: 20px; padding: 32px 36px; display: flex; flex-direction: column; gap: 14px; flex: 1; }
+.card p { font-size: 26px; line-height: 1.4; color: var(--body); }
+.card.dark { background: var(--dark); }
+.card.dark h3 { color: #ffffff; }
+.card.dark p { color: var(--on-dark); }
+.card .big { font-family: 'Montserrat', 'Inter', sans-serif; font-size: 60px; font-weight: 900; letter-spacing: -1px; color: var(--indigo); line-height: 1.05; }
+.card.dark .big { color: var(--lime); }
+.card .small { font-size: 24px; line-height: 1.35; }
+
+.ctitle { font-size: 26px; font-weight: 700; color: var(--ink); }
+.bars { display: flex; flex-direction: column; gap: 10px; }
+.brow { display: flex; align-items: center; gap: 16px; }
+.blab { width: 300px; text-align: right; font-size: 24px; color: var(--body); }
+.blab.hi { font-weight: 700; color: var(--ink); }
+.btrack { flex: 1; display: flex; align-items: center; gap: 12px; }
+.bar { height: 30px; border-radius: 6px; background: var(--lav); }
+.bar.hi { background: var(--indigo); }
+.bval { font-size: 24px; font-weight: 600; color: var(--ink); white-space: nowrap; }
+
+table.t { font-size: 24px; color: var(--ink); width: 100%; }
+
+.receipt { background: #1b1240; border-radius: 20px; padding: 28px 32px; display: flex; flex-direction: column; gap: 10px; flex: 1.4; }
+.receipt p { font-family: 'JetBrains Mono', 'Courier New', monospace; font-size: 24px; line-height: 1.35; color: #e8e4ff; }
+.receipt .hd { color: var(--lav); font-weight: 600; }
+.receipt .bad { color: #ffb08a; font-weight: 600; }
+.receipt .ok { color: #8fe0b0; font-weight: 600; }
+
+.box { border-radius: 16px; padding: 24px 28px; display: flex; flex-direction: column; gap: 8px; }
+.box.light { background: var(--card); border: 3px solid var(--indigo); }
+.box.darkbox { background: var(--dark); }
+.box.drex { background: var(--deep); }
+.box h3 { font-size: 36px; }
+.box p { font-size: 24px; line-height: 1.35; color: var(--body); }
+.box.darkbox h3, .box.drex h3 { color: #ffffff; }
+.box.darkbox p, .box.drex p { color: var(--on-dark); }
+
+.cover h1 { color: #ffffff; }
+.cover .sub { color: var(--on-dark); font-size: 40px; }
+.cover .label { color: var(--lav); }
+.pill { font-size: 26px; font-weight: 600; color: #ffffff; background: rgba(255,255,255,0.08); border: 2px solid rgba(165,140,255,0.55); border-radius: 40px; padding: 12px 26px; display: flex; align-items: center; gap: 12px; }
+
+.fade-up { animation: up 500ms ease-out both; animation-delay: calc(var(--i) * 120ms); }
+@keyframes up { from { opacity: 0; transform: translateY(24px); } to { opacity: 1; transform: translateY(0); } }
+
+/* CTM brand: logo, icons, flow */
+.lrow { display: flex; align-items: center; gap: 14px; }
+.lockup { display: flex; align-items: center; gap: 28px; position: relative; }
+.wordmark { font-family: 'Montserrat', 'Inter', sans-serif; font-weight: 900; letter-spacing: 2px; line-height: 1; }
+.ring { position: absolute; right: -180px; top: 90px; opacity: 0.22; }
+.cover > *:not(.ring) { position: relative; }
+.ic { width: 48px; height: 48px; color: var(--indigo); flex: none; }
+.card.dark .ic, .node.dark .ic, .node.drexn .ic { color: var(--lime); }
+.icw { display: flex; }
+.pic { width: 30px; height: 30px; color: var(--lime); }
+.tic { width: 30px; height: 30px; color: var(--indigo); vertical-align: -6px; margin-right: 6px; }
+.card.dark2 { background: rgba(255,255,255,0.07); border: 2px solid rgba(165,140,255,0.4); }
+.card.dark2 h3 { color: #ffffff; }
+.card.dark2 p { color: var(--on-dark); }
+.card.dark2 .ic { color: var(--lime); }
+.strip { display: flex; align-items: center; gap: 22px; background: #f5ffd6; border-left: 8px solid var(--lime); border-radius: 14px; padding: 20px 28px; }
+.strip .ic { color: var(--lime-ink); }
+.strip p { font-size: 26px; line-height: 1.35; color: var(--ink); }
+.flow { align-items: stretch; gap: 10px; }
+.node { flex: 1; border-radius: 18px; padding: 24px 22px; display: flex; flex-direction: column; gap: 10px; }
+.node h3 { font-size: 30px; }
+.node p { font-size: 22px; line-height: 1.35; color: var(--body); }
+.node.light { background: var(--card); }
+.node.dark { background: var(--dark); }
+.node.drexn { background: var(--indigo); }
+.node.dark h3, .node.drexn h3 { color: #ffffff; }
+.node.dark p, .node.drexn p { color: var(--on-dark); }
+.arr { align-self: center; font-family: 'Montserrat', sans-serif; font-size: 44px; font-weight: 900; color: var(--lav); }
+.bar.rag { background: var(--rag); }
+h2 i { color: var(--indigo); font-style: italic; }
+</style></head><body><div class="wrap"><div class="holder" style="margin-bottom:24px"><div class="frame"><section id="cover" class="darkbg cover" style="justify-content:center; gap:34px">
+<div class="ring"><svg class="mark" width="900" height="900" viewBox="0 0 100 100"><defs><linearGradient id="gbg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#9b2cf5"/><stop offset="0.5" stop-color="#f3eaff"/><stop offset="1" stop-color="#c3f00f"/></linearGradient></defs><circle cx="50.0" cy="10.0" r="7" fill="#9b2cf5"/><circle cx="70.0" cy="15.4" r="7" fill="#c3f00f"/><circle cx="84.6" cy="30.0" r="7" fill="#c3f00f"/><circle cx="90.0" cy="50.0" r="7" fill="#c3f00f"/><circle cx="84.6" cy="70.0" r="7" fill="#c3f00f"/><circle cx="70.0" cy="84.6" r="7" fill="#c3f00f"/><circle cx="50.0" cy="90.0" r="7" fill="#c3f00f"/><circle cx="30.0" cy="84.6" r="7" fill="#9b2cf5"/><circle cx="15.4" cy="70.0" r="7" fill="#9b2cf5"/><circle cx="10.0" cy="50.0" r="7" fill="#9b2cf5"/><circle cx="15.4" cy="30.0" r="7" fill="#9b2cf5"/><circle cx="30.0" cy="15.4" r="7" fill="#9b2cf5"/><path d="M50 24 C51.5 44 56 48.5 76 50 C56 51.5 51.5 56 50 76 C48.5 56 44 51.5 24 50 C44 48.5 48.5 44 50 24Z" fill="url(#gbg)"/></svg></div>
+<p class="label" style="color:#c3f00f">Drexathon · Apex Predator track</p>
+<div class="lockup"><svg class="mark" width="150" height="150" viewBox="0 0 100 100"><defs><linearGradient id="gcv" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#9b2cf5"/><stop offset="0.5" stop-color="#f3eaff"/><stop offset="1" stop-color="#c3f00f"/></linearGradient></defs><circle cx="50.0" cy="10.0" r="7" fill="#9b2cf5"/><circle cx="70.0" cy="15.4" r="7" fill="#c3f00f"/><circle cx="84.6" cy="30.0" r="7" fill="#c3f00f"/><circle cx="90.0" cy="50.0" r="7" fill="#c3f00f"/><circle cx="84.6" cy="70.0" r="7" fill="#c3f00f"/><circle cx="70.0" cy="84.6" r="7" fill="#c3f00f"/><circle cx="50.0" cy="90.0" r="7" fill="#c3f00f"/><circle cx="30.0" cy="84.6" r="7" fill="#9b2cf5"/><circle cx="15.4" cy="70.0" r="7" fill="#9b2cf5"/><circle cx="10.0" cy="50.0" r="7" fill="#9b2cf5"/><circle cx="15.4" cy="30.0" r="7" fill="#9b2cf5"/><circle cx="30.0" cy="15.4" r="7" fill="#9b2cf5"/><path d="M50 24 C51.5 44 56 48.5 76 50 C56 51.5 51.5 56 50 76 C48.5 56 44 51.5 24 50 C44 48.5 48.5 44 50 24Z" fill="url(#gcv)"/></svg><p class="wordmark" style="font-size:122px; color:#ffffff">CT<span style="color:#c3f00f">M</span></p></div>
+<p class="sub" style="width:1180px">Agents draft the visa packet. <b style="color:#ffffff">Drex checks every sentence</b> against the evidence. The attorney signs one page.</p>
+<div class="row" style="gap:16px; margin-top:12px">
+<p class="pill"><svg class="pic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m3 17 2 2 4-4"/><path d="m3 7 2 2 4-4"/><path d="M13 6h8"/><path d="M13 12h8"/><path d="M13 18h8"/></svg>Every sentence</p><p class="pill"><svg class="pic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 14a1 1 0 0 1-.78-1.63l9.9-10.2a.5.5 0 0 1 .86.46l-1.92 6.02A1 1 0 0 0 13 10h7a1 1 0 0 1 .78 1.63l-9.9 10.2a.5.5 0 0 1-.86-.46l1.92-6.02A1 1 0 0 0 11 14z"/></svg>0.5 s per petition</p><p class="pill"><svg class="pic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z"/><path d="m9 12 2 2 4-4"/></svg>Same answer every time</p><p class="pill"><svg class="pic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 8V4H8"/><rect width="16" height="12" x="4" y="8" rx="2"/><path d="M2 14h2"/><path d="M20 14h2"/><path d="M15 13v2"/><path d="M9 13v2"/></svg>Inside Intern</p>
+</div>
+<p class="sub" style="font-size:26px; margin-top:18px">Built on Drex · Intern · NDI</p>
+<div style="display:flex; flex-direction:column; flex:0 0 auto">
+    <p style="flex:0 1 auto; font-family:Inter, Arial, sans-serif; line-height:1.2; color:#120a33"><span style="color:#efecf8">Visa packets are hundreds of pages, and one unsupported sentence can sink them. CTM lets agents write the packet and has Drex check every sentence against the evidence.</span></p>
+  </div>
+</section>
+</div></div><div class="holder" style="margin-bottom:24px"><div class="frame"><section id="problem">
+<div class="lrow"><svg class="mark" width="34" height="34" viewBox="0 0 100 100"><defs><linearGradient id="gpr" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#9b2cf5"/><stop offset="0.5" stop-color="#f3eaff"/><stop offset="1" stop-color="#c3f00f"/></linearGradient></defs><circle cx="50.0" cy="10.0" r="7" fill="#9b2cf5"/><circle cx="70.0" cy="15.4" r="7" fill="#c3f00f"/><circle cx="84.6" cy="30.0" r="7" fill="#c3f00f"/><circle cx="90.0" cy="50.0" r="7" fill="#c3f00f"/><circle cx="84.6" cy="70.0" r="7" fill="#c3f00f"/><circle cx="70.0" cy="84.6" r="7" fill="#c3f00f"/><circle cx="50.0" cy="90.0" r="7" fill="#c3f00f"/><circle cx="30.0" cy="84.6" r="7" fill="#9b2cf5"/><circle cx="15.4" cy="70.0" r="7" fill="#9b2cf5"/><circle cx="10.0" cy="50.0" r="7" fill="#9b2cf5"/><circle cx="15.4" cy="30.0" r="7" fill="#9b2cf5"/><circle cx="30.0" cy="15.4" r="7" fill="#9b2cf5"/><path d="M50 24 C51.5 44 56 48.5 76 50 C56 51.5 51.5 56 50 76 C48.5 56 44 51.5 24 50 C44 48.5 48.5 44 50 24Z" fill="url(#gpr)"/></svg><p class="label">The problem</p></div>
+<h2 style="width:1640px">One unsupported sentence can <i>sink a visa</i></h2>
+<div class="row" style="margin-top:8px">
+<div class="card  fade-up" style="--i:0"><div class="icw"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M22 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg></div><p class="big">~16,000</p><p class="small">O-1 petitions decided in a year (FY2024): founders, researchers, engineers</p></div>
+<div class="card  fade-up" style="--i:1"><div class="icw"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 22h14"/><path d="M5 2h14"/><path d="M17 22v-4.172a2 2 0 0 0-.586-1.414L12 12l-4.414 4.414A2 2 0 0 0 7 17.828V22"/><path d="M7 2v4.172a2 2 0 0 0 .586 1.414L12 12l4.414-4.414A2 2 0 0 0 17 6.172V2"/></svg></div><p class="big">~1 in 5</p><p class="small">of O-1 petitions get a Request for Evidence: months of waiting</p></div>
+<div class="card  fade-up" style="--i:2"><div class="icw"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="m15 9-6 6"/><path d="m9 9 6 6"/></svg></div><p class="big">33%</p><p class="small">of EB-1A green-card petitions denied in FY2025 (6,165 of 18,633)</p></div>
+<div class="card dark fade-up" style="--i:3"><div class="icw"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg></div><p class="big">63%</p><p class="small">of failed O-1 appeals: the evidence didn’t show what the petition claimed. We read all 619.</p></div>
+</div>
+<div class="strip fade-up" style="--i:4"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m14.5 12.5-8 8a2.119 2.119 0 1 1-3-3l8-8"/><path d="m16 16 6-6"/><path d="m8 8 6-6"/><path d="m9 7 8 8"/><path d="m21 11-8-8"/></svg><p><b>Why now:</b> since 5 Aug 2026 (USCIS Policy Alert PA-2026-05), officers may deny a petition missing required evidence <b>without asking first</b>. Fewer second chances.</p></div>
+<p class="foot">ⓘ FY2024 O-1 and FY2025 EB-1A counts and RFE rates: secondary analyses of USCIS data (beyondborderglobal.com, f1jobs.io, manifestlaw.com); counts vary by method. 63%: our labels of public USCIS AAO decisions, 381 of 607 failures.</p>
+<p class="pn">01</p>
+<aside>(25 s) “Sixteen thousand O-1 petitions a year, one in five gets a Request for Evidence, and a third of EB-1A green cards were denied last year. We read all 619 public O-1 appeal decisions: in 63% of failures, the evidence didn’t show what the petition claimed. And since August, USCIS can deny without asking first.”</aside>
+</section>
+</div></div><div class="holder" style="margin-bottom:24px"><div class="frame"><section id="how">
+<div class="lrow"><svg class="mark" width="34" height="34" viewBox="0 0 100 100"><defs><linearGradient id="ghw" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#9b2cf5"/><stop offset="0.5" stop-color="#f3eaff"/><stop offset="1" stop-color="#c3f00f"/></linearGradient></defs><circle cx="50.0" cy="10.0" r="7" fill="#9b2cf5"/><circle cx="70.0" cy="15.4" r="7" fill="#c3f00f"/><circle cx="84.6" cy="30.0" r="7" fill="#c3f00f"/><circle cx="90.0" cy="50.0" r="7" fill="#c3f00f"/><circle cx="84.6" cy="70.0" r="7" fill="#c3f00f"/><circle cx="70.0" cy="84.6" r="7" fill="#c3f00f"/><circle cx="50.0" cy="90.0" r="7" fill="#c3f00f"/><circle cx="30.0" cy="84.6" r="7" fill="#9b2cf5"/><circle cx="15.4" cy="70.0" r="7" fill="#9b2cf5"/><circle cx="10.0" cy="50.0" r="7" fill="#9b2cf5"/><circle cx="15.4" cy="30.0" r="7" fill="#9b2cf5"/><circle cx="30.0" cy="15.4" r="7" fill="#9b2cf5"/><path d="M50 24 C51.5 44 56 48.5 76 50 C56 51.5 51.5 56 50 76 C48.5 56 44 51.5 24 50 C44 48.5 48.5 44 50 24Z" fill="url(#ghw)"/></svg><p class="label">How it works</p></div>
+<h2>Agents write. <i>Drex checks every sentence.</i> The attorney signs.</h2>
+<div class="row flow" style="margin-top:8px">
+<div class="node light fade-up" style="--i:0"><div class="icw"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 20h9"/><path d="M16.5 3.5a2.12 2.12 0 0 1 3 3L7 19l-4 1 1-4Z"/></svg></div><h3>Intern drafts</h3><p>Qwen writes the petition from the exhibits</p></div><div class="arr">→</div>
+<div class="node light fade-up" style="--i:1"><div class="icw"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z"/><path d="m9 12 2 2 4-4"/></svg></div><h3>Finish gate</h3><p>When the agent says “done”, CTM stops it</p></div><div class="arr">→</div>
+<div class="node drexn fade-up" style="--i:2"><div class="icw"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 14a1 1 0 0 1-.78-1.63l9.9-10.2a.5.5 0 0 1 .86.46l-1.92 6.02A1 1 0 0 0 13 10h7a1 1 0 0 1 .78 1.63l-9.9 10.2a.5.5 0 0 1-.86-.46l1.92-6.02A1 1 0 0 0 11 14z"/></svg></div><h3>Drex checks</h3><p>Every sentence vs. every exhibit in ~0.5 s</p></div><div class="arr">→</div>
+<div class="node light fade-up" style="--i:3"><div class="icw"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 2v20l2-1 2 1 2-1 2 1 2-1 2 1 2-1 2 1V2l-2 1-2-1-2 1-2-1-2 1-2-1-2 1Z"/><path d="M8 7h8"/><path d="M8 11h8"/><path d="M8 15h5"/></svg></div><h3>Receipt</h3><p>PROVEN · CONTRADICTED · CLIENT-STATED</p></div><div class="arr">→</div>
+<div class="node dark fade-up" style="--i:4"><div class="icw"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m16 16 3-8 3 8c-.87.65-1.92 1-3 1s-2.13-.35-3-1Z"/><path d="m2 16 3-8 3 8c-.87.65-1.92 1-3 1s-2.13-.35-3-1Z"/><path d="M7 21h10"/><path d="M12 3v18"/><path d="M3 7h2c2 0 5-1 7-2 2 1 5 2 7 2h2"/></svg></div><h3>Attorney signs</h3><p>One receipt page</p></div>
+</div>
+<div class="row" style="gap:20px">
+<div class="card  fade-up" style="--i:5"><div class="icw"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"/><path d="M3 3v5h5"/></svg></div><h3>Flags reopen the run</h3><p class="small">Intern gets the receipt and rewrites only the flagged sentences</p></div>
+<div class="card  fade-up" style="--i:6"><div class="icw"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 7V5a2 2 0 0 1 2-2h2"/><path d="M17 3h2a2 2 0 0 1 2 2v2"/><path d="M21 17v2a2 2 0 0 1-2 2h-2"/><path d="M7 21H5a2 2 0 0 1-2-2v-2"/><path d="M7 12h10"/></svg></div><h3>NDI reads the PDFs</h3><p class="small">Scanned exhibits become text Drex can read</p></div>
+<div class="card  fade-up" style="--i:7"><div class="icw"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m3 17 2 2 4-4"/><path d="m3 7 2 2 4-4"/><path d="M13 6h8"/><path d="M13 12h8"/><path d="M13 18h8"/></svg></div><h3>Code checks numbers</h3><p class="small">“$182k” must appear in the cited exhibit</p></div>
+</div>
+<p class="pn">02</p>
+<aside>(25 s) “Intern drafts the petition with Qwen. When it says it’s done, our finish gate sends every sentence to Drex, which checks it against every exhibit in half a second. Anything flagged goes back to the agent, which fixes only those sentences. The attorney signs a one-page receipt.”</aside>
+</section>
+</div></div><div class="holder" style="margin-bottom:24px"><div class="frame"><section id="features">
+<div class="lrow"><svg class="mark" width="34" height="34" viewBox="0 0 100 100"><defs><linearGradient id="gft" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#9b2cf5"/><stop offset="0.5" stop-color="#f3eaff"/><stop offset="1" stop-color="#c3f00f"/></linearGradient></defs><circle cx="50.0" cy="10.0" r="7" fill="#9b2cf5"/><circle cx="70.0" cy="15.4" r="7" fill="#c3f00f"/><circle cx="84.6" cy="30.0" r="7" fill="#c3f00f"/><circle cx="90.0" cy="50.0" r="7" fill="#c3f00f"/><circle cx="84.6" cy="70.0" r="7" fill="#c3f00f"/><circle cx="70.0" cy="84.6" r="7" fill="#c3f00f"/><circle cx="50.0" cy="90.0" r="7" fill="#c3f00f"/><circle cx="30.0" cy="84.6" r="7" fill="#9b2cf5"/><circle cx="15.4" cy="70.0" r="7" fill="#9b2cf5"/><circle cx="10.0" cy="50.0" r="7" fill="#9b2cf5"/><circle cx="15.4" cy="30.0" r="7" fill="#9b2cf5"/><circle cx="30.0" cy="15.4" r="7" fill="#9b2cf5"/><path d="M50 24 C51.5 44 56 48.5 76 50 C56 51.5 51.5 56 50 76 C48.5 56 44 51.5 24 50 C44 48.5 48.5 44 50 24Z" fill="url(#gft)"/></svg><p class="label">What we use from Nace</p></div>
+<h2>Six Nace features, <i>one product</i></h2>
+<div class="row">
+<div class="card dark fade-up" style="--i:0"><div class="icw"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m3 17 2 2 4-4"/><path d="m3 7 2 2 4-4"/><path d="M13 6h8"/><path d="M13 12h8"/><path d="M13 18h8"/></svg></div><h3>Drex choice questions</h3><p class="small">16 multiple-choice questions per pass: is this sentence supported? Which exhibit proves it?</p></div>
+<div class="card  fade-up" style="--i:1"><div class="icw"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z"/><path d="m9 12 2 2 4-4"/></svg></div><h3>Probabilities, no sampling</h3><p class="small">Same input, same verdict: 5 reruns of 47 claims were identical</p></div>
+<div class="card  fade-up" style="--i:2"><div class="icw"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12.83 2.18a2 2 0 0 0-1.66 0L2.6 6.08a1 1 0 0 0 0 1.83l8.58 3.91a2 2 0 0 0 1.66 0l8.58-3.9a1 1 0 0 0 0-1.83Z"/><path d="m22 17.65-9.17 4.16a2 2 0 0 1-1.66 0L2 17.65"/><path d="m22 12.65-9.17 4.16a2 2 0 0 1-1.66 0L2 12.65"/></svg></div><h3>One warm state</h3><p class="small">The exhibits are read once, then asked many questions</p></div>
+</div>
+<div class="row">
+<div class="card  fade-up" style="--i:3"><div class="icw"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 8V4H8"/><rect width="16" height="12" x="4" y="8" rx="2"/><path d="M2 14h2"/><path d="M20 14h2"/><path d="M15 13v2"/><path d="M9 13v2"/></svg></div><h3>Intern System 1 + 2</h3><p class="small">Qwen drafts (System 2); Drex makes the decisions (System 1)</p></div>
+<div class="card  fade-up" style="--i:4"><div class="icw"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"/><path d="M3 3v5h5"/></svg></div><h3>Intern extensions</h3><p class="small">Our finish gate plugs into Intern and reopens the run with the receipt</p></div>
+<div class="card dark fade-up" style="--i:5"><div class="icw"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 7V5a2 2 0 0 1 2-2h2"/><path d="M17 3h2a2 2 0 0 1 2 2v2"/><path d="M21 17v2a2 2 0 0 1-2 2h-2"/><path d="M7 21H5a2 2 0 0 1-2-2v-2"/><path d="M7 12h10"/></svg></div><h3>NDI parsing</h3><p class="small">86 exhibit PDFs parsed, 0 errors, $0.30 in total</p></div>
+</div>
+<p class="pn">03</p>
+<aside>(15 s) “We use six pieces of Nace: Drex’s multiple-choice questions, its probabilities instead of sampled text, one warm state for the exhibits, Intern’s two systems, Intern extensions for our finish gate, and NDI to read PDFs.”</aside>
+</section>
+</div></div><div class="holder" style="margin-bottom:24px"><div class="frame"><section id="learn">
+<div class="lrow"><svg class="mark" width="34" height="34" viewBox="0 0 100 100"><defs><linearGradient id="gln" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#9b2cf5"/><stop offset="0.5" stop-color="#f3eaff"/><stop offset="1" stop-color="#c3f00f"/></linearGradient></defs><circle cx="50.0" cy="10.0" r="7" fill="#9b2cf5"/><circle cx="70.0" cy="15.4" r="7" fill="#c3f00f"/><circle cx="84.6" cy="30.0" r="7" fill="#c3f00f"/><circle cx="90.0" cy="50.0" r="7" fill="#c3f00f"/><circle cx="84.6" cy="70.0" r="7" fill="#c3f00f"/><circle cx="70.0" cy="84.6" r="7" fill="#c3f00f"/><circle cx="50.0" cy="90.0" r="7" fill="#c3f00f"/><circle cx="30.0" cy="84.6" r="7" fill="#9b2cf5"/><circle cx="15.4" cy="70.0" r="7" fill="#9b2cf5"/><circle cx="10.0" cy="50.0" r="7" fill="#9b2cf5"/><circle cx="15.4" cy="30.0" r="7" fill="#9b2cf5"/><circle cx="30.0" cy="15.4" r="7" fill="#9b2cf5"/><path d="M50 24 C51.5 44 56 48.5 76 50 C56 51.5 51.5 56 50 76 C48.5 56 44 51.5 24 50 C44 48.5 48.5 44 50 24Z" fill="url(#gln)"/></svg><p class="label">How it learns and gets faster</p></div>
+<h2>No fine-tuning: <i>one dial</i>, and read once, ask many</h2>
+<div class="row" style="flex:1">
+<div class="col" style="width:640px">
+<div class="card dark fade-up" style="--i:0"><div class="icw"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="4" x2="4" y1="21" y2="14"/><line x1="4" x2="4" y1="10" y2="3"/><line x1="12" x2="12" y1="21" y2="12"/><line x1="12" x2="12" y1="8" y2="3"/><line x1="20" x2="20" y1="21" y2="16"/><line x1="20" x2="20" y1="12" y2="3"/><line x1="2" x2="6" y1="14" y2="14"/><line x1="10" x2="14" y1="8" y2="8"/><line x1="18" x2="22" y1="16" y2="16"/></svg></div><h3>We calibrate, we don’t train</h3><p class="small">One number, the strictness dial, is fitted on 50 practice claims. Everything else is Drex as shipped.</p></div>
+<div class="card  fade-up" style="--i:1"><div class="icw"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><ellipse cx="12" cy="5" rx="9" ry="3"/><path d="M3 5V19A9 3 0 0 0 21 19V5"/><path d="M3 12A9 3 0 0 0 21 12"/></svg></div><h3>Next: calibrate on real decisions</h3><p class="small">1,069 public USCIS decisions to set the dial per visa criterion.</p></div>
+</div>
+<div class="col grow">
+<p class="ctitle"><svg class="tic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 14a1 1 0 0 1-.78-1.63l9.9-10.2a.5.5 0 0 1 .86.46l-1.92 6.02A1 1 0 0 0 13 10h7a1 1 0 0 1 .78 1.63l-9.9 10.2a.5.5 0 0 1-.86-.46l1.92-6.02A1 1 0 0 0 11 14z"/></svg> 8 claims: one request each vs. all on one warm state</p>
+<div class="bars">
+<div class="brow"><p class="blab">One per claim</p><div class="btrack"><div class="bar" style="width:100%"></div><p class="bval">2.26 s</p></div></div>
+<div class="brow"><p class="blab hi">Read once, ask many</p><div class="btrack"><div class="bar hi" style="width:17%"></div><p class="bval">0.38 s · 6×</p></div></div>
+</div>
+<p class="ctitle" style="margin-top:28px"><svg class="tic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 22h14"/><path d="M5 2h14"/><path d="M17 22v-4.172a2 2 0 0 0-.586-1.414L12 12l-4.414 4.414A2 2 0 0 0 7 17.828V22"/><path d="M7 2v4.172a2 2 0 0 0 .586 1.414L12 12l4.414-4.414A2 2 0 0 0 17 6.172V2"/></svg> One whole petition, seconds (live race, 10 cases)</p>
+<div class="bars">
+<div class="brow"><p class="blab hi">Drex</p><div class="btrack"><div class="bar hi" style="width:15%"></div><p class="bval">0.53 s</p></div></div>
+<div class="brow"><p class="blab">GPT-5.6 Sol</p><div class="btrack"><div class="bar" style="width:66%"></div><p class="bval">2.29 s</p></div></div>
+<div class="brow"><p class="blab">Vector search</p><div class="btrack"><div class="bar rag" style="width:100%"></div><p class="bval">3.46 s</p></div></div>
+</div>
+<div class="strip" style="margin-top:20px"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="4" width="16" height="16" rx="2"/><rect x="9" y="9" width="6" height="6"/><path d="M15 2v2M15 20v2M2 15h2M2 9h2M20 15h2M20 9h2M9 2v2M9 20v2"/></svg><p>Why: Drex outputs <b>probabilities, not text</b>, and answers 16 questions in one pass.</p></div>
+</div>
+</div>
+<p class="foot">ⓘ Dial: threshold fitted on a 50-claim dev split (AggreFact). Speed: one synthetic case for the 8-claim test; 10 synthetic cases, median, for the petition race.</p>
+<p class="pn">04</p>
+<aside>(20 s) “We don’t fine-tune anything. We calibrate one number, how strict the check is, on practice claims. It’s fast because Drex reads the exhibits once and answers sixteen questions per pass as probabilities, without writing text. That’s six times faster than asking one claim at a time, and a whole petition takes half a second.”</aside>
+</section>
+</div></div><div class="holder" style="margin-bottom:24px"><div class="frame"><section id="race">
+<div class="lrow"><svg class="mark" width="34" height="34" viewBox="0 0 100 100"><defs><linearGradient id="grc" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#9b2cf5"/><stop offset="0.5" stop-color="#f3eaff"/><stop offset="1" stop-color="#c3f00f"/></linearGradient></defs><circle cx="50.0" cy="10.0" r="7" fill="#9b2cf5"/><circle cx="70.0" cy="15.4" r="7" fill="#c3f00f"/><circle cx="84.6" cy="30.0" r="7" fill="#c3f00f"/><circle cx="90.0" cy="50.0" r="7" fill="#c3f00f"/><circle cx="84.6" cy="70.0" r="7" fill="#c3f00f"/><circle cx="70.0" cy="84.6" r="7" fill="#c3f00f"/><circle cx="50.0" cy="90.0" r="7" fill="#c3f00f"/><circle cx="30.0" cy="84.6" r="7" fill="#9b2cf5"/><circle cx="15.4" cy="70.0" r="7" fill="#9b2cf5"/><circle cx="10.0" cy="50.0" r="7" fill="#9b2cf5"/><circle cx="15.4" cy="30.0" r="7" fill="#9b2cf5"/><circle cx="30.0" cy="15.4" r="7" fill="#9b2cf5"/><path d="M50 24 C51.5 44 56 48.5 76 50 C56 51.5 51.5 56 50 76 C48.5 56 44 51.5 24 50 C44 48.5 48.5 44 50 24Z" fill="url(#grc)"/></svg><p class="label">The race</p></div>
+<h2>Same petition, three engines: <i>Drex first, at 1/58 of the cost</i></h2>
+<div class="row" style="flex:1">
+<div class="col grow">
+<p class="ctitle"><svg class="tic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="12" x2="12" y1="2" y2="22"/><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg> Cost per petition</p>
+<div class="bars">
+<div class="brow"><p class="blab hi">Drex</p><div class="btrack"><div class="bar hi" style="width:1.3%"></div><p class="bval">$0.00026</p></div></div>
+<div class="brow"><p class="blab">GPT-5.6 Sol</p><div class="btrack"><div class="bar" style="width:75%"></div><p class="bval">$0.015</p></div></div>
+<div class="brow"><p class="blab">Vector search</p><div class="btrack"><div class="bar rag" style="width:100%"></div><p class="bval">$0.020</p></div></div>
+</div>
+<p class="ctitle" style="margin-top:26px"><svg class="tic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="m9 12 2 2 4-4"/></svg> Correct, of 153 labelled sentences</p>
+<div class="bars">
+<div class="brow"><p class="blab hi">Drex</p><div class="btrack"><div class="bar hi" style="width:98.7%"></div><p class="bval">151</p></div></div>
+<div class="brow"><p class="blab">GPT-5.6 Sol</p><div class="btrack"><div class="bar" style="width:99.3%"></div><p class="bval">152</p></div></div>
+<div class="brow"><p class="blab">Vector search</p><div class="btrack"><div class="bar rag" style="width:93.5%"></div><p class="bval">143</p></div></div>
+</div>
+<div class="strip fade-up" style="--i:2; margin-top:22px"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="m15 9-6 6"/><path d="m9 9 6 6"/></svg><p><b>Vector search misses proof:</b> 8 of its 10 misses were true sentences it flagged because it never retrieved the proving exhibit.</p></div>
+</div>
+<div class="col" style="width:540px">
+<div class="card dark fade-up" style="--i:0"><div class="icw"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9H4.5a2.5 2.5 0 0 1 0-5H6"/><path d="M18 9h1.5a2.5 2.5 0 0 0 0-5H18"/><path d="M4 22h16"/><path d="M10 14.66V17c0 .55-.47.98-.97 1.21C7.85 18.75 7 20.24 7 22"/><path d="M14 14.66V17c0 .55.47.98.97 1.21C16.15 18.75 17 20.24 17 22"/><path d="M18 2H6v7a6 6 0 0 0 12 0V2Z"/></svg></div><p class="big">4.3× · 58×</p><p class="small">faster · cheaper than GPT-5.6 Sol reading the whole case; 151 vs 152 correct</p></div>
+<div class="card  fade-up" style="--i:1"><div class="icw"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg></div><h3>“A team of dozens”</h3><p class="small">Only Drex flagged it against the 6-person org chart. Vector search and GPT-5.6 Sol passed it.</p></div>
+</div>
+</div>
+<p class="foot">ⓘ Live race page, lanes started together. 10 synthetic cases, 153 hand-labelled sentences, one run each. The Intern draft has no hand labels; its verdicts are shown, not scored.</p>
+<p class="pn">05</p>
+<aside>Switch to the race page and hit Race (demo-run3, then case04). “Same petition, three engines, same instant. Drex is done in half a second, 58 times cheaper than GPT reading the whole case, same accuracy. Vector search flags true sentences because it never found the proof. And claim 8, ‘a team of dozens’: only Drex catches it against the org chart.”</aside>
+</section>
+</div></div><div class="holder" style="margin-bottom:24px"><div class="frame"><section id="giants">
+<div class="lrow"><svg class="mark" width="34" height="34" viewBox="0 0 100 100"><defs><linearGradient id="ggiants" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#9b2cf5"/><stop offset="0.5" stop-color="#f3eaff"/><stop offset="1" stop-color="#c3f00f"/></linearGradient></defs><circle cx="50.0" cy="10.0" r="7" fill="#9b2cf5"/><circle cx="70.0" cy="15.4" r="7" fill="#c3f00f"/><circle cx="84.6" cy="30.0" r="7" fill="#c3f00f"/><circle cx="90.0" cy="50.0" r="7" fill="#c3f00f"/><circle cx="84.6" cy="70.0" r="7" fill="#c3f00f"/><circle cx="70.0" cy="84.6" r="7" fill="#c3f00f"/><circle cx="50.0" cy="90.0" r="7" fill="#c3f00f"/><circle cx="30.0" cy="84.6" r="7" fill="#9b2cf5"/><circle cx="15.4" cy="70.0" r="7" fill="#9b2cf5"/><circle cx="10.0" cy="50.0" r="7" fill="#9b2cf5"/><circle cx="15.4" cy="30.0" r="7" fill="#9b2cf5"/><circle cx="30.0" cy="15.4" r="7" fill="#9b2cf5"/><path d="M50 24 C51.5 44 56 48.5 76 50 C56 51.5 51.5 56 50 76 C48.5 56 44 51.5 24 50 C44 48.5 48.5 44 50 24Z" fill="url(#ggiants)"/></svg><p class="label">Drex vs the giants</p></div>
+<h2>800× cheaper than Opus, and <i>tied for the fewest bad claims let through</i></h2>
+<div class="row" style="flex:1">
+<div class="col grow">
+<p class="ctitle">Unsupported claims passed as supported, of 76</p>
+<div class="bars">
+<div class="brow"><p class="blab hi">Drex Max 1.1</p><div class="btrack"><div class="bar hi" style="width:41%"></div><p class="bval">14</p></div></div>
+<div class="brow"><p class="blab">Grok 4.7</p><div class="btrack"><div class="bar" style="width:41%"></div><p class="bval">14</p></div></div>
+<div class="brow"><p class="blab">Gemini 3.8 Flash</p><div class="btrack"><div class="bar" style="width:44%"></div><p class="bval">15</p></div></div>
+<div class="brow"><p class="blab">Claude Opus 5.5</p><div class="btrack"><div class="bar" style="width:53%"></div><p class="bval">18</p></div></div>
+<div class="brow"><p class="blab">Gemma 4 31B</p><div class="btrack"><div class="bar" style="width:68%"></div><p class="bval">23</p></div></div>
+<div class="brow"><p class="blab">Claude Haiku 5.5</p><div class="btrack"><div class="bar" style="width:74%"></div><p class="bval">25</p></div></div>
+<div class="brow"><p class="blab">Gemini 3.1 Pro</p><div class="btrack"><div class="bar" style="width:76%"></div><p class="bval">26</p></div></div>
+<div class="brow"><p class="blab">GPT-5.6 Sol</p><div class="btrack"><div class="bar" style="width:88%"></div><p class="bval">30</p></div></div>
+<div class="brow"><p class="blab">gpt-oss-120b</p><div class="btrack"><div class="bar" style="width:100%"></div><p class="bval">34</p></div></div>
+</div>
+</div>
+<div class="col" style="width:560px">
+<div class="card dark fade-up" style="--i:0"><h3>A strictness dial</h3><p>Drex returns a probability, not a word. One threshold (0.86), fitted on 50 dev rows, sets how strict it is.</p></div>
+<div class="card fade-up" style="--i:1"><p class="big">14 of 76</p><p class="small">tied with Grok 4.7, which costs 180× more per claim</p></div>
+</div>
+</div>
+<p class="foot">ⓘ LLM-AggreFact, 150 test claims, 76 human-labelled unsupported; one run each; 9 of 15 models shown. At the default threshold 0.5 Drex passes 32 of 76.</p>
+<p class="pn">06</p>
+<aside>“For a lawyer, the number that matters is how many bad claims slip through. Drex lets 14 of 76 through, tied for fewest with Grok, which costs 180 times more. Because Drex gives a probability, the firm sets how strict it is.” If asked: at 0.5 it’s 32.</aside>
+</section>
+</div></div><div class="holder" style="margin-bottom:24px"><div class="frame"><section id="thanks" class="darkbg cover" style="justify-content:center; gap:36px">
+<div class="ring"><svg class="mark" width="900" height="900" viewBox="0 0 100 100"><defs><linearGradient id="gbg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#9b2cf5"/><stop offset="0.5" stop-color="#f3eaff"/><stop offset="1" stop-color="#c3f00f"/></linearGradient></defs><circle cx="50.0" cy="10.0" r="7" fill="#9b2cf5"/><circle cx="70.0" cy="15.4" r="7" fill="#c3f00f"/><circle cx="84.6" cy="30.0" r="7" fill="#c3f00f"/><circle cx="90.0" cy="50.0" r="7" fill="#c3f00f"/><circle cx="84.6" cy="70.0" r="7" fill="#c3f00f"/><circle cx="70.0" cy="84.6" r="7" fill="#c3f00f"/><circle cx="50.0" cy="90.0" r="7" fill="#c3f00f"/><circle cx="30.0" cy="84.6" r="7" fill="#9b2cf5"/><circle cx="15.4" cy="70.0" r="7" fill="#9b2cf5"/><circle cx="10.0" cy="50.0" r="7" fill="#9b2cf5"/><circle cx="15.4" cy="30.0" r="7" fill="#9b2cf5"/><circle cx="30.0" cy="15.4" r="7" fill="#9b2cf5"/><path d="M50 24 C51.5 44 56 48.5 76 50 C56 51.5 51.5 56 50 76 C48.5 56 44 51.5 24 50 C44 48.5 48.5 44 50 24Z" fill="url(#gbg2)"/></svg></div>
+<div class="lockup"><svg class="mark" width="120" height="120" viewBox="0 0 100 100"><defs><linearGradient id="gth" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#9b2cf5"/><stop offset="0.5" stop-color="#f3eaff"/><stop offset="1" stop-color="#c3f00f"/></linearGradient></defs><circle cx="50.0" cy="10.0" r="7" fill="#9b2cf5"/><circle cx="70.0" cy="15.4" r="7" fill="#c3f00f"/><circle cx="84.6" cy="30.0" r="7" fill="#c3f00f"/><circle cx="90.0" cy="50.0" r="7" fill="#c3f00f"/><circle cx="84.6" cy="70.0" r="7" fill="#c3f00f"/><circle cx="70.0" cy="84.6" r="7" fill="#c3f00f"/><circle cx="50.0" cy="90.0" r="7" fill="#c3f00f"/><circle cx="30.0" cy="84.6" r="7" fill="#9b2cf5"/><circle cx="15.4" cy="70.0" r="7" fill="#9b2cf5"/><circle cx="10.0" cy="50.0" r="7" fill="#9b2cf5"/><circle cx="15.4" cy="30.0" r="7" fill="#9b2cf5"/><circle cx="30.0" cy="15.4" r="7" fill="#9b2cf5"/><path d="M50 24 C51.5 44 56 48.5 76 50 C56 51.5 51.5 56 50 76 C48.5 56 44 51.5 24 50 C44 48.5 48.5 44 50 24Z" fill="url(#gth)"/></svg><p class="wordmark" style="font-size:98px; color:#ffffff">CT<span style="color:#c3f00f">M</span></p></div>
+<h1 style="font-size:96px">Check every sentence before it’s filed.</h1>
+<div class="row" style="margin-top:20px; width:1500px">
+<div class="card dark2"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 22v-4a4.8 4.8 0 0 0-1-3.5c3 0 6-2 6-5.5.08-1.25-.27-2.48-1-3.5.28-1.15.28-2.35 0-3.5 0 0-1 0-3 1.5-2.64-.5-5.36-.5-8 0C6 2 5 2 5 2c-.3 1.15-.3 2.35 0 3.5A5.403 5.403 0 0 0 4 9c0 3.5 3 5.5 6 5.5-.39.49-.68 1.05-.85 1.65-.17.6-.22 1.23-.15 1.85v4"/><path d="M9 18c-4.51 2-5-2-7-2"/></svg><h3>Open source</h3><p>github.com/AliNazaarov/ctm-drex</p></div>
+<div class="card dark2"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 8V4H8"/><rect width="16" height="12" x="4" y="8" rx="2"/><path d="M2 14h2"/><path d="M20 14h2"/><path d="M15 13v2"/><path d="M9 13v2"/></svg><h3>Runs in Intern</h3><p>One extension: your model drafts, Drex checks.</p></div>
+<div class="card dark2"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M22 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg><h3>Team CTM</h3><p>Ali Nazarov</p></div>
+</div>
+<aside style="color:#efecf8">Close: “CTM: agents write the packet, Drex proves every sentence, the attorney signs one page. Thank you.”</aside>
+</section>
+</div></div></div><script>
+function fit(){var w=Math.min(window.innerWidth-32,1920),k=w/1920;document.querySelectorAll('.holder').forEach(function(h){h.style.width=w+'px';h.style.height=(1080*k)+'px';h.firstChild.style.transform='scale('+k+')';});}
+window.addEventListener('resize',fit);fit();
+</script></body></html>

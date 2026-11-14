@@ -1,0 +1,452 @@
+Non-Precedent Decision of the
+Administrative Appeals Office 
+U.S. Citizenship 
+and Immigration 
+Services 
+In Re: 40479820 Date: WLY 30, 2026 
+Appeal of U.S. Citizenship and Immigration Services (USCIS) Decision 
+Form I-140, Immigrant Petition for Alien Workers (Extraordinary Ability) 
+The Petitioner, a petroleum reservoir and production engineer, seeks classification as an alien of 
+extraordinary ability. See Immigration and Nationality Act (the Act) section 203(b)(l)(A), 8 U.S.C. § 
+1153(b)(l)(A). This first preference classification makes immigrant visas available to those who can 
+demonstrate their extraordinary ability through sustained national or international acclaim and whose 
+achievements have been recognized in their field through extensive documentation. 
+USCIS denied the petition, concluding that although the Petitioner established that he satisfied the 
+initial evidentiary requirements, he did not demonstrate his sustained national or international acclaim 
+and that he is among the small percentage at the very top of the field of endeavor. The matter is now 
+before us on appeal pursuant to 8 C.F.R. § 103.3. 
+The Petitioner bears the burden ofproof to demonstrate eligibility by a preponderance of the evidence. 
+Matter ofChawathe, 25 I&N Dec. 369, 375-76 (AAO 2010). We review the questions in this matter 
+de novo. Matter of Christo 's, Inc., 26 I&N Dec. 537, 537 n.2 (AAO 2015). Upon de novo review, 
+we will dismiss the appeal. 
+I. LAW 
+Section 203(b)(l)(A) of the Act makes visas available to immigrants with extraordinary ability if: 
+(i) the alien has extraordinary ability in the sciences, arts, education, business, or 
+athletics which has been demonstrated by sustained national or international 
+acclaim and whose achievements have been recognized in the field through 
+extensive documentation, 
+(ii) the alien seeks to enter the United States to continue work in the area of 
+extraordinary ability, and 
+(iii) the alien's entry into the United States will substantially benefit prospectively 
+the United States. 
+The term "extraordinary ability" refers only to those individuals in "that small percentage who have 
+risen to the very top of the field of endeavor." 8 C.F.R. § 204.5(h)(2); see also Onaghise v. Dep 't of 
+Homeland Sec., No. 3:20-CV-03033-X, 2022 WL 4073344, at *2 (N.D. Tex. Sept. 2, 2022) (holding 
+that extraordinary ability visas are known as "Einstein" visas, are extremely "coveted," and are 
+"reserved for only the most talented" aliens). The implementing regulation at 8 C.F.R. § 204.5(h)(3) 
+sets forth a multi-part analysis. First, a petitioner can demonstrate sustained acclaim and recognition 
+ofhis or her achievements in the field through a one-time achievement (that is, a major, internationally 
+recognized award). If that petitioner does not submit this evidence, then he or she must provide 
+sufficient qualifying documentation that meets at least three of the ten categories listed at 8 C.F .R. 
+§ 204.5(h)(3)(i)-(x) (including items such as awards, published material in certain media, and 
+scholarly articles). If an evidentiary standard under 8 C.F.R. § 204.5(h)(3)(i)-(x) does not "readily 
+apply" to a petitioner's occupation, the petitioner may submit "comparable evidence" to establish 
+eligibility. 8 C.F.R. § 204.5(h)(4). 
+Where a petitioner meets these initial evidence requirements, we then consider the totality of the 
+material provided in a final merits determination and assess whether the record shows sustained 
+national or international acclaim and demonstrates that the individual is among the small percentage 
+at the very top of the field of endeavor. See Kazarian v. USCIS, 596 F .3d 1115, 1121 (9th Cir. 2010) 
+( discussing a two-part review where the documentation is first counted and then, if fulfilling the 
+required number of criteria, considered in the context of a final merits determination); see also Amin 
+v. Mayorkas, 24 F.4th 383, 394 (5th Cir. 2022) (upholding USCIS' two-step review process as 
+"consistent with the governing statute and regulation"). 
+II. ANALYSIS 
+The Petitioner is seeking to be classified as an alien of extraordinary ability as a reservoir and 
+production engineer with expertise in reservoir stimulation, hydraulic fracturing in unconventional 
+reservoirs, pressure transient analysis, rate transient analysis, water flooding, and artificial lift. He 
+indicates that he has worked for more than 14 years in the oil and gas industry, currently working in 
+the United States for I ~ as a lead perf01mance reservoir engineer. 
+A. Evidentiary Criteria 
+Because the Petitioner has not claimed or established his receipt of a major, internationally recognized 
+award, he must satisfy at least three of the alternate regulatory criteria at 8 C.F.R. § 204.5(h)(3)(i)-(x). 
+USCIS dete1mined the Petitioner met five of the seven claimed evidentiary criteria. However, USCIS 
+concluded the Petitioner did not show he garnered sustained national or international acclaim and his 
+achievements have been recognized in the field of endeavor, demonstrating he is one of that small 
+percentage who has risen to the very top of the field. 
+On appeal, the Petitioner contests USCIS' decision and argues his eligibility for two additional criteria. 
+Because USC IS concluded that the Petitioner met at least three criteria, we need not dete1mine whether 
+the Petitioner fulfills any further criteria. See Churyumov v. US. Citizenship & Immigr. Servs., No. 
+2:18-CV-00841-RAJ, 2019 WL 5802041, at *3 (W.D. Wash. Nov. 7, 2019), ajj"d, No. 19-36094, 2022 
+WL 1657356 (9th Cir. May 25, 2022) (finding that regardless of the plaintiff's claim of meeting seven 
+criteria, the plaintiff met the threshold evidentiary burden when he met at least three criteria); see also 
+2 
+Nagaiah v. Allen, 784 F. Supp. 3d 798, 819 (E.D. Pa. 2025) (stating that the petitioner's challenge to 
+USCIS' finding at step one does not move the needle because USCIS determined that he prevailed at 
+step one). Accordingly, we will review the totality of the evidence in the context of the final merits 
+determination below. See generally 6 USCIS Policy Manual F.2(B)(2), 
+https://www.uscis.gov/policymanual. 
+B. Final Merits Determination 
+On appeal, the Petitioner provides multiple alternative arguments that USCIS erred in its final merits 
+determination. In a supplemental appeal brief, the Petitioner cites a district court decision, Mukherji 
+v. Miller, No. 4:24-CV-3170 (D. Neb. Jan. 28, 2026), in which the court objected to USCIS' reliance 
+on Kazarian to justify its use of the final merits determination as the basis for dismissing an appeal. 
+We disagree with the Petitioner's reliance on this non-precedent decision to argue that our decision 
+was incorrect to conduct a final merits determination. 
+In contrast to the precedential authority of the case law of a United States circuit court, we are not 
+bound to follow a decision of a United States district court. See Matter ofK-S-, 20 I&N Dec. 715 
+(BIA 1993). Moreover, while we may consider the court's reasoning when it is properly before us, 
+unpublished opinions are not considered binding precedent. See Suchite-Salguero v. Atty Gen. United 
+States, 147 F.4th 355, 359-60 (3d Cir. 2025) ("[W]e have cautioned over and over again that non­
+precedential opinions carry little to no weight for future cases."); Wang v. Holder, 569 F.3d 531, 538 
+n.5 ( 5th Cir. 2009); cf Matter ofK-S-, 20 I&N Dec. at 719 ( considering the reasoning of district court 
+decisions). Notably, the Mukherji decision was issued by a district court in Nebraska. Whereas, in 
+the present case, the petition was denied at the Texas Service Center and the Petitioner indicates his 
+physical address is in Texas, outside the jurisdiction of the Nebraska court that decided Mukherji. In 
+addition, the two-step adjudication process is an interpretive rule that does not violate the 
+Administrative Procedure Act, nor is it a legislative rule. Nagaiah v. Allen, 784 F. Supp. 3d 798, 810 
+(E.D. Pa. 2025); Agrawal v. Miller, No. 4:24CV3143, 2025 WL 2879217, at *12 (D. Neb. Sept. 12, 
+2025); Etsy, Inc. v. Jaddou, No. 4:22CV3022, 2023 WL 3689555, at *23 (D. Neb. May 25, 2023) 
+(citing Perez v. Mortg. Bankers Ass 'n, 575 U.S. 92, 96 (2015)). 
+In addition, the Petitioner argues on appeal that the Mukhe,ji decision acknowledged the recent United 
+States Supreme Cout decision in Loper Bright Enterprises v. Raimondo, 144 S.Ct. 2244 (2024), which 
+he claims diminished the validity of deference to an agency's interpretation of a statute. With limited 
+deference, the Petitioner argues that the validity of the final merits determination outlined in Kazarian 
+is a question of law which should be dete1mined by the court and the MukheFji court found it to be 
+unlawful. 
+While we acknowledge the Petitioner's assertions, the Petitioner has not provided any suppmi for his 
+assertions and appears to misinterpret Loper's reach. Loper overturned Chevron USA v. Natural 
+Resources Defense Council, 467 U.S. 837 (1984), in holding that federal courts need not defer to 
+agencies' reasonable interpretations of ambiguous federal laws. Therefore, Loper provides the 
+judiciary with the sole prerogative to "say what the law is," stating: "[c]ourts must exercise their 
+independent judgment in deciding whether an agency has acted within its statutory authority." Loper, 
+144 S. Ct. at 2257, 2273. While Loper guides federal courts that review our interpretation of 
+ambiguous statutes, it does not modify our own adjudication of immigrant petitions. 
+3 
+Moreover, Loper does not change how we interpret such laws or mandate, as the Petitioner suggests, 
+an immediate change in how USCIS adjudicates immigrant petitions for aliens of extraordinary ability. 
+Similarly, Loper involved an agency's interpretation of a statute. Id. at 2254-56. USCIS' denial of 
+this petition, and our adjudication of this appeal, rest on a determination of whether the Petitioner met 
+his burden to demonstrate his sustained national or international acclaim, he is one of the small 
+percentage at the very top of the field of endeavor, and his achievements have been recognized in the 
+field through extensive documentation under 8 C.F.R. § 204.5(h)(2); it is not based on the agency's 
+interpretation of a statute. Even if the regulations are ambiguous, our interpretation of them would 
+merit deference under Auer v. Robbins, 519 U.S. 452 (1997), which Loper did not reverse. See, e.g., 
+United States v. Boler, 115 F.4th 316, 322 n.4 (4th Cir. 2024) (declining to apply Loper to an issue 
+involving an agency's interpretation of its own regulations). Accordingly, we are not persuaded by 
+the Petitioner's assertions and will conduct a de novo review of the record considering the two-part 
+analysis described in Kazarian and in the USCIS Policy Manual. 
+In the alternative, the Petitioner argues that USCIS' final merits determination erred in the analysis of 
+the evidence by imposing novel requirements in contradiction to the law, applied an incorrect 
+evidentiary standard, and misinterpreted the law. When considering the totality of the evidence, he 
+claims it clearly supports his sustained national or international acclaim in the field and that he is one 
+of that small percentage at the very top of his field. As indicated above, we will evaluate whether the 
+Petitioner has demonstrated, by a preponderance ofthe evidence, his sustained national or international 
+acclaim, 1 he is one of the small percentage at the very top of the field of endeavor, and his 
+achievements have been recognized in the field through extensive documentation. In a final merits 
+determination, we analyze an individual's accomplishments and weigh the totality of the evidence to 
+determine if his successes are sufficient to demonstrate that he has extraordinary ability in the field of 
+endeavor. See section 203(b)(l)(A)(i) of the Act; 8 C.F.R. § 204.5(h)(2), (3); see also Kazarian, 596 
+F.3d at 1119-20.2 Here, the record reflects USCIS properly analyzed the submitted documentation 
+and applied the correct evidentiary standard. Upon de novo review, the Petitioner has not 
+demonstrated his eligibility. 3 
+Because extraordinary ability is an elite level ofaccomplishment whose recognition necessarily entails 
+a judgement call, it cannot be established through meeting at least three of the evidentiary criteria 
+alone. See Amin v. Mayorkas, 24 F.4th at 394-395. Congress sets a very high benchmark for aliens 
+of extraordinary ability by requiring the petitioner demonstrate "sustained national or international 
+acclaim" and present "extensive documentation" to show his or her achievements have been 
+recognized in the field. Section 203(b)(l)(A)(i) ofthe Act. 
+At the time of filing, the Petitioner indicated that he has worked for I Ias lead performance 
+reservoir engineer in the mid-continent business unit inl ITexas since 2023. Prior to relocating 
+1 See generally 6 USC1S Policy Manual, supra, at F.2(A)(l) (stating the definition of sustain is "to support or maintain, 
+especially over a long period of time ... To persist in making (an effort) over a long period of time"). 
+2 See generally 6 USC1S Policy Manual, supra, at F.2(B)(2) (instructing that USCIS officers should consider the petition 
+in its entirety to determine eligibility according to the standard - sustained national or international acclaim and the 
+achievements have been recognized in the field of expertise, indicating that the person is one of that small percentage who 
+has risen to the very top of the field of endeavor). 
+3 While we may not discuss every document submitted, we have reviewed and considered each one. 
+4 
+to the United States, the Petitioner explains that he worked forl lin Ni eria from 2011 to 2023, 
+~held various positions, including working as a petroleum en ineer at 
+L_Jinl lfrom 2011 to 2013; a project manager at.__ __________,in.___~in 2014; a 
+production engineer, well integrity engineer, and well reliability and optimization engineer inl I 
+from 2016 to 2018; and a petroleum engineer forl linl lfrom 2018 
+to 2023. In addition, the Petitioner submitted evidence that he earned a bachelor's degree in chemical 
+engineering from Universit in Ni eria in 2009; a master's degree in petroleum 
+engineering from.__ _______r----------.---~in Nigeria in 2011; and a master's 
+degree in business administration from.__ _____~University in Nigeria in 2021. 
+As discussed further below, we have considered evidence related to the Petitioner having received 
+awards, membership in associations, participated as a judge, original contributions of major 
+significance, authored scholarly articles, performed a leading or critical role, and commanded a high 
+salary or significantly high renumeration. However, in considering the totality of the evidence, the 
+Petitioner has not demonstrated that his achievements are reflective of a "career of acclaimed work in 
+the field" as contemplated by Congress. 1990 U.S.C.C.A.N. 6710, 6739. Furthermore, the Petitioner 
+has not shown that he has risen to that small percentage at the very top of the field of endeavor. See 8 
+C.F.R. § 204.5(h)(3). The commentary for the proposed regulations implementing section 
+203(b)(1 )(A)(i) of the Act provides that the "intent of Congress that a very high standard be set for 
+aliens of extraordinary ability is reflected in this regulation by requiring the petitioner to present more 
+extensive documentation than that required" for lesser classifications. 56 Fed. Reg. 30703, 30704. 
+Here, the Petitioner has not established that he enjoys a career that meets this very high standard. See 
+Amin v. Mayorkas, 24 F.4th at 386-87 (stating that the narrow definition reflects the stringency of the 
+extraordinary ability standard). 
+As it relates to awards, the Petitioner provided evidence reflecting his receipt of awards from the 
+Society ofPetroleum Engineers (SPE), including the I I 
+Award in 2019; a regional outstanding service award for the African region in 
+2018; a best.________.presenter award in 2018; and al !award for the African 
+region in 2023. While the Petitioner submitted letters from a former president of SPE and the 2024 
+president of the International SPE confirming the Petitioner's receipt of the awards, the letters and 
+other evidence in the record do not contextualize the significance of the competition placements 
+outside of SPE and how they place him among that small percentage at the very top of the field. See 
+Hamal v. US. Dep 't ofHomeland Sec., No. CV 19-2534 (RC), 2021 WL 2338316, at *4 (D.D.C. June 
+8, 2021), aff'd sub nom. Hamal v. United States Dep't of Homeland Sec., No. 21-5160, 2023 WL 
+1156801 (D.C. Cir. Jan. 31, 2023) (upholding plaintiff did not contextualize his awards throughout his 
+career to show sustained national or international acclaim). 
+For instance, for the.__ _______,,------,-------,------,---,------,--~Award, a letter from Dr. M-M-
+K- details the Petitioner's community service work, articles he authored for SPE publications and 
+conferences, and his mentor, liaison, and young professional chairperson roles within SPE. Dr. M-M­
+K- indicates that the award also recognizes contributions to the profession but did not explain the 
+significance of the award outside of SPE and to his field to show sustained national or international 
+acclaim. Similarly, in describing the SPE service awards, Dr. M-M-K- discusses the Petitioner's 
+contributions to SPE and his community service. While the awards show some recognition by SPE 
+for his work within SPE, his community service work, and his authorship of articles for SPE 
+5 
+publications and conferences, the Petitioner did not explain how the
+I !Award or his other awards from SPE demonstra....te-h-is_s_u-st-a-in_e_d_n_a-ti_o_n-al_o_.r 
+international acclaim or a career of acclaimed work in the field. See, e.g., Bodhankar v. United States 
+Citizenship & bnmigr. Servs., No. 119CV706MADCFH, 2020 WL 777211, at *5 (N.D.N.Y. Feb. 18, 
+2020) (finding awards by a national organization does not necessarily establish national or 
+international acclaim). Here, the Petitioner did not show the significance of the awards in the field 
+and how they place him among that small percentage at the very top of the field. See, e.g. Donskoy v. 
+United States Citizenship & Immigr. Servs., No. 21-CV-04757-CRB, 2021 WL 5240224, at *5 (N.D. 
+Cal. Nov. 11, 2021) ( finding that what matters for the purpose of the visa classification is whether the 
+award brought the petitioner individual acclaim). 
+The Petitioner provided evidence that he has been a member of SPE since 2010. In addition, he 
+submitted letters and certificates indicating he served in various voluntary roles for SPE, such as the 
+I and 
+land anr------------------------~--------------"I However, he did not show how his~----------------------~ membership and his voluntary roles for SPE resulted in sustained national or international acclaim or 
+a career of acclaimed work. See, e.g., Donskoy, 2021 WL 5240224, at *5 (upholding the petitioner's 
+membership did not demonstrate the requisite level of achievement or sustained acclaim to establish 
+extraordinary ability). In addition, the Petitioner did not demonstrate how his membership and roles 
+with SPE reflects that small percentage who has risen to the very top of the field of endeavor. 
+The Petitioner provided evidence that he has been recognized by SPE for his contributions to SPE and 
+to the community, but he did not establish that he received national or international recognition based 
+on his membership and roles with SPE. See, e.g., Hamal, 2021 WL 2338316, at *4, aff'd, 2023 WL 
+1156801 (upholding plaintiff did not contextualize his membership to demonstrate sustained national 
+or international acclaim). Further, the Petitioner did not show that he has distinguished himself from 
+others in the field based on his SPE membership, gaining national or international attention or placing 
+him among the upper echelon in his field. See, e.g., Hamal, 2023 WL 1156801, at *3 (finding although 
+the petitioner's membership demonstrated his professional stature, it did not "establish the exceptional 
+level of distinction" required for the extraordinary ability visa). 
+Regarding the Petitioner's service as a judge of the work of others in his field, an evaluation of the 
+significance of his experience is appropriate to determine if such evidence is indicative of the 
+extraordinary ability required for this highly restrictive classification.4 See Kazarian, 596 F. 3d at 
+1121-22. The Petitioner offered evidence that he ated as a ·ud e for SPE, including judging 
+students' work at the 2015 and for the SPE 
+2021 In addition, he was a ·ud e for SPE's 2018 
+~--------~ Nigeria section and its 2024 ~-------------~ each 
+recognizing SPE members who contributed service and leadership to SPE. With his request for 
+evidence reply, the Petitioner submitted evidence that he also reviewed two manuscripts for SPE 
+journals. In addition to his judging work with SPE, the Petitioner submitted evidence he served as a 
+member of the selection committee for the I !Awards in 2022 and 2024. 
+4 See also general~v 6 USCIS Policy Manual, supra, at F .2(B)(2) (providing that the second step requires USCIS to evaluate 
+the person's judging participation to determine whether it was indicative of the person being of that small percentage who 
+has risen to the very top of the field of endeavor and enjoying sustained national or international acclaim). 
+6 
+While the Petitioner submitted evidence confirming he judrd others' work, he did not establish how 
+his judging and review work for SPE and the I A wards reflects his sustained national or 
+international acclaim or a career ofacclaimed work. For instance, he did not establish that he garnered 
+wide attention from the field based on his work as a judge of students and SPE members, and as a 
+judge for thel IAwards. While reference letters confirm that the Petitioner has been a judge, 
+the letters do not provide details about the Petitioner's judging or explain how his judging of students 
+and SPE members for SPE events and publications, and for the I I A wards contributes to a 
+career of acclaimed work. Without evidence that sets the Petitioner apart from others in his field, such 
+as evidence that he has a consistent history of reviewing or judging recognized, acclaimed experts in 
+his field, the Petitioner has not shown that his narrow judging experience of students, SPE members, 
+and for thel IAwards places him among that small percentage who has risen to the very top 
+ofthe field of endeavor. See Hamal, 2023 WL 1156801 at *2 (finding the petitioner did not show that 
+he served as a judge of renowned directors as opposed to aspiring artists or the competitions were 
+considered prestigious or attracted significant attention by the field); see also Agrawal, 2025 WL 
+2879217, at *23 (upholding that plaintiff did not show how she judged to such an extent, or at a high 
+enough level, that her judging surpasses the majority of the field and places her in the top echelon of 
+the field); Job v. Jaddou, No. 4:22-CV-03017, 2024 WL 2963795, at *4 (S.D. Tex June 12, 2024) 
+(upholding mere service on a review board, without more, cannot evince extraordinary ability). 
+Likewise, simply authoring or publishing material does not automatically place one at the top of the 
+field. 5 The Petitioner presented evidence showing that between 2015 to 2019, he published four 
+articles for SPE journal publications and conferences and co-authored a paper published and presented 
+at an industry conference. However, the Petitioner did not demonstrate that his limited publication 
+and presentation record is consistent with having a career of acclaimed work, sustaining national or 
+international acclaim, and being among the small percentage at the very top of his field. See, e.g., 
+Agrawal, 2025 WL 2879217, at *23 (upholding that plaintiffs articles do not demonstrate her work 
+has placed her at the top of the field or has sustained national or international acclaim throughout the 
+field). The Petitioner, for instance, did not show the significance of the number of his authorships or 
+how his publication record compares to others who are viewed to be at the very top of his field. 
+Moreover, the Petitioner did not show how publishing four articles for SPE publications and 
+conferences and one article for an industry conference presentation over four years demonstrates 
+sustained national or international acclaim or a career of acclaimed work in the field. See, e.g., Jafarov 
+v. United States Citizenship & Immigr. Servs., No. 23 CIV. 3372 (PAE), 2024 WL 69056, at *9 
+(S.D.N.Y. Jan. 5, 2024) (finding it reasonable for USCIS to focus on the fact that a publication record 
+of six publications over seven years inconsistent with a career of acclaimed work and sustained 
+national or international acclaim). 
+As authoring scholarly articles is often inherent to the work of scientists and researchers in academia, 
+the citation history or other evidence of the influence of an individual's articles can be an indicator to 
+dete1mine the recognition they have received in the field and whether such recognition has been 
+sustained. Such an analysis at the final merits determination stage is appropriate pursuant to Kazarian. 
+596 F. 3d at 1122. Regarding his overall citation record, the Petitioner provided evidence his published 
+5 See general~v 6 USCIS Policy Manual, supra, at F.2(B)(2) (indicating that the second step requires USCIS to evaluate 
+the person's publications to determine whether it is indicative of being one of that small percentage who has risen to the 
+very top of the field of endeavor and enjoying sustained national or international acclaim). 
+7 
+material received 11 citations as at the time of filing. The Petitioner did not demonstrate that such low 
+figures garnered him sustained national or international acclaim or place him among that small 
+percentage at the very top of the field. See, e.g., Bhanu v. Garland, 2023 WL 6119357, at *9 (E.D. 
+Pa. Sept. 18, 2023) (upholding the Petitioner did not show the significance of authorships reflecting 
+that he is among the small percentage at the very top of the field). The statute demands "extensive 
+documentation" of recognition, and the Petitioner has not shown that he garnered attention at a level 
+placing him among that small percentage at the very of the field based on his published works or 
+conference presentations. Besides the submission of recommendation letters briefly mentioning he 
+has authored articles, the Petitioner did not offer an alternative to measure the significance of his 
+publications or presentations, indicating his receipt of national or international acclaim or enjoying a 
+career of acclaimed work. 
+The Petitioner also provided evidence relating to his roles withl land SPE. For his roles with 
+._____.I the Petitioner submitted letters to show he was the project engineer for its I I acid 
+stimulation campaign; the lead reservoir engineer for its early lease conversion of oil mining leases to 
+petroleum mining licenses; reservoir engineer for a team responsible for the development of an 
+innovative lift as sourcing method in order to restore oil production forl Iand project manager 
+for it Project, which sought to mitigate production decline and grow production, Project 
+for which the Petitioner managed three of 3 7 wells to increase production, and I I 
+for Revision, for which the Petitioner contributed to identifying key strategic
+'-------~ 
+initiatives to boost production and build a new performance template and a new reporting template in 
+order to improve communication. The letters confirm the Petitioner's employment wit~ land 
+praise his work on the projects and for his employer. In addition, the record indicates that the Petitioner 
+received recognition awards froml lbased on his work with multiple projects. However, the 
+letters and other evidence in the record do not establish that he served in a capacity that places him 
+among that small percentage at the very top of the field of endeavor. See, e.g., Agrawal, 2025 WL 
+2879217, at *23 (upholding that plaintiff's roles do not place her at the top ofthe field or demonstrate 
+sustained national or international acclaim). 
+In addition, the Petitioner submitted certificates and letters relating to his roles with SPE, including 
+for SPE section- membership L___,..----,__Jfor SPED section; officer for 
+SPE secreta for section· chai erson for SPE I I 
+section; and'------------~---~----------' roles within SPE. 
+Similar to the letters relating to his roles with.__ __..,, the letters about his SPE roles are from officers 
+of SPE confirming the Petitioner's SPE roles and SPE's appreciation for his contributions to SPE. 
+However, the letters do not show how the Petitioner's voluntary roles with SPE indicate a high 
+standing in his field or reflect that he has received sustained acclaim or recognition for his 
+achievements. See, e.g.. Hamal, 2021 WL 2338316, at *4, ajf'd, 2023 WL 1156801 (upholding 
+plaintiff did not contextualize his work at an organization demonstrating recognition by the field as 
+being significantly important or viewed as unusually influential); see also Bodhankar, 2020 WL 
+777211, at *5 (finding the plaintiff's work for organizations did not result in national or international 
+acclaim); Nagaiah, 784 F. Supp. 3d at 820 (upholding the lack of objective documentary evidence to 
+show the petitioner's roles with fmmer employers led to sustained national or international acclaim). 
+For instance, the Petitioner has not shown how his roles were recognized outside o~ Iand SPE, 
+respectively, in order to demonstrate his roles led to sustained national or international acclaim. 
+8 
+The Petitioner emphasizes his original contributions on two work projects for I ~and a third 
+original contribution outlined in his master's degree thefs, For his work wit~======= fue Petitioner 
+provided letters generally praising him and his work at lin particular his work with specific 
+projects that were successful to his employer and well received by the Petitioner's superiors. For his 
+first contribution, he worked to re-engineer a storm chock design process by creating an ingenious 
+design and updating the tubing-sensitive storm choke design program to secure I Iwells 
+exposed to militant activities in Nigeria. For the second contribution, the Petitioner worked to develop 
+Iand 
+an innovative lift gas sourcing method to restore oil production for I Ioil drilling 
+platform. 
+The Petitioner provided evidence that his contributions to these projects forl Iwere the subject 
+of SPE publications and conference presentations, thereby having recognition outside ofl 
+constituting his sustained international and national acclaim. As discussed above, letters from SPE 
+officers attest to the Petitioner volunteering for roles with SPE; authoring articles for its publications 
+and conference presentations; and contributing to community service. But the letters do not contain 
+sufficient information and explanation to show the Petitioner made original contributions of major 
+significance such that the Petitioner is viewed by the overall field, rather than by a solicited few from 
+I Iand SPE to show that he is among the upper echelon or that he has garnered recognition on 
+a national or international scale, consistent with being among the small percentage at the very top of 
+the field of endeavor. Mishra v. Richardson, No. 120CV991LMBTCB, 2021 WL 1566071, at *3 
+(E.D. Va. Apr. 20, 2021) (finding the plaintiff submitted letters only from people within his circle of 
+professional acquaintances, and none of the letters point to evidence of extensive documentation of 
+his accomplishments to show sustained national or international acclaim). Although the letters 
+highlight the Petitioner's professional knowledge and his contributions and achievements atl I 
+and SPE, they do not reflect a career of acclaimed work in the field, garnering the required sustained 
+national or international acclaim. See Bodhankar, 2020 WL 777211, at * 5 ( finding the plaintiffs work 
+for organizations did not result in national or international acclaim). 
+As stated above, the Act requires "extensive documentation" to show recognition of an alien's 
+achievements in the field. While we have given the reference letters due consideration, such letters 
+should not fmm the cornerstone of a successful claim under this immigrant visa classification and 
+should be corroborated by documentary evidence to verify a petitioner's accomplishments and put 
+them in a broader context. See lenerally l6 USCIS Policy Manual F.2(B)(3). Although the letters 
+highlight the Petitioner's work for and SPE, they do not reflect his roles received widespread 
+acclaim from the field, drew significant attention from the greater field, or that the overall field viewed 
+him among the leading individuals in the field. See, 2021 WL 2338316, at *4 (upholding plaintiff did 
+not contextualize his work at an organization demonstrating recognition by the field as being 
+significantly important or viewed as unusually influental). Flhermore, the Petitioner did not show 
+that he attracted a level of attention from his work with and SPE that places him amongst that 
+small percentage at the very top of the field or those enjoying a career of acclaimed work. See 
+Bodhankar, 2020 WL 777211, at *5 (finding the submitted letters failed to establish the plaintiffs 
+contributions resulted in significant acclaim). 
+For his master's thesis work, the Petitioner submitted a letter from D-O-, his former professor and 
+supervisor of his master's thesis. D-O- explained that the Petitioner's "approach to quantifications of 
+the uncertainty and risks for developing Marginal Fields in thel lwas 'original' because it 
+9 
+had not been applied to any marginal field in thel t' and that such work contributed "to a 
+~understanding of risks and uncertainties involved in developing Marginal Fields in the I I 
+L__J" While D-O- stated that a separate private marginal field operator informed the Petitioner that 
+his master's thesis publication "helped and enhanced their understanding of risks and uncertainties in 
+developing Marginal Fields, leading to more efficient, sustainable, and responsible marginal field 
+development," the Petitioner did not provide probative evidence corroborating such claims. For 
+instance, the Petitioner did not submit evidence from the private marginal field operator detailing the 
+use of the Petitioner's original work in his field. Other than D-O-' s statements, the Petitioner did not 
+submit evidence that his master's thesis work has attracted wider attention in his field or otherwise 
+reflects that the Petitioner has somehow impacted the field through his work demonstrating attention 
+at a level commensurate with those at the very top ofthe field of endeavor. See 8 C.F.R. § 204.5(h)(2). 
+Additionally, the Petitioner's renumeration does not establish that he is amongst that small percentage 
+at the very top of his field and that he has a career of acclaim stemminJ from his work in the field. 
+The Petitioner submitted evidence of his renumeration for his work with linl ITexas 
+for the year 2024. He also submitted evidence comparing his renumeration to the average salary of 
+others in his field in the same area ofl ITexas. He submitted his 2024 U.S. Wage and Tax 
+Statement, Form W-2, reflecting an annual income with I las $552,489.25. For colmparisonl 
+data, he submitted U.S. Department of Labor's wage data for petroleum engineers in the 
+Texas area reflecting that in 2024-25, a level 1 wage of $87,277 per year and a level 4 wage of 
+$150,738 per year. In addition, he submitted salary data from the online source careeronestop.com 
+indicating that petroleum engineers in thel !Texas area are paid on the high end an annual 
+(alary ofl$226,200. We note that the Petitioner submitted evidence relating to his renumeration from 
+while the comparison data submitted is for annual salary, not renumeration. The Petitioner 
+did not explain or provide evidence to understand the components of his renumeration froml I 
+for 2024. 
+Regardless of whether the Petitioner meets the criterion, he must demonstrate for the final merits 
+determination that he earns a salary or renumeration that places him among that small percentage who 
+have risen to the ve1y top of the field of endeavor. See 8 C.F.R. § 204.5(h)(2); see also Matter of 
+Price, 20 I&N Dec. 953, 954 (Assoc. Comm'r 1994) (considering a professional golfer's earnings 
+versus other PGA Tour golfers); Skokos v. US. Dept. ofHomeland Sec., 420 F. Apex 712, 713-14 (9th 
+Cir. 2011) (finding salary infmmation for those performing lesser duties is not a comparison to others 
+in the field); Grimson v. INS, 934 F. Supp. 965, 968 (N.D. Ill. 1996) (considering NHL enforcer's 
+salary versus other NHL enforcers); Muni v. INS, 891 F. Supp. 440, 444-45 (N. D. Ill. 1995) 
+( comparing salary of NHL defensive player to salaiy of other NHL defensemen). Here, the Petitioner 
+has not shown that his earnings place him among that small percentage who have risen to the very top 
+of the field. See 8 C.F.R. § 204.5(h)(2). 
+Furthennore, the Petitioner only provided documentation relating to his renumeration for one year, 
+2024, instead of presenting evidence showing he has consistently maintained a high salary or 
+significantly high renumeration indicative of sustained national or international acclaim necessaiy for 
+this highly restrictive visa classification. See section 203(b )(1 )(A) of the Act; see also Jafarov, 2024 
+WL 69056, at *9 (finding the failure to show consistent high wage earnings did not reflect sustained 
+national or international acclaim and a single year's, or even a few years', worth of salary data unlikely 
+to satisfy this requirement). 
+The record as a whole, including the evidence discussed above, does not establish the Petitioner's 
+eligibility for the benefit sought. The Petitioner seeks a highly restrictive visa classification, intended 
+for individuals already at the top of their respective fields, rather than those progressing toward the 
+top. Matter ofPrice, 20 I&N Dec. at 954; Visinscaia v. Beers, 4 F. Supp. 3d 126, 131 (D.D.C. 2013) 
+(internal quotation marks omitted) (finding that the extraordinary ability designation is "extremely 
+restrictive by design"); Hamal, 2021 WL 2338316, at *5, aff'd, 2023 WL 1156801 (determining that 
+EB-I visas are "reserved for a very small percentage of prospective immigrants"); see also Hamal v. 
+Dep't ofHomeland Sec. (Hamal I), No. 19-cv-2534, 2020 WL 2934954, at *I (D.D.C. June 3, 2020) 
+( citing Kazarian, 596 F.3d at 1122 (upholding denial of petition of a published theoretical physicist 
+specializing in non-Einsteinian theories of gravitation) (stating that "[c]ourts have found that even 
+highly accomplished individuals fail to win this designation")); Lee v. Ziglar, 237 F. Supp. 2d 914, 
+918 (N.D. 2002) (finding that "arguably one of the most famous baseball players in Korean history" 
+did not qualify for visa as a baseball coach). 
+Here, the Petitioner has not shown the significance of his work is indicative of the required sustained 
+national or international acclaim or it is consistent with a "career of acclaimed work in the field" as 
+contemplated by Congress. H.R. Rep. No. 101-723, 59 (Sept. 19, 1990); see also section 203(b)(l)(A) 
+of the Act. Whilst the Petitioner need not establish that there is no one more accomplished to qualify 
+for the classification sought, we find the record insufficient to demonstrate that he has sustained 
+national or international acclaim in his field and is among the small percentage at the top of his field 
+of endeavor. See section 203(b)(l)(A)(i) of the Act; 8 C.F.R. § 204.5(h)(2). 
+III. CONCLUSION 
+For the reasons discussed above, the Petitioner has not demonstrated his eligibility as an alien of 
+extraordinary ability. The appeal will be dismissed for the above stated reasons, with each considered 
+as an independent and alternate basis for the decision. 
+ORDER: The appeal is dismissed. 
+NOTICE: This constitutes the final decision in this matter. The filing of a motion will not postpone the 
+effect of the decision. 8 C.F.R. § 103.5(a)(l)(iv). Aliens who are not lawfully present, or who are 
+otherwise inadmissible or deportable, may be subject to the commencement of removal proceedings 
+under section 240 ofthe Act through the issuance ofa Form I-862, Notice to Appear. Those proceedings 
+may result in their removal from the United States and possible ineligibility for future visas or other 
+immigration benefits. 
+11 

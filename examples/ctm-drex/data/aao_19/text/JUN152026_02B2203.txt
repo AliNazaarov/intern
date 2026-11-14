@@ -1,0 +1,422 @@
+Non-Precedent Decision of the
+Administrative Appeals Office 
+U.S. Citizenship 
+and Immigration 
+Services 
+In Re: 41810333 Date: JUN. 15 , 2026 
+Appeal of Service Center Operations (SCOPS) Decision 
+Form 1-140, Immigrant Petition for Alien Workers (National Interest Waiver) 
+The Petitioner is a senior software engineer who seeks classification as an alien of extraordinary ability. 
+See Immigration and Nationality Act (the Act) section 203(b)(l)(A), 8 U.S.C. § 1153(b)(l)(A). This 
+first preference classification makes immigrant visas available to those who can demonstrate their 
+extraordinary ability through sustained national or international acclaim and whose achievements have 
+been recognized in their field through extensive documentation. 
+Service Center Operations (SCOPS) denied the petition, concluding that although the Petitioner 
+satisfied three initial evidentiary criteria for this classification, he did not show in an analysis of the 
+final merits, as required, his sustained national or international acclaim and demonstrate that he is 
+among the small percentage at the very top of the field of endeavor. The matter is now before us on 
+appeal pursuant to 8 C.F.R. § 103.3. 
+The Petitioner bears the burden ofproof to demonstrate eligibility by a preponderance of the evidence. 
+Matter ofChawathe, 25 I&N Dec. 369, 375-76 (AAO 2010). We review the questions in this matter 
+de novo. Matter of Christo 's, Inc., 26 I&N Dec. 537, 537 n.2 (AAO 2015). Upon de novo review, 
+we will dismiss the appeal. 
+I. LAW 
+Section 203(b)(l)(A) of the Act makes visas available to immigrants with extraordinary ability if: 
+(i) the alien has extraordinary ability in the sciences, arts, education, business, or athletics 
+which has been demonstrated by sustained national or international acclaim and whose 
+achievements have been recognized in the field through extensive documentation; 
+(ii) the alien seeks to enter the United States to continue work in the area of extraordinary 
+ability; and 
+(iii) the alien's entry will substantially benefit prospectively the United States. 
+The term "extraordinary ability" refers only to those individuals in "that small percentage who have 
+risen to the very top of the field of endeavor." 8 C.F.R. § 204.5(h)(2). The implementing regulation at 
+8 C.F.R. § 204.5(h)(3) sets forth a multi-part analysis. First, a petitioner can demonstrate sustained 
+acclaim and the recognition of achievements in the field through a one-time achievement (that is, a 
+major, internationally recognized award) or qualifying documentation that meets at least three of the 
+ten categories listed at 8 C.F.R. § 204.5(h)(3)(i) - (x) (including items such as awards, published 
+material in certain media, and scholarly articles). 
+Where a petitioner meets these initial evidence requirements, we then consider the totality of the 
+material provided in a final merits determination and assess whether the record shows sustained 
+national or international acclaim and demonstrates that the individual is among the small percentage 
+at the very top of the field of endeavor. See Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010) 
+( discussing a two-part review where the documentation is first counted and then, if fulfilling the 
+required number of criteria, considered in the context of a final merits determination); see also Amin 
+v. Mayorkas, 24 F.4th 383 (5th Cir. 2022); Visinscaia v. Beers, 4 F. Supp. 3d 126, 131-32 (D.D.C. 
+2013); Rijal v. USCIS, 772 F. Supp. 2d 1339 (W.D. Wash. 2011). 
+II. ANALYSIS 
+The Petitioner indicates he is "an artificial intelligence and cloud computing expert with a 
+distinguished history in the field." The Petitioner explains that he earned a bachelor's degree in 
+engineering in 1998 and a post graduate degree in 2000, both in India. The Petitioner states he has 
+worked in various information technology positions since 2004. The Petitioner indicates that he 
+worked from 2014 to the present as a senior software engineer withO a large financial institution, 
+where he created "complex frameworks and platforms instilling a greater sense ofresilience, readiness 
+against unexpected disruptions, and uninterrupted services and operational excellence." He further 
+states that he previously worked as a senior quality assurance analyst foQleading several flagship 
+projects fore=] a large insurance compan[' an
+1
+1 I a prominent financial institution. The 
+Petitioner explained that in this position with he "developed a scalable and reusable automation 
+framework enabling easy integration of new testing frameworks." The Petitioner further provided 
+articles about his career highlighting his leading work in "fintech," or financial technology, namely 
+the integration of software and digital platforms to automate and enhance financial services. 
+A. Evidentiary Criteria 
+Because the Petitioner has not indicated or established that he received a major, internationally 
+recognized award, he must satisfy at least three of the alternate regulatory criteria at 8 C.F.R. 
+§ 204.5(h)(3)(i)-(x). The Petitioner initially claimed seven criteria. SCOPS decided that the Petitioner 
+satisfied at least three of the criteria, specifically that he had material published about him in 
+professional or major trade publications or other major media pursuant to 8 C.F.R. § 204.5(h)(3)(iii); 
+he participated as a judge of the work of others in his field consistent with 8 C.F.R. § 204.5(h)(3)(iv); 
+and that he authored scholarly articles in his field in professional or major trade publications or other 
+major media as reflected in 8 C.F.R. § 204.5(h)(3)(vi). 
+However, SCOPS also determined that the Petitioner did not satisfy other asserted criteria, including 
+that he did not demonstrate he received lesser nationally or internationally recognized prizes or awards 
+2 
+consistent with 8 C.F.R. § 204.5(h)(3)(i); that he was not a member in an association in his field 
+requiring outstanding achievements as judged by recognized national or international experts pursuant 
+to 8 C.F.R. § 204.5(h)(3)(ii); had not shown original, scholarly, artistic, athletic, or business-related 
+contributions of major significance in the field per 8 C.F.R. § 204.5(h)(3)(v); or had not performed in 
+a leading or critical role for organizations or establishments with a distinguished reputation provided 
+by 8 C.F.R. § 204.5(h)(3)(viii). Further, SCOPS concluded, after conducting a final merits 
+determination, that the Petitioner did not demonstrate his sustained national or international acclaim 
+and that he was one of the small percentage at the very top of the field of endeavor. Because SCOPS 
+granted at least three initial criteria and proceeded to a final merits determination, we have generally 
+considered the evidence underlying his other claimed criteria not granted in the context of the final 
+merits determination. 
+B. Final Merits Determination 
+Given the structure of the regulations and the two-step analysis described in Kazarian, the satisfaction 
+of three evidentiary criteria alone does not automatically or presumptively establish eligibility. In a 
+final merits determination, we evaluate whether a petitioner has demonstrated, by a preponderance of 
+the evidence, their sustained national or international acclaim, 1 that they are among the small 
+percentage at the very top of his field of endeavor, and that their achievements have been recognized 
+in the field through extensive documentation. Therefore, we analyze an individual's accomplishments 
+and weigh the totality of the evidence to determine if their successes are sufficient to demonstrate 
+extraordinary ability in the field of endeavor. See section 203(b)(l)(A)(i) of the Act; 8 C.F.R. 
+§ 204.5(h)(2), (3); see also Kazarian, 596 F.3d at 1119-20.2 
+The Petitioner asserted that he is an extraordinary professional who has attained and sustained national 
+or international acclaim, pointing to his success working for~andLJon projects "concerning . 
+. . team management, and internal workflow operations making him a critical figure in the artificial 
+intelligence space." The Petitioner stated that he made numerous contributions to artificial 
+intelligence, consisting of original work that significantly advanced and influenced "several verticals 
+and sectors, particularly at the intersection of cybersecurity and data security enterprise applications." 
+He further emphasized the "numerous articles" he published and asserted they were "highly cited," 
+pointing to approximately 350 total citations to his scholarly works in "reputable publications" like 
+Cineform and IRE Journals. 
+The Petitioner also indicated that his work in artificial intelligence was of considerable interest to his 
+peers and the broader public as evidenced by the "extensive media coverage" he had received. 
+Likewise, he discussed his membership in the Institute of Electrical Engineers (IEEE) as a senior 
+member, asserting this required outstanding achievement in his field and was reflective ofhis sustained 
+national and international acclaim. Lastly, the Petitioner discussed his~---------~and 
+.____________,hat he claimed are straightforward instances of national and international 
+1 See generally 6 USCIS Policy Manual F.2(A)(l), https://www.uscis.gov/policy-manual (stating that the definition of 
+"sustain" is "to support or maintain, especially over a long period of time ... To persist in making (an effort) over a long 
+period of time"). 
+2 See generally 6 USC1S Policy Manual supra, at F.2(B)(2) (stating that USCIS officers should evaluate the evidence 
+together when considering the petition in its entirety to dete1mine if a petitioner has established by a preponderance of the 
+evidence, the required high level of expertise required for this immigrant classification). 
+3 
+acclaim. In sum, the Petitioner contended that the provided evidence undoubtedly reflected his 
+sustained national or international acclaim and that his achievements had been recognized in the field 
+of artificial intelligence, specifically in cloud computing and data security. 
+SCOPS evaluated the totality of the evidence and concluded that the Petitioner did not demonstrate 
+his achievements and accolades were indicative of the required sustained national or international 
+acclaim or that it was consistent with a career of acclaimed work in the field as contemplated by 
+Congress. H.R. Rep. No. 101-723, 59 (Sept. 19, 1990). 
+On appeal, the Petitioner contends that SCOPS made an improper final merits determination. The 
+Petitioner asserts that SCOPS did not explain why his level of citations, which he claimed were in the 
+highest percentiles in computer science and the hundreds of citations to his work are not reflective of 
+his wide influence in his field. The Petitioner contends that SCOPS did not sufficiently consider his 
+patented multi-cloud monitoring technology commercialized by an independent company and clients 
+as a core tool for managing complex cloud environments. Further, the Petitioner asserted that SCOPS 
+did not give proper weight to his work for a major bank, a leading insurance company, and a global 
+technology company that produced "quantifiable improvements in reliability, efficiency, and 
+revenue." The Petitioner asserts that SCOPS ignored expert testimony from senior executives, 
+academics, and technical leaders attesting to the importance of his work in the broader development 
+of AI driven cloud security and distributed systems. The Petitioner contends that SCOPS ignored the 
+interrelation of this evidence, reflecting a trajectory of technical innovations, scholarly works, and 
+professional leadership demonstrating what the Petitioner claims is his sustained, multi-faceted 
+recognition, high-level contribution, and acknowledgment indicating that he is among the small 
+percentage at the very top of his field of endeavor. 
+After carefully reviewing the Petitioner's appellate claims and g1vmg full consideration to the 
+remaining record, we agree with SCOPS that the Petitioner has not demonstrated that he has sustained 
+national or international acclaim or that he is eligible for this immigration benefit. 
+As discussed, the Petitioner places much emphasis on support letters submitted from executives and 
+managers at his employers, asserting that these substantiate his leading role in his field of AI, cloud 
+computing, and data security. The Petitioner provided a letter from Mr. N-S-, Director of Software 
+Engineering atc=Jand the Petitioner's supervisor, who indicated that the Petitioner's incident RCA 
+(Root Cause Analysis) AI tool acted as "an intelligent assistant automating the review of faults within 
+a system to identify its root cause." Mr. N-S- further stated that the Petitioner's RCA AI tool caused 
+instantaneous improvement tol !response to security threats, specifically by 40%, "halving the 
+amount of time it would have taken previously to address a security matter in our software" and 
+"putting Dwell ahead of competitors in terms of securing the sensitive data of our customers." 
+Although Mr. N-S's letter appears to reflect that the Petitioner was a valuable employee forD this 
+letter does not sufficiently demonstrate that his workplace accomplishments are reflective of an 
+individual who has sustained national or international acclaim, or who is one of the small percentage 
+at the very top of the field of endeavor. 3 
+Submitted letters should specifically describe the person's contribution and its significance m the field. See 
+generally 6 USCIS Policy Manual F .2(B)( 1 ), https://www.uscis.gov/policy-manual. 
+4 
+3 
+The Petitioner did not sufficiently demonstrate how his internal contribution to~and its data 
+security are reflective of an achievement that led to his sustained acclaim within his field. The letter 
+from Mr. N-S- does not provide sufficient context to differentiate the Petitioner's work and 
+substantiate how he is one of the small percentage at the very top of the field of endeavor. Mr. N-S­
+does not discuss the impact of the Petitioner's work atc=Jon his field, even if this field was clearly 
+defined, but only its impact onl Iinternal operations. Without sufficient explanation and context 
+related to the greater field, it is reasonable given the size and importance of financial services and 
+banking, that there are numerous other information technology professionals ( and software engineers) 
+working on AI, cloud computing, and data security, including colleagues withinc=J4 
+Similarly, the Petitioner also highlights his employment withe=] In a letter from Mr. J-R-, Technical 
+Manager, he explains the Petitioner's leadership over the company's client relationships withD, a 
+leading insurance company, andl Ia prominent financial institution. Mr. J-R- emphasizes the 
+Petitioner's success in supporting these two major clients, including creating a framework foic=] 
+that "reduced regression testing time by over 50%" as well as a "30% increase in test coverage." Mr. 
+J-R- asserted that the Petitioner's work withc=]translated into an estimated annual cost savings of 
+$750,000 for the client, leading further to a multi-year extension valued at $5 million over three years. 5 
+Likewise, Mr. J-R- noted that the implementation of the Petitioner's framework improved defect 
+identification by 20% "reducing post-release defects and making I Isoftware safer for 
+customer use." 
+However, in the very same letter, Mr. J-R- indicates that the company has over 530,000 clients and 
+that over 95% of Fortune 500 companies utilize its services; as such, it is not evident how the 
+Petitioner's leadership on two projects had a significant impact within his field of expertise indicative 
+of being at the very top of his field of endeavor. The Petitioner's employment as a senior quality 
+assurance analyst was also from 2007 to 2012, approximately 13 years prior to the date the petition 
+was filed, leaving question as to whether his intracompany achievements withc=]are reflective of 
+sustained [emphasis added] acclaim in his field. The letter also does not provide context to show how 
+the Petitioner's internal accomplishments relate to the larger field and how they would demonstrate 
+that he is one of the small percentage at the very top of his field of endeavor. 
+The Petitioner also submitted letters of support from others in the industry he claims were not 
+sufficiently considered by SCOPS. He states these letters demonstrate "the importance of his work in 
+the broader development of AI driven cloud security and distributed systems." For example, the 
+Petitioner provided a letter from Mr. N-K-K-, Chief AI Officer at E-, who indicated that the 
+Petitioner's "end-to-end predictive maintenance framework" would have "transformative application" 
+4 For instance, the Petitioner's title is senior software engineer, and we are given no indication as to how many other similar 
+employees work forc=]a leading financial institution "employing over 50,000 people" within the "highly competitive 
+and saturated" financial services and banking industry. It is also not clear how many other senior software engineers are 
+employed in the greater AL cloud computing, and data security fields who also have made substantial contributions to their 
+employer and their clients and how the Petitioner's work stands out in comparison to show sustained national or 
+international acclaim. 
+5 The Petitioner stated that0had an average annual revenue of approximately $60 billion and over 280,000 employees 
+in 170 countries in 2022. It is unclear, how the Petitioner's asserted contribution to two clients and millions in revenue, 
+even if sufficiently substantiated, would lead to a substantial impact onDand its operations, and in tum his entire field, 
+to place him at the very top of his field. 
+5 
+across multiple industries, including "a 25% increase in turbine availability, and a 15% boost in energy 
+production," a 40% reduction in unscheduled maintenance in the transportation sector saving an 
+estimated €50 million annually, and saving over $100 million annually by reducing engine removals 
+in the aerospace industry. The Petitioner made no mention of these major impacts on massive 
+industries elsewhere in the record and there was no indication in any of the supporting documentation 
+that he worked in these industries or that his claimed innovations were commercialized in these sectors. 
+Detailed letters from experts in the field explaining the nature and significance of the person's 
+contribution may also provide valuable context for evaluating the claimed original contributions of 
+major significance, particularly when the record includes documentation corroborating the claimed 
+significance. See generally 6 USCIS Policy Manual, supra, at F.2(B)(l). Here, the record does not 
+contain documentation to corroborate the claims. 
+The Petitioner further provided a letter from Mr.c=], Associate Director of AI/ML Engineering at
+D a major telecommunications company, claiming a "significant measurable impact" from the 
+Petitioner's innovations, such as his load balancer leading to a reduction in latency by 40-60% and 
+bandwidth consumption by up to 30%. Yet, it is not clear whether the Petitioner's work has been 
+utilized by this major telecommunications company, or in this industry, or in what compacity it 
+reduced latency and bandwidth consumption. As the Petitioner did not discuss any significant work 
+for, or impacts on, the telecommunications industry elsewhere on the record, the record lacks 
+corroborating evidence related to the claimed significance. Therefore, the Petitioner's support letters 
+from individuals outside of his employers did not support the conclusion that his claimed innovative 
+work in AI, cloud computing, and data security had disseminated in the field and had such an impact 
+to elevate him to the very top of his field. Therefore, in sum, although the Petitioner's employment 
+and support letters appear to reflect that he is likely a successful professional in his field, there is 
+insufficient information from the letters and any corroborating evidence to show that he is an 
+individual who has sustained national or international acclaim, or who is one of the small percentage 
+at the very top of the field of endeavor. 
+The Petitioner further asserts that SCOPS did not sufficiently consider his citations to his scholarly 
+articles "in the highest percentiles in computer science," including hundreds of overall citations to his 
+work, he claimed are reflective of his wide influence in his field. Evidence establishing that the total 
+rate of citations to a petitioner's body of work is high relative to others, such as a high h-index, is 
+weighed as a positive factor in the final merits determination. See generally 6 USCIS Policy Manual, 
+supra at F.5(B)(2). Depending on a journal's level ofrecognition, as demonstrated by evidence in the 
+record, there may be an elevated level of prestige or acclaim associated with publication in particularly 
+highly ranked journals. Id. Such an analysis at the final merits determination stage is appropriate 
+pursuant to Kazarian, 596 F. 3d at 1122. 
+The Petitioner did not discuss in detail how his citations were reflective of him being one of the small 
+percentage at the very top of his field of endeavor. He only emphasized his publication in "reputable 
+publications" like Cineform and IRE Journals and the overall number of citations to his work (351 
+Th P ii n r' m h r icle (76 citations) was titled I I 
+' ublished in 2019 in Iconic Research and 
+En (IRE), while the other he emphasized 
+was 
+published in Cineform in 2023 and cited 43 times. Otherwise, the provided evidence reflected that the 
+6 
+Petitioner published eight other co-authored scholarly works, ranging from 16 to 41 citations from 
+2020 to 2024. In addition, the Petitioner's publication history from Google Scholar reflects that he 
+was the sole author of seven other scholarly articles, yet none of these articles received any citations. 
+The Petitioner did not provide sufficient support for his claim that his publication of scholarly works in 
+the listed journals and citation to them is an accomplishment indicative of sustained national or 
+international acclaim. First, the Petitioner did not establish how many of these were self-citations by 
+him or his co-authors. Further, the Petitioner's most cited article was published in IRE Journals, a 
+publication described as an "international academic, science and engineering journal" that "covers all 
+subject[s] that fall under the wide variety of science and technology." There is little evidence to 
+support the conclusion that this journal is a leading publication in the Petitioner's field at the 
+intersection of artificial intelligence, cloud computing, and data security and that being published in 
+the journal is indicative ofbeing at the very top of his field. Similarly, the Petitioner provided evidence 
+indicating that Cineform disseminates "original research, theoretical insights, empirical studies, 
+methodological advancements, and case analyses in the fields of interdisciplinary studies [emphasis 
+added]." The evidence related to Cineform provided little indication that being published in this 
+journal is reflective of being at the top of the AI computing field. Beyond these publications, he 
+provided little information or evidence related to the other journals he was published in, including one 
+that included several of his co-authored articles, Well Testing Journal. 
+The Petitioner did not provide proper context to his citations to show how the Petitioner compared to 
+his co-authors and whether he was set apart from his co-authors, to show that he would be deemed at 
+the very top of his field. Likewise, the Petitioner referred to the total number of citations to all his 
+works, rather than establish the qualitative nature of these citations and how they substantially 
+impacted his field. Overall, the Petitioner did not show that the citations to his published research, as 
+claimed, demonstrate recognition at a level consistent with being among that small percentage at the 
+very top of his field. See 8 C.F.R. § 204.5(h)(2). The statute demands "extensive documentation" of 
+recognition. The record does not sufficiently demonstrate the relevance and reliability of the metrics 
+submitted and comparative data provided and lacks other persuasive evidence of his sustained 
+acclaim. 6 
+The Petitioner also indicated that his work in AI was of considerable interest to his peers and the 
+broader public as evidenced by the "extensive media coverage" he received. The Petitioner submitted 
+a handful of articles published online; however, these are insufficient to demonstrate that he received 
+sustained acclaim and that he is among that small percentage at the very top of his field. For instance 
+the Petitioner rovided an article from I I 2024 ublished in Tech & Science titled 
+This article only provided an overview of"fintech," or the combination offinancial services and digital 
+technology, and discussed the Petitioner's experience and background, including his experience at C­
+O-. Similarly, the Petitioner submitted another article ublished online in NY Week! Contributor 
+also inl 12024, titled.___________________________.
+I This article also provided information on the Petitioner's background and 
+6 See generally G USC1S Policy Manual, supra at F.2(B)(2) (stating that "[d]epending on the field and the comparative 
+data the petitioner provides" evidence demonstrating the total rate of citations is high relative to others "may indicate a 
+person's high overall standing"). 
+7 
+I 
+I 
+experience but did not discuss his claimed innovations in the field with specificity or discuss how he 
+"set new standards in the field." In addition the Petitioner rovided an article ublished online in IB 
+Times UK inl ~024 titled'.___ ______________________. 
+The article reflected the Petitioner contributing to a question-and-answer session and generally 
+discussing his experience and trends facing the "fintech" industry, an industry the article indicated 
+would row to over $1.152 trillion by 2032. Lastly, another article published online by TechBullion 
+m 2025 named j 
+provided an overview ofhis career and how he built himself into a successful professional 
+'-------' 
+in the industry. 
+However, the provided articles do not reflect "extensive media coverage" in professional or major 
+trade publications or other major media indicative of his place at the very top of his field, but they 
+mainly provide biographical overviews of the Petitioner's career and general discussion of important 
+issues facing the fintech industry. The articles only vaguely discuss his innovations and do not provide 
+sufficient detail on their impact on the industry to demonstrate how he is at the very top of his field, 
+including how he 'set new standards in the industry," as asserted in one of the online articles. It is 
+also noteworthy that the provided articles discuss the Petitioner's leading role in fintech, whereas 
+elsewhere on the record he emphasizes him being at the top of several other fields, such as computer 
+science, artificial intelligence, cloud computing, and data security. In total, the Petitioner did not 
+demonstrate how the amount of coverage submitted from 2024 and 2025 was representative of 
+sustained acclaim in his field, even if that field was properly defined. 
+On appeal, the Petitioner also emphasizes that SCOPS did not sufficiently consider his patented multi­
+cloud monitoring technology commercialized by "an independent company" reflecting a "trajectory 
+of technical innovations." In support of this assertion, the Petitioner provided a "Certificate of 
+Registration for a UK Design" dated in November 2024 showing the registration of an "an apparatus 
+for Monitoring Managing Data Flows and Migration in the Multi-Cloud Environment." The Petitioner 
+further submitted a "Patent License Agreement" related to this proposed product granting a California 
+corporation the right to sell his patented apparatus. 
+However, there is little indication as to what impact this asserted patent had on the various industries 
+the Petitioner claims he operates within, including AI, fintech, cloud computing, and data security. 
+The Petitioner did not establish that his claimed patent is considered a major innovation in any field 
+to support that he was at the very top of a field, or that he received sustained acclaim for this asserted 
+innovation. See generalZv 6 USCIS Policy Manual, supra at F.2(B), "Evidence that the person's work 
+was funded, patented, or published, while potentially demonstrating the work's originality, will not 
+necessarily establish, on its own, that the work is of major significance to the field." The license 
+agreement with a California company only grants this company the right to sell the Petitioner's patent 
+in the future, but there is little evidence to substantiate that it has been widely commercialized, 
+adopted, or even recognized in his field. In sum, the evidence does not demonstrate that the Petitioner 
+has contributed a "trajectory oftechnical innovations" that have made a substantial impact on his field 
+and that are reflective of him being at the very top of a field. 
+Although SCOPS concluded that the Petitioner acted as a judge of the work of others in his field of 
+endeavor, the Petitioner did not sufficiently establish how this demonstrated that he was at the very 
+top of his field. For example, the Petitioner indicated that he performed peer review on ten scholarly 
+8 
+articles in his field, acted on th .________________.editorial board, and functioned as 
+a judge on a panel for the Globee Awards. However, participation in the peer review process itself in 
+the absence of other evidence would not demonstrate that an individual has sustained national or 
+international acclaim and the Petitioner did not show how his peer review of ten scholarly articles met 
+this standard or how it would demonstrate that he had risen to the very top of his field. The evidence 
+in the record does not demonstrate that the Petitioner has received any independent acclaim or 
+recognition for his service as a peer reviewer. Without this or other evidence providing context to his 
+work in the field, the Petitioner has not shown that his level and frequency of peer review contributed 
+to establishing his sustained national or international acclaim or places him among that small 
+percentage at the very top of the field of endeavor. See section 203(b )(1 )(A)(i) ofthe Act and 8 C.F.R. 
+§ 204.5(h)(2). 
+The same can be said for him being a member of the editorial board of the
+I Ias the board included nearly 40 members, and the Petitioner did n._o_t-su-f-Ii-c-ie_n_t_ly_a_rt_1_·c-u-la_t___.e 
+the level of this honor and how it was demonstrative of him being at the very top of his field of 
+endeavor. In addition, the Petitioner did not submit sufficient evidence to establish that acting as a 
+judge for the Globee awards was likewise reflective of sustained acclaim at the very top of his field. 
+Although the Petitioner provided a letter indicating his selection as a judge for this award, there was 
+no indication what type of award he judged or how he was selected. This is particularly noteworthy 
+since he indicated that "the judging panel for the Globee Awards comprises accomplished 
+professionals, seasoned executives, and industry leaders from a wide range of sectors." As such, the 
+Petitioner did not sufficiently demonstrate either that him acting as a judge of the Globee Awards 
+could support his top prevalence in his field. 
+In addition, the Petitioner states on appeal that professional associations and award bodies have 
+responded to his "record of innovation" by elevating him to a senior member and conferring him 
+awards. With respect to membership, the Petitioner emphasizes his membership in the Institute of 
+Electrical Engineers (IEEE) as a senior member, asserting this level of membership required 
+outstanding achievements in his field. Senior membership in the IEEE reflects a wide array of 
+potential professions, including "engineers, scientists, educators, technical executives, or originators," 
+as well as fields, namely any IEEE-designated field. Senior membership in the IEEE requires that the 
+individual have "experience reflecting professional maturity," "professional practice for at least ten 
+years (with some credit for certain degrees)," and "significant performance over a period of at least 
+five years in professional practice." 
+The criteria for IEEE senior membership does not suggest sustained acclaim or being at the very top 
+of one's field but appears granted when certain professional milestones are accomplished, such as 
+years worked, certain educational credit, and "significant performance," language which may not 
+necessarily reflect sustained national or international acclaim or extraordinary achievement in a 
+specific field. In fact, the Petitioner indicated that about 10% of the approximately 450,000 IEEE 
+members reach the grade of senior member, a large number not indicative of a small percentage who 
+have reached the very top of their respective fields. 
+Similarly, the Petitioner's receipt of two awards also did not demonstrate his sustained acclaim or his 
+position at the very top of his field. First, the Petitioner submitted a ._____________.' he 
+received in 2024, an award from an entity describing itself as "the world's leading business awards 
+9 
+program, celebrating the finest achievements in entrepreneurship, innovation, and corporate 
+responsibility." Again, the Petitioner did not establish that this represented an award recognizing his 
+achievement in his field of endeavor, but only vaguely offered as an award in "international business" 
+from a "nationally or internationally recognized venue for celebrating the remarkable achievements of 
+professionals." The award itself includes no specific details as to how the award was given, or more 
+critically whether it was awarded in the Petitioner's field of endeavor. 
+The Petitioner also pointed to his receipt of "The Indian Achievers' Award" inl I2024 given 
+to "individuals in business domains who have demonstrated remarkable accomplishment within their 
+respective fields." In this case, the Petitioner received the award "in recognition of outstanding 
+professional achievement in FinTech industry & contributions towards nation building." The 
+Petitioner provided evidence regarding the Indian Achievers Award showing that it is only awarded 
+to Indian nationals "who come forward to serve the nation in various domains," and this is reflected 
+in the body of the award and its reference to "nation building." In addition, the letter along with the 
+award states that the award was given "based purely on the prima facie vetting of the documents, 
+profile and testimonials submitted by you." This would not represent independent objective 
+identification of the awardees based on recognition as to who was at the very top of their field, but 
+only an assessment of the documentation provided and whether this amounted to "remarkable 
+accomplishment" in their field. The Petitioner submitted no evidence to demonstrate on what basis 
+this determination was made, or whether qualified experts in his field made this determination. As 
+such, the Petitioner has not provided sufficient independent objective evidence to show that the awards 
+are reflective of someone who has received sustained acclaim or an individual who is among the small 
+percentage at the very top of their field of endeavor. 
+In summary, the Petitioner seeks a highly restrictive visa classification, intended for individuals already 
+at the top oftheir respective fields, rather than for those progressing toward that goal. USCIS has long 
+held that even athletes performing at the major league level do not automatically meet the 
+"extraordinary ability" standard. Matter of Price, 20 I&N Dec. 953, 954 (Assoc. Comm'r 
+1994). Considering the full measure ofthe Petitioner's ability and achievements, the level ofhis national 
+or international acclaim and the extent to which his achievements have been recognized in the field, the 
+Petitioner has not demonstrated that he has a record of sustained acclaim. Also, he has not submitted 
+extensive documentation exhibiting he has attained a level of expertise placing him among that small 
+percentage that has risen to the very top of the field of endeavor. 
+III. CONCLUSION 
+For the reasons discussed above, the Petitioner has not demonstrated his eligibility as an alien of 
+extraordinary ability. The appeal will be dismissed for the above-stated reasons. In visa petition 
+proceedings, it is a petitioner's burden to establish eligibility for the immigration benefit sought. The 
+Petitioner has not met that burden here. 
+ORDER: The appeal is dismissed. 
+NOTICE: This constitutes the final decision in this matter. The filing of a motion will not postpone the 
+effect of the decision. 8 C.F.R. § 103.5(a)(l)(iv). Aliens who are not lawfully present, or who are 
+otherwise inadmissible or deportable, may be subject to the commencement of removal proceedings 
+10 
+under section 240 ofthe Act through the issuance of a Form I-862, Notice to Appear. Those proceedings 
+may result in their removal from the United States and possible ineligibility for future visas or other 
+immigration benefits. 
+11 

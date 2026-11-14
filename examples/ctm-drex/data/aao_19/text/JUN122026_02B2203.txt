@@ -1,0 +1,336 @@
+Non-Precedent Decision of the
+Administrative Appeals Office 
+U.S. Citizenship 
+and Immigration 
+Services 
+In Re: 43193767 Date: JUNE 12, 2026 
+Appeal of USCIS Decision 
+Form 1-140, Immigrant Petition for Alien Workers (Extraordinary Ability) 
+The Petitioner is a cybersecurity specialist who seeks classification as an alien of extraordinary ability. 
+See Immigration and Nationality Act (the Act) section 203(b)(l)(A), 8 U.S.C. § 1153(b)(l)(A). This 
+first preference classification makes immigrant visas available to those who can demonstrate their 
+extraordinary ability through sustained national or international acclaim and whose achievements have 
+been recognized in their field through extensive documentation. 
+U.S. Citizenship and Immigration Services (USCIS) denied the Form I-140, Immigrant Petition for 
+Alien Workers (petition), concluding the record did not establish that the Petitioner had received a 
+major, internationally recognized award, nor did he demonstrate that eligibility when considering the 
+totality of the evidence. The matter is now before us on appeal under 8 C.F .R. § 103 .3. The Petitioner 
+bears the burden of proof to demonstrate by a preponderance of the evidence. Section 291 of the Act; 
+Matter ofChawathe, 25 I&N Dec. 369, 375 (AAO 2010). We review the questions in this matter de 
+novo. Matter of Christa's Inc., 26 I&N Dec. 537,537 n.2 (AAO 2015). Upon de novo review, we 
+will dismiss the appeal. 
+I. LAW 
+To qualify under this immigrant classification, the statute requires the filing party demonstrate: 
+• The alien enjoys extraordinary ability in the sciences, arts, education, business, or athletics; 
+• They seek to enter the country to continue working in the area of extraordinary ability; and 
+• The alien's entry into the United States will substantially benefit the country in the future. 
+Section 203(b )(1 )(A)(i)-(iii) of the Act. The term "extraordinary ability" refers only to those in "that 
+small percentage who have risen to the very top of the field of endeavor." 8 C.F.R. § 204.5(h)(2). See 
+also H.R. Rep. 101-723, 59 (Sept. 19, 1990), reprinted in 1990 U.S.C.C.A.N. 6710, 1990 WL 200418 
+at *6739 (stating: "In short, admission under this category is to be reserved for that small percentage 
+of individuals who have risen to the very top of their field of endeavor."). 
+The implementing regulation at 8 C.F.R. § 204.5(h)(3) sets forth a multi-step analysis. In the first 
+step, a petitioner can demonstrate international recognition of his or her achievements in the field 
+through a one-time achievement (that is, a major, internationally recognized award). Ifthat petitioner 
+does not submit this evidence, then he or she must provide sufficient qualifying documentation that 
+meets at least three of the ten criteria listed at 8 C.F.R. § 204.5(h)(3)(i)-(x) (including items such as 
+awards, published material in certain media, and scholarly articles). 
+Where a petitioner meets these initial evidence requirements, we then move to the second step to 
+consider the totality of the material provided in a final merits determination and assess whether the 
+record shows sustained national or international acclaim and demonstrates that the individual is among 
+the small percentage at the very top of the field of endeavor. See Kazarian v. USCIS, 596 F.3d 1115, 
+1121 (9th Cir. 2010) ( discussing a two-step review where the documentation is first counted and then, 
+if fulfilling the required number of criteria, considered in the context of a final merits determination); 
+see also Amin v. Mayorkas, 24 F.4th 383, 394 (5th Cir. 2022). 
+II. ANALYSIS 
+According to the Petitioner's curriculum vitae, he completed a Magister of Law at~I-----~ 
+I I in 2012, undertook three years in a criminology program, later transitioned toward 
+information security in Canada, studied software engineering for one year in the United States, and is 
+currently pursuing a software engineering program through an accredited online university. He is a 
+cybersecurity specialist and senior penetration tester with roughly 15 years of experience progressing 
+from early roles in his home country to more senior positions recently. 
+A. Evidentiary Criteria 
+Because the Petitioner has not indicated or established that he has received a major, internationally 
+recognized award, he must satisfy at least three of the alternate regulatory criteria at 8 C.F.R. 
+§ 204.5(h)(3)(i)-(x). Before SCOPS, the Petitioner claimed he met five of the regulatory criteria. 
+SCOPS decided that the Petitioner satisfied three of the criteria relating to judging, the authorship of 
+scholarly articles, and performing in a leading or critical role but that he had not satisfied the criteria 
+associated with original contributions or a high salary or remuneration. On appeal, the Petitioner 
+maintains that he meets the two additional criteria, but as he has satisfied at least three, it is unnecessary 
+that we evaluate whether he has met two more criteria. 
+B. Final Merits Determination 
+As the Petitioner has submitted the requisite initial evidence we will evaluate whether he has 
+demonstrated, by a preponderance of the evidence, his sustained national or international acclaim and 
+that he is one ofthe small percentage at the very top ofthe field ofendeavor, and that his achievements 
+have been recognized in the field through extensive documentation. In a final merits determination, 
+we analyze the Petitioner's accomplishments and weigh the totality of the evidence to determine if his 
+successes are sufficient to demonstrate that he has extraordinary ability in the field of endeavor. See 
+section 203(b)(l)(A)(i) of the Act; 8 C.F.R. § 204.5(h)(2), (3); see also Kazarian, 596 F.3d at 
+1119-20); also see generally 6 USCIS Policy Manual F.2(B)(2), https://www.uscis.gov/policymanual 
+( stating that in a final merits determination USCIS officers should then evaluate the evidence together 
+when considering the petition in its entirety to determine if the petitioner has established by a 
+2 
+preponderance of the evidence the required high level of expertise of the immigrant classification). In 
+this matter, we determine that the Petitioner has not documented his eligibility. 
+l. Appellate Claims that Two-step Process is not Authorized 
+The two-step adjudication process is an interpretive rule that does not violate the Administrative 
+Procedure Act, nor is it a legislative rule. Nagaiah v. Allen, 784 F. Supp. 3d 798, 810 (E.D. Pa. 2025); 
+Agrawalv. Miller, No. 4:24CV3143, 2025 WL 2879217, at *12 (D. Neb. Sept. 12, 2025); Etsy, Inc. 
+v. Jaddou, No. 4:22CV3022, 2023 WL 3689555, at *23 (D. Neb. May 25, 2023) ( citing Perez v. Mortg. 
+Bankers Ass 'n, 575 U.S. 92, 96 (2015). This approach is rooted in an exhaustive historical review of 
+the congressional record, the governing statutory language, and the comprehensive regulatory scheme 
+intended to ensure only those at the very top of their field receive this classification. To date, no other 
+federal court has offered an alternative framework that is similarly grounded in such a thorough 
+analysis of the legislative and agency history. 
+That brings us to the Petitioner's claim that a single district court opinion established the two-step 
+process is ultra vires (i.e., beyond USCIS' legal authority). But that opinion has no authority here. 
+We are only bound to follow published case law from a U.S. court of appeals for sufficiently similar 
+situations within the same circuit. Matter ofAnselmo, 20 I&N Dec. 25, 31 (BIA 1989); Matter of 
+K-S-, 20 I&N Dec. 715, 718 (BIA 1993). Cases before us that fall outside a U.S. court of appeals' 
+jurisdiction carry no binding effect. Matter ofAnselmo, 20 I&N Dec. at 31 (finding administrative 
+appellate bodies "are not required to accept an adverse determination by one circuit court of appeals 
+as binding throughout the United States"). 
+U.S. district courts' opinions carry even less of a binding effect as we are not required to follow their 
+published decisions, not even within the same district. Matter ofDuarte-Gonzalez, 28 I&N Dec. 688, 
+690 n.2 (BIA 2023). Although we may consider a district judge's reasoning as a useful aid in our 
+analysis, we are not required to follow it as a matter of law. Matter ofN-A-G-C-, 29 I&N Dec. 662, 
+665 (BIA 2026) (citing Matter ofK-S-, 20 I&N Dec. at 718); see also Trump v. CASA, Inc., 606 U.S. 
+831, 852 (2025) (concluding that as a matter of law, a district court's findings "extends only to the 
+suing plaintiff-as evidenced by the fact that only the plaintiff can enforce the judgment against the 
+defendant," and if another person or entity wishes to restrict the defendant's actions, they must file 
+their own suit). 
+But more than that, we do not agree with the district court's reasoning. The opinion the Petitioner 
+references is Mukherji v. Miller, No. 4:24CV3170, 2026 WL 895708, at *6 (D. Neb. Jan. 28, 2026). 
+There, the court noted that in 1995 the former Immigration and Naturalization Service proposed a 
+two-step adjudicative process. The court also observed that the Office of Personnel Management's 
+(OPM) docket showed that the 1995 notice of proposed rulemaking (NPRM) was classified as a 
+substantive rule. Based on that classification of the entire NPRM, the court treated the two-step 
+process as the sole reason the proposed rule was a substantive or legislative rule, and it did not evaluate 
+whether the numerous other provisions within the proposed rule might have been the basis for OPM's 
+classification. 
+On that understanding, the court concluded that the two-step adjudicative process constituted a 
+legislative or substantive rule that could be implemented only through notice-and-comment 
+3 
+rulemaking under the Administrative Procedure Act. In doing so, the court did not fully engage with 
+USCIS' stated rationale for adopting the two-step process, namely that a federal circuit court required 
+it, and that using one approach within that circuit and a different approach elsewhere was not prudent 
+or feasible. USCIS' implementing memorandum discussed the circuit court's decision in detail and 
+expressly adopted that approach. USCIS respectfully submits that this explanation satisfies any 
+obligation to articulate a rational basis for the policy change. 
+In addition, the Mukherji decision did not appear to address how that petitioner's satisfaction of the 
+criteria in that case related to the method of adjudication. The court ordered approval of the petition 
+without analyzing whether any favorable determinations made at step one had been reached under the 
+prior approach in which USCIS did not conduct a qualitative sustained-acclaim analysis under each 
+individual criterion. The five criteria the court found satisfied ( awards, published material, judging, 
+contributions, and leading or critical role) thus were not adjudicated in the manner the court seemed 
+to contemplate reinstating. USCIS respectfully submits that this omission was not harmless, because 
+it bears directly on whether the court's remedy accords with the adjudicative framework it preferred. 
+And about congressional intent, USCIS understands Congress to have intended that qualifying 
+candidates for this immigration benefit be among those at the top of their field. The House Judiciary 
+Committee explained: "In short, admission under this category is to be reserved for that small 
+percentage of individuals who have risen to the very top of their field of endeavor." H.R. Rep. 
+101-723, 59 (Sept. 19, 1990), reprinted in 1990 U.S.C.C.A.N. 6710, 1990 WL 200418 at *6739 (House 
+Committee Report). Mukherji, however, understood the legislative history differently, stating that the 
+Conference Report on the Senate bill that ultimately became law "says absolutely nothing" about a 
+requirement that persons seeking priority-worker extraordinary ability classification be part of "that 
+small percentage of individuals who have risen to the very top of their field" or any similar 
+formulation. H.R. Conf. Rep. 101-955, 101st Cong., 2d Sess. (Oct. 26, 1990). 
+USCIS respectfully reads the legislative history differently. The "Senate Bill" material the court cited 
+is from a Conference Report, while the "small percentage" language appears in a House Judiciary 
+Committee Report. These documents serve different functions in the legislative process. When a 
+conference report does not address a particular substantive issue, as is the case here, the committee 
+reports that originally developed and explained the provision remain the most authoritative evidence 
+of congressional intent. See Zuber v. Allen, 396 U.S. 168, 186 (1969) (noting that committee reports 
+"represent the considered and collective understanding ofthose Congressmen involved in drafting and 
+studying proposed legislation"); Garcia v. United States, 469 U.S. 70, 76 (1984) ( explaining that "[i]n 
+surveying legislative history we have repeatedly stated that the authoritative source for finding the 
+Legislature's intent lies in the Committee Reports on the bill"). 
+The House Judiciary Committee Report, H.R. Rep. 101-723, supplies the substantive explanation of 
+Congress's intent for the Immigration Act of l 990's extraordinary-ability classification, including the 
+"small percentage" formulation. As summarized by the Congressional Research Service, committee 
+reports typically outline the need and purpose of legislation and may include statements of legislative 
+intent to guide both the executive branch in implementation and the judiciary in interpretation. See 
+Committee Reports: Required Contents, Congressional Research Service Products (Library of 
+Congress) (Jan. 22, 2008). 
+4 
+By contrast, the Conference Report, H.R. Conf. Rep. 101-955, primarily reconciles differences 
+between the House and Senate versions and describes how those differences were resolved. Its focus 
+is on the compromise text rather than on restating all underlying policy judgments that were already 
+addressed in the committee reports. A conference report is just the final, official version of a 
+compromise bill that only lists the specific legal text and the formal steps the House and Senate must 
+take to pass it. Coeference Reports and Joint Explanatory Statements, CONGRESS.GOV (Jun. 11, 
+2015), https://www.congress.gov/crs-product/98-382. In that light, the Conference Report's silence 
+on the "top of the field" requirement is most reasonably understood as reflecting acceptance, rather 
+than rejection, of the House Judiciary Committee's previously articulated intent. 
+Accordingly, USCIS respectfully understands H.R. Rep. 101-723 to remain the controlling statement 
+of congressional intent on this point. That understanding is reflected in 8 C.F.R. § 204.5(h)(2), which 
+requires "a level of expertise indicating that the individual is one of that small percentage who have 
+risen to the very top of the field of endeavor." 
+Not only is the Petitioner incorrect in relying on this flawed analysis, but he also did not assert these 
+claims in the proceedings before SCOPS and he may not advance them for the first time in his appeal. 
+Whitton v. Dixon, No. 25-580, 2026 WL 1513270, at *2 (U.S. June 1, 2026) (declining to evaluate 
+new claims, legal theories, or evidence that were not before the original deciding authority in the first 
+instance); Santana-Gonzalez v. Bondi, 172 F.4th 736, 744 (9th Cir. 2026) (finding a filing party cannot 
+raise new issues on appeal that it did not present to the lower trier of fact); Matter ofG-C-1-, 29 I&N 
+Dec. 176, 177 n.2 (BIA 2025) (citing Matter ofH-L-S-A-, 28 I&N Dec. 228, 240 n.10 (BIA 2021) and 
+noting that issues presented for the first time on appeal will not be addressed). 
+2. Final Merits Analysis 
+The Petitioner's appeal rests entirely on two arguments. First is that he meets two additional criteria, 
+which we already indicated he satisfied the minimum of at least three meaning it is unnecessary that 
+we address other criteria. Second, he claims the final merits determination process is unlawful. The 
+Petitioner does not advance any argument in the alternative contesting the actual basis for SCOPS' 
+denial: his failure to demonstrate his sustained national or international acclaim and that he is one of 
+the small percentage at the very top of the field of endeavor, and that his achievements have been 
+recognized in the field through extensive documentation. 
+We consider that issue waived on appeal as he addressed it below but fails to do so now. When the 
+denial decision contains a specific basis for the adverse decision, it is the Petitioner's responsibility to 
+demonstrate in their appeal that SCOPS made a prejudicial error when it denied on that basis. The 
+failure to make such a demonstration-as we have here-means the below decision on this topic will 
+stand. And by not raising issues relating to a final merits totality analysis, the Petitioner has waived 
+that topic in this appeal. Matter ofGarcia, 28 I&N Dec. 693, 693 n.1 (BIA 2023) ( citing Matter of 
+R-A-M-, 25 I&N Dec. 657,658 n.2 (BIA 2012) and finding issues that are not meaningfully challenged 
+in the appeal are waived); Matter ofO-R-E-, 28 I&N Dec. 330, 336 n.5 (BIA 2021) (finding when a 
+filing party mentions an issue without developing an argument, the issue is deemed waived). 
+And the Petitioner cannot revive it by filing a motion on this decision as a filing party cannot cure 
+their failure to preserve an argument in a previous stage of the same proceedings through a 
+5 
+post-adjudicative motion. Philipp v. Stiftung Preussischer Kulturbesitz, 77 F.4th 707, 709-10 (D.C. 
+Cir. 2023); United States v. Campbell, 26 F.4th 860, 875-76 (11th Cir.), cert. denied, 143 S. Ct. 95, 
+214 L. Ed. 2d 19 (2022) (finding that unless it would result in a miscarriage ofjustice, in most cases 
+an issue abandoned on appeal should still be dismissed in any subsequent motion without addressing 
+the merits). Instead, if he wishes to raise those issues again, he should achieve that by filing a new 
+petition. 
+The Petitioner's only arguments that might be construed as being directed at the actual basis for the 
+decision come couched within his discourse calling a final merits determination unlawful when he 
+asserts that USCIS acted in an arbitrary and capricious manner. He claims he "submitted substantial 
+documentation of his excellence," discussing "most impressive letters of recommendation touting his 
+high-level contributions in his field," and how he authored a few articles in his area. The Petitioner 
+then states "[i]t is unclear why the reviewing officer determined that Petitioner did not meet the 
+'Excellent' level. There is no articulated standard, objective, or specific criteria upon which the 
+Service can judge why he did not meet the standards." 
+What is unclear is from where the Petitioner introduces the concept of excellence or "the 'Excellent' 
+level." The only statutory or regulatory mention of excellence is under the prizes or awards criterion 
+and the requirement that any of those must be recognizing excellence in the field. See 8 C.F.R. 
+§ 204.5(h)(3)(i). This classification's standard is that he demonstrate his accomplishments establish 
+he is extraordinary and that standard is conveyed through the statute as being "demonstrated by 
+sustained national or international acclaim and whose achievements have been recognized in the field 
+through extensive documentation" and through the regulation as "a level of expertise indicating that 
+the individual is one of that small percentage who have risen to the very top of the field of endeavor." 
+So we do not agree with the Petitioner's statement that "the reviewing officer failed to articulate the 
+required standard and the failure to meet that standard by the Petitioner." And while we may agree 
+that the statute doesn't "say anything about an individual being required to stay indefinitely at the top 
+of their field," we cannot ignore the requirement that he demonstrate his national or international 
+acclaim has been sustained. Section 203(b)(l)(A)(i); 8 C.F.R. § 204.5(h)(3). And we do not agree 
+with the Petitioner's implication that SCOPS required him to show that he has remained indefinitely 
+at the top of the field simply through the established two-step process. 
+Because of the unusual fact pattern and the fact that the Mukherji court decision emerging a few days 
+after SCOPS denied the petition appears to have preoccupied the Petitioner's efforts on appeal, we 
+will still perform a final merits determination. 
+The Petitioner's achievements fall far short of meeting this classification's stringent requirements. 
+With regard to the Petitioner's judging experience, the record does not clearly demonstrate that was 
+judging the work ofothers in the same or an allied field when he performed peer review for a publication. 
+The publication in question publishes research across a wide array of scientific disciplines and the letter 
+he offered doesn't specify he reviewed manuscripts relating to cybersecurity or an allied field. Even so, 
+he has not illustrated that a single instance of conducting peer review is the type of performance 
+distinguishing him from others in the field-such as receiving and completing independent review 
+requests from a significant number of journals or conferences, serving in an editorial capacity for a 
+6 
+distinguished journal, or chairing a technical committee for a reputable conference-we cannot determine 
+that he is among that small percentage who has risen to the very top of the field of endeavor. 
+Nor is his publication record the type that might aid in qualifying for this restrictive immigrant 
+classification. While one of the articles he authored appeared in a reputable resource, the vast majority 
+ofthe remaining material appeared in two publications that have not earned an equally reputable standing. 
+SeeJafarovv. USCIS, No. 23 CIV. 3372 (PAE), 2024 WL 69056, at *9 (S.D.N.Y. Jan. 5, 2024) (finding 
+it appropriate for USCIS to consider the publications' significance in the ultimate merits determination). 
+And the Petitioner did not demonstrate that the low rate of citations to his work (between three and seven 
+citations) depicts he is one who is among the small percentage at the top of the field and has sustained 
+national or international acclaim, nor did he demonstrate "particular prestige or acclaim associated with 
+publication in such journals." See generally 6 USCIS Policy Manual, supra, at F.2(8)(2); see also 
+Agrawal v. Miller, No. 4:24CV3143, 2025 WL 2879217, at *23 (upholding that minimal global citations 
+from a petitioner's articles do not demonstrate acclaim in the field). 
+As it relates to his contributions to the field, SCOPS determined under the criterion in step one, despite 
+the originality of some of the Petitioner's work, that he did not demonstrate that work has "been of such 
+influence and importance, as to effect the field of cybersecurity as a whole." The Petitioner developed an 
+AI-powered, cloud-based cybersecurity platform that streamlined security testing and he primarily 
+supported his claims of how widely that impacted the field through letters, and lesser instances of 
+recognition or commendations. His publication record does not reflect that his work has provoked 
+widespread commentary or received broad notice from others working in the field based upon his total 
+number of citations. Regarding the Petitioner's citation history as it pertains to the significance of his 
+contributions to the field, SCOPS noted that "while a moderate amount of citations to the petitioner's 
+work demonstrates awareness ofthe work and its value, not every researcher who performs moderately 
+valuable research has inherently made a contribution of major significance to the field as a whole." 
+We similarly conclude that the Petitioner has offered insufficient evidence to support the contention 
+that his work has established widespread recognition or attention from others in the field. 
+While his work as a whole may be technically valuable, he has not shown objective indicators of 
+field-wide impact such as substantial citations. Instead, the record shows primarily recent preprint 
+publications and professional achievements that better align with a skilled practitioner, rather than 
+evidence of"original contributions of major significance" under this classification's high standards. 
+Moving to his work for organizations with a distinguished reputation, while the Petitioner claims his role 
+as a lieutenant in cybersecurity for the national police ofhis home country, there was no showing that this 
+institution enjoys a distinguished reputation or how his role was leading or critical to it. Nor did he 
+illustrate how his roles for two other entities were indicative of or consistent with sustained national 
+acclaim or a level of expertise indicating that he is one ofthat small percentage who have risen to the very 
+top of his field. 
+He did enjoy a qualifying performance for the company he founded and that entity enjoys a distinguished 
+reputation in his field. But one instance of satisfying the criterion in step one does not necessarily show 
+he has been able to sustain that level of acclaim. Chwyumov v. USCIS, No. 2:18-CV-00841-RAJ, 2019 
+WL 5802041, at *3 (W.D. Wash. Nov. 7, 2019), aff'd, No. 2:18-CV-00841-RAJ, 2019 WL 5802041 
+(W.D. Wash. Nov. 7, 2019) (upholding that success of one business does not equate to national or 
+7 
+international acclaim). Other federal courts have also found that working in a leadership position for a 
+recognized and famous company does not automatically show an alien has risen to the top of the field 
+and has sustained acclaim. Mishra v. Richardson, No. 120CV991LMBTCB, 2021 WL 1566071, at *4 
+(E.D. Va. Apr. 20, 2021). "In determining whether the beneficiary has enjoyed 'sustained' national or 
+international acclaim, the officer should consider that such acclaim must be maintained." See generally 
+6 USCIS Policy Manual, supra, at F.2(A)(l). According to Black's Law Dictionary (12th ed. 2024), the 
+definition ofsustain is "[t]o support or maintain, esp. over a long period ... [or] [t]o persist in making (an 
+effort) over a long period." The Petitioner's performance in their leading or critical roles should reflect 
+their performance led to or illustrates sustained national or international acclaim. Nagaiah, 784 F. Supp. 
+3d at 820. This is not indicative of or consistent with sustained national acclaim or a level of expertise 
+indicating that he is one of that small percentage who have risen to the very top of his field. 
+Regarding the Petitioner's compensation, he wasn't able to align his claims and evidence to satisfy the 
+requirements in step one. While our reasoning on that issue might have differed somewhat from SCOPS' 
+analysis in the denial, we would have come to the same conclusion. The Bureau of Labor Statistics 
+comparative data the Petitioner submitted only accounted for an annual salary and it did not include 
+bonuses or anything of value beyond the annual wage. But he presented an offer letter with an annual 
+salary of $155,000 and combined that with a bonus. In a separate claim, he also presented his hourly 
+wage and extrapolated that into an annual salary without any evidence that those contracted jobs resulted 
+in full-time work, much less a salary at the annualized rate. It is from those examples that he claims place 
+him among the top ten percent of earners in his field. First, a petitioner's salary in the top 10 percent of 
+employees is oftentimes not so impressive as to place him at the very top of the field endeavor. Jafarov 
+v. USCIS, No. 23 CIV. 3372 (PAE), 2024 WL 69056, at *9. 
+Second, even if we were to consider the contents of the offer letter to be a high salary, earning a high 
+salary alone may not be sufficient to establish he is a singularly extraordinary alien. See Hamal v. DHS, 
+No. 21-5160, 2023 WL 1156801, at *2 (D.C. Cir. Jan. 31, 2023); Bodhankar v. USCIS, No. 
+119CV706MADCFH, 2020 WL 777211, at *5 (N.D.N.Y. Feb. 18, 2020) (finding that the plaintiffs high 
+salary was not so high as to indicate that he has risen to the very top of the field). And third, the data the 
+Petitioner provided was not contextualized to the geographic area where his work would occur and 
+nationwide statistics are not a proper comparison. See generally 6 USCIS Policy Manual, supra, 
+F.2(B)(l) (repeatedly reflecting that comparative wage or remuneration data should not only be in their 
+field, but also in the geographic area); see also Berardo v. USCIS, No. 3:19-CV-01796-SB, 2020 WL 
+6161459, at *6 (D. Or. Oct. 20, 2020) (citing to agency policy to conclude that "geographic differences 
+are relevant to a determination ofwhether a salary is high in relation to others in the field"). The Petitioner 
+has not provided information that would enable us to provide a proper determination ofwhether his salary 
+is reflective "ofthat small percentage who have risen to the very top of the field of endeavor." 
+To summarize, the record does not show that the Petitioner's limited judging experience, modest and brief 
+publication record, or cited contributions have influenced the cybersecurity field as a whole or elevated 
+him into the small percentage at the very top of his field. His peer review activity is isolated and not 
+clearly tied to cybersecurity, and his articles are largely published in outlets without particular prestige or 
+significant citation impact. Apart from one qualifying role in his own company, his positions with other 
+organizations do not demonstrate sustained national or international acclaim, and his compensation 
+evidence is neither reliably calculated nor properly contextualized to establish that his earnings place him 
+among the very top of practitioners in his field. 
+8 
+III. CONCLUSION 
+For the reasons discussed above, the Petitioner has not demonstrated his eligibility as an alien of 
+extraordinary ability. The appeal will be dismissed for the above reasons, with each considered as an 
+independent and alternate basis for the decision. In visa petition proceedings, it is a petitioner's burden 
+to establish eligibility for the immigration benefit sought. The Petitioner has not met that burden here. 
+ORDER: The appeal is dismissed. 
+NOTICE: This constitutes the final decision in this matter. The filing of a motion will not postpone the 
+effect of the decision. 8 C.F.R. § 103.S(a)(l)(iv). Aliens who are not lawfully present, or who are 
+otherwise inadmissible or deportable, may be subject to the commencement of removal proceedings 
+under section 240 ofthe Act through the issuance of a Form I-862, Notice to Appear. Those proceedings 
+may result in their removal from the United States and possible ineligibility for future visas or other 
+immigration benefits. 
+9 

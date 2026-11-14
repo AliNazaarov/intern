@@ -1,0 +1,107 @@
+Non-Precedent Decision of the
+Administrative Appeals Office 
+U.S. Citizenship 
+and Immigration 
+Services 
+In Re: 40706958 Date: JAN. 5, 2026 
+Appeal of Service Center Operations (SCOPS) Decision 
+Form 1-140, Immigrant Petition for Alien Workers (Extraordinary Ability) 
+The Petitioner, a senior staff software engineer, seeks classification as an alien of extraordinary ability. 
+See Immigration and Nationality Act (the Act) section 203(b)(l)(A), 8 U.S.C. § l 153(b)(l)(A). This 
+first preference (EB- I) classification makes immigrant visas available to aliens who can demonstrate 
+their extraordinary ability through sustained national or international acclaim and whose achievements 
+have been recognized in their fields through extensive documentation. 
+SCOPS denied the petition, concluding the record did not establish that the Petitioner had satisfied at 
+least three of ten initial evidentiary criteria, as required. The matter is now before us on appeal 
+pursuant to 8 C.F.R. § 103.3 . 
+The Petitioner bears the burden ofproof to demonstrate eligibility by a preponderance of the evidence. 
+Matter ofChawathe, 25 I&N Dec. 369, 375-76 (AAO 2010). We review the questions in this matter 
+de novo. Matter of Christa's, Inc., 26 I&N Dec. 537,537 n.2 (AAO 2015). Upon de novo review, 
+we will withdraw the Director's decision and remand the matter for entry of a new decision consistent 
+with the following analysis. 
+I. LAW 
+Section 203(b)(l) of the Act makes visas available to aliens with extraordinary ability if: 
+(i) the alien has extraordinary ability in the sciences, arts, education, business, or 
+athletics which has been demonstrated by sustained national or international 
+acclaim and whose achievements have been recognized in the field through 
+extensive documentation, 
+(ii) the alien seeks to enter the United States to continue work in the area of 
+extraordinary ability, and 
+(iii) the alien's entry into the United States will substantially benefit prospectively 
+the United States. 
+The term "extraordinary ability" refers only to those individuals in that small percentage who have 
+risen to the very top of the field of endeavor. 8 C.F.R. § 204.5(h)(2). See also Onaghise v. Dep 't of 
+Homeland Sec., No. 3:20-CV-03033-X, 2022 WL 4073344, at *2 (N.D. Tex. Sept. 2, 2022) ("EB-1 
+petitions, nicknamed Einstein visas, are coveted visas reserved for only the most talented noncitizens 
+with extraordinary ability in the sciences, arts, education, business, or athletics"). The implementing 
+regulation at 8 C.F.R. § 204.5(h)(3) sets forth a multi-part analysis. First, a petitioner can demonstrate 
+sustained acclaim and recognition of the beneficiary's achievements in the field through a one-time 
+achievement, that is, a major, internationally recognized award. If that petitioner does not submit this 
+evidence, then they must provide sufficient qualifying documentation that meets at least three of the 
+ten categories listed at 8 C.F.R. § 204.5(h)(3)(i)-(x) (including items, such as awards, published 
+material in certain media, and scholarly articles). Additionally, if the criteria at 8 C.F.R. § 204.5(h)(3) 
+do not readily apply to the beneficiary's occupation, the petitioner may submit comparable evidence 
+to establish the beneficiary's eligibility. 8 C.F.R. § 204.5(h)(4). 
+Where a petitioner meets these initial evidence requirements, we then consider the totality of the 
+material provided in a final merits determination and assess whether the record shows sustained 
+national or international acclaim and demonstrates that the beneficiary is among the small percentage 
+at the very top of the field of endeavor. See Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010) 
+( discussing a two-part review where the documentation is first counted and then, if fulfilling the 
+required number of criteria, considered in the context of a final merits determination); see also 
+Visinscaia v. Beers, 4 F.Supp.3d 126, 131-32 (D.D.C. 2013); Rijal v. USCIS, 772 F. Supp. 2d 1339 
+(W.D. Wash. 2011). 
+II. ANALYSIS 
+The Petitioner states it is a software engineering company specializing in the standardization of 
+background checks employing artificial intelligence (AI) and machine learning. The Petitioner 
+indicates it is an industry leader in "gig economy" technology. The Petitioner explains that it 
+employed the Beneficiary as a senior staff software engineer and that he has "peerless expertise," since 
+he has worked on key technology. It states that the Beneficiary was involved in the development and 
+production of two specific technologiesJ Iproviding $18 million in 
+payments to over 25,000 of its clients. The Petitioner indicates that this innovative technology allows 
+it to leverage background check data to streamline account onboarding and to circumvent fraud, 
+making the company a leader in gig payment systems. 
+Because the Petitioner did not indicate or show that the Beneficiary received a major, internationally 
+recognized award, he must satisfy at least three of the alternate regulatory criteria at 
+8 C.F.R. § 204.5(h)(3)(i)-(x). The Petitioner asserted that the Beneficiary the met the following 
+criteria at 8 C.F.R. § 204.5(h)(3): (i) lesser nationally or internationally recognized prizes or awards; 
+(ii) membership in an association requiring outstanding achievement; (iii) published material in 
+professional or major trade publications related to his work in the field; (iv) participation as a judge of 
+the work of others in the same or an allied field; (v) original business-related contributions of major 
+significance in the field; (vi) authorship of scholarly articles in the field in major trade publications or 
+other major media; (viii) a leading or critical role for organizations or establishments having a 
+distinguished reputation; and (ix) a high salary in relation to others in the field. 
+SCOPS later issued a notice of intent to deny (NOID) stating that the Petitioner established that the 
+Beneficiary met the following criteria at 8 C.F.R. § 204.5(h)(3): (iv) participation as a judge of the 
+2 
+work of others; (viii) a leading or critical role; and (ix) a high salary. However, SCOPS otherwise 
+stated that the Petitioner did not demonstrate that the Beneficiary had sustained national or 
+international acclaim and that he was one of a small percentage who had risen to the very top of his 
+endeavor. SCOPS later denied the petition concluding the Petitioner did not establish that he met the 
+required three initial criteria to reach a final merits determination. More specifically, SCOPS 
+determined that the Beneficiary did not meet seven of the eight criteria asserted, including two criteria 
+SCOPS previously indicated that he did meet. 1 
+On appeal, the Petitioner contends that SCOPS erred when they initially concluded the Beneficiary 
+established three of the ten initial evidentiary criteria, and then later determined that only one of these 
+criterion had been established in the denial decision. In doing so, SCOPS did not give the Petitioner 
+a sufficient opportunity to respond to any perceived insufficiencies in the provided evidence, 
+particularly with respect to whether the Beneficiary had participated as a judge of the work of others 
+or whether he acted in a leading or critical role with a distinguished organization, the two criteria they 
+stated that the Petitioner had met in the NOID. Likewise, in the denial decision and with respect to 
+each criteria, SCOPS provided little analysis as to why the Petitioner did not sufficiently establish 
+seven of the eight criteria. An officer must folly explain the reasons for denying a visa petition in 
+order to allow the Petitioner a fair opportunity to contest the decision and to allow us an opportunity 
+for meaningful appellate review. See 8 C.F.R. § 103.3(a)(l)(i); see also Matter ofM-P-, 20 I&N Dec. 
+786 (BIA 1994) (finding that a decision must folly explain the reasons for denying a motion to allow 
+the respondent a meaningful opportunity to challenge the determination on appeal). 
+As such, on remand, SCOPS should provide a faller review of the evidence and sufficient analysis as 
+to each criterion. If SCOPS finds insufficient evidence to establish that the Petitioner meets individual 
+criterion, it should provide sufficient analysis to allow a meaningful appeal. If SCOPS does find 
+sufficient evidence that he meets two additional criteria, then it should consider whether the record as 
+it currently stands is sufficient to establish that the Beneficiary had sustained national or international 
+acclaim and that he is one of a small percentage who had risen to the very top of the field of software 
+engmeenng. 
+ORDER: The decision of the Director is withdrawn. The matter is remanded for the entry of a 
+new decision consistent with the foregoing analysis. 
+1 SCOPS did determine the Petitioner demonstrated that the Beneficiary commanded a high salary in relation to others in 
+the field. 
+3 

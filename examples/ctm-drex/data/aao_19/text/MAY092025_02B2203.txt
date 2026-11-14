@@ -1,0 +1,123 @@
+U.S. Citizenship 
+and Immigration 
+Services 
+Non-Precedent Decision of the
+Administrative Appeals Office 
+In Re: 37874477 Date: MAY 9, 2025 
+Appeal of Service Center Operations (SCOPS) Decision 
+Form 1-140, Immigrant Petition for Alien Workers (Skilled Worker) 
+The Petitioner, a healthcare company, seeks to employ the Beneficiary as a registered nurse. The 
+company requests her classification under the employment-based, third-preference (EB-3) immigrant 
+visa category as a "skilled worker." See Immigration and Nationality Act (the Act) section 
+203(b )(3)(A)(i), 8 U.S.C. § 1153(b )(3)(A)(i). Businesses may sponsor aliens for U.S. permanent 
+residence in this category to work in jobs requiring at least two years of training or experience. Id. 1 
+Service Center Operations (SCOPS) denied the petition, concluding that the Petitioner did not 
+demonstrate its required ability to pay the combined proffered wages of this and other immigrant visa 
+petitions it filed. On appeal, the company submits a copy of its 2023 federal income tax return. 
+The Petitioner bears the burden of demonstrating eligibility for the requested benefit by a 
+preponderance of the evidence. Matter of Chawathe, 25 I&N Dec. 369, 375-76 (AAO 2010). 
+Exercising de novo appellate review, see Matter of Christo 's, Inc., 26 l&N Dec. 537, 537 n.2 (AAO 
+2015), we conclude that the record lacks regulatorily required evidence of the company's ability to 
+pay the proffered wage in 2024, the year of the petition's priority date. As evidence of the Petitioner's 
+ability to pay in 2024 should become available soon, we will withdraw SCOPS' decision and remand 
+the matter for entry of a new decision consistent with the following analysis. 
+I. LAW 
+Immigration as a skilled worker usually follows a three-step process. First, to permanently fill a job 
+with a foreign worker, a prospective U.S. employer must obtain U.S. Department of Labor (DOL) 
+certification. Section 212(a)(5)(A)(i) of the Act, 8 U.S.C. § l 182(a)(5)(A)(i). If DOL certifies a job, 
+an employer must next submit the labor certification with an immigrant visa petition to U.S. 
+Citizenship and Immigration Services (USCIS). Section 204(a)(l)(F) of the Act, 8 U.S.C. 
+§ l 154(a)(l)(F). Finally, ifUSCIS grants the petition, a noncitizen beneficiary may apply abroad for 
+an immigrant visa or, if eligible, "adjustment of status" in the United States. See section 245 of the 
+Act, 8 U.S.C. § 1255. 
+1 "Relevant post-secondary education may be considered as training." 8 C.F.R. § 204.5(1)(2) (defining the term "skilled 
+worker"). 
+DOL, however, has already determined that the United States lacks sufficient professional nurses and 
+that permanent employment of aliens in these "Schedule A" jobs will not harm the wages or working 
+conditions ofU.S. workers in similar positions. 20 e.F.R. § 656.5. Thus, Schedule A employers need 
+not advertise their jobs to U.S. workers, and DOL authorizes users, in immigrant visa petition 
+proceedings, to adjudicate Schedule A labor certification applications. 20 e.F.R. § 656.15(a). 
+Therefore, in this matter, users not only adjudicates the petition but also its accompanying Schedule 
+A labor certification application. See 20 e.F.R. § 656.15( e) ("The Schedule A determination of DRS 
+[Department of Homeland Security] is conclusive and final."] 
+II. ANALYSIS 
+A petitioner must demonstrate its continuing ability to pay an offered job's proffered wage, from a 
+petition's priority date until a beneficiary obtains U.S. permanent residence. 8 e.F.R. § 204.5(g)(2). 
+Ability-to-pay evidence must generally include copies of a petitioner's annual reports, federal tax 
+returns, or audited financial statements for relevant years. Id. 
+When determining ability to pay, users examines whether a petitioner paid a beneficiary the foll 
+proffered wage each year beginning with the year of a petition's priority date. See generally 6 USCIS 
+Policy Manual E.4(e)( l ), www.uscis.gov/policy-manual. If a petitioner did not annually pay the full 
+wage or did not pay a beneficiary at all, users considers whether the business's annual amounts of 
+net income and net current assets covered the differences between the proffered wage and any wages 
+paid. See generally 6 USCIS Policy Manual E.4(e)(2). If net income and net current assets are 
+insufficient, users may consider other factors potentially affecting a petitioner's ability to pay a 
+proffered wage. See Matter of Sonegawa, 12 I&N Dec. 612, 614-15 (Reg'l eomm'r 1967); see 
+generally 6 USCIS Policy Manual E.4(e)(3) ("The ability to pay analysis is more nuanced than simply 
+reviewing wages paid, net income, and net current assets.")2 
+The Petitioner's Schedule A labor certification application states the proffered wage ofthe offered job 
+of registered nurse as $73,840 a year. The petition's priority date is September 16, 2024, its filing 
+date. See 8 e.F.R. § 204.5(d) (explaining how to determine a petition's priority date). 
+The petition indicates that the Beneficiary resides abroad and has not worked for the Petitioner. Thus, 
+based solely on wages paid, the company did not demonstrate its ability to pay the proffered wage. 
+At the time ofthe petition's filing in September 2024, regulatorily required evidence ofthe Petitioner's 
+ability to pay the proffered wage in 2024 was not yet available. The company's initial ability-to-pay 
+evidence consisted of a copy of its compiled financial statement for 2023. See generally 6 USCIS 
+Policy Manual E.4(A) n.5 ("In the event that a tax return, annual report, or audited financial statement 
+is not available for the priority date year at the time of filing, users may consider one of these three 
+documents for the year before the priority date as part of the totality analysis.") 
+2 Federal courts have upheld USCIS' method of determining a petitioner's ability to pay a proffered wage. See. e.g.. River 
+St. Donuts. Inc. v. Napolitano, 558 F.3d 111, 118 (1st Cir. 2009); Rahman v. Chertoff, 641 F. Supp. 2d 349, 351-52 (D. 
+Del. 2009). 
+2 
+Later in September 2024, SCOPS issued a request for additional evidence (RFE) explaining that the 
+Petitioner's compiled financial statements did not meet the regulatory requirement of "audited 
+financial statements." See 8 C.F.R. § 204.5(g)(2) (emphasis added). The RFE requested regulatorily 
+required evidence of the company's ability to pay the proffered wage, as well as information and 
+documentation regarding approved or pending Forms I-140, Immigrant Petitions for Alien Workers, 
+that the Petitioner had filed for other beneficiaries. Petitioners for multiple beneficiaries who received 
+less than the proffered wages from the businesses must demonstrate their abilities to pay all their 
+beneficiaries' combined proffered wages each year, starting from the priority dates of the petitions 
+under review. See generally 6 USCIS Policy Manual E.4(D)(2). 3 
+The Petitioner's November 2024 RFE response included a copy of part of its 2023 federal income tax 
+return and information about 61 I-140 petitions the company filed for other beneficiaries in 2023 and 
+2024. Because of the incomplete tax return, SCOPS concluded that it could not determine the 
+company's ability to pay the combined proffered wages. See generalZv 6 USCIS Policy Manual 
+E.4(A)(2) ("Submitted tax returns should be complete, including all required schedules.") 
+On appeal, the Petitioner submits a complete copy of its 2023 federal income tax return. The return 
+shows the company's generation of net income that year of more than $1.1 million. 
+By regulation, however, a petitioner must demonstrate its ability to pay "at the time the priority date 
+is established." 8 C.F.R. § 204.5(g)(2). Upon timely request, the U.S. Internal Revenue Service (IRS) 
+automatically extends income tax filing deadlines for up to six months after the original April 15 due 
+date. IRS, "Taxpayers who need more time to file a federal tax return should request an extension," 
+www.irs.gov/newsroom. Thus, a copy of the Petitioner's 2024 federal income tax should be available 
+by October 15, 2025. We will therefore remand the matter for the gathering of additional evidence of 
+the company's ability to pay the proffered wage in 2024, the year of the petition's priority date. 
+On remand, SCOPS should ask the Petitioner to submit regulatorily required evidence of its ability to 
+pay the offered job's proffered wage in 2024 and afford the company a reasonable opportunity to 
+respond. The Petitioner may submit additional evidence of its ability to pay, including materials 
+supporting other factors potentially affecting the company's ability to pay. See Matter ofSonegawa, 
+12 I&N Dec. at 614-15. 
+Also, the record casts doubt on whether the Petitioner would truly employ the Beneficiary in the 
+offered job. In its RFE response and again on appeal, the company describes "the actual place of [the] 
+Beneficiary's employment" as "an entity affiliated with [the] Petitioner." This statement suggests that 
+a different entity than the Petitioner would employ the Beneficiary. See 8 C.F.R. § 204.5(g)(2) 
+(requiring a demonstration of the ability to pay a proffered wage by "the prospective United 
+States employer"); see also Sitar Rest. v. Ashcroft, No. CIV.A.02-30197-MAP, 2003 WL 22203713, 
+at *2 (D. Mass. Sept. 18, 2003) ("[N]othing in the governing regulation, 8 C.F.R. § 204.5, permits the 
+[immigration service] to consider the financial resources of individuals or entities who have no legal 
+3 Petitioners, however, need not pay proffered wages of petitions that they withdrew or that USCIS rejected, denied. or 
+revoked. See generally 6 USCIS Policy Manual E.4(D)(2). Petitioners also need not pay proffered wages before their 
+respective petitions' priority dates or after their corresponding beneficiaries obtained U.S. permanent residence. Id. 
+3 
+obligation to pay the wage.") Thus, on remand, SCOPS should also ask the Petitioner to explain and 
+document which entity would employ the Beneficiary at the intended worksite. 
+If supported by the record, SCOPS may raise other potential denial grounds on remand as long as it 
+notifies the Petitioner of the issues and provides it with a reasonable opportunity to respond. Upon 
+receipt of a timely response, SCOPS should review the entire record and enter a new decision. 
+III. CONCLUSION 
+The record lacks regulatorily required evidence of the Petitioner's ability to pay the proffered wage in 
+2024, the year of the petition's priority date. 
+ORDER: The decision is withdrawn. The matter is remanded for entry of a new decision 
+consistent with the foregoing analysis. 
+4 

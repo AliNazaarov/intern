@@ -1,0 +1,247 @@
+Non-Precedent Decision of the
+Administrative Appeals Office 
+U.S. Citizenship 
+and Immigration 
+Services 
+In Re: 38792952 Date: AUG. 22, 2025 
+Appeal of Service Center Operations (SCOPS) Decision 
+Form 1-140, Immigrant Petition for Alien Workers (Extraordinary Ability) 
+The Petitioner, a computer scientist, requests classification under the employment-based, first­
+preference (EB-I) immigrant visa category as an alien with "extraordinary ability." See Immigration 
+and Nationality Act (the Act) section 203 (b)(1 )(A), 8 U.S.C. § l l 53(b )(1 )(A). Successful petitioners 
+for U.S. permanent residence in this category must demonstrate "sustained national or international 
+acclaim" and extensively document recognition of their achievements in their fields. Section 
+203(b)( 1 )(A)(i) of the Act. 
+Service Center Operations (SCOPS) denied the petition, concluding the record did not establish that 
+the Petitioner had satisfied at least three of ten initial evidentiary criteria for this classification, as 
+required. The matter is now before us on appeal pursuant to 8 C.F.R. § 103.3. 
+The Petitioner bears the burden ofproof to demonstrate eligibility by a preponderance ofthe evidence. 
+Matter afChawathe, 25 l&N Dec. 369, 375-76 (AAO 2010). We review the questions in this matter 
+de novo. Matter a/Christa's, Inc., 26 I&N Dec. 537, 537 n.2 (AAO 2015). Upon de novo review, 
+we will dismiss the appeal. 
+I. LAW 
+An alien is eligible for the extraordinary ability classification if they have extraordinary ability in the 
+sciences, arts, education, business, or athletics which has been demonstrated by sustained national or 
+international acclaim and his or her achievements have been recognized in the field through extensive 
+documentation; he or she seeks to enter the United States to continue work in the area of extraordinary 
+ability; and his or her entry will substantially benefit prospectively the United States. Section 
+203(b)(l)(A) of the Act. 
+The term "extraordinary ability" refers only to those individuals in "that small percentage who have 
+risen to the very top of the field of endeavor." 8 C.F.R. § 204.5(h)(2). The implementing regulation 
+at 8 C.F.R. § 204.5(h)(3) sets forth a multi-part analysis. First, a petitioner can demonstrate a one­
+time achievement (that is, a major, internationally recognized award). Ifthe petitioner does not submit 
+this evidence, then the petitioner must provide documentation that meets at least three of the ten 
+categories listed at 8 C.F.R. § 204.5(b)(3)(i) to (x) (including items such as awards, published material 
+in certain media, and scholarly articles). The regulation at 8 C.F.R. § 204.5(h)(4) allows a petitioner 
+to submit comparable material if the petitioner is able to demonstrate that the standards at 8 C.F.R. 
+§ 204.5(h)(3)(i)-(x) do not readily apply to the individual's occupation. 
+Where a petitioner meets these initial evidence requirements, we then consider the totality of the 
+material provided in a final merits determination and assess whether the record shows sustained 
+national or international acclaim and demonstrates that the individual is among the small percentage 
+at the very top of the field of endeavor. See Kazarian v. USCIS, 596 F.3d 1115, 1119-20 (9th Cir. 
+2010); see also Visinscaia v. Beers, 4 F. Supp. 3d 126, 131-32 (D.D.C. 2013); Rijal v. USCIS, 772 F. 
+Supp. 2d 1339 (W.D. Wash. 2011). 
+II. ANALYSIS 
+Because the Petitioner has not claimed or established his receipt of a major, internationally recognized 
+award, he must satisfy at least three ofthe alternate regulatory criteria under 8 C.F.R. § 204.5(h)(3)(i)­
+(x). SCOPS determined the Petitioner met only two (published material under 8 C.F.R. 
+§ 204.5(h)(3)(iii) and judging under 8 C.F.R. § 204.5(h)(3)(iv)) of the four claimed categories of 
+evidence. On appeal, the Petitioner asserts that he fulfills the two remaining claimed criteria. Any 
+ground of ineligibility that is not raised on appeal is waived. See Matter ofO-R-E-, 28 l&N Dec. 330, 
+336 n.5 (BIA 2021) (citing Matter ofR-A-M-, 25 l&N Dec. 657,658 n.2 (BIA 2012)). 
+A. Original Contributions of Major Significance (8 C.F.R. § 204.5(h)(3)(v)) 
+The Petitioner claims he meets this criterion based on his publications, citations to his work, and 
+recommendation letters from experts in his field. But this evidence demonstrates the Petitioner has 
+published his research and his work has been cited to by others in his field. It does not preponderantly 
+establish that he has made contributions of major significance to his field. So, we conclude the 
+Petitioner does not meet this criterion. 
+The Petitioner self-identifies himself as an "established expert in computer science, and within this 
+broader field, [is] one of the few leading specialists in computer vision." The Petitioner claims that 
+he "is especially well known for his development of a novel 6-dimensional object pose estimation 
+algorithm that solves the issue of occlusion, allowing for the improved real-world applications of 
+computer vision-enhanced automation." The Petitioner also credits himself with "novel methods and 
+original discoveries" stemming from "sophisticated investigations of 3D and eve-based computer 
+vision" specifically an original contribution in "developing point-based representation algorithms for 
+improving 3D computer vision models." And the Petitioner indicates his "develop[ment of] 
+algorithms to improve data extraction in high-speed event cameras" is an original contribution to his 
+field. 
+The Petitioner points to "10 peer-reviewed scientific articles (5 first authored)," the attraction of a 
+"wide audience and [citation] by researchers both in the United States and abroad," and the 
+testimonials of many individuals he identifies with a level of repute in his field describing the 
+significance of his work to the field. 
+2 
+For the criterion at 8 C.F.R. § 204.5(h)(3)(v), the Petitioner must submit evidence of his "original 
+scientific, scholarly, artistic, or business-related contributions ofmajor significance in the field." First, 
+we determine that a petitioner's contributions in their field were original. See generally 6 USCIS 
+Policy Manual F.2(B)(l), https://www.uscis.gov/policy-manual. Next, we examine whether the 
+original contributions are of major significance to the field. Id. 
+Whilst we conclude the Petitioner's "development of a novel 6-dimensional object pose estimation 
+algorithm that solves the issue of occlusion, allowing for the improved real-world applications of 
+computer vision-enhanced automation," a "point-based representation algorithms for improving 3D 
+computer vision models" and the "develop[ ment of] algorithms to improve data extraction in high­
+speed event cameras" are original contribution to his field, our analysis cannot stop there. The 
+Petitioner must also establish that his contributions have been of major significance to the field. And 
+it is here that the Petitioner's claim falters because the evidence in the record does not demonstrate his 
+original contributions have major significance in his field. 
+The testimonial letters in the record onl rovide general statements about the Petitioner's 
+contributions and their si nificance. Dr. the head ofthe Petitioner's lab during his PhD 
+studies at the ~-----------~stated the Petitioner "made significant research 
+contributions" in the form of"devis[ing] the model design and [leading] the experimental simulations" 
+of the 6-dimensional object post estimation algorithm known as "hybridpose." Whilst Dr. I I 
+appreciated the Petitioner's development of "mathematical modeling of even enhanced continuous 
+intensity recovery with the goal of converting blurry images into clear video" and also mentioned 
+practical real world application of such technology for security applications such as smart home 
+monitoring systems and visual doorbells, he did not specifically identify any context, event, or other 
+corroborating evidence that materially, relevantly, or probatively described the original contribution's 
+significance or whether it could be considered major. 
+And Dr.I lof the same university mentioned working with the Petitioner on work that 
+was eventually published to "confirm and verify" his collaboration with him but did not specifically 
+describe how their collaborative work "develop[ing] and refin[ing] mathematical models" or 
+"additions to deblurring technology" constituted an original contribution that exerted major 
+significance in their field. 
+Dr.I I professor, school of electronic and information,! Iin China generally 
+stated that the Petitioner's "research focus is not merely important for autonomous driving, but also 
+for the United States' overall competitiveness in event-based computer vision technology." However, 
+the evidence in the record does not demonstrate how the Petitioner's "development of a model, known 
+as I I' is a contribution of major significance in the field. Whilst the potential practical 
+applications of the Petitioner's work in the field could someday yield fruit, Dr. I I letter does 
+not identify any major significance from the Petitioner's original contribution not rooted in potentiality 
+of application. 
+And whilst Dr. I Iof the~--------------~ provides a 
+"formal endorsement" of the impact of the Petitioner's work. He cited "the continuance of [the 
+Petitioner's] research in the U.S.," and stated that he has "referred to [the Petitioner's] resolution of 
+the blurring issue in active pixel sensor frame data." Dr.I !concluded the "dissemination of 
+3 
+his novel approach facilitated further innovation." But Dr. I Itestimonial does not 
+sufficiently link the dissemination of the Petitioner's original contributions to any specific level 
+reaching major significance. Similarly, Dr. I lofl land Dr.I lof1 I 
+I lin China also state that they have referred to the Petitioner's work in their own scholarly 
+work. But it is not sufficiently evident with context in the record how even repeated citation of the 
+Petitioner's work by Dr.I land Dr.0demonstrates the significance ofthe Petitioner's original 
+contributions to the field have risen to a major level. 
+Dr. ~I------~lofthe._______________________. states that 
+although he and the Petitioner do not know each other, he "shares an interest with" the Petitioner" and 
+writes to "express [his] appreciation for his contributions to computer science scholarship." He 
+describes the Petitioner's contributions in 6D object post estimation as "of reat consequence for the 
+automation of manufacturing processes." But, according to Dr. the contributions 
+demonstrate the Petitioner "is highly skilled" in his field. But Dr. ,_____~does not describe why 
+the Petitioner's contributions are of major significance other than to state that "he extensively 
+compared [his] proposed method with [the Petitioner's]." The record does not convincingly 
+demonstrate the superiority of the Petitioner's method to Dr. I I method and that such 
+superiority in Dr.I ppinion demonstrates the major significance of the Petitioner's original 
+contributions. 
+The letters the Petitioner submitted are essentially explanations ofthe nature ofhis contributions. But, 
+as a whole, the letters do not provide a context for evaluating the significance of the Petitioner's 
+contributions to the field and if they can be classified as "of major significance." For example, the 
+letters do not adequately describe details such as widespread commentary on the importance of the 
+Petitioner's work in the field. or similar context that could describe in detail the nature and significance 
+of the Petitioner's contributions. The letters mainly express the writers' independent opinion of value 
+and appreciation for the Petitioner's professional activities. See generally 6 USCIS Policy Manual 
+F.2(B)(l ), https://www.uscis.gov/policy-manual. 
+The same can be said about the scholarly publications memorializing his contributions and the citation 
+history stemming from the scholarly publications that the Petitioner leans on to showcase his claimed 
+assertion of the major significance of his contributions. Whilst publication and citation can 
+demonstrate some noteworthiness of the claimed contribution to the field, it is not sufficiently 
+preponderant by itself to the question of whether the claimed contribution has exerted major 
+significance on the field. And the Petitioner's reliance on bibliometric data does not demonstrate the 
+significance ofthe contributions the Petitioner claims. For example, the Google Scholar data is silent 
+about how many citations listed therein were self-citations. Further, the Petitioner's assertion that data 
+he claimed was derived from "OpenAlex" reflecting that he was in the topD of his field is not 
+supported by evidence that demonstrates how "OpenAlex" collects, collates, and evaluates its data. 
+So, in sum, we cannot glean the significance of the Petitioner's claimed original contributions from 
+the citation data he submits because it does not reliably describe the level of discourse or commentary 
+the original contributions have generated in the Petitioner's field. 
+Similarly, the "global influence" the Petitioner claims based on the citation of his work "in at least 30 
+countries" is not sufficiently contextualized with material, relevant, or probative evidence in the 
+record. For example, the Petitioner did not demonstrate how citation by scholars "in at least 30 
+4 
+countries" demonstrates the significance of original contributions. Nor does the Petitioner 
+convincingly establish that citation by unaffiliated scholars is related to the significance ofhis original 
+contributions. 
+And whilst the Petitioner states that his research has been funded by the National Science Foundation, 
+it is not sufficiently evident if the funding was awarded to the Petitioner specifically in recognition of 
+the significance of his work or was awarded to the institution for work in the field. 
+A petitioner must show that their original contributions rise to the level of major significance in the 
+field as a whole. See Amin v. Mayorkas, 24 F.4th 383, 394 (5th Cir. 2022) ( citing Visinscaia v. Beers, 
+4 F. Supp. 3d at 134). The Petitioner did not establish his original contributions are of major 
+significance in his field. 
+For the reasons discussed above, the Petitioner did not show he meets this criterion. 
+B. "Evidence that the alien has commanded a high salary or other significantly high remuneration for 
+services, in relation to others in the field." 8 C.F.R. § 204.5(h)(3)(ix). 
+In order to satisfy this criterion, the Petitioner must show that the person's salary or remuneration is 
+high relative to the compensation paid to others working in the field. See generally 6 USCIS Policy 
+ManualF.2(B)(l), https://www.uscis.gov/policy-manual. USCIS determines whether the USCIS does 
+not interpret the phrase "has commanded" to mean that the person must have already earned such 
+salary or remuneration in order to meet the criterion. Rather, a credible contract or job offer showing 
+prospective salary or remuneration may establish that the person has been able to command such 
+compensation. Id. 
+Evidence regarding whether a petitioner's compensation is high relative to that of others working in 
+the field can include compensation surveys and organizational justifications so long as the description 
+ofthe occupation matches, the validity ofthe survey is credible and reliable, and the location, currency, 
+and salary rate being measured are comparable. Id. 
+In support of his commanded salary, the Petitioner submitted an offer letter for employment with his 
+current employer containing his base salary, an award letter from his current employer describing a 
+long-term cash award paid twice yearly for four years, a printout containing occupational employment 
+and wage statistics for computer and information research scientists issued by the U.S. Bureau of 
+Labor Statistics, a printout describing wage data for computer and information research scientists 
+where the Petitioner works, a graphic describing the mean wage for the state of Texas, and job offer 
+letters from competitors of his current employer with offered wages. 
+The regulatory requirement that the commanded salary be high "in relation to others in the field" is 
+interpreted as allowing comparisons to those employed in the same occupation at a similar level. See 
+Matter ofPrice, 20 I&N Dec. 953, 954 (Assoc. Comm'r 1994) (considering a professional golfer's 
+earnings versus other PGA Tour golfers); see also Skokos v. US. Dept. of Homeland Sec., 420 F. 
+App'x 712, 713-14 (9th Cir. 2011) (finding salary information for those performing lesser duties is 
+not a comparison to others in the field); Grimson v. INS, 934 F. Supp. 965, 968 (N.D. Ill. 1996) 
+( considering NHL enforcer's salary versus other NHL enforcers); Muni v. INS, 891 F. Supp. 440, 444-
+5 
+45 (N. D. Ill. 1995) ( comparing salary of NHL defensive player to salary of other NHL defensemen). 
+The Petitioner's job offer letter from his current employer reflects that he is occupying the position of 
+senior applied research scientist. But the record does not contain a description of the duties of this 
+position at the Petitioner's place of employment. Consequently, we are unable to evaluate if the 
+printouts relate to the Petitioner's field. There is insufficient material, relevant, or probative evidence 
+to demonstrate that the senior applied research scientist position is in the same field as computer and 
+information research scientists as the Petitioner claims. 
+Moreover, the job offer letters the Petitioner submitted are for software engineer, machine learning 
+engineer, and machine learning research engineer position. The alternate job offer letters similarly do 
+not sufficiently describe the offered jobs such that we can evaluate if they are in the same field as the 
+Petitioner's occupation. Or in other words, the evidence the Petitioner submitted to support his claim 
+of eligibility under this criterion does not present adequate context to demonstrate that his salary with 
+his current employer is high in relation to others in his field. For the reasons discussed above, the 
+Petitioner did not show he meets this criterion. 
+III. CONCLUSION 
+Congress set a very high benchmark for aliens of extraordinary ability by requiring the petitioner 
+demonstrate "sustained national or international acclaim" and present "extensive documentation" to 
+show his or her achievements have been recognized in the field. Section 203(b )(1 )(A)(i) of the Act. 
+Here, because the Petitioner has not satisfied the threshold "initial evidence" requirements at 8 C.F.R. 
+§ 204.5(h)(3), we cannot conclude that they are an alien of extraordinary ability and need not farther 
+analyze the merits under the statute. See Kazarian, 596 F.3d at 1119-20; see also Nagaiah v. Allen, -
+- F.Supp.3d---, 2025 WL 1508028, at* 10 (E.D. Pa. May 27, 2025) (finding the regulation "establishes 
+a necessary, not sufficient, evidentiary requirement for a petitioner who seeks an extraordinary ability 
+visa."). Therefore, we decline to reach and hereby reserve any final merits determination in this matter. 
+See INS v. Bagamasbad, 429 U.S. 24, 25 (1976) (per curiam) (holding that agencies are not required 
+to make "purely advisory findings" on issues that are unnecessary to the ultimate decision). 
+Regardless, the Petitioner seeks a highly restrictive visa classification, intended for individuals already 
+at the top of their respective fields, rather than those progressing toward the top. Matter ofPrice, 20 
+I&N Dec. 953, 954 (Assoc. Comm'r 1994) ( concluding that even major league level athletes do not 
+automatically meet the statutory standards for classification as an individual of "extraordinary 
+ability,"); Amin v. Mayorkas, 24 F.4th 383, 394 (5th Cir. 2022) (stating that extraordinary ability is 
+such an elite level of accomplishment); Lapteva v. Schuurmans, No. 8:24CV83, 2025 WL 815087 at 
+*1 ( stating that EB-1 visa are intended to be available to only an exceedingly small amount of 
+individuals with extraordinary ability). In this case, the Petitioner has not shown the significance of 
+his work is indicative ofthe required sustained national or international acclaim or it is consistent with 
+a career of acclaimed work in the field. See Section 203(b )(1 )(A) of the Act. Whilst the Petitioner 
+need not establish that there is no one more accomplished to qualify for the classification sought, the 
+record is insufficient to demonstrate that he is among the small percentage at the top of his field. See 
+8 C.F.R. § 204.5(h)(2). 
+6 
+For the reasons discussed above, the Petitioner has not demonstrated his eligibility as an alien of 
+extraordinary ability. The appeal will be dismissed for the above-stated reasons, with each considered 
+as an independent and alternate basis for the decision. 
+ORDER: The appeal is dismissed. 
+NOTICE: This constitutes the final decision in this matter. The filing of a motion will not postpone the 
+effect of the decision. 8 C.F.R. § 103.5(a)(l)(iv). Aliens who are not lawfully present, or who are 
+otherwise inadmissible or deportable, may be subject to the commencement of removal proceedings 
+under section 240 ofthe Act through the issuance of a Form I-862, Notice to Appear. Those proceedings 
+may result in their removal from the United States and possible ineligibility for future visas or other 
+immigration benefits. 
+7 

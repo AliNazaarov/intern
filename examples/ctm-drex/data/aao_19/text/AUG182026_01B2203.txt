@@ -1,0 +1,337 @@
+Non-Precedent Decision of the
+Administrative Appeals Office 
+U.S. Citizenship 
+and Immigration 
+Services 
+In Re: 43782699 Date: AUG. 18, 2026 
+Appeal of U.S. Citizenship and Immigration Services (USCIS) Decision 
+Form I-140, Immigrant Petition for Alien Workers (Extraordinary Ability) 
+The Petitioner, a software developer, seeks classification as an alien of extraordinary ability. See 
+Immigration and Nationality Act (the Act) section 203(b)(l)(A), 8 U.S .C. § 1153(b)(l)(A). This first 
+preference classification makes immigrant visas available to those who can demonstrate their 
+extraordinary ability through sustained national or international acclaim and whose achievements have 
+been recognized in their field through extensive documentation. 
+USCIS denied the petition, concluding that although the record established that the Petitioner satisfied 
+the initial evidentiary requirements, it did not establish, as required, that the Petitioner has sustained 
+national or international acclaim and is an alien in the small percentage at the very top of the field. 
+The matter is now before us on appeal under 8 C.F.R. § 103.3. 
+The Petitioner bears the burden ofproof to demonstrate eligibility by a preponderance ofthe evidence. 
+Matter afChawathe, 25 I&N Dec. 369, 375-76 (AAO 2010). We review the questions in this matter 
+de novo. Matter a/Christa's, Inc. , 26 I&N Dec. 537, 537 n.2 (AAO 2015). Upon de novo review, 
+we will dismiss the appeal. 
+I. LAW 
+Section 203(b )(1 )(A) of the Act makes immigrant visas available to aliens with extraordinary ability 
+in the sciences, arts, education, business, or athletics which has been demonstrated by sustained 
+national or international acclaim and whose achievements have been recognized in the field through 
+extensive documentation. A petitioner must establish that the alien seeks to enter the United States to 
+continue work in the area of extraordinary ability, and that their entry into the United States will 
+substantially benefit the United States. The term "extraordinary ability" refers only to those aliens in 
+"that small percentage who have risen to the very top ofthe field of endeavor." 8 C.F.R. § 204.5(h)(2). 
+The implementing regulation at 8 C.F.R. § 204.5(h)(3) sets forth a multi-part analysis. First, a 
+petitioner can demonstrate international recognition of an alien's achievements in the field through a 
+one-time achievement in the form of a major, internationally recognized award. Or the petitioner can 
+submit evidence that meets at least three of the ten criteria listed at 8 C.F.R. § 204.5(h)(3)(i)-(x), 
+including items such as awards, published material in certain media, and scholarly articles. If those 
+standards do not readily apply to the alien's occupation, then the regulation at 8 C.F.R. § 204.5(h)(4) 
+allows the submission of comparable evidence. 
+Once a petitioner has met the initial evidence requirements, the next step is a final merits 
+determination, in which we assess whether the record shows sustained national or international 
+acclaim and demonstrates that the alien is among the small percentage at the very top of the field of 
+endeavor. See Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010) (discussing a two-part review where 
+the documentation is first counted and then, if fulfilling the required number of criteria, considered in 
+the context of a final merits determination); see also Visinscaia v. Beers, 4 F. Supp. 3d 126, 131-32 
+(D.D.C. 2013); Rijal v. USCIS, 772 F. Supp. 2d 1339 (W.D. Wash. 2011). 
+II. ANALYSIS 
+The Petitioner began working forl Iin India in 2009, and earned a master's 
+degree at the I Ifrom 2012 to 2014. After leavingDin 2015, the 
+Petitioner has worked forl Iand most recent!~ Iwhere she works as a senior 
+machine learning engineer in H-lB nonimmigrant status. The Petitioner stated that she: 
+has reached the pinnacle of her field as an innovator in Machine Leaming and 
+Information Retrieval. She is recognized for her groundbreaking contributions to AI 
+[artificial intelligence]-powered search systems, natural language processing, and 
+enterprise-scale retrieval technologies-advancements that have transformed how 
+millions of people access, understand, and act on information. Her work has driven 
+measurable impact in education, scientific discovery, and commercial search systems, 
+including those within global technology leaders such as I Iand 
+I I 
+The Petitioner filed the present Form 1-140 petition in October 2025. 
+Because the Petitioner has not indicated or shown that she received a major, internationally recognized 
+award, she must satisfy at least three ofthe alternate regulatory criteria at 8 C.F.R. § 204.5(h)(3)(i)-(x). 
+The Petitioner claims to have satisfied six of these criteria, summarized below: 
+• (i), Lesser nationally or internationally recognized prizes or awards; 
+• (iv), Participation as a judge of the work of others; 
+• (v), Original contributions of major significance; 
+• (vi), Authorship of scholarly articles; 
+• (viii), Leading or critical role for distinguished organizations or establishments; and 
+• (ix), High remuneration for services. 
+USCIS concluded that the Petitioner met four of the criteria, pertaining to judging, authorship, leading 
+or critical roles, and remuneration. In the final merits determination, USCIS concluded that the 
+Petitioner had not established sustained national or international acclaim. 
+A final merits determination involves analyzing an alien's accomplishments and weighing the totality 
+of the evidence to determine if their successes are sufficient to demonstrate that they have 
+2 
+extraordinary ability in the field of endeavor. See section 203(b)(l)(A)(i) of the Act; 8 C.F.R. 
+§ 204.5(h)(2), (3); see also Kazarian, 596 F.3d at 1119-20. See generally 6 USCIS Policy Manual 
+F.2(B)(2), https://www.uscis.gov/policy-manual (stating that USCIS officers should then evaluate the 
+evidence together when considering the petition in its entirety to determine if the petitioner has 
+established, by a preponderance of the evidence, the required high level of expertise for the immigrant 
+classification). In this matter, we agree with the conclusion that the Petitioner has not established 
+eligibility. 
+The Petitioner argues on appeal that the denial decision identified her field inconsistently, referring 
+variously to "information technology," "software engineering," and "computer engineering." The 
+Petitioner asserts that the terms "are not interchangeable," and that "[a] final-merits determination cannot 
+be reasoned if the field itself changes during the analysis." 
+But the Petitioner, on appeal, does not establish that the differing terminology changed the outcome of 
+the decision. In this regard, we note that, to establish that she earns a high salary under 8 C.F.R. 
+§ 204.5(h)(3)(ix), the Petitioner submitted Department of Labor data for "Software Developers" and 
+Glassdoor data for a different position title, "Senior Machine Leaming Engineers." 
+USCIS determined: 'The evidence indicates that the petitioner has some recognition but is not persuasive 
+that the petitioner's achievements set her significantly above almost all others in her field." USCIS 
+concluded that, while the Petitioner had submitted enough evidence to satisfy the facial requirements of 
+three or more of the initial criteria at 8 C.F.R. § 204.5(h)(3)(i)-(x), the evidence ofrecord does not show 
+the required level of acclaim and recognition. USCIS also observed that some activities that nominally 
+satisfy particular criteria, such as judging and authorship of scholarly articles, are essentially routine in 
+certain occupations and the Petitioner had not shown that her work in those areas distinguished her from 
+others in her field. 
+The Petitioner contends that, in the final merits determination, USCIS did not consider the record as a 
+whole, instead re-evaluating each of the initial criteria at 8 C.F.R. § 204.5(h)(3)(i)-(x). The Petitioner 
+asserts that the evidence under each claimed criterion need not independently establish sustained national 
+or international acclaim. 
+We agree with the general point that not every piece of evidence must establish acclaim. But it is still 
+necessary to look at the various elements ofthe record to determine whether, as a whole, they demonstrate 
+that the Petitioner has submitted extensive documentation of recognition, achieved sustained national or 
+international acclaim, and reached the very top ofthe field as the statute and regulations require. 
+Before denying the petition, USCIS issued a request for evidence (RFE). In that RFE, relating to the 
+'judging" criterion at 8 C.F.R. § 204.5(h)(3)(iv), USCIS stated: "The weight given to evidence submitted 
+to fulfill the criterion . . . depends on the extent to which such evidence demonstrates, reflects, or is 
+consistent with sustained national or international acclaim at the very top ofthe alien's field ofendeavor." 
+On appeal, the Petitioner asserts that this standard blurs the line between the first step of adjudication, 
+which should focus only on the facial requirements of the initial criteria, and the second step, the final 
+merits determination, which concerns the larger question of whether the record as a whole establishes 
+sustained national or international acclaim. The Petitioner contends that the language in the RFE 
+3 
+"demonstrates that the adjudication was infected from the outset by a conflated legal standard. Even 
+though USCIS later accepted the judging criterion, the RFE's framework shows that the agency was 
+evaluating threshold evidence through an improper merits lens from the beginning. That same legal error 
+carried into the denial." 
+The subject of the appeal before us, however, is not the RFE, but the subsequent denial decision. In that 
+denial decision, USCIS concluded that the Petitioner had met the requirements of the judging criterion. 
+The Petitioner does not identify any language in the denial decision that improperly called for evidence 
+ofacclaim in the context ofthe initial criteria. The claim that the "same legal error carried into the denial" 
+is a general assertion that identifies no specific error in the denial decision. 
+In the denial decision, when discussing the initial criteria, USCIS raised the subject of"recognition" only 
+in the context of 8 C.F.R. § 204.5(h)(3)(i), which requires receipt of "nationally or internationally 
+recognized prizes or awards." USCIS discussed "impact" or "influence" only when discussing 8 C.F.R. 
+§ 204.5(h)(3)(v), which requires evidence of"original ... contributions ofmajor significance in the field." 
+In doing so, USCIS remained within the confines ofthe respective criteria. 
+The Petitioner protests: "USCIS discounted already-granted criteria at final merits by adding extra­
+regulatory demands." For example, the Petitioner states: 
+USCIS accepted the judging criterion. The Policy Manual specifically recognizes peer 
+review and similar gatekeeping activities as qualifying judging evidence where the record 
+shows the reviews were requested and completed. Yet at final merits USCIS discounted 
+this evidence because Petitioner had not shown a substantial history of review requests, 
+editorial-board service, or chairing technical committees. The regulation does not require 
+any of those things. 8 C.F.R. § 204.5(h)(3)(iv). 
+USCIS was entitled to decide what weight the judging evidence deserved in the totality, 
+but it was not entitled to transform an accepted criterion into a more demanding, different 
+evidentiary category. 
+The final merits determination considers the totality ofthe evidence in the broader context ofsustained 
+national or international acclaim as required by the statute. Issues that "are not relevant to the 
+antecedent procedural question of whether the petitioner has provided at least three types of evidence" 
+"might be relevant to the final merits determination of whether a petitioner is at the very top of his or 
+her field of endeavor." Kazarian v. USCIS, 596 F.3d at 1121. Considerations that might 
+impermissibly amount to "a novel evidentiary requirement" within the narrow confines of an initial 
+criterion nevertheless "might be relevant to a final merits determination." Id. 
+The final merits determination hinges on whether the Petitioner has established sustained national or 
+international acclaim and has reached the small percentage at the very top of the field. This 
+determination is related to, but separate from, the antecedent question of whether the Petitioner has 
+satisfied at least three of the initial criteria at 8 C.F.R. § 204.5(h)(3)(i)-(x). It is within this broader 
+context that USCIS acknowledged the Petitioner's judging activity while also concluding that the 
+Petitioner had not shown that such activity placed her at the very top of the field. 
+4 
+The same logic applies to other criteria. For example, users determined that the Petitioner has 
+performed in leading or critical roles for organizations with distinguished reputations, including major 
+companies such as I I users determined that these roles satisfied the criterion at 8 e.F.R. 
+§ 204.5(h)(3)(viii). But users concluded that the Petitioner had not shown that these roles brought 
+her "national or international attention from ... beyond her employers." The Petitioner asserts that 
+recognition within the employing organization is sufficient to meet the criterion, but users did not 
+state otherwise. In a final merits determination, the acclaim and recognition must be field-wide at a 
+national or international level, regardless of the stature of one's employer. 
+The Petitioner disputes the conclusion that she had not established original contributions of major 
+significance in the field under the criterion at 8 e.F.R. § 204.5(h)(3)(v). The Petitioner states: 
+users's own Policy Manual recognizes that patents, publications, corroborated expert 
+letters, implementation by others, and other objective documentary evidence may be 
+probative of major significance. The RFE itself acknowledged that objective 
+documentary evidence of significance, evidence that people throughout the field consider 
+the work important, detailed expert letters, widespread citation, and evidence of 
+implementation by others are all relevant to this criterion. 
+Petitioner's response was organized to meet exactl that standard. The record included 
+the inde inion of the detailed! IIetter 
+from.______________________. adoption narrative, the patent 
+record, publications, and other corroborative evidence. 
+The relevant passage from the USCIS Policy Manual reads as follows: 
+[P]ublished research that has provoked widespread commentary on its importance from 
+others working in the field, and documentation that it has been highly cited relative to 
+others' work in that field, may be probative of the significance of the person's 
+contributions to the field of endeavor. 
+Similarly, evidence that the person developed a patented technology that has attracted 
+significant attention or commercialization may establish the significance of the person's 
+original contribution to the field .... 
+Detailed letters from experts in the field explaining the nature and significance of the 
+person's contribution may also provide valuable context for evaluating the claimed 
+original contributions of major significance, particularly when the record includes 
+documentation corroborating the claimed significance. 
+See, generally, 6 USCIS Policy Manual, supra, at F.2(B)(l). Because users already determined that the 
+Petitioner had met at least three other initial regulatory criteria, we will consider the Petitioner's 
+contributions in the context of whether they contributed to sustained national or international acclaim. 
+5 
+The Petitioner asserts that USCIS did not ive due wei ht and consideration to letters from 
+now at We will discuss those letters here. ~--~ ~-------' 
+.____.....I described a project the Petitioner undertook under his direction at the~_________. 
+[The Petitioner] was a lead contributor tol I... designing and implementing 
+natural language processing and machine learning techniques that allowed! I 
+to extract structured data from scientific publications at scale . 
+. . . Her technical approach represented a clear advancement well beyond the state of the 
+art at the time, and the system she built became one of the project's most critical 
+components. Her algorithms powered the core extraction layer o~ I.... 
+The work culminated in the 2013 publication lI lat thel.-'====~========;l~-o-ne-of-,t-he..... 
+most selective and prestigious venues for data management research. The paper has since 
+been cited more than 65 times.... 
+The technologies that [the Petitioner develo • • ro·ect also served as the 
+foundation for what has become th ----.---------------"' now the 
+successor tol IToday, • s supported by the U.S. Department ofEnergy, 
+DARPA, and the U.S. Geological Survey. It is actively used to index and analyze over 
+18 million research papers, forming the backbone of data infrastructure in geoscience and 
+related fields. The underlying principles -AI-driven extraction from tables, figures, and 
+scientific prose - were directly shaped by [the Petitioner's] work. The techniques she 
+created have had a tangible and lasting effect on how scientific knowledge is accessed and 
+interpreted at scale. 
+~--.....1is clearly in a position to describe the Petitioner's contributions to the 1....------~ 
+project, and he explained how that project is useful in the field. But the only objective, quantifiable metric 
+he provided for the Petitioner's work is the assertion that she co-authored a conference paper that "has 
+... been cited more than 65 times." The paper was published in 2013. At the time the Petitioner filed 
+the petition in 2025, the number of citations had grown to 71. 
+The Petitioner did not submit objective documentary evidence to show that 71 citations over 12 years 
+indicates not only major significance, to satisfy the initial criterion, but also sustained acclaim as required 
+for the final merits determination. A Google Scholar printout in the record indicates that, at the time of 
+filing, ten of the Petitioner's published articles, conference papers, patents, and patent applications had 
+amassed a total of 182 citations; the paper described byl lwas the most-cited, with 71. I I 
+did not discuss his own publication record or citation history. Such information might have been 
+instructive in terms ofproviding context for the Petitioner's own publication and citation statistics. 1 
+1 In a letter attesting to the Petitioner's peer review work,I !director of Artificial Intelligence for._l___.
+I lclaimed that his own work had received "over 4,200" citations. 
+6 
+~---~[unlikd Iclaimed no close ties to the Petitioner; he stated that he has no "employment, 
+supervisory, or financial relationship with" her. In his letter, he stated that he reviewed certain materials 
+provided by the Petitioner "to form an independent professional judgment about the original, field-level 
+significance, and recognition of [ the Petitioner's] work." 
+~________.!established his own credentials and explained why he considers three examples of the 
+Petitioner's work to represent contributions of major significance. I Iasserted that the 
+Petitioner's work underlies widely-used platforms such as D and ~-------~ These 
+assertions have some weight when considering the significance ofthe Petitioner's original contributions, 
+but we need not come to a definitive conclusion in this respect because there is no dispute that the 
+Petitioner had already satisfied at least three of the initial evidentiary criteria. 
+The key question now before us on appeal is whether the Petitioner has established sustained national or 
+international acclaim. In this respect, we note that, while I I asserts that the Petitioner's 
+"consistent pattern of contributions and recognition ... demonstrates sustained acclaim in her area of 
+expertise," I Idid not state that he was aware of the Petitioner or her work before he was 
+approached to write the letter on the Petitioner's behalf Instead, he voiced opinions regarding 
+information in other letters and record materials. 
+I Istated: "it is useful to compare [one's] record to what is typical for professionals at a similar 
+career stage." Likewise,! Istated that the Petitioner's contributions are "rare for a graduate 
+student," and he called her "one of the most impactful early-career contributors I have had the privilege 
+to work with." But the regulatory standard at 8 C.F.R. § 204.5(h)(2) is "the very top of the field of 
+endeavor," and the Petitioner's field of endeavor is not limited to "graduate student[ s ]," "professionals at 
+a similar career stage" or "early-career contributors." 
+For this reason, the Petitioner's reliance on a detailed breakdown of.________________. 
+credentials serves to show that those individuals ippear ti be considerably more accomelished and 
+recognized than the Petitioner herself For instance, stated: "I am a recipient of theL I 
+I Iawarded in recognition ofmy work at the intersection of artificial intelligence, data systems, 
+and large-scale computing." The Petitioner, on appeal, observes that the I I is 
+"commonly known as the 'genius grant."' I Istated that his own "publication record includes 
+over 200 eer-reviewed articles and conference a ers in leading venues," and that he "was elected a 
+._________________________.in recognition of [his] contributions to the field." 
+The Petitioner cites these accolades to support the assertion that the letters from these individuals should 
+have significant weight in this proceeding. But those recognitions also appear to substantially exceed the 
+recognition that the Petitioner herself has received. 
+On appeal, the Petitioner states that her "six patents have received forward citations from Google, Adobe, 
+IBM, Microsoft, SAP, Bank of America, Verizon, Dell, Tencent, and other major corporations. Patent 
+citations from unrelated companies are the most objective indicator that subsequent innovators found the 
+Petitioner's inventions sufficiently foundational to cite in their own work." The implication is that a 
+patent is only cited if it has major significance in the field, but the record does not sufficiently support 
+this claim. The Petitioner's own patent from 2017 cites 20 earlier patents issued to others. Citations in 
+patent applications appear to serve a similar purpose to citations in scholarly publications, acknowledging 
+the sources of earlier information mentioned in the new document and selected for their relevance rather 
+7 
+I 
+than their greater significance. The Petitioner has not provided objective evidence to give context to her 
+patent citations, to show that the citations of her work have exceeded those of others in frequency or 
+significance. 
+The Petitioner's claim of"six patents" echoes a timeline submitted with the petition in 2025, which refers 
+to "[ m ]ultiple U.S. and international patents issued." But the record identifies only one issued patent, 
+issued by the U.S. Patent and Trademark Office in 2017. The record also includes copies of four U.S. 
+patent applications filed between 2011 and 2015 and one "international application" filed with the World 
+Intellectual Property Organization in 2013, but the record includes no evidence that any of those other 
+applications resulted in the issuance of patents in the United States or any other jurisdiction. 
+The Google Scholar printout in the record shows that the Petitioner has not produced public-facing 
+material during the decade immediately preceding the petition's 2025 filing date. Her patent applications 
+were filed between 2010 and 2012, and her most recent published paper appeared in 2014, when she was 
+still a graduate student. The Petitioner has not shown that the lack ofpublished output between 2014 and 
+the 2025 filing date is consistent with the sustained acclaim that the statute demands. The Petitioner has 
+also not shown how, in the absence of continued publication, her recent work could have attracted 
+sufficient field-wide attention to result in such acclaim. Her employers' own regard for her work does 
+not rise to the level of sustained national or international acclaim. 
+The Petitioner has submitted letters indicating that her employers and teachers value her contributions, 
+but these materials do not show recognition at the broader level the statute and regulations demand. The 
+Petitioner's involvement in high-profile projects does not necessarily convey the individual acclaim that 
+she must show to qualify for the highly restrictive immigrant classification she seeks. 
+For instance, the Petitioner has established that.
+_____________. project won a 2012 
+IAward from the Wall Street Journal. The published list of winners did not 
+identify individual participants. ~---------senior director of.__________, and
+~--------~Istated that the Petitioner's "contributions were part of the body of work that 
+led to this recognition," but the record does not establish that the Petitioner received public credit and 
+recognition for her work outside oft I As a result, the Petitioner has not shown how her 
+work on the project could have contributed to national or international acclaim. 
+The Petitioner has worked on government-funded projects, but the record does not show that government 
+funding is contingent on, or results in, every project participant achieving the required level of acclaim 
+and recognition, or that her work has been publicly acknowledged as the basis for that funding. 
+The Petitioner has shown little if any public recognition ofher work in the decade preceding the filing of 
+the petition, and the recognition she received earlier does not appear sufficient to put her at the top ofher 
+field. We agree with the fundamental determination in the denial decision that the Petitioner has not met 
+her burden of proof to establish sustained national or international acclaim in her field. 
+8 
+III. CONCLUSION 
+Congress set a very high benchmark for aliens of extraordinary ability by requiring the petitioner 
+demonstrate "sustained national or international acclaim" and present "extensive documentation" to 
+show his or her achievements have been recognized in the field. Section 203(b)(l)(A)(i) of the Act. 
+The Petitioner seeks a highly restrictive visa classification, intended for individuals already at the top 
+of their respective fields, rather than those progressing toward the top. Matter ofPrice, 20 I&N Dec. 
+953, 954 (Assoc. Comm'r 1994) ( concluding that even major league level athletes do not automatically 
+meet the statutory standards for classification as an individual of "extraordinary ability,"); Visinscaia, 
+4 F. Supp. 3d at 131 (internal quotation marks omitted) (finding that the extraordinary ability 
+designation is "extremely restrictive by design"); Hamal v. Dep 't ofHomeland Sec., No. 19-cv-2534, 
+2021 WL 2338316, at *5 (D.D.C. June 8, 2021), ajf'd, 2023 WL 1156801 (D.C. Cir. Jan. 31, 2023) 
+( determining that EB-1 visas are "reserved for a very small percentage of prospective immigrants"); 
+see also Hamal v. Dep 't ofHomeland Sec., No. 19-cv-2534, 2020 WL 2934954, at * 1 (D.D.C. June 
+3, 2020) ( citing Kazarian, 596 at 1122 (upholding denial ofpetition ofa published theoretical physicist 
+specializing in non-Einsteinian theories of gravitation) (stating that "[c]ourts have found that even 
+highly accomplished individuals fail to win this designation")); Lee v. Ziglar, 237 F. Supp. 2d 914, 
+918 (N.D. 2002) (finding that "arguably one of the most famous baseball players in Korean history" 
+did not qualify for visa as a baseball coach). 
+Here, while the Petitioner has established a successful career with major companies, she has not shown 
+a degree ofrecognition of her work that rises to the level of sustained national or international acclaim 
+and demonstrates a "career of acclaimed work in the field" as contemplated by Congress. H.R. Rep. 
+No. 101-723, 59 (Sept. 19, 1990); see also section 203(b)(l)(A) ofthe Act. Moreover, the record does 
+not otherwise demonstrate that the Petitioner is one of the small percentage who has risen to the very 
+top of the field of endeavor. See section 203(b )(1 )(A) of the Act and 8 C.F.R. § 204.5(h)(2). 
+The Petitioner has not demonstrated eligibility as an alien of extraordinary ability. We will therefore 
+dismiss the appeal. 
+ORDER: The appeal is dismissed. 
+NOTICE: This constitutes the final decision in this matter. The filing of a motion will not postpone 
+the effect of the decision. 8 C.F.R. § 103.5(a)(l)(iv). Aliens who are not lawfully present, or who are 
+otherwise inadmissible or deportable, may be subject to the commencement of removal proceedings 
+under section 240 ofthe Act through the issuance ofa Form I-862, Notice to Appear. Those proceedings 
+may result in their removal from the United States and possible ineligibility for future visas or other 
+immigration benefits. 
+9 

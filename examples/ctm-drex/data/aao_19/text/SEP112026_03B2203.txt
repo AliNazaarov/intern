@@ -1,0 +1,304 @@
+Non-Precedent Decision of the
+Administrative Appeals Office 
+U.S. Citizenship 
+and Immigration 
+Services 
+In Re: 43887294 Date: SEPT. 11, 2026 
+Appeal of U.S. Citizenship and Immigration Services (USCIS) Decision 
+Form I-140, Immigrant Petition for Alien Workers (Extraordinary Ability) 
+The Petitioner is a research scientist who seeks classification as an alien of extraordinary ability. See 
+Immigration and Nationality Act (the Act) section 203(b)(l)(A), 8 U.S.C. § 1153(b)(l)(A). This first 
+preference classification makes immigrant visas available to those who can demonstrate their 
+extraordinary ability through sustained national or international acclaim and whose achievements have 
+been recognized in their field through extensive documentation. 
+Through its Service Center Operations (SCOPS), USCIS denied the Form I-140, Immigrant Petition 
+for Alien Workers (petition), concluding the record did not establish that the Petitioner had received a 
+major, internationally recognized award, nor did she demonstrate that she met at least three of the ten 
+regulatory criteria. The matter is now before us on appeal under 8 C.F.R. § 103 .3. The Petitioner 
+bears the burden of proof to demonstrate eligibility by a preponderance of the evidence. Section 291 
+of the Act; Matter ofChawathe, 25 I&N Dec. 369,375 (AAO 2010). We review the questions in this 
+matter de novo. Matter of Christa's Inc., 26 I&N Dec. 537, 537 n.2 (AAO 2015). Upon de novo 
+review, we will dismiss the appeal. 
+I. LAW 
+To qualify under this immigrant 
+classification, the statute requires the filing party demonstrate: 
+• The alien enjoys extraordinary ability in the sciences, arts, education, business, or athletics; 
+• They seek to enter the country to continue working in the area of extraordinary ability; and 
+• The alien's entry into the United States will substantially benefit the country in the future. 
+Section 203(b )(1 )(A)(i)-(iii) of the Act. The term "extraordinary ability" refers only to those in "that 
+small percentage who have risen to the very top of the field of endeavor." 8 C.F.R. § 204.5(h)(2). See 
+also H.R. Rep. 101-723, 59 (Sept. 19, 1990), reprinted in 1990 U.S.C.C.A.N. 6710, 1990 WL 200418 
+at *6739 (stating: "In short, admission under this category is to be reserved for that small percentage 
+of individuals who have risen to the very top of their field of endeavor."). 
+The implementing regulation at 8 C.F.R. § 204.5(h)(3) sets forth a multi-step analysis. In the first 
+step, a petitioner can demonstrate international recognition of his or her achievements in the field 
+through a one-time achievement (that is, a major, internationally recognized award). Ifthat petitioner 
+does not submit this evidence, then he or she must provide sufficient qualifying documentation that 
+meets at least three of the ten criteria listed at 8 C.F.R. § 204.5(h)(3)(i)-(x) (including items such as 
+awards, published material in certain media, and scholarly articles). 
+Where a petitioner meets these initial evidence requirements, we then move to the second step to 
+consider the totality of the material provided in a final merits determination and assess whether the 
+record shows sustained national or international acclaim and demonstrates that the individual is among 
+the small percentage at the very top of the field of endeavor. See Kazarian v. USCIS, 596 F.3d 1115, 
+1121 (9th Cir. 20 I 0) ( discussing a two-step review where the documentation is first counted and then, 
+if fulfilling the required number of criteria, considered in the context of a final merits determination); 
+see also Amin v. Mayorkas, 24 F.4th 383, 394 (5th Cir. 2022). 
+II. ANALYSIS 
+After receiving her Ph.D. in Engineering Sciences (Bioengineering), then serving as a postdoctoral 
+research fellow, the Petitioner was scheduled to work as an adjunct assistant professor at a U.S. 
+university with a start date in the fall of 2027. 
+A. Evidentiary Criteria 
+Because the Petitioner has not indicated or established that she has received a major, internationally 
+recognized award, she must satisfy at least three of the alternate regulatory criteria at 8 C.F.R. 
+§ 204.5(h)(3)(i)-(x). Before SCOPS, the Petitioner claimed she met three of the regulatory criteria. 
+SCOPS decided that the Petitioner satisfied two of the criteria relating to judging and the authorship 
+of scholarly articles but that she had not satisfied the criterion associated with original contributions. 
+On appeal, the Petitioner maintains that she meets the contributions criterion. After reviewing all the 
+evidence in the record, we conclude the petition should remain denied. 
+1. "Evidence of the alien's original scientific, scholarly, artistic, athletic, or business-related 
+contributions of major significance in the field." 8 C.F.R. § 204.5(h)(3)(v). 
+The primary requirements here are that the Petitioner's contributions in their field were original and 
+they rise to the level of major significance in the field, rather than to a project or to an organization. 
+See Amin, 24 F.4th at 394 (citing Visinscaia v. Beers, 4 F. Supp. 3d 126, 134 (D.D.C. 2013)). The 
+regulatory phrase "major significance" is not superfluous and, thus, it has some meaning. Nielsen v. 
+Preap, 586 U.S. 392, 415 (2019) (finding that every word and every provision is to be given effect 
+and none should needlessly be given an interpretation that causes it to duplicate another provision or 
+to have no consequence). Contributions of major significance connotes that the Petitioner's work has 
+significantly impacted the field. Further, the Petitioner's contributions must have already been 
+realized rather than being potential, future improvements. The Petitioner must submit evidence 
+satisfying all of these elements to meet the plain language requirements of this criterion. 
+The Petitioner claimed her individual authorship, being named as the inventor on a commercially 
+licensed patent application and the creator and lead developer of open-source software tool 
+repositories, and the fact that her datasets were widely adopted in her field of computational biology 
+2 
+and bioengineering were qualifying under this criterion. SCOPS determined that the Petitioner's 
+research, publications, and citations represented standard scientific work but did not prove her efforts 
+had been widely relied upon or had made a major, influential impact on the field as a whole. While 
+they found the evidence showed successful project, organizational, and patent contributions, those 
+achievements only demonstrated smaller scale success for specific clients or employers. Also, routine 
+professional activities like conference presentations and peer review services were not found to 
+inherently rise to the level of major contributions. And finally, they concluded the support letters 
+lacked specific examples of broader impact and could not substitute for independent, preexisting, and 
+objective documentary evidence of major significance. 
+Within the appeal, the Petitioner advances several errors and claims. She alleges that SCOPS failed 
+to consider some of her evidence because the denial does not reference several exhibits-by exhibit 
+number-submitted in response to the request for evidence (RFE), that similarities between the RFE 
+and the denial demonstrate SCOPS' failure to use reasoned decision making, the denial diminished 
+her contributions because she was part of a collaborative group, and it included a final merits standard 
+even though SCOPS declined to perform that type of analysis. She also views SCOPS to have erred 
+when they did not allow post-filing achievements to factor into their decision, and she explains how 
+the existing record satisfies this criterion's standards. 
+We begin addressing the Petitioner's statement that the denial did not discuss some of the evidence 
+she provided, to include her comment that SCOPS did not list the exhibit number in the denial decision. 
+The Petitioner does not offer an explanation ofwhy the decision should have included exhibit numbers 
+associated with the material she provided in the proceedings before SCOPS, so we will set that aside. 
+But to address her broader point that SCOPS didn't specifically address all the documentation she 
+provided, she does not identify a basis that would require them to. She provided over 700 pages of 
+evidence consisting of 155 exhibits and SCOPS is not expected to address each and every one. 
+When USCIS provides a reasoned consideration to the petition, and has made adequate findings, it will 
+not be required to specifically address each claim the Petitioner makes, nor is it necessary for it to address 
+every piece of evidence the Petitioner presents. Amin, 24 F.4th at 394; Lafortune v. Garland, 110 F.4th 
+426,441 (1st Cir. 2024); see also Kazemzadeh v. US. Atty. Gen., 577 F.3d 1341, 1351 (11th Cir. 2009); 
+Casalena v. US. INS, 984 F.2d 105, 107 (4th Cir. 1993). 
+We will consider the Petitioner's appellate claims and decide whether any of the materials that she 
+identifies as being ignored might have prejudiced her. A filing party bears the burden of not only 
+establishing that an error might have occurred, but also "how [the] specific pieces of evidence would 
+materially affect the outcome of [the] case." Matter ofS-K-E-, 30 I&N Dec. 27, 30 (BIA 2026). It is 
+through those means that the filing party might show they were prejudiced by any alleged error. Id. 
+(citing Matter ofR-C-R-, 28 I&N Dec. 74, 77 (BIA 2020), Matter ofD-, 20 I&N Dec. 827,831 (BIA 
+1994)). The party that "seeks to have a judgment set aside because of an erroneous ruling carries the 
+burden of showing that prejudice resulted." Shinseki v. Sanders, 556 U.S. 396, 409 (2009) (quoting 
+Palmer v. Hoffman, 318 U.S. 109, 116 (1943)); Molina-Martinez v. United States, 578 U.S. 189, 203 
+(2016). We also view similarities between the language within the RFE and the denial in the same 
+manner, considering whether she was prejudiced by any errors she demonstrates in the denial. 
+3 
+I 
+Next, the Petitioner claims SCOPS diminished her contributions because she was part of a 
+collaborative group. She claims four areas in which SCOPS applied this concept: on her scholarly 
+articles, being named as one inventor on a U.S. Patent Application, as al !repository creator, and 
+I and [ Iownership. But we disagree with her that SCOPS diminished any of 
+her evidence because she was not the "sole originator," as she characterizes it. 
+For instance, SCOPS discussed her scholarly work and concluded that she clearly demonstrated her 
+work was original, but it also informed her that a particular article cannot be considered influential 
+without evidence of other researchers having widely relied on its findings. SCOPS also noted 
+moderately valuable research is not inherently of major significance to the broader field. So, SCOPS 
+did not degrade her scholarly work simply because it was a collaborative effort with other researchers. 
+As we do not find the other three areas the Petitioner mentioned as including the "sole originator" 
+aspect, it is unnecessary that we discuss them further here. 
+The Petitioner also claims SCOPS applied a final merits standard despite declining to conduct a final 
+merits determination. She makes this conclusion because the decision mentioned "eminence" and "a 
+career of acclaimed work." SCOPS included that language after evaluating her claimed criteria in a 
+closing section of the decision. We find no instances in which they applied such a standard to the 
+Petitioner's individual criterion claims, so we do not view this as an error. 
+And she is mistaken when she alleges SCOPS should have considered any of her accolades that 
+occurred after the petition filing date. Within the RFE response, the Petitioner provided additional 
+evidence of her achievements that occurred after she filed the petition, which users generally does 
+not permit. Within the appeal, the Petitioner states her updated citation count as represented on Google 
+Scholar should factor into her eligibility because each "of the ten publications generating those 
+citations was published and in the record before the ... priority date." 
+A request for an immigration benefit "must establish that he or she is eligible for the requested benefit 
+at the time of filing the benefit request and must continue to be through adjudication." 8 C.F.R. 
+§ 103.2(b)(l); Delaware Valley Reg'l Ctr., LLC v. DHS, 106 F.4th 1195, 1204-06 (D.C. Cir. 2024); 
+Ahmed v. Mukasey, 519 F.3d 579, 582 (6th Cir. 2008). Any additional evidence submitted in 
+connection with a benefit request at a later date, including evidence responding to a request from 
+users, must also establish "eligibility at the time the benefit request was filed." 8 C.F.R. 
+§ 103.2(b )(12); Robinson v. Napolitano, 554 F.3d 358, 364 (3d Cir. 2009). "Under this rnle, USCrS 
+will deny [ an immigration benefit] if the [ filing party] becomes eligible only after the [benefit] was 
+filed." Tingzi Wang v. USCIS, 375 F. Supp. 3d 22, 27 (D.D.C. 2019) (citing 8 C.F.R. § 103.2(b)(l2)); 
+Doe v. USCIS, 410 F. Supp. 3d 86, 100 (D.D.C. 2019). 
+users may not approve a visa petition if a petitioner was not qualified at the priority date but expects 
+to become eligible at a subsequent time. See Matter of Izummi, 22 T&N Dec. 169, 175-76 (Assoc. 
+Comm'r 1998); Matter ofKatigbak, 14 r&N Dec. 45, 49 (Reg'l Comm'r 1971). Ultimately, in order 
+to be meritorious in fact, a petition must meet the statutory and regulatory requirements for approval 
+as of the date it was filed. Ogundipe v. Mukasey, 541 F.3d 257,261 (4th Cir. 2008). In summary, we 
+are not persuaded by the Petitioner's appellate arguments on this issue. 
+4 
+Now to her specific appellate claims of eligibility under this criterion. The Petitioner notes the USCIS 
+Policy Manual "identifies several categories of evidence probative of major significance, including 
+'published research that has provoked widespread commentary,' 'evidence that the person's work has 
+been widely cited,' 'patents or licenses for the person's innovations,' and 'evidence that others have 
+built upon or used the person's work."' See generally 6 USCIS Policy Manual F.2(B)(l), 
+https://www.uscis.gov/policymanual. She alleges the evidence in the record satisfies each of those 
+categories. 
+To begin, the Petitioner discusses how her work has been independently implemented and relied upon 
+in other research. She notes that 13 independent peer reviewed studies by unaffiliated research groups 
+across three continents have directly cited to her work. And within those studies, eight papers took an 
+element from her own work and used it to run their experiments and seven used data from her work to 
+run theirs. That others have relied on and her work in this manner demonstrates it holds value, but not 
+necessarily that it has been of major significance in the field. What's absent from her claims is how 
+this level of influence has been significantly impactful within the broader field. Even when others 
+have adopted a claimed contribution to the field-but those efforts have not borne a result that has 
+been significantly influential-that cannot be the type and level of contribution that might satisfy this 
+criterion's demanding requirements. Amin, 24 F.4th at 393-94. The degree ofinfluence the Petitioner 
+demonstrates here fails to satisfy this rigorous criterion, which represents the most demanding 
+requirement of this highly restrictive immigrant classification. 
+While we agree that it is notable when one's work has influence on other researchers' work, a 
+petitioner should be able to demonstrate how that lesser influence extends to impact the field as a 
+whole, as simply demonstrating an original contribution in the field falls far short of this criterion's 
+requirements. See Amin, 24 F.4th at 394 ( citing Visinscaia, 4 F. Supp. 3d at 134-35 (upholding a 
+finding that a ballroom dancer had not met this criterion because she did not corroborate her impact in 
+the field as a whole). But beyond the factual matter that others have relied on her work, the Petitioner 
+has not demonstrated how that extends to her broader professional community and in significant ways. 
+Next, the Petitioner discusses commercial licensing and adoption of the work in the industry. She 
+states that her "patented technology was licensed to a for-profit entity on November 22, 2024-almost 
+a full year before filing-for the manufacture and sale ofresearch products." First we clarify that the 
+Petitioner did not offer evidence that the referenced "patented technology" was granted by the U.S. 
+Patent and Trademark Office; only that her name was included as an inventor on a patent application. 
+Agency policy provides additional information applicable to this case stating: "If a patent remains 
+pending, USCIS generally requires additional supporting evidence to document the originality of the 
+person's contribution, such as detailed reference letters." See generally 6 USCIS Policy Manual, 
+supra, F.2(B)(l). The Petitioner has not identified any such evidence regarding the pending patent 
+application naming her as one inventor. But setting that factor aside, she provided evidence from a 
+research center that the intellectual property covering or associated with that patent application was 
+licensed to a for-profit entity. The research center withheld the name of the for-profit entity and it is 
+unclear what impact the licensed intellectual property has had in the Petitioner's field of endeavor. 
+Additionally, the license to the for-profit entity was nonexclusive. An exclusive license to one 
+company may be more persuasive to show that it sought to monopolize the technology, whereas a 
+nonexclusive license that is only purchased by a single entity might be more suggestive that interest 
+5 
+in the intellectual property is relatively low across the broader industry. In other words, the licensing 
+of the intellectual property is a positive aspect in a general sense, but falls far short of meeting this 
+criterion's mandates. See Sun v. Jaddou, No. 3:24-CV-01466-E, 2025 WL 1556944, at *5 (N.D. Tex. 
+June 2, 2025) (upholding the conclusion that the petitioner did not show how her patents had a major 
+impact on the field as a whole); Venkatnarayan v. Jaddou, No. 1:23CV256, 2024 WL 4008312, at *10 
+(M.D.N.C. Aug. 30, 2024), report and recommendation adopted sub nom. Venkatnarayan v. Jaddou 
+Dir. of United States Citizenship & Immigr. Servs., No. l :23-CV-256, 2024 WL 4267307 (M.D.N.C. 
+Sept. 23, 2024) ( finding that even if a patent indicates an innovation is both novel and useful, "useful" 
+and "of major significance" are not the same). 
+Within the appeal brief: the Petitioner also asserts that the content of her patent application has been 
+cited as prior art in multiple patent applications. This also speaks to the originality of the work, but 
+she still does not address how it demonstrates a level of impact in the field as a whole. The level of 
+the impact in the field as a whole through the wide use ofthe innovation is a more appropriate measure 
+to determine if an individual has sufficiently influenced their field. See Strategati, LLC v. Sessions, 
+No. 3:18-CV-01200-H-AGS, 2019 WL 2330181, at *6 (S.D. Cal. May 31, 2019). See also Matter of 
+NYSDOT, 22 I&N Dec. 215,221 n.7, (Comm'r 1998) (although vacated as it relates to adopting a new 
+framework for adjudicating national interest waiver petitions, the comparative analysis relating to 
+patents remains valid and pertinent to this case). 
+We end our discussion of patents with the USCIS Policy Manual's content providing "[ e ]vidence that 
+the person's work was ... patented, ... while potentially demonstrating the work's originality, will 
+not necessarily establish, on its own, that the work is of major significance in the field" and instead 
+"evidence that the person developed a patented technology that has attracted significant attention or 
+commercialization may establish the significance of the person's original contribution to the field." 
+See generally 6 USCIS Policy Manual, supra, F.2(B)(l). As we noted above, even though the 
+Petitioner has shown the intellectual property in the patent application has attracted some attention, 
+she did not demonstrate it was significant attention or commercialization. 
+Turning to her citation record, the Petitioner in her appeal refers to the evidence from Dimensions.ai 
+that she provided in the RFE response. That material contains citations to her work that occurred after 
+she filed the petition. As such, we incorporate our above discussion explaining why post-filing 
+achievements will not factor into this petition. Any of that material must be submitted with a new 
+petition filing. 
+We are also not persuaded by the Petitioner's two final arguments. First, she notes her work was 
+selected to feature on the cover of multiple prominent publications as evidence of impact. However, 
+she has not established that journal cover features automatically constitute a contribution of major 
+significance. While cover selections reflect the editors' or publishers' high opinion of the research's 
+potential, this recognition alone does not demonstrate actual, field-wide influence. Specifically, the 
+Petitioner failed to demonstrate that her published research "has provoked widespread commentary on 
+its importance from others working in the field, [ and she did not provide] documentation that it has 
+been highly cited relative to others' work in that field." See generally 6 USCIS Policy Manual, supra, 
+F.2(B)(l) (noting that such objective markers are a better representation to demonstrate the 
+significance of an individual's contributions to their field of endeavor). 
+6 
+We are also not persuaded that being mentioned in two science news articles about scholarly research 
+she was associated with shows that her work has been ofmajor significance in the broader field. 1 First, 
+this is evidence that cannot meet the published material criterion at 8 C.F.R. § 204.5(h)(3)(iii), as it is 
+not about her and her work in the field. Published news articles are not sufficient evidence under 
+8 C.F.R. § 204.5(h)(3)(v) absent evidence that they are indicative of contributions of major 
+significance and the mere appearance of work the Petitioner was associated with does not meet that 
+standard. 
+These articles do not describe how any of the Petitioner's original contributions have resulted in a 
+significant impact in her field as a whole as they convey the findings and list potential future effects 
+in the field. While the evidence shows promise in the Petitioner's work, it does not establish how her 
+work already qualifies as a contribution of major significance in the field, rather than prospective, 
+potential impacts. The significant nature of her work has yet to be determined or measured. This 
+criterion requires petitioners to show they have already made a significant impact in their field. A 
+petitioner must establish the elements for the approval of the petition at the time of filing. 8 C.F.R. 
+§ 103 .2(b)(1 ), (12). A petition may not be approved if the Petitioner was not qualified at the priority 
+date, but expects to become eligible at a subsequent time. Matter ofKatigbak, 14 I&N Dec. at 49. 
+This evidence does not establish that, as of the priority date, the Petitioner contributed to her field in 
+a significant manner as the regulation requires. 
+For the material SCOPS discussed in its denial decision, the Petitioner has not identified an error in 
+which she was prejudiced. Nor has she demonstrated that the material she includes in the appeal that 
+SCOPS did not specifically discuss would have changed the outcome of the decision under this 
+criterion. As a result, she has not demonstrated she has made the type of contributions to the field that 
+are required under this criterion. 
+III. CONCLUSION 
+Congress set a very high benchmark for aliens of extraordinary ability by requiring a petitioner 
+demonstrate "sustained national or international acclaim" and present "extensive documentation" to 
+show his or her achievements have been recognized in the field. Section 203(b)(1 )(A)(i) of the 
+Act. "In creating the 'extraordinary ability' visa, Congress hoped to 'draw the world's best and brightest 
+to American shores' by giving 'preferential treatment to highly talented immigrants."' Branski v. USCIS, 
+No. 25-CV-1695, 2026 WL 2427439, at* 11 (E.D. Wis. Aug. 19, 2026) ( quoting Amin, 24 F.4th at 386). 
+Because the Petitioner has not satisfied the threshold "initial evidence" requirements at 8 C.F.R. 
+§ 204.5(h)(3), we cannot conclude that she is an alien of extraordinary ability and it is unnecessary 
+that we provide further analysis of the merits under the statute. See Kazarian, 596 F.3d at 1119-20; 
+see also Nagaiah v. Allen, 784 F. Supp. 3d 798, 814 (E.D. Pa. 2025) (finding the regulatory criteria at 
+8 C.F.R. § 204.5(h)(3)(i)-(x) "establishes a necessary, not sufficient, evidentiary requirement for a 
+petitioner who seeks an extraordinary ability visa."). 
+The two-step adjudication process is an interpretive rule that does not violate the Administrative 
+Procedure Act, nor is it a legislative rule. Taneja v. USCIS, No. 24-CV-05657 (RER), 2026 WL 
+1 The Petitioner provided a portion of third article but that material does not include any reference to the Petitioner nor her 
+work. 
+7 
+1734266, at *8 (E.D.N.Y. June 16, 2026); Nagaiah, 784 F. Supp. 3d at 81 0; Agrawal v. Miller, No. 
+4:24CV3143, 2025 WL 2879217, at *12 (D. Neb. Sept. 12, 2025); Etsy, Inc. v. Jaddou, No. 
+4:22CV3022, 2023 WL 3689555, at *23 (D. Neb. May 25, 2023) (citing Perez v. Mortg. Bankers 
+Ass 'n, 575 U.S. 92, 96 (2015). This approach is rooted in an exhaustive historical review of the 
+congressional record, the governing statutory language, and the comprehensive regulatory scheme 
+intended to ensure only those at the very top of their field receive this classification. 
+To date, no other federal court has offered an alternative framework that is similarly grounded in such 
+a thorough analysis of the legislative and agency history. See generally 6 USCIS Policy Manual, 
+supra, F.2(B)(2). Therefore, we decline to reach and hereby reserve any final merits determination in 
+this matter. Patel v. Garland, 596 U.S. 328, 332 (2022) ( citing INS v. Bagamasbad, 429 U.S. 24, 25-
+26 (1976) (finding agencies are not required to make "purely advisory findings" on issues that are 
+unnecessary to the ultimate decision)). 
+For the reasons discussed above, the Petitioner has not demonstrated her eligibility as an alien of 
+extraordinary ability. The appeal will be dismissed for the above stated reasons, with each considered 
+as an independent and alternate basis for the decision. 
+ORDER: The appeal is dismissed. 
+NOTICE: This constitutes the final decision in this matter. The filing of a motion will not postpone the 
+effect of the decision. 8 C.F.R. § 103.5(a)(l )(iv). Aliens who are not lawfully present, or who are 
+otherwise inadmissible or deportable, may be subject to the commencement of removal proceedings 
+under section 240 ofthe Act through the issuance of a Form I-862, Notice to Appear. Those proceedings 
+may result in their removal from the United States and possible ineligibility for future visas or other 
+immigration benefits. 
+8 

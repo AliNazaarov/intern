@@ -1,0 +1,269 @@
+Non-Precedent Decision of the
+Administrative Appeals Office 
+U.S. Citizenship 
+and Immigration 
+Services 
+In Re: 39358807 Date: SEP. 03 , 2025 
+Appeal of Service Center Operations (SCOPS) Decision 
+Form 1-140, Immigrant Petition for Alien Workers (Extraordinary Ability) 
+The Petitioner, a software engineer, seeks classification as an individual of extraordinary ability. See 
+Immigration and Nationality Act (the Act) section 203(b)(l)(A), 8 U.S.C. § 1153(b)(l)(A). This first 
+preference classification makes immigrant visas available to those aliens who can demonstrate their 
+extraordinary ability through sustained national or international acclaim and whose achievements have 
+been recognized in their field through extensive documentation. Id. 
+SCOPS denied the petition, concluding that the record did not establish, as required, that the Petitioner 
+met three of the initial ten evidentiary criteria for this classification listed at 8 C.F.R. § 204.5(h)(3). 
+The matter is now before us on appeal pursuant to 8 C.F.R. § 103 .3. 
+The Petitioner bears the burden ofproof to demonstrate eligibility by a preponderance of the evidence. 
+Matter ofChawathe, 25 I&N Dec. 369, 375-76 (AAO 2010). We review the questions in this matter 
+de novo. Matter of Christo 's, Inc., 26 l&N Dec. 537, 537 n.2 (AAO 2015). Upon de novo review, 
+we will dismiss the appeal. 
+I. LAW 
+Section 203(b )( 1)(A) of the Act makes visas available to immigrants with extraordinary ability if: 
+(i) the alien has extraordinary ability in the sciences, arts, education, business, or 
+athletics which has been demonstrated by sustained national or international 
+acclaim and whose achievements have been recognized in the field through 
+extensive documentation, 
+(ii) the alien seeks to enter the United States to continue work m the area of 
+extraordinary ability, and 
+(iii) the alien's entry into the United States will substantially benefit prospectively the 
+United States. 
+The term "extraordinary ability" refers only to those individuals in "that small percentage who have 
+risen to the very top of the field of endeavor." 8 C.F.R. § 204.5(h)(2). The implementing regulation 
+at 8 C.F.R. § 204.5(h)(3) sets forth two options for satisfying this classification's initial evidence 
+requirements. First, a petitioner can demonstrate a one-time achievement (that is, a major, 
+internationally recognized award). Ifthat petitioner does not submit this evidence, then he or she must 
+provide documentation that meets at least three of the ten categories listed at 8 C.F.R. 
+§ 204.5(h)(3)(i) - (x) (including items such as awards, published material in certain media, and 
+scholarly articles). The regulation at 8 C.F.R. § 204.5(h)(4) allows a petitioner to submit comparable 
+material if he or she is able to demonstrate that the standards at 8 C.F.R. § 204.5(h)(3)(i)-(x) do not 
+readily apply to the individual's occupation. 
+Where a petitioner meets these initial evidence requirements, we then consider the totality of the 
+material provided in a final merits determination and assess whether the record shows sustained 
+national or international acclaim and demonstrates that the individual is among the small percentage 
+at the very top of the field of endeavor. See Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010) 
+( discussing a two-part review where the documentation is first counted and then, if fulfilling the 
+required number of criteria, considered in the context of a final merits determination); see also 
+Visinscaia v. Beers, 4 F. Supp. 3d 126, 131-32 (D.D.C. 2013); Rijal v. USCIS, 772 F. Supp. 2d 1339 
+(W.D. Wash. 2011). This two-step analysis is consistent with our holding that the "truth is to be 
+determined not by the quantity of evidence alone but by its quality," as well as the principle that we 
+examine "each piece of evidence for relevance, probative value, and credibility, both individually and 
+within the context ofthe totality ofthe evidence, to determine whether the fact to be proven is probably 
+true." Matter ofChawathe, 25 I&N Dec. at 376. 
+II. ANALYSIS 
+The Petitioner is a software engineer in I I Canada. At the time of filing he was employed by 
+Twilio in this capacity. He indicates that he intends to continue to work in this role in the United 
+States. 
+A. Evidentiary Criteria 
+Because the Petitioner has not indicated or established that he has received a major, internationally 
+recognized award, he must satisfy at least three of the alternate regulatory criteria at 
+8 C.F.R. § 204.5(h)(3)(i)-(x). The Petitioner claims to have met four criteria relating to lesser 
+nationally or internationally recognized awards, participation as a judge of the work of others in the 
+field, performing a leading or critical role, and commanding a high salary, under 8 C.F.R. 
+§ 204.5(h)(3)(i), (ii), (viii), and (ix), respectively. 
+SCOPS determined, and we agree, that the Petitioner satisfied two of the four claimed initial 
+evidentiary requirements relating to judging the work ofothers in the field and to performing a leading 
+or critical role. However, SCOPS concluded that the Petitioner had not shown that he met the 
+remaining two claimed criteria relating to lesser nationally or internationally recognized awards and 
+to commanding a high salary, and therefore that the Petitioner did not satisfy at least three of the ten 
+evidentiary criteria for extraordinary ability, as required. 
+2 
+On appeal, the Petitioner contends that he meets the remaining two claimed criteria relating to lesser 
+nationally or internationally recognized awards and commanding a high salary. For the following 
+reasons, we disagree. 
+1. "Documentation of the alien's receipt of lesser nationally or internationally recognized prizes 
+or awards for excellence in the field of endeavor." 8 C.F.R. § 204.5(h)(3)(i). 
+To determine whether the alien satisfies this criterion, we first determine whether he is the recipient 
+of prizes or awards, and then whether the award is nationally or internationally recognized and was 
+granted based upon excellence in the alien's field of endeavor. Next, we determine whether the award 
+is a lesser nationally or internationally recognized prize or award which the person received for 
+excellence in the field of endeavor. See generally 6 USCIS Policy Manual F.2(B)(l), 
+www.uscis.gov/policy-manual. 
+The Petitioner claims eligibility for this criterion based upon his recei t of the I I 
+I ] I I I _A ward, A wards A wards, the
+I rAward, thel !Award, and the~---~ Award. Here,~t.,....he-re-c--o-rd---:-' 
+contains sufficient evidence, such as copies of each award certificate naming the Petitioner as the 
+recipient, showing that he received them. 
+However, the Petitioner has not offered sufficient evidence to show that these awards are nationally 
+or internationally recognized. See Krasniqi v. Dibbins, 558 F. Supp. 3d 168, 182 (D.N.J. 2021) 
+(finding the regulation requires that the petitioner provide evidence of national or international 
+recognition); see also Visinscaia v. Beers, 4 F. Supp. 3d at 136; Guida v. Miller, No. 20-CV-01471-
+LB, 2021 WL 568850, at *8-9 (N.D. Cal. Feb. 16, 2021); Hristov v. Roark, No. 09-CV-2731, 2011 
+WL 4711885, at *8 (E.D.N.Y. Sept. 30, 2011). For example, recommendation letters in the record 
+indicate that the Petitioner's awards are available onl to em lo ees of the granting organizations. In 
+their letter P-A- indicates that the L__________, ..........1 ,ted to employees of I I 
+I Iwhile A-P-, a project manager that worked at ith the Petitioner, indicates 
+that the I landl ~wards are granted to'--_____.software division employees. 
+An award available only to persons within a single locality, employer, or school may have little 
+national or international recognition. See generally 6 USCIS Policy Manual, supra, at F.2(8)(1). 
+The recommendation letters further indicate that the names of the award winners are published in 
+internal compan[ cojmunications. For example, A-P- states that the names of the recipients of the 
+I I and awards are published inl !internal newsletter for India, while P-A- notes 
+that winners are published inl ~nternational internal newsletter. However, neither 
+this nor the remaining evidence indicate that these awards are recognized beyond the awarding 
+companies' internal newsletters. See Visinscaia v. Beers, 4 F.Supp. 3d at 136 (requiring evidence of 
+"how a larger audience viewed [the] awards"). 
+The Petitioner also argues that the news articles in the record below establish the reputation of the 
+institutions granting the awards and that the national and international recognition of these awards 
+derives from their reputations. However, this documentation does not discuss the claimed awards and 
+the recognition they receive. Accordingly, they are insufficient to show that the awards are nationally 
+or internationally recognized for excellence in the field. Krasniqi v. Dibbins, 558 F. Supp. 3d at 183 
+3 
+(finding that evidence about the organization itself does not speak to the award's recognition); see also 
+Visinscaia v. Beers, 4 F. Supp. 3d at 136 (finding that without evidence reflecting how a larger 
+audience viewed the plaintiff's awards, there was no way to evaluate whether those awards were 
+recognized widely enough to satisfy the awards criterion). 
+Finally, the Petitioner again argues that the standards of this criterion do not readily apply to his 
+occupation and therefore that we should consider comparable evidence in the record below to establish 
+his eligibility. 1 The regulation at 8 C.F.R. § 204.5(h)(4) states "[i]fthe above standards do not readily 
+apply to the beneficiary's occupation, the petitioner may submit comparable evidence to establish the 
+beneficiary's eligibility." This regulation provides petitioners with the opportunity to submit 
+comparable evidence to establish their eligibility, if it is determined that the evidentiary criteria 
+described in the regulations do not readily apply to their occupation. See generally 6 USCIS Policy 
+Manual, supra, at F.2(B)(l). When evaluating such comparable evidence, officers must consider 
+whether the regulatory criteria are readily applicable to the person's occupation and, if not, whether 
+the evidence provided is truly comparable to the criteria listed in that regulation. Id. 
+Here, the Petitioner contends that this criterion is not readily applicable to his occupation due to the 
+nature of the work that he performs. In a statement submitted with his RFE response, the Petitioner 
+asserted that "[t]he projects and software programs that I develop are owned by my employer" and 
+that accordingly he is "not allowed to publish or present my work to external parties" thus "limit[ing] 
+my ability to be considered for lesser nationally or internationally recognized prizes or awards." With 
+this RFE response, the Petitioner provided a sample confidentiality clause for his current employer 
+showing that employees are prohibited from disseminating intellectual property. However, the 
+Petitioner does not show or explain how the circumstances of his current employment demonstrate 
+that the awards criterion is not readily applicable to the occupation of software engineer. 
+Further, the Petitioner has not established that software engineers are unable to receive nationally or 
+internationally recognized awards for excellence in the field of endeavor. The fact that the Petitioner 
+did not receive such an award is not evidence that the criterion does not apply to his occupation. 
+Accordingly, the Petitioner has not satisfied his burden to establish that the criterion does not readily 
+apply to his occupation. Zizi v. Cuccinelli, No. 20-CV-07856-SVK, 2021 WL 2826713, at *8 (N.D. 
+Cal. July 7, 2021) (holding that "it is Plaintiff's burden to demonstrate that the standards in [ (h )(3)] 
+did not readily apply to his occupation before [U.S. Citizenship and Immigration Services (USCIS)] 
+is required to consider comparable evidence"). In addition, the Petitioner has not shown how the 
+submitted confidentiality agreement is "comparable" to the "[d]ocumentation of the alien's receipt of 
+lesser nationally or internationally recognized prizes or awards for excellence in the field of endeavor" 
+required at 8 C.F.R. § 204.5(h)(3)(i). 
+For the reasons stated above, the Petitioner has not demonstrated that he satisfies this criterion. 
+2. "Evidence that the alien has commanded a high salary or other significantly high remuneration 
+for services, in relation to others in the field." 8 C.F.R. § 204.5(h)(3)(ix). 
+At the outset, we note that on appeal, the Petitioner submits new evidence to show that he satisfies this 
+1 The Petitioner first made this argument in a statement submitted with his response to SCOPS' request for evidence (RFE). 
+4 
+criterion.2 The record reflects that SCOPS issued an RFE requesting that the Petitioner provide 
+additional evidence with respect to this criterion. Because the Petitioner was put on notice and given 
+a reasonable opportunity to provide this evidence, we will not consider this new evidence for the first 
+time on appeal. See 8 C.F.R. § 103.2(b)(l 1) (requiring all requested evidence be submitted together 
+at one time); Matter ofSoriano, 19 I&N Dec. 764, 766 (BIA 1988) (declining to consider new 
+evidence submitted on appeal because "the petitioner was put on notice of the required evidence and 
+given a reasonable opportunity to provide it for the record before the denial"). 
+The Petitioner also argues that SCOPS violated 5 U.S.C. § 706.2(A)3 in determining that he had not 
+satisfied this criterion and therefore that we should sustain his appeal. Specifically, he contends that 
+because in a prior decision, 4 a service center director concluded that he had met this criterion based 
+upon similar evidence, SCOPS' conclusion to the contrary was arbitrary and capricious. However, 5 
+U.S.C. § 706.2(A) is applicable to courts and not to our administrative appellate review. Further, we 
+are not required to approve applications or petitions where eligibility has not been demonstrated 
+merely because of prior approvals that may have been erroneous. See Matter ofChurch Scientology 
+Int 'l, 19 I&N Dec. 593, 597 (Comm'r 1988). Moreover, we are not bound by service center or district 
+director's decisions. See, e.g., La. Philharmonic Orchestra v. INS, 248 F.3d 1139 (5th Cir. 2001) (per 
+curiam). We additionally note note that SCOPS reviewed the relevant evidence in the record below 
+and explained why it did not satisfy this criterion. 
+The Petitioner next asserts that the evidence in the record establishes that he meets this criterion. The 
+regulation at 8 C.F.R. § 204.5(h)(3)(ix) calls for "evidence that the alien has commanded a high salary 
+or other significantly high remuneration for services, in relation to others in the field." A credible 
+employment contract or job offer may establish that an alien "has commanded" such salary or 
+remuneration, as may evidence of past earnings such as tax returns and pay statements. Comparative 
+wage or remuneration data that is appropriate for the alien's occupation and location should be 
+submitted to establish that their compensation is high relative to others working in the field. Id. 
+To establish that the Petitioner satisfies this criterion, he submitted, in relevant part, an offer letter 
+froml I his current employer, outlining his compensation Jackage; 2023 earnings statements; 
+and his 2023 tax returns. This documentation shows that 
+1 
+paid the Petitioner a base salary of 
+2 The Petitioner submits an updated salary report from levels.fyi that newly shows years of experience for each position 
+listed on the report. 
+3 5 U.S.C. § 706.2(A) states that: 
+To the extent necessary to decision and when presented, the reviewing comt shall decide all relevant questions of 
+law, interpret constitutional and statutory provisions, and determine the meaning or applicability of the terms of 
+an agency action. The reviewing court shall-
+(2) hold unlawful and set aside agency action, findings, and conclusions found to be-
+(A) arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with law; 
+4 The record reflects that the Petitioner has filed numerous Forms 1-140, all of which have been denied. In a Form 1-140 
+filed in October 2024, the service center director determined, in relevant part, that the Petitioner satisfied the criterion 
+related to high salary under 8 C.F.R. § 204.5(h)(3)(ix) but had not established eligibility as an alien ofextraordinary ability. 
+5 
+$173,489 CAD, equity in the amount of $114,346 CAD, and a bonus of $21,688 CAD, for a total of 
+$309,363 CAD. The Petitioner asserts that this is the equivalent wage of $160 CAD per hour. The 
+Petitioner also provided salary reports from jobsbankcanada.ca, wellfound.com, Glassdoor.com, and 
+levels.fyi. 
+The salary reports from wellfound.com, Glassdoor.com, and levels.fyi provide an average salary range 
+for senior software engineers in I I Canada. Average and median salaries are insufficient to 
+establish that he commanded a high salary in relation to others in the field. See Strategati, LLC v. 
+Sessions, No. 3:18-CV-01200-H-AGS, 2019 WL 2330181, at *7 (S.D. Cal. May 31, 2019) (upholding 
+evidence of average salary levels is an insufficient basis for comparison to show high salary in relation 
+to others in the field); see also Kinuthia, 702 F. Supp. 3d at 11; Mussarova v. Garland, 562 F. Supp. 
+3d 837,853 (C.D. Cal. 2022). Proving a salary is "above average" typically doesn't suffice to establish 
+a "high salary" or "significantly high remuneration." More comprehensive wage data is needed to 
+effectively demonstrate high earnings relative to peers. 
+The salary report from jobsbankcanada.ca submitted by the Petitioner similarly is insufficient to 
+demonstrate that the Petitioner satisfies this criterion. According to this report, software engineers in 
+thel ~ earn between $33.65 CAD and $84.13 CAD. The Petitioner contends that his 
+hourly wage of $160 CAD demonstrates that he has commanded a high salary relative to others in his 
+field. Here, the Petitioner does not show that the wages reported by jobsbankcanada.ca include 
+bonuses and restricted stock such that this wage report reflects an "apples to apples" comparison. 
+These salary reports are therefore insufficient to demonstrate that the Petitioner commands a high 
+salary in relation to others in the field. See Xia v. Miller, No. 3:20-CV-01468-JR, 2021 WL 5817324, 
+at *6 (D. Or. Nov. 18, 2021), report and recommendation adopted, No. 3:20-CV-01468-JR, 2021 WL 
+5825999 (D. Or. Dec. 6, 2021) (finding plaintiff must show that salary reports reflect an apples to 
+apples, rather than an apples to oranges, comparison). 
+Regarding the salary report from moneygenius.ca/blog/top-1-income-canada, which the Petitioner 
+contends shows that he is in the top two percent of earners in Canada and therefore reflects that he 
+satisfies this criterion, the Petitioner has not offered sufficient evidence to show how being in such a 
+bracket reflects that he has commanded a high salary relative to others in his field. 
+Finally, the Petitioner contends on appeal that "USCIS' interpretation that local or national salary 
+levels do not allow for an appropriate basis for comparison in determining a high salary" does not 
+comply with the USCIS Policy Manual. Specifically, the Petitioner asserts that SCOPS' decision 
+imposed a novel evidentiary requirement because 6 USCIS Policy Manual, supra, at F.2(B)(l), offers 
+as an example of evidence relevant to high remuneration, "[ c ]omparative wage or remuneration data 
+for the person's field, such as geographical or position-appropriate compensation surveys", and he 
+provided geographically appropriate compensation surveys in the record below. This argument is not 
+persuasive. SCOPS' decision indicated that it was the Petitioner's use of "average local or national 
+salary levels" ( emphasis added) that did not allow for an appropriate basis for comparison in 
+determining whether the Petitioner commanded a high salary relative to others in the field. As we 
+explained in the foregoing analysis, average local or national average salaries are insufficient to 
+establish that the Petitioner commanded a high salary in relation to others in the field. See Strategati, 
+LLC, No. 3:18-CV-01200-H-AGS, 2019 WL 2330181, at *7. Thus, while the record shows that the 
+Petitioner offered geographical compensation surveys, these surveys provided average salary levels. 
+6 
+Accordingly, this evidence did not provide a sufficient basis for comparison to establish that the 
+Petitioner commanded a high salary relative to others in the field. 
+For the reasons stated above, the Petitioner has not shown that he meets this criterion. 
+In summary, the Petitioner has not shown on appeal that he satisfies the evidentiary criteria related to 
+lesser nationally or internationally recognized awards and to high salary at 8 C.F.R. § 204.5(h)(3)(i) 
+and (ix), respectively. Accordingly, as the Petitioner has demonstrated only two of the four criteria he 
+claims to satisfy, he has not established that he satisfies at least three of the ten evidentiary criteria for 
+extraordinary ability as 8 C.F.R. § 204.5(h)(3) requires. 
+B. Final Merits Determination 
+Congress set a very high benchmark for aliens of extraordinary ability by requiring the petitioner 
+demonstrate "sustained national or international acclaim" and present "extensive documentation" to 
+show his or her achievements have been recognized in the field. Section 203(b)(1 )(A)(i) of the 
+Act. Here, because the Petitioner has not satisfied the threshold "initial evidence" requirements at 
+8 C.F.R. § 204.5(h)(3), we cannot conclude that he is an alien of extraordinary ability and need not 
+further analyze the merits under the statute. See Kazarian, 596 F.3d at 1119-20; see also Nagaiah v. 
+Allen, -- F.Supp.3d ---, 2025 WL 1508028, at *10 (E.D. Pa. May 27, 2025) (finding the regulation 
+"establishes a necessary, not sufficient, evidentiary requirement for a petitioner who seeks an 
+extraordinary ability visa."). Therefore, we decline to reach and hereby reserve arguments concerning 
+a final merits determination in this matter. See INS v. Bagamasbad, 429 U.S. 24, 25 (1976) (per 
+curiam) (holding that agencies are not required to make "purely advisory findings" on issues that are 
+unnecessary to the ultimate decision). 
+III. CONCLUSION 
+For the reasons discussed above, the Petitioner has not demonstrated his eligibility as an individual of 
+extraordinary ability. The appeal will be dismissed for the above-stated reasons, with each considered 
+as an independent and alternate basis for the decision. 
+ORDER: The appeal is dismissed. 
+NOTICE: This constitutes the final decision in this matter. The filing of a motion will not postpone the 
+effect of the decision. 8 C.F.R. § 103.S(a)(l)(iv). Aliens who are not lawfully present, or who are 
+otherwise inadmissible or deportable, may be subject to the commencement of removal proceedings 
+under section 240 ofthe Act through the issuance ofa Form I-862, Notice to Appear. Those proceedings 
+may result in their removal from the United States and possible ineligibility for future visas or other 
+immigration benefits. 
+7 

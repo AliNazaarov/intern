@@ -1,0 +1,438 @@
+Non-Precedent Decision of the
+Administrative Appeals Office 
+U.S. Citizenship 
+and Immigration 
+Services 
+In Re: 43945732 Date: AUG. 25, 2026 
+Appeal of U.S. Citizenship and Immigration Services (USCIS) Decision 
+Form I-140, Immigrant Petition for Alien Workers (Extraordinary Ability) 
+The Petitioner, a graduate student and an artificial intelligence researcher, seeks classification as an 
+alien of extraordinary ability. See Immigration and Nationality Act (the Act) section 203(b )(1 )(A), 8 
+U.S.C. § 1153(b )(1 )(A). This first preference classification makes immigrant visas available to those who 
+can demonstrate their extraordinary ability through sustained national or international acclaim and whose 
+achievements have been recognized in their field through extensive documentation. 
+USCIS denied the petition, concluding that the Petitioner did not satisfy at least three of the ten initial 
+evidentiary criteria. The matter is now before us on appeal pursuant to 8 C.F.R. § 103.3. 
+The Petitioner bears the burden of proof to demonstrate eligibility by a preponderance of the evidence. 
+Matter ofChawathe, 25 I&N Dec. 369, 375-76 (AAO 2010). We review the questions in this matter 
+de novo. Matter of Christa's, Inc., 26 I&N Dec. 537,537 n.2 (AAO 2015). Upon de novo review, 
+we will dismiss the appeal. 
+I. LAW 
+Section 203(b)(l)(A) of the Act makes visas available to immigrants with extraordinary ability if: 
+(i) the alien has extraordinary ability in the sciences, arts, education, business, or 
+athletics which has been demonstrated by sustained national or international 
+acclaim and whose achievements have been recognized in the field through 
+extensive documentation, 
+(ii) the alien seeks to enter the United States to continue work in the area of 
+extraordinary ability, and 
+(iii) the alien's entry into the United States will substantially benefit prospectively 
+the United States. 
+The term "extraordinary ability" refers only to those individuals in "that small percentage who have 
+risen to the very top of the field of endeavor." 8 C.F.R. § 204.5(h)(2); see also Onaghise v. Dep 't of 
+Homeland Sec., No. 3:20-CV-03033-X, 2022 WL 4073344, at *2 (N.D. Tex. Sept. 2, 2022) (holding 
+that extraordinary ability visas are known as "Einstein" visas, are extremely "coveted," and are 
+"reserved for only the most talented" aliens). The implementing regulation at 8 C.F.R. § 204.5(h)(3) 
+sets forth a multi-part analysis. First, a petitioner can demonstrate sustained acclaim and recognition 
+ofhis or her achievements in the field through a one-time achievement (that is, a major, internationally 
+recognized award). If that petitioner does not submit this evidence, then he or she must provide 
+sufficient qualifying documentation that meets at least three of the ten categories listed at 8 C.F.R. 
+§ 204.5(h)(3)(i)-(x) (including items such as awards, published material in certain media, and 
+scholarly articles). If an evidentiary standard under 8 C.F.R. § 204.5(h)(3)(i)-(x) does not "readily 
+apply" to a petitioner's occupation, the petitioner may submit "comparable evidence" to establish 
+eligibility. 8 C.F.R. § 204.5(h)(4). 
+Where a petitioner meets these initial evidence requirements, we then consider the totality of the 
+material provided in a final merits determination and assess whether the record shows sustained 
+national or international acclaim and demonstrates that the individual is among the small percentage 
+at the very top of the field of endeavor. See Kazarian v. USCIS, 596 F.3d 1115, 1121 (9th Cir. 2010) 
+( discussing a two-part review where the documentation is first counted and then, if fulfilling the 
+required number of criteria, considered in the context of a final merits determination); see also Amin 
+v. Mayorkas, 24 F.4th 383, 394 (5th Cir. 2022) (upholding USCIS' two-step review process as 
+"consistent with the governing statute and regulation"). 
+II. ANALYSIS 
+The Petitioner is seeking to be classified as an alien of extraordinary ability based on his specialization 
+in causal artificial intelligence AI . He indicates that at the time of filin , he was a graduate student 
+and research assistant at~----------------~ in China. He intends to 
+continue his work in the United States as a researcher of causal and trustworthy AI decision 
+frameworks, focusing on autonomous driving safety, medical diagnosis, and cybersecurity 
+infrastructure resilience. 
+Because the Petitioner has not indicated or established that he has received a major, internationally 
+recognized award, the issue to be addressed on appeal is whether the Petitioner satisfied at least three 
+of the alternate regulatory criteria at 8 C.F.R. § 204.5(h)(3)(i)-(x). In denying the petition, USCIS 
+determined that the Petitioner did not satisfy any of the seven claimed evidentiary criteria, namely 
+awards or prizes; memberships in associations; original contributions ofmajor significance; authorship 
+of scholarly articles; leading or critical role; or high salaiy or significant remuneration in relation to 
+others. 8 C.F.R. § 204.5(h)(3)(i), (ii), (iv)-(vi), (viii), and (ix). In addition, USCIS determined that 
+the Petitioner did not meet eligibility for the criterion of display of work at artistic showcases or 
+exhibitions based on comparable evidence. See 8 C.F.R. § 204.5(h)(4). Moreover, USCIS concluded 
+the Petitioner did not establish that he garnered sustained national or international acclaim, his 
+achievements have been recognized in the field of endeavor, and he is one of that small percentage 
+who has risen to the very top of the field. 
+On appeal, the Petitioner maintains that he qualifies for all the claimed criteria and that his comparable 
+evidence qualifies to meet the criterion for display of work at aiiistic showcases or exhibition. Upon 
+2 
+de novo review, the Petitioner has not demonstrated he meets at least three of the initial evidentiary 
+criteria. 1 
+A. Evidentiary Criterion 
+1. "Documentation of the alien's receipt of lesser nationally or internationally recognized prizes 
+or awards for excellence in the field of endeavor." 8 C.F.R. § 204.5(h)(3)(i). 
+To meet this criterion, the Petitioner must demonstrate that he received prizes or awards, and they are 
+nationally or internationally recognized for excellence in the field of endeavor. Relevant 
+considerations regarding whether the basis for granting the prizes or awards was excellence in the field 
+include, but are not limited to, the criteria used to grant the prizes or awards, the national or 
+international significance of the prizes or awards in the field, and the number of awardees or prize 
+recipients, as well as any limitations on competitors. See generally 6 USC IS Policy Manual F .2(B)( 1 ), 
+https://www.uscis.gov/policy-manual. 
+The Petitioner claims eligibility for this criterion based on five awards or prizes. For the first four, he 
+submitted certificates, each of which names him as one of three participating students from the 
+hose submission won the following: 
+• 1m laced runner-u in the ro • ect com etition at the 2021 
+and the 15th 
+(import*) placed first prize in theO project competition at the 2021• 
+and the 15thf-------------------------i-----------' 
+....------,------------,.---....--------'(imp01i*~)'-'-;--------~ 
+laced first rize in the event at the 2022 '1 t'• l'----------1--'"=~~~=~~==.....__i-=----=-=, and the 15th I I 
+!-"'-""'==---==.............l=ac...,e.........in..____..th...,e"--L_J-'e....v...,,e=;nt at the 2022 'l....,___________.l,...,' 
+,,_______. and the 15th ~I-------~J• 
+While the record reflects that the Petitioner received the competition prizes, 2 he has not demonstrated 
+the prizes' national or international recognition for excellence in his field under the re ulation at 8 
+C.F.R. § 204.5(h)(3)(i). The Petitioner asserts that theL...________,..-------------1 
+are nationally recognized, pointing out that the were or anized b the 
+Iand the ~-----------------------~ 
+1 While we may not discuss eve1y document submitted, we have reviewed and considered each one. 
+2 The two certificates relatin to the0P.r'r~o~·e~ct~c~o=m~e~ti=ti~on~at~t=h=e~2~0=2~1_'.___~----------------' 
+and the 15th ndicate that the students, including the 
+Petitioner from won two different prizes, runner-up prize and first prize 
+for._______.(import*). The Petitioner did not explain or provide evidence about the number ofparticipants in the 
+competition category and how his submission, I l(import*), received two prizes, runner-up and first, in the 
+sameDproject competition. See Matter ofHo, 19 l&N Dec. 582, 591 (BIA 1988)) (requiring "the petitioner to resolve 
+any inconsistencies in the record by independent objective evidence"). 
+3 
+I 
+in China. To support his claims he submitted an informational summarL...-----,----.----------' 
+about a press release notice about the 2018 
+and the 12th and an informational summary 
+about the 2023 and 17th.-------....,__--------..----.------.-------,-------------' 
+._________________,held at.__ _ _,University.3 Although the documents relate to 
+background information about the competition and its organizer, I Ithe evidence does not discuss 
+the individual prizes received by the Petitioner. See Krasniqi v. Dibbins, 558 F. Supp. 3d 168, 183 
+(D.N.J. 2021) (USCIS must focus on the recognition of the award, not its issuer); see also Visinscaia 
+v. Beers, 4 F. Supp. 3d 126, 136 (D.D.C. 2013) (requiring evidence of "how a larger audience viewed 
+[the] awards"). Here, the Petitioner did not establish that his field views any of the four prizes as a 
+nationally or internationally recognized award or prize for excellence. 
+For the fifth award or prize, the Petitioner submitted a printout from the I L.....r---------
+w e b site indicating that the Petitioner was one of five members affiliated with I 
+,..____________.l._w_h_o_r_e_c_ei_v_e_d_a_b_r_o_n~ze medal in the I Icompetitio._n_a_t-th-e-20_2_2~1--__., 
+I Conference on Games. The website pages from the,.__--------~---------'!website is not sufficient to show the Petitioner received the bronze medal in 
+~th-e'"Tl---.1-co_m_p_e-ti-ti_o_.n from ~ Conference Games. Without further evidence, such as 
+documentation from the awarding organization,! !Conference on Games, the Petitioner has not 
+established that he received an award or prize in accordance with the regulations. 
+In addition, the Petitioner has not demonstrated that the bronze medal in thel !competition is 
+nationally or internationally recognized for excellence in his field. The Petitioner claims that thel I 
+Conference on Games is an internationally recognized research conference in the field of AI research. 
+He submitted informational summaries about the 2022 I I Conference on Games from the 
+website. In addition, he submitted informational summaries about the 
+~in_d_i_v-id_l_ia_l_c_o_m_p_e-t1-·t1-·o-n~s for the 2022~onference on Games, explaining that the competition is 
+in game technology and design for th'eC]game.4 While the informational summaries explain the 
+competition categories, they do not discuss the individual medal received by the Petitioner. See 
+Krasniqi v. Dibbins, 558 F. Supp. 3d at 183; see also Visinscaia v. Beers, 4 F. Su . 3d at 136. In 
+addition, the Petitioner submitted a photoco of a book titled L-----,------,-----------r--, 
+authored by........,_----=--..,.......,.-.,..--,---~and and articles about the computer game.__ _ _. 
+While the book and aiiicles help to understand AI and th ~_ _.game, they do not discuss this specific 
+I I category competition, the I IConference on Games, or the national or international 
+recognition of the Petitioner's specific award or prize. 
+For the reasons discussed, the Petitioner did not show he meets this criterion. 
+3 The foreign language documents and their corresponding English translations bear URLs indicating their source is the 
+ChatGPT.com website. The Petitioner, however, has not demonstrated the reliability of these documents sourced from 
+ChatGPT, an AI platform which generates unverified information. 
+4 The documents about the individualc=]Conference on Games competition categories bear URLs indicating the source 
+is the ChatGPT.com website. The Petitioner, however, has not demonstrated the reliability of these documents sourced 
+from ChatGPT, an AI platform which generates unverified information. 
+4 
+2. "Documentation of the alien's membership in associations in the field for which classification 
+is sought, which require outstanding achievements of their members, as judged by recognized 
+national or international experts in their disciplines or fields." 8 C.F.R. § 204.5(h)(3)(ii). 
+To demonstrate that membership in an association meets this criterion, a petitioner must show that the 
+association requires outstanding achievement as an essential condition for admission to membership, 
+and that such achievements are judged by recognized experts in the field. Membership requirements 
+based on employment in a certain occupation, minimum education or experience, or payment of dues 
+or fees do not satisfy this criterion as such requirements do not constitute outstanding achievements. 
+See generally 6 USCIS Policy Manual, supra, at F.2(B)(l). 
+Although the Petitioner submitted evidence indicating he is a graduate student member of.-----~-----I 
+and 
+as well as a senior member of the~---------------~ he did not 
+~-~ 
+demonstrate that any of the associations require outstanding achievement for membership, as judged 
+by recognized national or international experts in the field. 
+For hisLJmemberships, the Petitioner submitted the membership pages from theOconstitution 
+and bylaws as revised throu h November 2019 as well as informational summaries from the 
+website about 
+and The informational summaries indicate that ~----~ is comprised o __...,-members who have graduated within the last 15 years with their .....,.,.______,,.._,..... 
+first professional degree. The .______.constitution document states that to qualify for graduate student 
+membership, members are required to meet certain academic program requirements, and their graduate 
+student membership is limited to eight years. The constitution and braws dol not indicate that graduate 
+student membership with I I or with other societies requires 
+outstanding achievements, as judged by recognized national or international experts in the field. 
+For his senior membership withl7_ihe Petitioner submitted an informational summary aboutD 
+membership requirements.5 Fo~senior membership, applicants are required to meet general 
+□membership conditions, including paying a membership fee and having ce1iain influence over 
+professional domain, as well as meeting specified senior membership conditions. Senior 
+membership applicants must have been al !member for more than two years; hold a professional 
+title equivalent to associate professor or above, or possess a doctoral degree in automation; or have 
+made significant contributions in automation and related fields. While senior membership inD 
+has more requirements than a regularOmembership, senior membership inLJ<loes not require 
+outstanding achievements, as judged by recognized expe1is. 
+For the reasons discussed, the Petitioner did not show he meets this criterion. 
+5 The foreign language documents and their corresponding English translations aboutc=]bear URLs indicating their 
+source is the ChatGPTcom website. The Petitioner, however, has not demonstrated the reliability of these documents 
+sourced from ChatGPT, an Al platform which generates unverified information. 
+5 
+3. "Evidence of the alien's original scientific, scholarly, art1st1c, athletic, or business-related 
+contributions of major significance in the field." 8 C.F.R. § 204.5(h)(3)(v). 
+The regulation at 8 C.F.R. § 204.5(h)(3)(v) calls for "evidence of the alien's original scientific, 
+scholarly, artistic, athletic, or business-related contributions of major significance in the field." A 
+petitioner may show that their contributions have been widely implemented throughout the field, have 
+remarkably impacted or influenced the field, or have otherwise risen to a level of major significance. 
+See Visinscaia v. Beers, 4 F. Supp. 3d 126, 134-35 (D.D.C. 2013). Relevant evidence of the 
+significance of an original contribution may include, but is not limited to: 
+• Published materials about the significance of the alien's original work; 
+• Letters providing details about how the alien's original work has been significant in the field; 
+• Citation of the alien's published scholarly work at a level indicative of major significance; and 
+• Patents or licenses deriving from the alien's work or evidence of its commercialization. 
+See generally 6 USCIS Policy Manual, supra, at F.2(B)(l). 
+To meet the criterion, the Petitioner claims his original contributions of major significance in his field 
+are based on four Chinese patents,6 one U.S. patent, and research work. For the patents, the Petitioner 
+submitted the patent applications filed byl I While the 
+U.S. patent application states that the application was filed in 2023 and published in 2024, it and other 
+evidence in the record do not indicate that the U.S. patent has been granted. Evidence that a petitioner 
+developed a patented technology that has attracted significant attention or commercialization may 
+establish the significance of the Petitioner's original contribution in the field. Id. The Petitioner's 
+U.S. patent application, however, does not reflect approval of the patent or it having attracted 
+significant attention or commercialization. Instead, the record only reflects that the I II Iapplied for the U.S. patent. 
+While the four Chinese patent applications indicate that the patents were granted between 2023 to 
+2025, the Petitioner has not shown that the patent work has attracted si~nificant attention or 
+commercialization. The Petitioner submitted a letter from his research advisor at I 
+His advisor indicates that the Petitioner was a "core" inventor of the five 
+patents and discusses at length the potential impact of the Petitioner's projects and patents. While the 
+letter from the Petitioner's advisor confirms that the Petitioner contributed to the patents, it mainly 
+speculates on the potential influence of the Petitioner's work in the United States and proposes that 
+his work will have an impact at some time in the future. 
+6 The English translation documents for the four Chinese patents include language indicating they were translated by 
+Google. Any document in a foreign language must be accompanied by a full English language translation. 8 C.F.R. § 
+103.2(b)(3). The translator must certify that the English language translation is complete and accurate, and that the 
+translator is competent to translate from the foreign language into English. Id. Because the Petitioner did not submit a 
+properly certified English language translation of the document, we cannot meaningfully determine whether the translated 
+material by Google is accurate and thus supports the Petitioner's claims. The regulation at 8 C.F.R. § 103.2(b)(3) provides 
+in pertinent part, "Any document containing foreign language submitted to USCIS shall be accompanied by a full English 
+language translation which the translator has certified as complete and accurate, and by the translator's certification that he 
+or she is competent to translate from the foreign language into English." 
+6 
+His advisor briefly mentions that the Petitioner's research has been used in the field but does not 
+elaborate on how the Petitioner's specific original contributions have been of major significance in the 
+field. For instance, his advisor states that the Petitioner was a key contributor of 'l I I I' which "[ e ]ngineered path planning and logistics control patents, optimizing 
+semiconductor supply chains by 22%." The letter contains conclusory statements about the 
+Petitioner's research optimizing semiconductor supply chains by 22% and does not specifically 
+explain the Petitioner's contributions' significance in the field. See Guida v. Miller, No. 20-CV-
+01471-LB, 2021 WL 568850, at *9 (N.D. Cal. Feb. 16, 2021) ('[T]he agency may reject supporting 
+letters that lack 'specific evidence' about how the plaintiff's contribution was a ma·or contribution." . 
+Also, the letter states that the Petitioner was a critical innovator of ' " 
+developing "neuro-symbolic navigation enabling 150-drone coordination" and "adopted by,__ _ __, 
+' However, the letter and other evidence in the record do not explain how the adoption of the 
+.___________.' byl lis of major significance to the field. 
+In addition, the Petitioner asserts that his research has had significant influence on the work of other 
+researchers in his field. He points to his Google Scholar citation record and articles authored by others 
+who cite to his work. While the Petitioner submitted some pages from articles which cited his research, 
+he did not provide evidence demonstrating that any of the authors significantly relied on his research 
+work for their own research or that the Petitioner's work has been of major significance in the field. 
+For instance, the Petitioner em hasizes the citation rate of some of his articles, including an article 
+titled',______________________________." in which the 
+Petitioner is named as one of 25 co-authors. Notably, the record does not reflect publication of the 
+article, but the Google Scholar printout indicates that the article has been cited 41 times.7 The 
+Petitioner does not explain his original contributions based on this article and how him being one of 
+25 co-authors are his original contributions of major significance in his field. 
+I
+Likewise, for another article titled' 
+l" the Petitioner~i_s_o_n_e_o_f-26_c_o_-a_u_t_h_o_rs-w-it-h-an_o_t_h-er-in_d_i_v-id_u_a_l_n_a_m_e_d_t_h_e_l_e_a~d 
+author. While this article was discussed during a conference session at the 2025 I I 
+._______________, and Google Scholar states the article has 10 citations, the Petitioner 
+has not explained his original contributions based on this research article, or how his contributions are 
+of major significance to his field. The aiiicles do not distinguish or highlight the Petitioner's written 
+work from the other cited papers. The articles citing to the Petitioner's research do not indicate that 
+the Petitioner's research is authoritative or otherwise viewed as being majorly significant in the field. 
+Instead, the other authors briefly reference the Petitioner's work. The Petitioner has not shown that 
+these citations to his articles rise to a level of major significance consistent with this regulatory 
+criterion. 
+While the evidence indicates that the Petitioner has contributed to work leading to patents and research 
+articles, he has not demonstrated his original contributions based on the patents and articles, or that 
+his contributions are of major significance to his field. The burden is on the Petitioner to identify his 
+original contributions and explain why they are ofmajor significance. For example, a petitioner may 
+submit evidence comparing his citations to other similarly, highly cited articles that the field views as 
+7 The Petitioner did not specify how many citations, if any, for each of his individual articles contained self-citations. 
+7 
+having been ofmajor significance, as well as factoring in other corroborating evidence. The aggregate 
+citation figures tend to reflect a petitioner's overall publication record rather than identifying which 
+research the field considers to be majorly significant. Citation frequency, which may include self-­
+citations, is quantitative in nature and does not reveal the reasons for the citations, which involve a 
+qualitative analysis. Published research that has provoked widespread commentary on its importance 
+from others working in the field and documentation that has been highly cited relative to others' work 
+in that field may be probative of the significance of the person's contributions in the field of endeavor. 
+See generally 6 USCIS Policy Manual, supra, at F.2(B)(l). Although his citations are indicative that 
+articles he co-authored have received some attention from the field, the Petitioner did not establish 
+that his citation numbers for the articles he co-authored represent majorly significant contributions in 
+the field. 
+For the reasons discussed, the Petitioner did not show he meets this criterion. 
+4. Evidence that the alien has performed in a leading or critical role for organizations or 
+establishments that have a distinguished reputation." 8 C.F.R. § 204.5(h)(3)(viii). 
+For this criterion, the role may be shown to be leading or critical for a division or department of an 
+organization or establishment, or for the organization or establishment overall. Evidence of a leading 
+role should show that the petitioner was a leader for the claimed component, and a job title with 
+matching duties may help to establish that a role was leading. For a critical role, evidence should 
+show that the petitioner has contributed in a way that is of significant importance to the outcome of 
+the organization or establishment's activities or those of a division or department of the organization 
+or establishment. In determining whether the organization or establishment, or a department or 
+division thereof, has a distinguished reputation, relevant factors include its size, longevity, scale of its 
+customer base, and relevant media coverage. See generally 6 USCIS Policy Manual, supra, at 
+F.2(B)(l). 
+The Petitioner claims to have held critical roles in multiple projects funded by the Ministry ofNational 
+Defense of the People's Republic of China, Ministry of Science and Technology of the Peof1e's 
+Republic of China, the National Natural Science Foundation of China, and thel He 
+asserts that "even though his formal title is that ofa graduate [student] researcher or research assistant," 
+his work amounted to "critical technical leadership roles" for the "national ministries, premier funding 
+agencies, and a state-linked strategic AI laboratory." Through his roles, he claims that he was "the 
+key designer of symbolic-numerical integration methods" which enabled "fusion of symbolic causal 
+reasoning with numerical perception modules for drone swarms, cooperative path planning and 
+navigation under contested or GPS-denied conditions, and explainable coordination policies that could 
+be audited and adjusted by human operators." 
+While the Petitioner provided evidence indicating he took paii on projects funded by Chinese national 
+ministries, he has not established that he held a critical or leading role. For instance, the Petitioner 
+provided an Engineering Contract Work Summary Repmi I Ifor research on large model 
+Idecisions. Notably, the report indicates that an individual other than the Petitioner was the 
+project leader. Moreover, at the end of the report, a notation states that the project "cultivated eight 
+graduate students," including the Petitioner. The Petitioner did not explain how his role as a graduate 
+student researcher for the project reflected he performed in a leading or critical role for the national 
+8 
+I 
+ministry as a whole. He did not show, for example, how his role qualified for a leadership position or 
+that he significantly impacted any organization or establishment activities or outcomes overall. 
+In addition, the Petitioner claims to have had a critical role in a.---------------'-------''------'--_.________, 
+:6 m an article titled • 
+" in which the Petitioner is named as one of 25 co-authors who is affiliated with 
+The Petitioner has not explained or provided evidence that him being one of25 co-authors 
+on the research article demonstrates his claimed leading or critical role forl Ior any other 
+organization or establishment. Without farther evidence, the Petitioner did not establish that he 
+performed in a critical or leadership capacity or he contributed in a way tol Ior any other 
+organization or establishment that was of significant importance to the outcome of that organization 
+or establishment based on his co-authoring the article. 
+Lastly, the Petitioner claims to have had a critical role with I Iand._______~ 
+._______~I but he did not explain for what organization or establishment he performed his 
+claimed critical role. In addition, the Petitioner did not submit evidence to support his claims that his 
+claimed critical role with I Iand I Imeets the 
+criterion. Assertions made without supporting documentation are of limited probative value and do 
+not carry the weight to satisfy the Petitioner's burden of proof. See Matter ofSofjici, 22 I&N Dec. 
+158, 165 (Comm'r 1998). 
+For the reasons discussed, the Petitioner did not show he meets this criterion. 
+5. "Evidence the alien has commanded a high salary or other significantly high remuneration for 
+services, in relation to others in the field." 8 C.F.R. § 204.5(h)(3)(ix). 
+In meeting this criterion, a credible employment contract or job offer may establish that an alien "has 
+commanded" such salary or remuneration, as may evidence of past earnings such as tax returns and 
+pay statements. Comparative wage or remuneration data that is appropriate for the alien's occupation 
+and location should be submitted to establish that their compensation is high relative to others working 
+in the field. See generally 6 USCJS Policy Manual, supra, at F.2(B)(l). 
+The Petitioner claims his eligibilitv for this criterion based on his income as a graduate student at 
+I He submitted an income certificate from thet--------------------i----' 
+!stating he is a "2023 graduate student in thel I 
+'---~---~---~-----~----------~--~------,Jl'with a total income from September 2023 to October 2025 as RMB 327500. The Petitioner states that his 
+income is project-based compensation and research assistant income. 
+The Petitioner, however, did not provide the appropriate comparative wage or remuneration data for 
+his paiiicular occupation as a research assistant in his field of causal AI. While the Petitioner 
+emphasizes that his income is not scholarship based, he submitted comparison data relating to national 
+scholarships and grants awarded to graduate students in China. He submitted China Graduate 
+Admissions Information Network 2025 policy summary indicating that universities, including
+I ~ provide RMB 6,000 per year for master's students 
+9 
+through a national grant. 8 In addition, he asserts that typical scholarships in 2024 were "around 20,000 
+RMB per year for small percentage of top students, academic scholarships are usually in the 4,000 -
+12,000 RMB per year range, and the national grant remains 6,000 RMB per year." He claims his 
+income as a graduate student is significantly higher than other graduate students in China based on the 
+national scholarship and grant data. 
+However, the Petitioner stated that he provided his income from his work as a research assistant, not 
+scholarships or grants. In order to meet this criterion, the Petitioner must show that he received a high 
+salary or significant remuneration in relation to others in his field rather than another job classification 
+and pay. See Matter of Price, 20 I&N Dec. 953, 954 (Assoc. Comm'r 1994) (considering a 
+professional golfer's earnings versus other PGA Tour golfers); see also Skokos v. US. Dep 't. of 
+Homeland Sec., 420 F. App'x 712, 713-14 (9th Cir. 2011) (finding salary information for those 
+performing lesser duties is not a comparison to others in the field); Crimson v. INS, 934 F. Supp. 965, 
+968 (N.D. Ill. 1996) (considering NHL enforcer's salary versus other NHL enforcers); Muni v. INS, 
+891 F. Supp. 440, 444-45 (N. D. Ill. 1995) (comparing salary of NHL defensive player to salary of 
+other NHL defensemen). Because he did not provide evidence detailing his salary or remuneration 
+and the salaries or remuneration of other research assistants in his field, the Petitioner has not 
+established he commands a high salary or significant remuneration in relation to others in his field in 
+accordance with the regulations. 
+For the reasons discussed, the Petitioner did not show he meets this criterion. 
+6. Comparable Evidence 
+The regulation at 8 C.F.R. § 204.5(h)(3)(vii) requires "[e]vidence of the display of the alien's work in 
+the field at artistic exhibitions or showcases." In addition to demonstrating that the displayed work 
+was the alien's work product, the venues ( virtual or otherwise) where the work was displayed must be 
+aiiistic exhibitions or showcases. See generally 6 USCIS Policy Manual, supra, at F.2(B)(l). USCIS 
+may consider non-artistic exhibitions or showcases as part of a properly supported claim of 
+comparable evidence under 8 C.F.R. § 204.5(h)(4). Id. While Merriam-Webster's online dictionary 
+definition of"exhibition" includes public showings other than those that are artistic in nature, the plain 
+language of the criterion includes the modifier "artistic" and explicitly requires that the exhibitions or 
+showcases be artistic in nature. Id. 
+The Petitioner argues that because the criterion at 8 C.F.R. § 204.5(h)(3)(vii) relates to artists and not 
+his occupation of scientific researchers, his research article posters at industry conferences should be 
+considered comparable evidence under this criterion per the regulation at 8 C.F.R. 204.5 h 4 . He 
+claims his research article posters were on display at the 2025 on 
+and at the 18th 
+x The foreign language documents and the English translations submitted for this criterion are bluny and not legible. In 
+addition, the English translations include language stating, "Machine Translated by Google." Any document in a foreign 
+language must be accompanied by a full English language translation. 8 C.F .R. § 103 .2(b )(3). The translator must certify 
+that the English language translation is complete and accurate, and that the translator is competent to translate from the 
+foreign language into English. Id. Because the Petitioner did not submit a legible foreign language document and a 
+properly certified English language translation of the document, we cannot meaningfully determine whether the translated 
+material by Google is accurate and thus supports the Petitioner's claims. 
+._____________. 2025). The Petitioner submitted part1c1pation certificates from the 
+conferences and photographs depicting him 
+standing beside research article posters. 
+The regulatory provision at 8 C.F.R. § 204.5(h)(4) provides petitioners with the opportunity to submit 
+comparable evidence to establish the person's eligibility, if it is determined that the evidentiary criteria 
+described in the regulations do not readily apply to the person's occupation. Id. When evaluating 
+such comparable evidence, officers must consider whether the regulatory criteria are readily applicable 
+to the person's occupation and, ifnot, whether the evidence provided is truly comparable to the criteria 
+listed in that regulation. Id. 
+Here, the Petitioner has not shown that this criterion is not easily applicable to his profession and even 
+if he had, he has not otherwise demonstrated how a certificate stating he was an "active participant" 
+at the conferences would be comparable to displays of work at artistic showcases or exhibitions. In 
+addition, other than the photographs depicting him standing next to posters of research articles, the 
+Petitioner did not provide evidence that his posters were displayed at exhibitions or showcases in 
+accordance with regulations. Accordingly, the Petitioner has not established his participation in the 
+conferences to be comparable evidence for this criterion. 
+For the reasons discussed, the Petitioner did not show he meets this criterion. 
+B. Reserved Issues 
+The Petitioner asserts that he meets eligibility for two additional criteria relating to judging others' 
+work at 8 C.F.R. § 204.5(h)(3)(iv) and authorship of scholarly articles at 8 C.F.R. § 204.5(h)(3)(vi). 
+Because the Petitioner did not fulfill any of the other claimed evidentiary criteria, he cannot fulfill the 
+initial evidentiary requirement of meeting three criteria under 8 C.F.R. § 204.5(h)(3). We, therefore, 
+need not determine whether he meets the requirements of the criteria relating to judging others' work 
+and authorship of scholarly articles. Accordingly, we will reserve these issues. See INS v. 
+Bagamasbad, 429 U.S. 24, 25 (1976) (per curiam) (holding that agencies are not required to make 
+"purely advisory findings" on issues that are unnecessary to the ultimate decision). 
+Because the Petitioner has not satisfied the threshold "initial evidence" requirements at 8 C.F.R. § 
+204.5(h)(3), we cannot conclude that he is an alien ofextraordinary ability and need not further analyze 
+the merits under the statute. See Kazarian v. USCIS, 596 F.3d at 1119-20; see also Nagaiah v. Allen, 
+784 F. Supp. 3d 798, 814 (E.D. Pa. 2025) (finding the regulation "establishes a necessary, not 
+sufficient, evidentiary requirement for a petitioner who seeks an extraordinary ability 
+visa."). Therefore, we hereby decline to reach and reserve the Petitioner's arguments and eligibility 
+for the final merits determination in this matter. See INS v. Bagamasbad, 429 U.S. at 25. 
+11 
+III. CONCLUSION 
+For the reasons discussed above, the Petitioner has not demonstrated his eligibility as an alien of 
+extraordinary ability. The appeal will be dismissed for the above stated reasons, with each considered 
+as an independent and alternate basis for the decision. 
+ORDER: The appeal is dismissed. 
+NOTICE: This constitutes the final decision in this matter. The filing of a motion will not postpone the 
+effect of the decision. 8 C.F.R. § 103.5(a)(l)(iv). Aliens who are not lawfully present, or who are 
+otherwise inadmissible or deportable, may be subject to the commencement of removal proceedings 
+under section 240 ofthe Act through the issuance ofa Form I-862, Notice to Appear. Those proceedings 
+may result in their removal from the United States and possible ineligibility for future visas or other 
+immigration benefits. 
+12 

@@ -1,0 +1,173 @@
+Non-Precedent Decision of the
+Administrative Appeals Office 
+U.S. Citizenship 
+and Immigration 
+Services 
+In Re: 43509753 Date: JULY 9, 2026 
+Appeal of U.S. Citizenship and Immigration Services (USCIS) Decision 
+Form I-140, Immigrant Petition for Alien Workers (Extraordinary Ability) 
+The Petitioner is a pharmaceutical researcher who seeks classification as an alien of extraordinary 
+ability. See Immigration and Nationality Act (the Act) section 203(b )( 1 )(A), 8 U.S.C. § ll 53(b)(1 )(A). 
+This first preference classification makes immigrant visas available to those who can demonstrate their 
+extraordinary ability through sustained national or international acclaim and whose achievements have 
+been recognized in their field through extensive documentation. 
+USCIS, through the Service Center Operations (SCOPS) denied the Form I-140, Immigrant Petition 
+for Alien Workers (petition), concluding that although the record established that the Petitioner 
+demonstrated that he met at least three of the ten regulatory criteria, he did not meet the requisite 
+standard in a final merits analysis. The matter is now before us on appeal under 8 C.F .R. § 103 .3. The 
+Petitioner bears the burden of proof to demonstrate by a preponderance of the evidence. Section 291 
+of the Act; Matter ofChawathe, 25 I&N Dec. 369,375 (AAO 2010). We review the questions in this 
+matter de novo. Matter of Christo 's Inc., 26 I&N Dec. 537, 537 n.2 (AAO 2015). Upon de novo 
+review, we will dismiss the appeal. 
+While we may not agree with every aspect in SCOPS' thorough final merits analysis, we do agree 
+with their ultimate determination and we adopt and affirm its decision with the added comments below. 
+See Matter ofJ-A-, 29 I&N Dec. 253, 254 (BIA 2025) (citing Matter ofBurbano, 20 I&N Dec. 872, 
+874 (BIA 1994); see also Giday v. INS, 113 F.3d 230, 234 (D.C. Cir. 1997) (noting that the practice 
+of adopting and affirming the decision below "is not only common practice, but universally 
+accepted"); Garland v. Ming Dai, 593 U.S. 357, 370-71 (2021) (noting an administrative appellate 
+body's act of adopting and affirming the below decision is legitimate, incorporating the lower 
+decision's analysis and reasoning on the issues into the appellate determination). 
+In our de nova review, we conclude that the Petitioner's case did not warrant a final merits 
+determination because he claimed three criteria and only met two of them. Stated differently, we do 
+not agree with the portion of SCOPS' decision that the Petitioner submitted evidence of his "original 
+scientific, scholarly, artistic, athletic, or business-related contributions of major significance in the 
+field" under 8 C.F.R. § 204.5(h)(3)(v). 
+The primary requirements here are that the Petitioner's contributions in his field were original and 
+they rise to the level of major significance in the field, rather than to a project or to an organization. 
+See Amin v. Mayorkas, 24 F.4th 383, 394 (5th Cir. 2022) (citing Visinscaia v. Beers, 4 F. Supp. 3d 
+126, 134 (D.D.C. 2013)). The regulatory phrase "major significance" is not superfluous and, thus, it 
+has some meaning. Nielsen v. Preap, 586 U.S. 392,415 (2019) (finding that every word and every 
+provision is to be given effect and none should needlessly be given an interpretation that causes it to 
+duplicate another provision or to have no consequence). Contributions ofmajor significance connotes 
+that the Petitioner's work has significantly impacted the field. Further, the Petitioner's contributions 
+must have already been realized rather than being potential, future improvements. The Petitioner must 
+submit evidence satisfying all of these elements to meet the plain language requirements of this 
+criterion. 
+The Petitioner's claims under this criterion were based on his publication record, that his publications 
+were among the most highly cited in their respective publication year, and that other researchers have 
+relied on his findings in their own work. In addition, the Petitioner claims his work in the areas of 
+colorectal cancer, brain tumors, and inflammation related diseases have resulted in adequate 
+contributions to meet the requirements here. When SCOPS determined that the Petitioner met the 
+requirements of this criterion, it essentially reiterated his claims but did not provide any analysis 
+detailing how his efforts have resulted in the requisite impact in the field. 
+The Petitioner claimed that because he had published work "in some of the most discerning, 
+high-impact journals in his field" that this amounted to "a rare accomplishment achieved by only the 
+very best researchers in the field." But the act of publishing in these respected journals does not 
+automatically result in the types of contributions this criterion requires. "Evidence that the person's 
+work was funded, patented, or published, while potentially demonstrating the work's originality, will 
+not necessarily establish, on its own, that the work is of major significance to the field." See generally 
+6 USCIS Policy Manual F.2(B)(l), https://www.uscis.gov/policymanual. 
+Simply publishing in prestigious journals might suggest his research is valuable, but that does not 
+categorically mean that his valued research has significantly contributed to the field as a whole. 
+Publications alone are not sufficient under 8 C.F.R. § 204.5(h)(3)(v) absent evidence that they were 
+of major significance. Here, the Petitioner did not establish that publication in a popular or highly 
+ranked journal alone demonstrates a contribution ofmajor significance in the field. Agrawal v. Miller, 
+No. 4:24CV3143, 2025 WL 2879217, at *20 (D. Neb. Sept. 12, 2025) (upholding that it cannot be 
+automatically presumed that all articles published by respected journals and organizations are 
+considered majorly significant); Venkatnarayan, 2024 WL 4008312, at *7, report and 
+recommendation adopted, 2024 WL 4267307 (upholding the high-ranking status of a journal did not 
+show an author's influence or impact of the petitioner's research on the field, nor did it establish that 
+every article published in a highly ranked journal automatically indicates a contribution of major 
+significance). We therefore find this argument unpersuasive. 
+He also claims that because other researchers have relied on his findings in their own work, that this 
+demonstrates his contributions to the field have been of major significance. USCIS policy speaks to 
+that issue indicating that "published research that has provoked widespread commentary on its 
+importance from others working in the field, and documentation that it has been highly cited relative 
+to others' work in that field, may be probative of the significance of the person's contributions to the 
+2 
+field of endeavor." Id. Of particular importance, we highlight the policy reflects one should both 
+provoke widespread commentary and be highly cited. 
+As supporting evidence, the Petitioner provided a report from Clarivate Analytics reflecting baseline 
+citation rates between 2013 and 2023 for several research fields with the relevant field here being 
+pharmacology and toxicology. First, we dispose of his assertions on appeal as he relied on data from 
+several years after the petition filing date to place his work "in the top 0.02% of authors in his area of 
+expertise in terms ofresearch productivity." A petitioner must establish eligibility at the time they file 
+the visa petition. 8 C.F.R. § 103.2(b)(l), (12). USCIS may not approve a visa petition if the Petitioner 
+was not qualified at the priority date but expects to become eligible at a subsequent time. See Matter of 
+Izummi, 22 I&N Dec. 169, 175-76 (Assoc. Cornrn'r 1998); Matter ofKatigbak, 14 I&N Dec. 45, 49 
+(Reg'l Comm'r 1971). 
+Additionally, while the Petitioner may have shown that some ofhis work is well cited in the field, even 
+one paper that is highly cited, what he did not demonstrate is that his work has spurred widespread 
+commentary from others in the field on how it is important. See generally 6 USCIS Policy Manual, 
+supra, F.2(B)(l) (noting to satisfy this criterion, it requires more than showing a paper is highly cited). 
+And after reviewing the articles the Petitioner provided that cite to his work, he has not shown that 
+any one of the citing authors placed unusual reliance on his work within their paper. The example 
+citations in the record cite the Petitioner's paper as one of dozens, and sometime of hundreds of other 
+studies and do not single out his work as significantly notable among other research in the field. In 
+the rare instance that another work cited to his publication more than one time, that occurred within 
+the same paragraph and did not reflect a notable reliance on his findings to support their main 
+hypothesis. 
+Here, the Petitioner did not offer textual and contextual evidence that his cited work was a direct 
+foundation or building block for the other researchers' work. These examples of peripheral mentions 
+fall far short of the in-depth discussion offered as a representative example in USCIS policy, which 
+expects evidence of published research that has provoked "widespread commentary" regarding its 
+importance. See generally 6 USCIS Policy Manual, supra, F.2(B)(l); Venkatnarayan, 2024 WL 
+4008312, at*7 (upholding USCIS' finding that there was no evidence distinguishing the alien's work 
+from all the other works cited in the articles to show the major significance of his work). Nor has the 
+Petitioner demonstrated the number ofcitations his published articles received reflect a level ofinterest 
+in his work from relevant parties to meet this criterion's mandates. Bhanu v. Garland, No. CV 22-103, 
+2023 WL 6119357, at *7-8 (E.D. Pa. Sept. 18, 2023). 
+Next, the Petitioner asserts that because his articles have received attention from others in the field 
+internationally, that this aids him in demonstrating his contributions have been of major significance. 
+While this fact does establish attention from more than one country, it does little to show the 
+significance of his work unless a particular area of research was somehow limited to one country or 
+region of the world. As that is not the case, we acknowledge this claim but note that it does little to 
+help the Petitioner here as generating citations from international researchers is not an anomaly, but 
+the natural result of a connected global scientific network. 
+3 
+He also claimed significant contributions to the field of pharmaceutical science through exploring 
+biomarkers and therapeutic targets for colorectal cancer, designing and synthesizing peptides and 
+therapeutic agents for brain tumors, and designing and synthesizing novel inhibitors for imaging and 
+treating inflammation related diseases. While support letters describe his research efforts and findings 
+relating to colorectal cancer, it is unclear how those conclusions have resulted in changes in the field 
+that are of major significance. Simply performing research on improving the prognosis and treatment 
+of colorectal cancer does not rise to the type of effects in the field that this criterion anticipates. 
+As it relates to developing peptides, the Petitioner relied on six of his published papers and the fact 
+that they appeared in journals with high impact factors to demonstrate his contributions to the field are 
+of major significance. But publishing one's research findings, even that which is well-cited, does not 
+necessarily reflect that work amounts to an impactful contribution in the field. See Kazarian v. USCIS, 
+580 F.3d I 030, I 036 (9th Cir. 2009), aff'd in part, 596 F.3d 1115 (9th Cir. 20 I 0) (finding publications 
+alone are not sufficient to demonstrate major significance). And we have already addressed the claim 
+relating to publishing in prestigious journals. Without a demonstration that such publication resulted 
+in an significant improvement in the broader field, it is insufficient to meet this criterion's mandates. 
+Agrawal, 2025 WL 2879217, at *20; Venkatnarayan, 2024 WL 4008312, at *7. 
+And finally his claims relating to the identification of biomarkers, the Petitioner identified the letter 
+from.__________,as supporting his claims. I I described the Petitioner's work, noting his 
+findings were a new concept that will lead to much better drugs," but this is a result that may only 
+occur in the future, and it is not a contribution to the field that has already been realized. That the 
+Petitioner will provide a prospective benefit to the United States is a separate requirement under the 
+Act. See section 203(b )(1 )(A)(iii) of the Act. 
+While the evidence shows promise in the Petitioner's work, it does not establish how his work already 
+qualifies as a contribution ofmajor significance in the field, rather than prospective, potential impacts. 
+The significant nature of his work has yet to be determined or measured. This regulatory criterion 
+requires petitioners to show they have already made a significant impact in their field. A Petitioner 
+must establish the elements for the approval ofthe petition at the time offiling. 8 C.F.R. § 103.2(b )(1), 
+(12). A petition may not be approved if the Petitioner was not qualified at the priority date but expects 
+to become eligible at a subsequent time. See Matter ofKatigbak, 14 I&N Dec. at 49. This does not 
+establish that, as of the priority date, the Petitioner contributed to his field in a significant manner as 
+the regulation requires. 
+And as a final note, the Petitioner notes that as a researcher, he "contributed to the development of 
+ROF-2" used "for amyloid detection and as a screening tool for amyloid inhibitors." First, it appears 
+the ROF-2 concept was validated and further developed by other researchers in the field and the 
+Petitioner is not named on the evidence he presented for this experimental chemical molecule. The 
+Petitioner has not explained why the commercialization of this chemical molecule should be 
+considered as a contribution of major significance to the field that is attributed to him. We further 
+note the research paper the Petitioner submitted with his response to SCOPS' request for evidence 
+relating to ROF-2 postdates the petition filing date and we have already explained that he may not rely 
+on that type of evidence in these proceedings. 8 C.F.R. § 103.2(b)(l), (12); Matter of Katigbak, 
+14 I&N Dec. at 49. 
+4 
+Based on this analysis we are withdrawing SCOPS' favorable determination under this criterion. 
+For the reasons discussed above, the Petitioner has not demonstrated his eligibility as an alien of 
+extraordinary ability. The appeal will be dismissed for the above stated reasons, with each considered 
+as an independent and alternate basis for the decision. In visa petition proceedings, it is a petitioner's 
+burden to establish eligibility for the immigration benefit sought. The Petitioner has not met that 
+burden here. 
+ORDER: The appeal is dismissed. 
+NOTICE: This constitutes the final decision in this matter. The filing of a motion will not postpone the 
+effect of the decision. 8 C.F.R. § 103.S(a)(l)(iv). Aliens who are not lawfully present, or who are 
+otherwise inadmissible or deportable, may be subject to the commencement of removal proceedings 
+under section 240 ofthe Act through the issuance of a Form I-862, Notice to Appear. Those proceedings 
+may result in their removal from the United States and possible ineligibility for future visas or other 
+immigration benefits. 
+5 

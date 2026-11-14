@@ -1,0 +1,473 @@
+Non-Precedent Decision of the
+Administrative Appeals Office 
+U.S. Citizenship 
+and Immigration 
+Services 
+In Re: 43913185 Date: SEP. 01 , 2026 
+Appeal of U.S. Citizenship and Immigration Services (USCIS) Decision 
+Form I-140, Immigrant Petition for Alien Workers (Extraordinary Ability) 
+The Petitioner, an artificial intelligent staff product manager, seeks classification as an alien of 
+extraordinary ability. See Immigration and Nationality Act (the Act) section 203(b)(l)(A), 8 U.S.C. § 
+1153(b)(l)(A). This first preference classification makes immigrant visas available to those who can 
+demonstrate their extraordinary ability through sustained national or international acclaim and whose 
+achievements have been recognized in their field through extensive documentation. 
+USCIS denied the petition, concluding that although the Petitioner established that she satisfied the 
+initial evidentiary requirements, she did not demonstrate her sustained national or international 
+acclaim and that she is among the small percentage at the very top of the field of endeavor. The matter 
+is now before us on appeal pursuant to 8 C.F.R. § 103.3. 
+The Petitioner bears the burden ofproof to demonstrate eligibility by a preponderance of the evidence. 
+Matter ofChawathe, 25 I&N Dec. 369, 375-76 (AAO 2010). We review the questions in this matter 
+de novo. Matter of Christo 's, Inc. , 26 I&N Dec. 537, 537 n.2 (AAO 2015). Upon de novo review, 
+we will dismiss the appeal. 
+I. LAW 
+Section 203(b)(l)(A) of the Act makes visas available to immigrants with extraordinary ability if: 
+(i) the alien has extraordinary ability in the sciences, arts, education, business, or 
+athletics which has been demonstrated by sustained national or international 
+acclaim and whose achievements have been recognized in the field through 
+extensive documentation, 
+(ii) the alien seeks to enter the United States to continue work in the area of 
+extraordinary ability, and 
+(iii) the alien's entry into the United States will substantially benefit prospectively 
+the United States. 
+The term "extraordinary ability" refers only to those individuals in "that small percentage who have 
+risen to the very top of the field of endeavor." 8 C.F.R. § 204.5(h)(2). The implementing regulation 
+at 8 C.F.R. § 204.5(h)(3) sets forth a multi-part analysis. First, a petitioner can demonstrate sustained 
+acclaim and recognition of his or her achievements in the field through a one-time achievement (that 
+is, a major, internationally recognized award). If that petitioner does not submit this evidence, then 
+he or she must provide sufficient qualifying documentation that meets at least three of the ten 
+categories listed at 8 C.F.R. § 204.5(h)(3)(i)-(x) (including items such as awards, published material 
+in certain media, and scholarly articles). If an evidentiary standard under 8 C.F.R. § 204.5(h)(3)(i)­
+(x) does not "readily apply" to a petitioner's occupation, the petitioner may submit "comparable 
+evidence" to establish eligibility. 8 C.F.R. § 204.5(h)(4). 
+Where a petitioner meets these initial evidence requirements, we then consider the totality of the 
+material provided in a final merits determination and assess whether the record shows sustained 
+national or international acclaim and demonstrates that the individual is among the small percentage 
+at the very top of the field of endeavor. See Kazarian v. USC IS, 596 F .3d 1115, 1121 (9th Cir. 2010) 
+( discussing a two-part review where the documentation is first counted and then, if fulfilling the 
+required number of criteria, considered in the context of a final merits determination); see also Amin 
+v. Mayorkas, 24 F.4th 383, 394 (5th Cir. 2022) (upholding USCIS' two-step review process as 
+"consistent with the governing statute and regulation"). 
+II. ANALYSIS 
+The Petitioner claims eligibility for this classification as an individual of extraordinary ability in the 
+field of artificial intelligence (AI) product innovation and strategy, with a focus on AI solutions for 
+businesses and government agencies for cybersecurity threat intelligence, fraud detection in identity 
+verification, and privacy-safe digital advertising. She earned bachelor's and master's degrees in 
+engineering in Tunisia and France, respectively, and has worked in various product manager positions 
+since 2016. She indicates that her career has focused on developing and launching AI platforms, 
+including conversational AI tools, fraud detection systems, and machine learning features to improve 
+user engagement and product performance. Since May 2023, she has worked in the United States for 
+an AI platform used to aggregate news and track cyber threats. In June 2024, 
+promoted the Petitioner to the position of staff product manager. The Petitioner filed this 
+petition in December 2025. 
+A. Extraordinary Ability 
+The Petitioner has not indicated or established that she has received a major, internationally recognized 
+award. She claimed to have met eight of the initial regulatory criteria, namely: 
+• Lesser nationally or internationally recognized awards or prizes; 
+• memberships in associations; 
+• published materials about the individual; 
+• participation as a judge of others' work 
+• original contributions of major significance; 
+• authorship of scholarly articles; 
+2 
+• leading or critical roles; and 
+• high salary or remuneration in relation to others. 
+8 C.F.R. § 204.5(h)(3)(i)-(vi), (viii) and (ix). 
+USCIS determined that the Petitioner fulfilled four of the claimed criteria but concluded in a final 
+merits determination that she did not establish her sustained national or international acclaim in the 
+field or show that she is one ofthat small percentage at the very top ofthat field and denied the petition 
+accordingly. A final merits determination involves analyzing an alien's accomplishments and 
+weighing the totality of the evidence to determine if his or her successes are sufficient to demonstrate 
+that they have extraordinary ability in the field of endeavor. See section 203(b)(l)(A)(i) of the Act; 8 
+C.F.R. § 204.5(h)(2), (3); see also Kazarian, 596 F.3d at 1119-20; see generally 6 USCIS Policy 
+Manual F.2(B)(2), https://www.uscis.gov/policy-manual (stating that USCIS officers should then 
+evaluate the evidence together when considering the petition in its entirety to determine if the 
+petitioner has established, by a preponderance of the evidence, the required high level of expertise for 
+the immigrant classification). 
+Because extraordinary ability is an elite level ofaccomplishment whose recognition necessarily entails 
+a judgement call, it cannot be established through meeting at least three of the evidentiary criteria 
+alone. See Amin v. Mayorkas, 24 F.4th at 394-395. The final merits determination is the ultimate 
+statutory inquiry of whether the Petitioner has extraordinary ability, as demonstrated by a 
+preponderance of the evidence, her sustained national or international acclaim, she is one of the small 
+percentage at the very top of the field of endeavor, and her achievements have been recognized in the 
+field through extensive documentation. 
+Upon de novo review, we agree with USCIS' determination that the Petitioner has not established 
+eligibility.1 
+On appeal, the Petitioner cites a district court decision, Mukhe,ji v. Miller, No. 4:24-CV-3170 (D. 
+Neb. Jan. 28, 2026), in which the court objected to USCIS' reliance on Kazarian to justify its use of 
+the final merits determination as the basis for dismissing an appeal. We agree with the Petitioner that 
+a final merits determination involves weighing the totality of the evidence to determine whether the 
+record shows sustained national or international acclaim and demonstrates that the petitioner is among 
+the small percentage at the very top of the field of endeavor. See Kazarian v. USCIS, 596 F.3d at 
+1121. However, we disagree with the Petitioner's reliance on this non-precedent decision. In contrast 
+to the precedential authority ofthe case law ofa United States circuit court, we are not bound to follow 
+a decision of a United States district court. See Matter ofK-S-, 20 I&N Dec. 715 (BIA 1993). 
+In addition, while we may consider the court's reasoning when it is properly before us, unpublished 
+opinions are not considered binding precedent. See Suchite-Salguero v. Att 'y Gen. United States, 147 
+F.4th 355, 359-60 (3d Cir. 2025) ("[W]e have cautioned over and over again that non-precedential 
+opinions carry little to no weight for future cases."); Wang v. Holder, 569 F.3d 531, 538 n.5 (5th Cir. 
+1 While we may not discuss every document submitted, we have reviewed and considered each one. 
+3 
+2009); cf Matter ofK-S-, 20 I&N Dec. at 719 (considering the reasoning of district court decisions). 
+Importantly, we note that the Mukherji decision was issued by a district court in Nebraska. In the 
+present case, the Petitioner is in California and the petition was denied at the Texas Service Center, 
+outside the jurisdiction of the Nebraska court that decided Mukherji. Moreover, the two-step 
+adjudication process is an interpretive rule that does not violate the Administrative Procedure Act, nor 
+is it a legislative rule. Nagaiah v. Allen, 784 F. Supp. 3d at 810; Agrawal v. Miller, No. 4:24CV3143, 
+2025 WL 2879217, at *12 (D. Neb. Sept. 12, 2025); Etsy, Inc. v. Jaddou, No. 4:22CV3022, 2023 WL 
+3689555, at *23 (D. Neb. May 25, 2023) (citing Perez v. Mortg. Bankers Ass'n, 575 U.S. 92, 96 
+(2015). 
+The final merits determination considers the totality ofthe evidence in the broader context of sustained 
+national or international acclaim as required by the statute. Issues that "are not relevant to the 
+antecedent procedural question of whether the petitioner has provided at least three types of evidence" 
+"might be relevant to the final merits determination of whether a petitioner is at the very top of his or 
+her field of endeavor." Kazarian v. USCIS, 596 F.3d at 1121. Considerations that might 
+impermissibly amount to "a novel evidentiary requirement" within the narrow confines of an initial 
+criterion nevertheless "might be relevant to a final merits determination." Id. The final merits 
+determination hinges on whether the Petitioner has established sustained national or international 
+acclaim and has reached the small percentage at the very top ofthe field. This determination is related 
+to, but separate from, the antecedent question of whether the Petitioner has satisfied at least three of 
+the initial criteria at 8 C.F.R. § 204.5(h)(3)(i)-(x). We agree with the Petitioner that her evidence 
+should be viewed in the context ofthe entire record, rather than in isolation. But we agree with USCTS 
+that this evidence does not consistently show her achievements are reflective of a "career of acclaimed 
+work in the field" as contemplated by Congress. H.R. Rep. No. 101-723, 59 (Sept. 19, 1990). 
+As it relates to awards or prizes, the Petitioner provided evidence reflecting her receipt of an academic 
+scholarship. The Petitioner, however, did not show the significance ofthe scholarship in the field and 
+how it places her among that small percentage at the very top ofthe field. See, e.g. Donskoy v. USCIS, 
+No. 21-CV-04757-CRB, 2021 WL 5240224, at *5 (N.D. Cal. Nov. 11, 2021) (finding that what 
+matters for the purpose of the visa classification is whether the award brought the petitioner individual 
+acclaim). 
+In addition, she submitted evidence about awards received by her employers. In particular, the 
+Petitioner emphasizes that her previous employer, Ireceived multiple awards based on the risk 
+engine and repeat attempts security feature she developed, which was integrated into I I 
+products. In addition, she submitted evidence about her previous employer, I Ireceiving two 
+innovation awards recognizing I Iinnovation and privacy features, including a contextual 
+advertising solution the Petitioner developed for I 
+While the record shows that the Petitioner's employers have received recognition related to her work, 
+she has not shown the national or international acclaim she received based on her employers receiving 
+the awards. We acknowledge that letters from the Petitioner's colleagues atl lattest 
+to her leading the conceptualization, development, and launch of innovative products forl Iand 
+I I and they confirm that the companies received awards relating to the development of the 
+products. However, while the letters give recognition to the Petitioner, other evidence in the record, 
+including the awards and media articles, do not mention the Petitioner and her work related to the 
+4 
+awards or the products. Other than the letters recognizing the Petitioner, the overall evidence 
+demonstrates award recognition to _____for the products. The letters, media articles, and 
+other evidence in the record do not contextualize the significance of the awards given tol land 
+I las placing the Petitioner among that small percentage at the very top of the field. See Hamal v. 
+US. Dep't ofHomeland Sec., No. CV 19-2534 (RC), 2021 WL 2338316, at *4 (D.D.C. June 8, 2021), 
+aff'd sub nom. Hamalv. United States Dep 't of Homeland Sec., No. 21-5160, 2023 WL 1156801 (D.C. 
+Cir. Jan. 31, 2023) (upholding plaintiff did not contextualize his awards throughout his career to show 
+sustained national or international acclaim). 
+For membership in associations, the Petitioner submitted evidence she is a member of Forbes 
+Technology Council. The Petitioner, however, did not show how her membership with Forbes 
+Technology Council resulted in sustained national or international acclaim or reflects that small 
+percentage who has risen to the very top of the field of endeavor. The record, for instance, does not 
+contain evidence indicating that she received national or international recognition based on her being 
+a member of Forbes Technology Council. While Forbes Technology Council requires each of its 
+members to be a senior-level technology executive of a company which either generates a minimum 
+amount of annual revenue or have a minimum amount of funding, the Petitioner did not establish that 
+she has distinguished herself from others in the field based on her being a member of Forbes 
+Technology Council, gaining national or international attention or placing her among the upper 
+echelon in her field. See, e.g., Hamal, 2023 WL 115680 l, at *3 (finding although the petitioner's 
+membership demonstrated his professional stature, it did not "establish the exceptional level of 
+distinction" required for the extraordinary ability visa). 
+Regarding published material about the Petitioner, she submitted several articles about her employers' 
+businesses and their products, asserting that the articles discuss her work-product. For example, she 
+submitted an article discussing I I cybersecurity platfmm, pointing out that she developed 
+certain AI features for the platform. In addition, she submitted articles discussing! I fraud 
+detection work, including security products conceived and developed by the Petitioner, as well as 
+articles aboud Icontextual advertising platform, which she developed and launched forl l 
+While the articles discuss products the Petitioner conceived, developed and launched for her 
+employers, they do not mention the Petitioner and her work for the products and her work in the field. 
+Instead, the articles mainly discuss her employers' business and their products. The Petitioner did not 
+show that the overall press coverage about her employers' businesses and their products is indicative 
+of a level of success consistent with being among that small percentage who has risen to the very top 
+ofher field of endeavor. For instance, the articles did not credit the Petitioner with having a prominent 
+role in developing her employers' products or otherwise discuss her having a distinguished reputation 
+or success in the field. Further, the Petitioner did not establish that the media reporting of her 
+employers' businesses reflects she has a career of acclaimed work in her field. 
+Regarding the Petitioner's service as a judge of others' work in her field, an evaluation of the 
+significance of her experience is appropriate to dete1mine if such evidence is indicative of the 
+extraordinary ability required for this highly restrictive classification. See Kazarian, 596 F. 3d at 
+1121-22. Thus, merely participating in a peer review process does not automatically demonstrate that 
+an individual has sustained national or international acclaim. See generally 6 USCJS Policy Manual, 
+supra, at F.2(B)(l) (providing that the second step requires USCIS to evaluate the person's judging 
+participation to determine whether it was indicative of the person being of that small percentage who 
+5 
+has risen to the very top of the field of endeavor and enjoying sustained national or international 
+acclaim). 
+The Petitioner provided evidence relating to her judge and peer review work for industry award 
+programs between January 2025 to May 2025, specifically a letter from R-F-, CEO of thel I 
+________ confirming she judged the 2025 I Ias well as two 
+judgin credential certificates confirmin she was a judge for the 20251 lfor AI and the 
+2025 ____________ In addition, she provided a letter from V-W-, a senior 
+development editor at confirming she was accepted to its list of technical reviewers. 
+While the record does not reflect she performed judging for we will consider it in the 
+context of the final merits determination. 
+We acknowledge that these letters and judging credential certificates are evidence that the Petitioner 
+has recognition in her field. However, her recent selection in 2025, just prior to filing this petition, is 
+insufficient to establish she is among the small percentage at the very top of the field of AT product 
+innovation and strategy. In addition, it is unclear from the letters and certificates how many others are 
+chosen for these positions, or if being chosen as a judge of the or the 
+I Ior being on the technical reviewer list for I I indicates national or 
+international acclaim. For instance, she did not compare her judging to others among the top of the 
+field, let alone to others in her overall field. See, e.g., Hamal, 2023 WL 1156801, at *2 (finding the 
+petitioner did not provide needed context for his judging experience and the resnonse to his work) InI). 
+general, the description of her contributions to being a judge of the and the 
+I as well as being on the technical reviewer list forl is insufficiently 
+persuasive to establish that the roles set her apart from others in her field or otherwise show she is 
+among the small percentage at the top ofher field. See, e.g., Job v. Jaddou, No. 4:22-CV-03017, 2024 
+WL 2963795, at *4 (S.D. Tex June 12, 2024) (upholding mere service on a review board, without 
+more, cannot evince extraordinary ability); see also Agrawal v. Miller, No. 4:24CV3143, 2025 WL 
+2879217, at *23 (D. Neb. Sept. 12, 2025) (upholding that the plaintiff did not show how she judged 
+to such an extent, or at a high enough level, that her judging surpasses the majority of the field and 
+places her in the top echelon of the field). 
+Likewise, simply authoring or publishing material does not automatically place one at the top of the 
+field. See also generally 6 USCIS Policy Manual, supra, at F.2(B)(l) (indicating that the second step 
+requires USCIS to evaluate the person's publications to determine whether it is indicative ofbeing one 
+of that small percentage who has risen to the very top of the field of endeavor and enjoying sustained 
+national or international acclaim). Here, although the Petitioner presented evidence to show that she 
+authored articles for the on-line publications, Forbes Technology Council, Product-Led Alliance, and 
+Medium, about AI innovation, including AI prompting and AI agents, she has not demonstrated that 
+this publication record is consistent with having a "career of acclaimed work" or qualifies for this 
+"very high standard." See H.R. Rep. No. at 59 and 56 Fed. Reg. at 30704. She did not establish that 
+her authorship ofthe articles for Forbes Technology Council, Product-Led Alliance, and Medium over 
+2024 and 2025, just prior to filing this petition, is reflective of being among the small percentage at 
+the very top of her field of artificial intelligence (AI) product innovation and strategy. See 8 C.F .R. 
+§204.5(h)(2). See, e.g.. Jafarov, 2024 WL 69056, at *9 (finding it reasonable for USCIS to focus on 
+the fact that a publication record of six publications over seven years inconsistent with a career of 
+acclaimed work and sustained national or international acclaim). 
+6 
+In addition to her article publications, the Petitioner claims her sustained acclaim is demonstrated by 
+her international speaking engagements, including industry summits, podcasts, and conferences. 
+Similar to her article publications, her speaking engagements took place just prior to filing this petition, 
+from May 2024 to November 2025. She has not shown that her recent speaking engagements are 
+reflective of sustained national or international acclaim in her field. 
+Here, the evidence does not show what impact or influence the Petitioner's publications and speaking 
+engagements have had on others in her field and whether any influence has been sustained. The 
+Petitioner has not provided independent evidence that her work authoring articles, speaking at 
+conferences and summits, or being interviewed for podcasts, has been used as a reference in her field. 
+Moreover, the Petitioner did not provide evidence about the circulation and influence of her 
+publications in Forbes Technology Council, Product-Led Alliance, and Medium; her podcast 
+interviews; or her speaking at conferences and summits in order to determine whether her work has 
+been recognized or influenced others in her field. For her podcast interviews and her summit and 
+conference presentations, the Petitioner has not provided detailed information about these events to 
+understand whether her presentations and appearances show she has a career of acclaimed work in her 
+field gaining national or international attention or distinguished herself from others in her field. While 
+the Petitioner submitted letters ofrecommendation indicating that others have attended her conference 
+presentations, she has not established that her work has been widely cited or utilized, and, therefore, 
+sufficient to demonstrate a level of interest in her field commensurate with sustained national or 
+international acclaim. See section 203(b )(1 )(A) of the Act. Further, the Petitioner did not show the 
+application of her written or presented work by the field and that it represents attention at a level 
+consistent with being among small percentage at the very top ofher field. See 8 C.F.R. § 204.5(h)(2). 
+For original contributions ofmajor significance in her field, the Petitioner emphasizes that her original 
+AI-driven product innovations have been recognized by industry leaders who confirm that she ranks 
+among the top 1 % of professionals in her field. She claims her success with the nationally and 
+internationally recognized AI platforms at shows her career of acclaimed 
+work in her field. The Petitioner provided evidence about her leading the development and launch of 
+three product innovations, I I contextual advertising, and I Irepeat 
+attempts fraud detection system. She emphasizes that each innovation was first-to-market- before 
+technology industry leaders, such as Google and Microsoft, and the products established industry 
+standards. 
+To support her claims, the Petitioner's evidence included multiple letters of recommendation and 
+media articles relating to the products. While not without weight in the final merits determination, 
+reference letters should explain in specific terms why the authors believe the Petitioner qualifies as a 
+person with extraordinary ability, and should be supported with sufficient corroborating documentary 
+evidence to establish that the Petitioner is recognized as being among that small percentage at the very 
+top of the field of endeavor and that she has garnered the required sustained national and international 
+acclaim for her achievements. See generally 6 USCJS Policy Manual, supra at F.2(8)(3) (discussing 
+the evidentiary value of letters of support at the final merits determination stage). Here, the letters, 
+however, do not claim, nor do the content show, that the Petitioner achieved national or international 
+acclaim from the field based on her contributions. Moreover, the letters do not demonstrate that the 
+Petitioner has attracted a level of attention, placing her at the top of her field. 
+7 
+I 
+For instance, the Petitioner submitted a letter from E-K-, the CEO and founder ofl Iattesting to 
+the Petitioner being the "driving force" behind AI platform and leading its launch in 
+12023. E-K- describes Ask AI as __"most transformative innovation" and that it has 
+led tol Irecent commercial and reputational growth. While E-K- recognizes the Petitioner's 
+achievements withl Iand explains innovations utilized by Iclients which resulted from 
+the Petitioner's leadership and development of such innovative products atl IE-K- does not 
+detail her national or international acclaim in her field beyond her employers and their clients. In 
+addition, the Petitioner has not presented evidence showing that her original work has affected the 
+industry in a significant way or has otherwise garnered her national or international acclaim in the 
+field. 
+In another letter, A-R-, the Petitioner's former colleague at ______ confirms having 
+recruited the Petitioner tol land attests to her professional skills with "ability to drive innovation 
+across diverse technical domains" and "consistent excellence across sectors." A-R- explains the 
+Petitioner's role as product manager atl lwhere the Petitioner led the conception and development 
+of the contextual advertisement product, which A-R- describes as "groundbreaking solution that 
+revolutionized digital advertising and positioned! las a leader in privacy-compliant advertising 
+technology," particularly given !contextual advertising product was launched ahead of its 
+competitors. A-R- further explains the Petitioner's role as senior product manager atl lwhere 
+the Petitioner led multiple innovations, including I I digital identity verification and repeat 
+attempts feature. A-R- explained the impacts of the innovative products tol land its clients, 
+including commercial success, awards, enhanced reputation, and fraud prevention solutions. The 
+Petitioner, however, has not offered evidence demonstrating in what ways her original work has 
+affected the field or garnered attention at a level rendering her nationally or internationally acclaimed 
+in her field. See section 203(b )(l)(A)(i) of the Act and 8 C.F.R. § 204.5(h)(3). Nor has she established 
+that the specific results of her innovations atl place her at the very top of the field. 
+See 8 C.F.R. § 204.5(h)(2). 
+Additional letters do not provide sufficient information and explanation to show that the Petitioner is 
+viewed by the overall field, rather than by a solicited few, to be among the upper echelon or that she 
+has garnered recognition on a national or international scale, consistent with being among the small 
+percentage at the very top of the field of endeavor. Mishra v. Richardson, No. 1 :20-cv-991 
+(LMB/TCB), 2021 WL 1566071, at *3 (E.D. Va. Apr. 20, 2021) (finding that none of the plaintiff's 
+letters point to evidence of extensive documentation of his accomplishments to show sustained 
+national or international acclaim). For instance, the Petitioner emphasizes a letter from D-M-, CEO 
+ofl land former president ofl I D-M- indicates that although he has not worked with 
+the Petitioner, he has reviewed her work and opines that the Petitioner has set industry standards while 
+noting that the launch ofI IAI platform happened before larger firms launched similar 
+products. Most of D-M-'s letter, however, uses the same language, statistics, and graphs used in A­
+R-'s recommendation letter to explain the Petitioner's professional accomplishments. The use of 
+identical language and phrasing across the letters suggest that the language in the letters is not the 
+authors' own. Cf.Surinder Singh v. BIA, 438 F.3d 145, 148 (2d Cir. 2006) (upholding an adverse 
+credibility determination in asylum proceedings based in part on the similarity of the affidavits); Mei 
+Chai Ye v. U.S. Dept. ofJustice, 489 F.3d 517, 519 (2d Cir. 2007) (concluding that an immigration 
+8 
+judge may reasonably infer that when an asylum applicant submits strikingly similar affidavits, the 
+applicant is the common source). 
+Similarly, another letter from Y-S-, an executive vice president of engineering for ______ 
+I I indicates that he has not worked with the Petitioner but met the Petitioner at an AI industry 
+conference where they discussed large language model challenges. Y-S- provides an overview of the 
+Petitioner's professional work and accomplishments, and opines that after evaluating her work, the 
+Petitioner "ranks among the top 1 % of AI product innovators" and in his "experience advising [18] 
+startups, evaluating hundreds of AI practitioners atl I and assessing acquisition targets, [Y­
+S-] rarely encounter[s] professionals who maintain this level of excellence across such diverse 
+applications." Another letter from S-K-, vice president ofproduct management at ______ 
+I l indicates that although S-K- has not worked with the Petitioner, he knows her work 
+through professional AI industry networks. S-K- states that the Petitioner is "one of the few upper 
+echelon AI threat intelligence experts working on AI innovation" and her "contributions are not simply 
+incremental; they redefine the baseline for performance and responsibility ...." 
+Likewise, M-S-, the program director with ___________ explains that he has not 
+worked with the Petitioner but learned of her work when she spoke at an industry conference and 
+attests to having selected the Petitioner as an opening keynote speaking for two industry conferences. 
+M-S- details the Petitioner's professional work and accomplishments, using the same language and 
+statistics outlined in other recommendation letters. Another letter from T-B-H-, CEO and co-founder 
+of indicatesthat although T-B-H- has not worked with the Petitioner, T-B-H- leamed ofher work 
+at and explains her accomplishments withl I Similar to the other 
+letters, T-B-H- emphasizes that the Petitioner's innovations span distinct sectors, has been at the 
+forefront of AI technology, and her advertising work with "set a standard that shaped how 
+AdTech companies approached the post-cookie challenge" and that her "consistent ability to bring AI 
+from concept to commercial success across sectors is exceptional." R-S-, president ofl II Iexplains having specialized experience in evaluating threat intelligence tools, and that he 
+recently evaluated,__ _____ AI as a potential buyer of its services. R-S- states that the 
+Petitioner is "at the top of the very small group of professionals who not only understand the technical 
+depth of AI systems but also translate that understanding into tools analysts genuinely rely on." 
+While the letters are from notable professionals in the field and they recognize and value the 
+Petitioner's professional work for Ithe Petitioner has not provided evidence 
+establishing that her contributions have extended beyond her employers and their clients to reflect a 
+career of acclaimed work in her field gaining national or international attention or distinguishing 
+herself from others in the field. Moreover, most of the authors state they have not worked with the 
+Petitioner and use the same or similar language to describe her professional experience and 
+accomplishments while opining that she is at the top of her field. Cf Surinder Singh v. BIA, 438 F.3d 
+at 148; Mei Chai Ye v. US. Dept. of Justice, 489 F.3d at 519. As mentioned above, while media 
+articles have recognized her employers and their products, the articles and other evidence in the record 
+do not discuss the Petitioner or recognize that she has distinguished herself from others in her field as 
+having a career of acclaimed work or distinguishing herself from others in her field to consider her 
+among that small percentage at the very top of her field of endeavor. 
+9 
+We acknowledge that record shows that the Petitioner has held significant roles for I 
+andl IHowever, the Petitioner did not establish that her roles are reflective of, or has resulted in, 
+widespread acclaim from her field or that she is considered to be at the very top ofthe field ofendeavor. 
+See 8 C.F.R. § 204.5(h)(2). While the Petitioner has provided evidence that other technology 
+companies are interested in speaking to her about possible employment opportunities and learning 
+more about her professional background, the record lacks other independent evidence, such as news 
+articles or other relevant materials, demonstrating that the field has widely recognized the Petitioner's 
+roles or contributions tol in a manner that evidences a "career of acclaimed 
+work." As mentioned above, although the Petitioner provided evidence that she was interviewed for 
+podcasts which highlight her AI staff product manager work withl Ithe evidence does not show 
+that her role and achievements withl lhas garnered influence in her field or 
+place her among "that small percentage who have risen to the very top of the field of endeavor." See 
+8 C.F.R. § 204.5(h)(2); see also Hamal v. US. Dep 't ofHomeland Sec., No. CV 19-2534 (RC), 2021 
+WL 2338316, at *4, aff'd sub nom. Hamal v. United States Dep 't ofHomeland Sec., No. 21-5160, 
+2023 WL 1156801 (upholding plaintiff did not contextualize his work at an organization 
+demonstrating recognition by the field as being significantly important or viewed as unusually 
+influential). 
+The Petitioner also claims that her extraordinary ability is reflected in her annual compensation as a 
+staff product manager at I I She argues that her salary from 2023 to 2025 has been well above 
+the national average and well above the average in her geographical area ofl ICalifornia 
+for informational technology (IT) project managers. The Petitioner emphasizes that her 2025 annual 
+compensation of $214,999.92, comprising salary of $200,000, as well as bonuses and vested equity, 
+is above the national and California average, and more than the 90th percentile in her region. 
+For comparison, the Petitioner submitted multiple labor statistics, including 2026 data from Robert 
+Half for IT product managers and the 2024 wage data information from the U.S. Bureau of Labor for 
+"computer occupations, all other," which she claims includes information technology project 
+managers. The U.S. Bureau of Labor data indicates that for "computer occupations, all other" in 2024, 
+the mean national annual wage was $116,700 and the annual 90th percentile wage in California was 
+$213,440. In her geographical area, she provided evidence showing the wage level ofIV inl I 
+County had a prevailing wage for July 2025 to June 2026 of $185,994. In addition, the Petitioner 
+submitted a technology salary guide from Robe1i Half indicating that for 2026, IT product managers 
+in learn $195,413 for the mid-salary range, meaning "moderate experience in the role, meets 
+most requirements or has equivalent transferable skills, and may also have relevant certifications," and 
+$226,800 for the high-salary range, meaning "extensive experience and advanced skills for the role, 
+and may also have specialized ce1iifications." We note that the Petitioner's reported annual salary of 
+$200,000 is less than Robert Half high-salary data of $226,800 and closer to the mid-salary data of 
+$195,413. While the Petitioner provided her total remuneration, salary with bonuses and stock equity, 
+the Robert Half data for her occupation and geographic region reflects salary, not other remuneration. 
+The Petitioner did not show that her 2025 salary of$200,000 and the additional $14,999.92 for bonuses 
+and stock equity, is a high salary or significantly high remuneration, or that her earnings are 
+comparable to those of individuals at the very top of the field. The Petitioner further claims her 
+compensation is validated through sustained interest from other technology companies recruiting her 
+over the last two years with base salaries ranging from $200,000 to $325,000. While email 
+correspondence from recruiters conveys interest in speaking with the Petitioner about employment 
+opportunities in her field, the correspondence does not reflect that recruiters have specific knowledge 
+of her work or otherwise reflects recognition of her work and her sustained national or international 
+acclaim. Furthermore, the Petitioner has not presented multiple years of earnings showing she has 
+consistently maintained a high salary or significantly high remuneration indicative of sustained 
+national or international acclaim necessary for this highly restrictive visa classification. See section 
+203(b)(l)(A) of the Act; see also Jafarov v. USCIS, No. 23 CrV. 3372 (PAE), 2024 WL 69056, at *9 
+(S.D.N.Y. Jan. 5, 2024) (finding the failure to show consistent high wage earnings did not reflect 
+sustained national or international acclaim and a single year's, or even a few years', worth of salary 
+data unlikely to satisfy this requirement). 
+The record as a whole, including the evidence discussed above, does not establish the Petitioner's 
+eligibility for the benefit sought. The Petitioner seeks a highly restrictive visa classification, intended 
+for individuals already at the top of their respective fields, rather than those progressing toward the 
+top. Matter ofPrice, 20 I&N Dec. 953, 954 (Assoc. Comm'r 1994) ( concluding that even major league 
+level athletes do not automatically meet the statutory standards for classification as an individual of 
+"extraordinary ability,"); Visinscaia v. Beers, 4 F. Supp. 3d at 131 (internal quotation marks omitted) 
+(finding that the extraordinary ability designation is "extremely restrictive by design"); Amin v. 
+Mayorkas, 24 F.4th at 394 (stating that extraordinary ability is such an elite level of accomplishment); 
+Lapteva v. Schuurmans, No. 8:24CV83, 2025 WL 815087, at *1 (D. Neb. Mar. 10, 2025) (stating that 
+EB- I visa are intended to be available to only an exceedingly small amount of individuals with 
+extraordinary ability). 
+Here, the Petitioner has not shown the significance of her work is indicative of the required sustained 
+national or international acclaim or it is consistent with a "career of acclaimed work in the field" as 
+contemplated by Congress. H.R. Rep. No. 101-723, 59 (Sept. 19, 1990); see also section 203(b)(l)(A) 
+of the Act. The evidence reflects that she has received some recognition for her contributions and 
+expe1iise in her field but falls short of establishing that she satisfied the requirements for this 
+classification at the time of filing. While the Petitioner need not establish that there is no one more 
+accomplished to qualify for the classification sought, the record is insufficient to demonstrate that she 
+is among the small percentage at the top of her field. See 8 C.F.R. § 204.5(h)(2). 
+B. 0-1 Nonimmigrant Status 
+The record reflects that in 2024 the Petitioner received 0-1 status, a classification reserved for 
+nonimmigrants of extraordinary ability. Although users has approved at least one 0-1 nonimmigrant 
+visa petition filed on behalf of the Petitioner, this approval does not preclude users from denying an 
+immigrant visa petition which is adjudicated based on a different standard in statute, regulations, and 
+case law. Many Fonn 1-140 immigrant petitions are denied after users approves nonimmigrant 
+petitions. See, e.g., Sunlift Int'l v. Mayorkas, et al., 2021 WL 3111627 (N.D. Cal. 2021); Q Data 
+Consulting, Inc. v. INS, 293 F. Supp. 2d 25 (D.D.C. 2003); IKEA US v. US Dept. ofJustice, 48 F. 
+Supp. 2d 22 (D.D.C. 1999); Fedin Bros. Co., Ltd. v. Sava, 724 F. Supp. 1103, 1108 (E.D.N.Y. 1989), 
+ajf'd, 905 F. 2d 41 (2d. Cir. 1990). Furthennore, our authority over the users service centers, the 
+office adjudicating the nonimmigrant visa petition, is comparable to the relationship between a court 
+ofappeals and a district court. Even if a service center has approved a nonimmigrant petition on behalf 
+of an individual, we are not bound to follow that finding in the adjudication of another immigration 
+11 
+pet1t10n. See, e.g., La. Philharmonic Orchestra v. INS, 248 F.3d 1139 (5th Cir. 2001) (per curiam). 
+Nor are we required to approve applications or petitions where eligibility has not been demonstrated 
+merely because of prior approvals that may have been erroneous. See Matter ofChurch Scientology 
+In'!, 19 I&N Dec. 593, 597 (Comm'r 1988); see also Constr. & Design Co. v. Bureau ofCitizenship 
+& Immigr. Servs., 2008 WL 2074097 *5 (N.D. 111. May 14, 2008) (describing as "prudent" that the 
+AAO "assess each application on its own, rather than rubber stamping applications merely because of 
+prior approvals"), aff'd sub nom. Constr. & Design Co. v. US. Citizenship & Immigr. Servs., 563 F.3d 
+593 (7th Cir. 2009). 
+III. CONCLUSION 
+For the reasons discussed above, the Petitioner has not demonstrated her eligibility as an alien of 
+extraordinary ability. The appeal will be dismissed for the above stated reasons. 
+ORDER: The appeal is dismissed. 
+NOTICE: This constitutes the final decision in this matter. The filing of a motion will not postpone the 
+effect of the decision. 8 C.F.R. § 103.5(a)(l )(iv). Aliens who are not lawfully present, or who are 
+otherwise inadmissible or deportable, may be subject to the commencement of removal proceedings 
+under section 240 ofthe Act through the issuance ofa Form I-862, Notice to Appear. Those proceedings 
+may result in their removal from the United States and possible ineligibility for future visas or other 
+immigration benefits. 
+12 

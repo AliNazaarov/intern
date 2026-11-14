@@ -1,0 +1,346 @@
+Non-Precedent Decision of the
+Administrative Appeals Office 
+U.S. Citizenship 
+and Immigration 
+Services 
+In Re: 41114296 Date: APR. 07, 2026 
+Appeal of Service Center Operations (SCOPS) Decision 
+Form 1-140, Immigrant Petition for Alien Workers (Extraordinary Ability) 
+The Petitioner, an information technology provider in the area of artificial intelligence (Al), seeks to 
+classify the Beneficiary as an alien of extraordinary ability. See Immigration and Nationality Act (the 
+Act) section 203(b)(l)(A), 8 U.S.C. § l 153(b)(l)(A). This first preference classification makes 
+immigrant visas available to those who can demonstrate their extraordinary ability through sustained 
+national or international acclaim and whose achievements have been recognized in their field through 
+extensive documentation 
+Service Center Operations (SCOPS) denied the petition, concluding that the record did not establish 
+that that the Beneficiary met the initial evidence requirements for this classification through evidence 
+of either a one-time achievement (a major, internationally recognized award) or by meeting at least 
+three of the ten evidentiary criteria under 8 C.F.R. § 204.5(h)(3). The matter is now before us on 
+appeal pursuant to 8 C.F.R. § 103 .3. 
+The Petitioner bears the burden ofproof to demonstrate eligibility by a preponderance ofthe evidence. 
+Matter ofChawathe, 25 I&N Dec. 369, 375-76 (AAO 2010). We review the questions in this matter 
+de novo. Matter of Christa's, Inc., 26 I&N Dec. 537,537 n.2 (AAO 2015). Upon de novo review, 
+we will dismiss the appeal. 
+I. LAW 
+To establish eligibility as an individual of extraordinary ability, a petitioner (or anyone on the 
+petitioner's behalf) must establish that they: 
+• Have extraordinary ability in the sciences, arts, education, business, or athletics; 
+• Seek to enter the United States to continue work in their area of extraordinary ability; and that 
+• Their entry into the United States will prospectively substantially benefit the United States. 
+Extraordinary ability must be demonstrated by evidence of sustained national or international acclaim 
+as well as extensive documentation that the petitioner's achievements have been recognized in the 
+field. Section 203 (b)( 1) of the Act. 
+The implementing regulation further states that the term "extraordinary ability" refers only to those 
+aliens in "that small percentage who have risen to the very top of the field of endeavor." A petitioner 
+can demonstrate that they meet the initial evidence requirements for this immigrant visa classification 
+through evidence of a one-time achievement (that is, a major, internationally recognized award). If 
+such evidence is unavailable, then they must alternatively provide evidence that meets at least three of 
+the ten listed criteria, which call for evidence about lesser awards they may have received, published 
+material about them in qualifying media, and their authorship of scholarly articles, among other types 
+of evidence. 8 C.F.R. §§ 204.5(h)(2),(3). 
+Where a petitioner meets these initial evidence requirements, we then consider the totality of the 
+material provided in a final merits determination, assessing whether the record shows that the alien 
+possesses the acclaim and recognition required for this highly exclusive immigrant visa 
+classification. See Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010) (discussing a two-part review 
+where the documentation is first counted and then, if fulfilling the required number of criteria, 
+considered in the context of a final merits determination); see also Amin v. Mayorkas, 24 F.4th 383, 
+394 (5th. Cir. 2022). 
+II. ANALYSIS 
+The Beneficiary is the Petitioner's founder and Chief Executive Officer (CEO). The Petitioner is a 
+provider of an AI platform that improves the performance of machine learning models. The 
+Beneficiary currently holds 0-1 nonimmigrant status and intends to continue to work in this capacity 
+in the United States. 
+A. Evidentiary Criteria 
+Because the Petitioner has not indicated or established that the Beneficiary received a major, 
+internationally recognized award, it must show that he satisfies at least three ofthe alternate regulatory 
+criteria at 8 C.F.R. § 204.5(h)(3)(i)-(x). SCOPS concluded that the Beneficiary met one of the 
+evidentiary criteria at 8 C.F.R. § 204.5(h)(3)(i)-(x), relating to his participation as a judge of the work 
+of others. We agree with SCOPS' determination for this criterion. On appeal, the Petitioner asserts 
+that the Beneficiary also meets six additional evidentiary criteria, has sustained national or 
+international acclaim, and is one of the small percentage at the top of his field. After reviewing all 
+the evidence in the record, we conclude that he does not meet the initial evidence requirement for this 
+classification and thus has not established eligibility as an alien of extraordinary ability. 
+1. Evidence of Lesser Nationally or Internationally Recognized Prizes or Awards 
+The regulation at 8 C.F.R. § 204.5(h)(3)(i) calls for "[d]ocumentation of the alien's receipt oflesser 
+nationally or internationally recognized prizes or awards for excellence in the field of endeavor." The 
+Petitioner bases the Beneficiary's claim to this criterion on two things: the Petitioner's receipt of 
+$690,000 in funding from venture capital firms, and the Beneficiary's receipt of the first prize in a 
+hackathon. We agree with SCOPS that the Petitioner has not established that either qualifies under 
+this criterion. 
+2 
+Regarding the Petitioner's receipt of fonding, SCOPS noted that the users Policy Manual highlights 
+that the focus is on the Beneficiary's receipt of an award, not his employer's. See generally 6 USCIS 
+Policy Manual F.2(B)(l), www.uscis.gov/policy-manual. On appeal, the Petitioner asserts that 
+SCOPS conceded this element of the criterion regarding the venture capital fonding in its decision, 
+but this is not accurate, nor would we be required to defer to SCOPS' decision if it were. See, e.g., 
+La. Philharmonic Orchestra v. INS, 248 F.3d 1139 (5th Cir. 2001) (per curiam). While the Beneficiary 
+signed these simple agreements for future equity (SAFE) in his role as the Petitioner's CEO, they are 
+between the investors as the receivers of equity and the Petitioner as a corporate entity, not the 
+Beneficiary. Therefore, the Petitioner has not established that he was the recipient ofthe fonding. See 
+Hristov v. Roark, No. 09-CV-2731, 2011 WL 4711885, at *7 (E.D.N.Y. Sept. 30, 2011)(upholding 
+plaintiff was not named as an award recipient). More importantly, the agreements indicate that, in 
+exchange for their investment, the investing entities will receive future equity in the petitioning entity. 
+For example, according to the Y Combinator (YC) agreement, it accepted the Petitioner to its 
+"biannual branch program" and will provide an "aggregate investment of $500,000" to the Petitioner 
+in exchange for "certain shares of the Company's Capital Stock." Here, the Petitioner has not 
+established that this type of transaction qualifies as an award. 1 
+Turning to the evidence of the Beneficiary's selection as a member of one of the top three winning 
+teams of thel Iin 2024, the Petitioner asserts that the reputation of the 
+awarding companies is sufficient to establish that the award is nationally or internationally recognized, 
+referring to the USCrS Policy Manual. We disagree. While the USCrS Policy Manual specifically 
+refers to "certain awards from well-known national institutions or well-known professional 
+associations" which may be qualifying, the plain language of the criterion places the focus of this 
+element of the criterion on the national or international recognition of the award. 2 See Krasniqi v. 
+Dibbins, 558 F. Supp. 3d 168, 183 (D.N.J. 2021) (finding USCrS must focus on the recognition of the 
+award, not its issuer); see also Visinscaia v. Beers, 4 F. Supp. 3d 126, 136 (D.D.C. 2013). The 
+Petitioner's appeal brief continues to focus on the reputation of YC and the founder of OpenAr, but 
+the record includes insufficient evidence regarding the reputation ofthe hackathon event or the awards 
+given at the event beyond the social media profiles of the awarding organizations and the awardees. 
+We agree with SCOPS that this evidence is insufficient to establish that the awards were nationally or 
+internationally recognized in the Beneficiary's field. 
+For the reasons detailed above, the Petitioner has not established that the Beneficiary meets this 
+criterion. 
+2. Evidence of Membership in Associations Requiring Outstanding Achievements of Members 
+The regulation at 8 C.F.R. § 204.5(h)(3)(ii) requires "[d]ocumentation of the alien's membership in 
+associations in the field for which classification is sought, which require outstanding achievements of 
+their members, as judged by recognized national or international experts in their disciplines or fields." 
+Here, the Petitioner asserts that the Beneficiary is a member of two such associations in his field, 
+Forbes Business Council (FBC) and YC. Regarding FBC, the Petitioner asserts that SCOPS did not 
+1 The p01tion of the SAFE agreement submitted also states that in the event of liquidity or dissolution, YC would 
+automatically be entitled to a portion of the proceeds of such an event. 
+2 We also note that the Petitioner has not demonstrated that either YC or OpenAI are national institutions or professional 
+associations. 
+3 
+give sufficient consideration to a letter from the association's co-founder, R-P-, and resubmits that 
+letter on appeal. We first note that while R-P- describes FBC as "invitation-only," the association's 
+website includes directions for submitting an application, which "authoriz[es] Forbes Councils to 
+contact you about our services." The website also lays out the requirements for membership, stating 
+that members "are respected owners, founders, and executive leaders of small and mid-sized 
+businesses" which have generated at least $500,000 in annual revenue or have received $500,000 in 
+funding. In addition, it indicates that applicants are vetted by a selection committee, and if approved 
+may purchase a membership package. R-P-'s letter verifies these basic requirements and verifies the 
+website's statement that FBC considers whether applicants have a proven track record. In describing 
+the selection committee's screening process, R-P- states that it "validates an applicant's distinctive 
+academic and industry credentials," and later indicates that for senior executives in large organizations 
+and technology startup founders, "their qualifying merits similarly flow from their academic and 
+career experience." 
+Membership requirements based solely on a level of education or experience in a particular field and 
+the payment of a fee or subscription, for example, may indicate that membership is not based on 
+outstanding achievements in a particular field. See generally 6 USCIS Policy Manual F.2(B)(l). 
+While the evidence indicates that FBC looks for a track record of achievements as an entrepreneur or 
+business executive, much of the requirements rely upon evaluation of academic success, status as a 
+founder or executive, and payment of a fee. In addition, R-P-'s letter states that in the case of startup 
+founders such as the Beneficiary, the selection committee considers the level ofventure capital funding 
+required to reflect the due diligence review of the business' strength and the leadership's 
+qualifications, essentially relying upon the judgment ofthe funding individual or entity instead oftheir 
+own assessment. And in explaining how the Beneficiary qualified to be a member of FBC, R-P­
+highlights the Petitioner meeting the minimum funding requirements and the Beneficiary's education 
+and experience in software engineering and project management. The letter does not demonstrate that 
+the Beneficiary's acceptance into FBC was based upon an evaluation of outstanding achievements in 
+the field of entrepreneurialism. 
+Also, R-P- describes the FBC selection committee as "trained professionals with specialized 
+experience in evaluating leadership and success in cross-disciplinary domains such as software 
+development, pro ram management, and information technology." The record includes a biographic 
+website pa e for who is identified as "Selection Committee at Forbes Councils." The webpage 
+states that~-~ holds a bachelor's degree in commerce and serves as a sales lead for a marketing 
+company, as well as serving as a selection committee member for other organizations. While I I 
+appears to have experience as a salesperson and on selection committees, the record lacks objective, 
+independent evidence to establish that he is a nationally or internationally recognized expert in either 
+of these fields. Accordingly, the Petitioner has not demonstrated that as part of the FBC application 
+process, the Beneficiary's accomplishments were judged by recognized national or international 
+experts in their disciplines or fields. 
+As for the Beneficiary's claimed membership in YC, SCOPS determined that the Petitioner's 
+participation in an accelerator program did not equate to the Beneficiary's membership in an 
+association in his field. On appeal, the Petitioner asserts that by virtue of being a participant in one of 
+the accelerator's cohorts and being listed in its "Founders Directory," the Beneficiary is a member of 
+an association in the field of entrepreneurship. He refers to YC's website, which states that "the YC 
+4 
+alumni network continue to help founders for the life of their company and beyond," and that "Y 
+Combinator is a community of over 9000 founders." It also cites to the definition of "association" 
+from www.merriam-webster.com, "an organization of persons having a common interest." However, 
+neither a "community" nor a "network" imply the same sort of formality as an "organization," defined 
+by www.merriam-webster.com as "an administrative and functional structure (such as a business or 
+political party)." The evidence shows that YC has managing or general partners who may or may not 
+be considered its members, but a listing of former alumni of the accelerator program lacks the 
+necessary structure and formality to meet the definition of "association." And despite the letter from 
+one of those general partners which describes participation in a cohort as "an eminent associational 
+affiliation," we note that neither the "Y Combinator Agreement" nor the two SAFE Postmoney 
+(Simple Agreement for Future Equity) contracts in the record reference YC as an association or its 
+investment in the petitioning organization as granting the Beneficiary membership in any association. 
+The Petitioner also asserts on appeal that his participation in a YC cohort is comparable to membership 
+in an association in his field requiring outstanding achievements per 8 C.F.R. § 204.5(h)(4). To 
+establish eligibility for a criterion through comparable evidence, a petitioner must first show that the 
+criterion is not readily applicable to their occupation. See generally 6 USCIS Policy Manual F .2(B)( 1 ), 
+www.uscis.gov/policy-manual. To do so, the criterion need not be entirely inapplicable to their 
+occupation, but a general unsupported assertion is not probative. Id. Here, the Petitioner alludes to 
+evidence concerning the importance of startup accelerators in the technology entrepreneurship field, 
+and points out examples in the USCIS Policy Manual of comparable evidence pertaining to other 
+criteria. But none ofthese assertions support its claim that this criterion is not readily applicable to an 
+entrepreneur in the technology fields, particularly in light of the Petitioner's claims that the 
+Beneficiary's membership in the FBC directly qualifies under this criteria, as discussed above. 
+Per the foregoing analysis, the Petitioner has not established that the Beneficiary meets all of the 
+elements of this criterion. 
+3. Authorship of Scholarly Articles in the Field 
+The regulation at 8 C.F.R. § 204.5(h)(3)(vi) calls for"[e ]vidence of the alien's authorship of scholarly 
+articles in the field, in professional or major trade publications or other major media." The Petitioner 
+bases its claim to this criterion based upon a single article authored by the Beneficiary and posted on 
+the Forbes Councils portion of the Forbes website. While SCOPS did not question the Beneficiary's 
+authorship of this article, it concluded that the article was not scholarly in nature and that it hadn't 
+been published in a qualifying medium. 
+On appeal, the Petitioner submits definitions from www.merriam-webster.com of "scholarly" 
+("characteristic ot: or suitable to learned persons") and "learned" ("characterized by or associated with 
+learning") and asserts that the type of media in which an article is published can inform its scholarly 
+intent. In general, scholarly articles are those written for learned persons in the field, meaning all 
+persons having profound knowledge of a field. See generally 6 USCIS Policy Manual F .2(8)(1 ). The 
+Beneficiary's article concerns the benefits of open-source AI, and in particular Meta's Llama LLM, 
+versus the more common closed-source model represented by ChatGPT. We note that above and 
+below the ~rticle a~pears a one-line biography of the Beneficiary, stating that he "is the CEO and Co­
+Founder o a cloud provider ofcheap, fine-tune~ I" While the article is presented 
+5 
+I 
+as advice to business leaders, its apparent intended audience is the Petitioner's customers. For 
+example, the Beneficiary writes that he 
+Given that the Beneficiary is extolling the virtues of open­
+source AI, and particularly the LLM for which the Petitioner provides customization, it appears that 
+this article is promotional versus scholarly in its intent. And we note that the promotional purpose of 
+FBC articles in general is demonstrated by its own promotional material, which encourages members 
+to "take this opportunity to craft the narrative around yourself and your company." 
+In addition, in its brief the Petitioner highlights a section of the article comparing open-source AI 
+development to the introduction of the scientific method, presumably to support its claim that this is a 
+scholarly article. However, the Petitioner does not explain how a basic discussion about the scientific 
+method establishes that this blog-like article was written for learned persons in the field of 
+technological entrepreneurialism. For this reason and that discussed above, the Petitioner has not 
+demonstrated that the Beneficiary's article is scholarly in nature. 
+Turning to the third element of this criterion, whether the article was published in a professional or 
+major trade publication or other major media, the Petitioner asserts that the Forbes website qualifies 
+as a major trade publication or other major media. While we agree that the evidence from SimilarWeb 
+is sufficient to establish that the Forbes website qualifies as a major medium, the Beneficiary's article 
+was posted on a separate portion ofthe website devoted to FBC and the articles posted by its members 
+(www.forbes.com/councils/forbesbusinesscouncil). As the Petitioner has not submitted evidence 
+showing that the distinct FBC portion or channel of the website qualifies as a professional or major 
+trade publication or other major medium, we conclude that it has not established that the Beneficiary's 
+article meets the third element of this criterion. See Onaghise v. Dep't ofHomeland Sec., No. 3:20-
+CV-03033-X, 2022 WL 4073344, at *6 (N.D. Tex. Sept. 2, 2022). 
+For the reasons discussed above, the Petitioner has not established that the Beneficiary meets this 
+criterion. 
+4. Performed in a Leading or Critical Role for Organizations with a Distinguished Reputation 
+The regulation at 8 C.F.R. § 204.5(h)(3)(viii) calls for "[e]vidence that the alien has performed in a 
+leading or critical role for organizations or establishments that have a distinguished reputation." 
+SCOPS acknowledged that the Beneficiary performs in a leading role for the Petitioner, but concluded 
+that the evidence was insufficient to show that the Petitioner has a distinguished reputation. In 
+particular, SCOPS determined that the Petitioner did not show that the media articles about it published 
+on several websites were sufficient indicators of a distinguished reputation. 
+On appeal, the Petitioner emphasizes its participation in YC's accelerator program as an indicator of 
+a distinguished reputation. We acknowledge the evidence showing that selection for YC's accelerator 
+program carries a certain level of distinction given its low acceptance rate and high profile amongst 
+technology entrepreneurs. But this is just one of several factors to consider in determining whether 
+the Petitioner has a distinguished reputation, and per the foregoing analysis we conclude that the 
+Petitioner has not established that it has achieved the requisite level of distinction. 
+6 
+The Petitioner also focuses on a statement in the USCIS Policy Manual that "significant funding from 
+government entities, venture capital funds, angel investors, or other such funders commensurate with 
+funding rounds generally achieved for that startup's stage and industry" may be a positive factor when 
+considering the reputation of an entity. See generally 6 USCIS Policy Manual F.2(B)(l). It asserts 
+that since YC made its standard investment of $500,000, whereas some other startup accelerators 
+provide $100,000 or $120,000 in funding, this is proof that its investment represents significant 
+funding which shows the Petitioner's distinguished reputation. But the Policy Manual does not 
+suggest that reputation may be demonstrated by examining each individual investment source 
+piecemeal. Rather, it is the significance of the total funding received by an entity that may positively 
+reflect on the entity's reputation. Here, the Petitioner has not provided evidence that its total funding 
+of $690,000 can be considered significant when compared to the total funding received by startups in 
+general at a comparable stage and in its industry. 
+In addition, the Petitioner submitted evidence of media coverage it has received, which is another 
+factor mentioned by the USCIS Policy Manual as probative in determining whether an organization 
+or establishment has a distinguished reputation. Id. This included blog articles on the websites 
+tryfondo.com and hiretop.com, as well as articles on other websites such as 
+www.thefounderspack.beehiiv.com and www.wing.vc. But as noted in SCOPS' decision, the record 
+does not include evidence of the readership or viewership of the websites where these articles were 
+published, and so does not demonstrate the level of recognition or prestige that these articles might 
+have generated for the Petitioner. 
+Other factors discussed in the USCIS Policy Manual include the relative size or longevity of the 
+organization (noted as not determining factors by themselves) and the scale of its customer base. 
+Here, the evidence indicates that the Petitioner was established in 2024, and the record is silent 
+regarding the size ofthe business or whether it has any customers. When considered together with the 
+evidence discussed above, the evidence is insufficient to establish that the Petitioner has a 
+distinguished reputation. Accordingly, the Petitioner has not shown that the Beneficiary has served in 
+a leading or critical role for an organization having a distinguished reputation. 
+5. Commanded a High Salary or Significantly High Remuneration 
+The regulation at 8 C.F.R. § 204.5(h)(3)(ix) seeks "[e]vidence that the alien has commanded a high 
+salary or other significantly high remuneration for services, in relation to others in the field." The 
+Petitioner asserts that the Beneficiary's 42.5% stake in the Petitioner is significantly high 
+remuneration in relation to others in the field of technology entrepreneurialism. We first note that for 
+purposes of this criterion, the comparison of the percentage of equity in the Petitioner held by the 
+Beneficiary with that of executives in other companies is irrelevant because it does not take into 
+account the value of that equity. The plain language of this criterion requires consideration of the 
+value of the remuneration commanded in order to determine whether it is significantly high in relation 
+to others in the field. 
+Second, the figure suggested by the Petitioner for the value of the Beneficiary's equity ($10,625,002) 
+is not supported in the record, which indicates that this figure is highly speculative. The Petitioner 
+bases this figure on the Beneficiary's equity percentage multiplied by the "post-value money" stated 
+in one ofthe Petitioner's SAFE agreements with a venture capital firm. However, the article at Exhibit 
+7 
+I.5 of the Petitioner's RFE response defines "post-money value" as "the amount that a given pre­
+money value infers the company to be worth at the moment immediately following an investment." 
+And the same evidence defines "pre-money value" as "the amount that an investor and the company 
+agree to deem the company to be worth immediately prior to the investor's investment." After 
+humorously explaining the process of determining pre-money value, the article explains that it "is 
+often not derived from accounting measures such as revenue, free cash flow or EBITDA," and "is 
+often highly negotiated, driven by market forces and inherently speculative." Accordingly, the figure 
+proposed by the Petitioner for the Beneficiary's remuneration is insufficiently supported and will not 
+be considered. 
+Third, the Petitioner has not provided a relevant basis for comparison of the Beneficiary's 
+remuneration, whether actual or speculative, to that of others in his field. As discussed above, the 
+comparison of percentages of equity held versus industry norms is not relevant absent the context of 
+valuation. 
+For all of the reasons discussed above, the Petitioner has not established that the Beneficiary meets 
+this criterion. 
+B. Other Evidentiary Criteria 
+Beyond the five evidentiary criteria discussed above (in addition to the judging criterion which we 
+acknowledged that the Beneficiary meets), the Petitioner also asserts on appeal that the Beneficiary, 
+through comparable evidence, has established that he has displayed his work at artistic exhibitions or 
+showcases. However, per our analysis above, the Beneficiary cannot satisfy the initial evidence 
+requirement at 8 C.F.R. § 204.5(h)(3) by meeting at least three of the evidentiary criteria. Therefore, 
+we decline to reach and hereby reserve any discussion of this additional criterion. See INS v. 
+Bagamasbad, 429 U.S. 24, 25 (1976) (per curiam) (holding that agencies are not required to make 
+"purely advisory findings" on issues that are unnecessary to the ultimate decision). 
+C. Final Merits Determination 
+Congress set a very high benchmark for aliens of extraordinary ability by requiring the petitioner 
+demonstrate "sustained national or international acclaim" and present "extensive documentation" to 
+show his or her achievements have been recognized in the field. Section 203(b )(1 )(A)(i) of the Act. 
+Here, because the Petitioner has not satisfied the threshold "initial evidence" requirements at 8 C.F.R. 
+§ 204.5(h)(3), we cannot conclude that he is an alien of extraordinary ability and need not further 
+analyze the merits under the statute. See Kazarian, 596 F.3d at 1119-20; see also Nagaiah v. Allen, 
+784 F.Supp.3d 798,814 (E.D. Pa. 2025) (finding the regulation "establishes a necessary, not sufficient, 
+evidentiary requirement for a petitioner who seeks an extraordinary ability visa."). We therefore 
+decline to reach and hereby reserve any final merits determination in this matter. See INS v. 
+Bagamasbad, 429 U.S. at 25. 
+C. 0-1 Classification 
+The record reflects that the Petitioner received 0-1 status, a classification reserved for nonimmigrants 
+of extraordinary ability. However, the prior approval does not preclude USCIS from denying an 
+8 
+immigrant visa petition, which is adjudicated based on a different standard - statute, regulations, and 
+case law. See Aravamuthan v. Jaddou, No. 3:23-CV-01412-N, 2025 WL 1708126, at *9 (N.D. Tex. 
+June 17, 2025); Cuckic v. Jaddou, No. 21-CV-8395 (JPO), 2023 WL 2586031, at *2 (S.D.N.Y. Mar. 
+21, 2023); Lapteva v. Schuurmans, No. 8:24CV83, 2025 WL 815087, at *1 (D. Neb. Mar. 10, 2025). 
+Many immigrant petitions are denied after USCIS approves prior nonimmigrant petitions. See, e.g., 
+Q Data Consulting, Inc. v. INS, 293 F. Supp. 2d 25, 29-30 (D.D.C. 2003); IKEA US, Inc. v. US. Dep 't 
+ofJust. INS, 48 F. Supp. 2d 22, 23 (D.D.C. 1999), ajf'd sub nom. IKEA US, Inc. v. Dep 't ofJust., INS, 
+No. 99-5159, 1999 WL 825420 (D.C. Cir. Sept. 27, 1999); Fedin Bros. Co. v. Sava, 724 F. Supp. 
+1103, 1104 (E.D.N.Y. 1989), aff'd, 905 F.2d 41 (2d Cir. 1990). Furthermore, our authority over 
+SCOPS, the office adjudicating nonimmigrant visa petitions, is comparable to the relationship between 
+a court of appeals and a district court. Even if SCOPS has approved a nonimmigrant petition on behalf 
+of an individual, we are not bound to follow that finding in the adjudication of another immigrant 
+petition. See Louisiana Philharmonic Orchestra v. INS, No. CIV. A. 98-2855, 2000 WL 282785, at 
+*2 (E.D. La. Mar. 15, 2000). 
+III. CONCLUSION 
+The Petitioner has not established that the Beneficiary meets at least three of ten evidentiary criteria 
+under 8 C.F.R. § 2045.5(h)(3), and therefore does not meet the initial evidence requirements for 
+classification as an alien of extraordinary ability. 
+ORDER: The appeal is dismissed. 
+NOTICE: This constitutes the final decision in this matter. The filing of a motion will not postpone the 
+effect of the decision. 8 C.F.R. § 103.5(a)(l)(iv). Aliens who are not lawfully present, or who are 
+otherwise inadmissible or deportable, may be subject to the commencement of removal proceedings 
+under section 240 ofthe Act through the issuance of a Form I-862, Notice to Appear. Those proceedings 
+may result in their removal from the United States and possible ineligibility for future visas or other 
+immigration benefits. 
+9 

@@ -1,0 +1,113 @@
+U.S. Citizenship 
+and Immigration 
+Services 
+Non-Precedent Decision of the
+Administrative Appeals Office 
+In Re: 40763603 Date: AUG. 27, 2026 
+Appeal of U.S. Citizenship and Immigration Services (USCIS) Decision 
+Form I-140, Immigrant Petition for Alien Workers (Extraordinary Ability) 
+The Petitioner, an information technology service delivery manager, seeks classification as an alien of 
+extraordinary ability. See Immigration and Nationality Act (the Act) section 203(b)(l)(A), 8 U.S.C. 
+§ 1153(b)(l)(A). This first preference classification makes immigrant visas available to those who 
+can demonstrate their extraordinary ability through sustained national or international acclaim and 
+whose achievements have been recognized in their field through extensive documentation. 
+The Petitioner filed his Form I-140 petition in August 2023. USCIS denied the petition in March 2025, 
+concluding that the record did not establish that the Petitioner had either received a major, 
+internationally recognized award or satisfied at least three often initial evidentiary criteria, as required. 
+The Petitioner filed a motion to reconsider in April 2025, which USCIS dismissed in August 2025. The 
+Petitioner appealed that dismissal in September 2025. The matter is now before us on appeal under 
+8 C.F.R. § 103 .3. 
+The Petitioner bears the burden ofproof to demonstrate eligibility by a preponderance of the evidence. 
+Matter ofChawathe, 25 I&N Dec. 369, 375-76 (AAO 2010). We review the questions in this matter 
+de novo. Matter of Christo 's, Inc., 26 I&N Dec. 537, 537 n.2 (AAO 2015). Upon de novo review, 
+we will dismiss the appeal. 
+A. Invalid Signature 
+According to USCIS regulation and policy, "[i]fUSCIS accepts a benefit request and determines later 
+that the request was not submitted with a valid signature, USCIS may reject or deny the request." See 
+8 C.F.R. § 103.2(a)(7)(ii)(A)(2).1 
+We notified the Petitioner in a notice of intent to dismiss (NOID) that the Petitioner's signature on Form 
+I-290B appeared to be deficient, because it appeared to be a copy of an earlier signature that was 
+electronically added to a new form. The NOID further notified the Petitioner that this basis alone was 
+enough to dismiss the appeal and the signature could not be cured. In response, the Petitioner asserts that 
+1 This regulatory language was first published in 2026, but represents clarification and codification of existing procedures 
+rather than a new policy or requirement. See 91 Fed. Reg. 25 ,479, 25 ,487 (May 11 , 2026). 
+he "expressly authorized" his attorney to prepare a new Form T-290B using "the signature from [an] earlier 
+execution of the Form I-290B, which counsel reproduced when preparing the updated appeal." 
+In the statement quoted above, the Petitioner acknowledges that he did not sign the Form T-290B relating 
+to the appeal now before us. The Form I-290B before us includes a reproduced signature dated September 
+16, 2025, but review ofUSCIS records confirms that the signature on that form is identical to the signature 
+on an earlier Form T-290B, dated March 14, 2025. The reproduction of a signature from an earlier 
+document is not an acceptable signature. We also note that the Petitioner's signature on the March 2025 
+Form I-290B appears to be identical to his signature on Form G-28, Notice of Entry of Appearance as 
+Attorney or Accredited Representative, also dated March 2025. 
+See, generally, 1 USCIS Policy Manual B.2(A) and (B), https://www.uscis.gov/policy-manual, which 
+indicates that an image of a handwritten signature, electronically affixed to a benefit request form, is not 
+an acceptable signature. 2 
+Because the Petitioner did not properly sign the Form I-290B, we will dismiss the appeal. 
+B. Extraordinary Ability 
+Even without the issue of the invalid signature on the September 2025 Form I-290B, the record does not 
+indicate that the Petitioner has met his burden of proof to establish eligibility for the highly restrictive 
+immigrant classification that he seeks. 
+Section 203(b )(1 )(A) of the Act makes immigrant visas available to aliens with extraordinary ability 
+in the sciences, arts, education, business, or athletics which has been demonstrated by sustained 
+national or international acclaim and whose achievements have been recognized in the field through 
+extensive documentation. The term "extraordinary ability" refers only to those aliens in "that small 
+percentage who have risen to the very top of the field of endeavor." 8 C.F.R. § 204.5(h)(2). 
+Once a petitioner has met the initial evidence requirements at 8 C.F.R. § 204.5(h)(3), the next step is 
+a final merits determination, in which we assess whether the record shows sustained national or 
+international acclaim and demonstrates that the alien is among the small percentage at the very top of 
+the field of endeavor. See Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010) (discussing a two-part 
+review where the documentation is first counted and then, if fulfilling the required number of criteria, 
+considered in the context of a final merits determination). 
+In this instance, the Petitioner claimed to directly satisfy three regulatory criteria, and to have submitted 
+comparable evidence relating to two other criteria that, he claimed, do not readily apply to his occupation. 
+USCIS concluded that the Petitioner had established that he satisfied the criterion relating to leading or 
+critical roles for organizations or establishments with distinguished reputations under 8 C.F.R. 
+§ 204.5(h)(3)(viii), and had submitted evidence comparable to display at artistic exhibitions or showcases 
+under 8 C.F.R. § 204.5(h)(3)(vii). USCIS did not grant the other three claimed criteria, relating to 
+2 USCIS has seen requests submitted with invalid signatures created by copy-pasting or affixing an image of the same 
+signature on multiple benefit requests in contravention of USCIS policy that allows for photocopied, faxed, or scanned 
+signatures only if the photocopy, fax, or scan is of the original document containing the handwritten wet ink signature. 
+91 Fed. Reg. 25,482 (May 11, 2026). 
+2 
+participation as a judge ofthe work of others (8 C.F.R. § 204.5(h)(iv)); original contributions of major 
+significance (8 C.F.R. § 204.5(h)(v)); and evidence comparable to authorship of scholarly articles 
+(8 C.F.R. § 204.5(h)(vi)). 
+The record consists of information about the Petitioner's employers; examples ofwork that the Petitioner 
+performed for customers; internal work documents such as email messages and a 2023 performance 
+evaluation; and letters from employers, customers, and professors who have worked directly with the 
+Petitioner in various ways. Collectively, this evidence shows that the Petitioner has worked, as a 
+contractor, for some significant customers such asl Ibut the record does not show that 
+the Petitioner has earned recognition beyond the schools where he studied, the companies that employed 
+him, and the customers that benefited from his work. Whatever his reputation within these groups, the 
+Petitioner has not established the national or international acclaim that the statute and regulations demand. 
+The Petitioner seeks a highly restrictive visa classification, intended for individuals already at the top 
+of their respective fields, rather than those progressing toward the top. Matter ofPrice, 20 I&N Dec. 
+953,954 (Assoc. Comm'r 1994) ( concluding that even major league level athletes do not automatically 
+meet the statutory standards for classification as an individual of "extraordinary ability,"); Visinscaia 
+v. Beers, 4 F. Supp. 3d 126, 131 (D.D.C. 2013) (internal quotation marks omitted) (finding that the 
+extraordinary ability designation is "extremely restrictive by design"); Hamal v. Dep 't ofHomeland 
+Sec., No. l 9-cv-2534, 2021 WL 2338316, at *5 (D.D.C. June 8, 2021 ), aff'd, 2023 WL 115680 I (D.C. 
+Cir. Jan. 31, 2023) ( determining that EB-1 visas are "reserved for a very small percentage of 
+prospective immigrants"); see also Hamal v. Dep 't of Homeland Sec., No. l 9-cv-2534, 2020 WL 
+2934954, at *1 (D.D.C. June 3, 2020) (citing Kazarian, 596 at 1122 (upholding denial of petition ofa 
+published theoretical physicist specializing in non-Einsteinian theories of gravitation) (stating that 
+"[ c ]ourts have found that even highly accomplished individuals fail to win this designation")); Lee v. 
+Ziglar, 237 F. Supp. 2d 914,918 (N.D. 2002) (finding that "arguably one of the most famous baseball 
+players in Korean history" did not qualify for visa as a baseball coach). 
+Here, the Petitioner has not shown a degree ofrecognition ofhis work that rises to the level of sustained 
+national or international acclaim and demonstrates a "career of acclaimed work in the field" as 
+contemplated by Congress. H.R. Rep. No. 101-723, 59 (Sept. 19, 1990); see also section 203(b)(l)(A) 
+of the Act. Moreover, the record does not otherwise demonstrate that the Petitioner is one of the small 
+percentage who has risen to the very top of the field of endeavor. See section 203(b )(l)(A) of the Act 
+and 8 C.F.R. § 204.5(h)(2). 
+The Petitioner has not demonstrated eligibility as an alien of extraordinary ability. We will therefore 
+dismiss the appeal. 
+ORDER: The appeal is dismissed. 
+NOTICE: This constitutes the final decision in this matter. The filing of a motion will not postpone 
+the effect of the decision. 8 C.F.R. § 103.5(a)(l)(iv). Aliens who are not lawfully present, or who are 
+otherwise inadmissible or deportable, may be subject to the commencement of removal proceedings 
+under section 240 ofthe Act through the issuance of a Form 1-862, Notice to Appear. Those proceedings 
+may result in their removal from the United States and possible ineligibility for future visas or other 
+immigration benefits. 
+3 

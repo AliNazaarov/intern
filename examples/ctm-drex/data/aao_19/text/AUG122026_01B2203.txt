@@ -1,0 +1,308 @@
+Non-Precedent Decision of the
+Administrative Appeals Office 
+U.S. Citizenship 
+and Immigration 
+Services 
+In Re: 43941022 Date: AUG. 12, 2026 
+Appeal of U.S. Citizenship and Immigration Services (USCIS) Decision 
+Form I-140, Immigrant Petition for Alien Workers (Extraordinary Ability) 
+The Petitioner is a computer engineer who seeks classification as an alien of extraordinary ability. See 
+Immigration and Nationality Act (the Act) section 203(b)(l)(A), 8 U.S.C. § 1153(b)(l)(A). This first 
+preference classification makes immigrant visas available to those who can demonstrate their 
+extraordinary ability through sustained national or international acclaim and whose achievements have 
+been recognized in their field through extensive documentation. 
+Through its Service Center Operations (SCOPS), USCIS denied the Form I-140, Immigrant Petition 
+for Alien Workers (petition), concluding the record did not establish that the Petitioner had received a 
+major, internationally recognized award, nor did he demonstrate that he met at least three of the ten 
+regulatory criteria. The matter is now before us on appeal under 8 C.F.R. § 103 .3. The Petitioner 
+bears the burden of proof to demonstrate eligibility by a preponderance of the evidence. Section 291 
+of the Act; Matter ofChawathe, 25 I&N Dec. 369,375 (AAO 2010). We review the questions in this 
+matter de novo. Matter of Christa's Inc., 26 I&N Dec. 537, 537 n.2 (AAO 2015). Upon de novo 
+review, we will dismiss the appeal. 
+I. LAW 
+To qualify under this immigrant classification, the statute requires the filing party demonstrate: 
+• The alien enjoys extraordinary ability in the sciences, arts, education, business, or athletics; 
+• They seek to enter the country to continue working in the area of extraordinary ability; and 
+• The alien's entry into the United States will substantially benefit the country in the future. 
+Section 203(b )(1 )(A)(i)-(iii) of the Act. The term "extraordinary ability" refers only to those in "that 
+small percentage who have risen to the very top of the field of endeavor." 8 C.F.R. § 204.5(h)(2). See 
+also H.R. Rep. 101-723, 59 (Sept. 19, 1990), reprinted in 1990 U.S.C.C.A.N. 6710, 1990 WL 200418 
+at *6739 (stating: "In short, admission under this category is to be reserved for that small percentage 
+of individuals who have risen to the very top of their field of endeavor."). 
+The implementing regulation at 8 C.F.R. § 204.5(h)(3) sets forth a multi-step analysis. In the first 
+step, a petitioner can demonstrate international recognition of his or her achievements in the field 
+through a one-time achievement (that is, a major, internationally recognized award). Ifthat petitioner 
+does not submit this evidence, then he or she must provide sufficient qualifying documentation that 
+meets at least three of the ten criteria listed at 8 C.F.R. § 204.5(h)(3)(i)-(x) (including items such as 
+awards, published material in certain media, and scholarly articles). 
+Where a petitioner meets these initial evidence requirements, we then move to the second step to 
+consider the totality of the material provided in a final merits determination and assess whether the 
+record shows sustained national or international acclaim and demonstrates that the individual is among 
+the small percentage at the very top of the field of endeavor. See Kazarian v. USCIS, 596 F.3d 1115, 
+1121 (9th Cir. 20 I 0) ( discussing a two-step review where the documentation is first counted and then, 
+if fulfilling the required number of criteria, considered in the context of a final merits determination); 
+see also Amin v. Mayorkas, 24 F.4th 383, 394 (5th Cir. 2022). 
+II. ANALYSIS 
+The Petitioner earned his Ph.D. in Electrical and Computer Engineering from a U.S. university in 2023 
+and since then has been working as a computer engineer for a U.S. semiconductor company. 
+A. Evidentiary Criteria 
+Because the Petitioner has not indicated or established that he has received a major, internationally 
+recognized award, he must satisfy at least three of the alternate regulatory criteria at 8 C.F.R. 
+§ 204.5(h)(3)(i)-(x). Before SCOPS, the Petitioner claimed he met three of the regulatory criteria. 
+SCOPS decided that the Petitioner satisfied the criteria relating to judging and the authorship of 
+scholarly articles but that he had not satisfied the contributions criterion. On appeal, the Petitioner 
+maintains that he meets that criterion. After reviewing all the evidence, we conclude the record does 
+not support the Petitioner's eligibility. 
+1. "Evidence of the alien's original scientific, scholarly, artistic, athletic, or business-related 
+contributions of major significance in the field." 8 C.F.R. § 204.5(h)(3)(v). 
+The primary requirements here are that the Petitioner's contributions in their field were original and 
+they rise to the level of major significance in the field, rather than to a project or to an organization. 
+See Amin, 24 F.4th at 394 (citing Visinscaia v. Beers, 4 F. Supp. 3d 126, 134 (D.D.C. 2013)). The 
+regulatory phrase "major significance" is not superfluous and, thus, it has some meaning. Nielsen v. 
+Preap, 586 U.S. 392, 415 (2019) (finding that every word and every provision is to be given effect 
+and none should needlessly be given an interpretation that causes it to duplicate another provision or 
+to have no consequence). Contributions of major significance connotes that the Petitioner's work has 
+significantly impacted the field. Further, the Petitioner's contributions must have already been 
+realized rather than being potential, future improvements. The Petitioner must submit evidence 
+satisfying all of these elements to meet the plain language requirements of this criterion. 
+SCOPS determined that the Petitioner did not meet the requirements of this criterion and we agree 
+with their ultimate determination. 
+2 
+The Petitioner alleges an error because SCOPS quoted from the initially offered support letters but not 
+from those he provided in the request for evidence response. But that is not an error and SCOPS is 
+not required to quote from any of the letters. The lack of recounting the precise language in a set of 
+support letters is not an indication that those letters were not considered. It is not erroneous that a 
+USCIS decision does not cite from each and every letter in support of a petition. Chen v. US. Dep 't 
+ofJustice, 471 F.3d 315,338 n.17 (2d Cir. 2006)); Yan Lan Wu v. Ashcroft, 393 F.3d 418, 424-25 (3d 
+Cir. 2005); Morales v. INS, 208 F.3d 323, 328 (1st Cir. 2000). Especially where SCOPS addressed 
+the contents of any claimed letter, they do not have to directly discuss every one of them. Amin, 24 
+F.4th at 394. 
+Considering the Petitioner's citation record, he questions how SCOPS treated his record by deciding 
+it individually did not show he met this criterion's requirements by itself as opposed how it fit into the 
+overall totality of the evidence under the preponderance of the evidence standard. First, under step 
+one (the regulatory criteria) the USCIS Policy Manual chapter covering this immigrant classification 
+discusses "the preponderance of the evidence standard" of proof and it does not expressly permit a 
+totality of the evidence analysis under any of the regulatory criteria at 8 C.F.R. § 204.5(h)(3)(i)-(x), 
+as opposed to mandating that methodology under the final merits determination. 
+In the event that an alien's individual contributions are inadequate to satisfy the requirements, USCIS 
+does not permit petitioners to cobble together the entirety of their life's work to aggregately qualify as 
+a contribution in the field. The Petitioner cannot transform this step one criterion into a mini-final 
+merits determination. But that appears to be what the Petitioner seeks to do here. Neither the 
+regulation nor any other authority allows an alien to effectively establish points system in which his 
+contribution may be added together to equal major significance. Instead, the regulatory question is 
+whether the evidence establishes original contributions that are of major significance in the field. 
+USCIS has repeatedly treated originality and major significance as substantive elements that must be 
+demonstrated rather than as characteristics that can be accumulated through quantity. That is an 
+important distinction because otherwise the term "major" loses much of its meaning. 1 Virtually any 
+productive researcher could assemble a lengthy list of ordinary or modest contributions and claim that 
+their aggregate quantity necessarily becomes "major." 
+Second, the preponderance standard of proof is the degree, or level, of proof demanded in a specific 
+case. We are ultimately deciding whether the petitioner's claims are sufficiently supported by relevant, 
+probative, and credible evidence. Matter ofChawathe, 25 I&N Dec. at 376 reiterated the longstanding 
+principle for the preponderance standard of proof. Here, the Petitioner failed to explain how SCOPS 
+held his evidence to a higher than the appropriate standard of proof. 
+And even if we set the above aside, in proposing this construct, the Petitioner doesn't expand on how 
+the assemblage of his contributions to the field should be collectively weighed in favor of satisfying 
+this criterion's major significance mandate. Because we find no error in SCOPS' analysis here, we are 
+not persuaded by the Petitioner's allegation. 
+1 A "regulation should be construed so that effect is given to all its provisions, so that no part of it will be inoperative or 
+superfluous, void or insignificant." Matter of Villarreal-Zuniga, 23 I&N Dec. 886, 889 (BIA 2006) ( quoting Matter ol 
+Masri, 22 I&N Dec. 1145, 1148 (BIA 1999)); Matter ofE-L-H-, 23 I&N Dec. 814, 823 (BIA 2005). 
+3 
+Viewing the Petitioner's citation record by itself, he claims SCOPS failed to follow the USCIS Policy 
+Manual's guidance "which notes that a petitioner's number of citations relative to others in the field 
+is a positive factor." He then provides a quote from the portion of the Policy Manual he deems 
+relevant: 
+USCIS determines whether the original contributions are of major significance to the 
+field. 
+Examples of relevant evidence include, but are not limited to: 
+• Published materials about the significance of the person's original work; 
+• Testimonials, letters, and affidavits about the person's original work; 
+• Documentation that the person's original work was cited at a level 
+indicative of major significance in the field; and 
+• Patents or licenses deriving from the person's work or evidence of 
+commercial use of the person's work. 
+For example, published research that has provoked widespread commentary on its 
+importance from others working in the field, and documentation that it has been highly 
+cited relative to others' work in that field, may be probative of the significance of the 
+person's contributions to the field of endeavor. 
+See generally 6 USCIS Policy Manual F.2(B)(l), https://www.uscis.gov/policymanual. The USCIS 
+Policy Manual doesn't speak of positive factors under this criterion. But in the event the Petitioner 
+was paraphrasing or correlating that to the following text, "may be probative ofthe significance of the 
+person's contributions to the field of endeavor," the policy requires more than simply having a good 
+number of citations as it mandates published material include two features; that has both "been highly 
+cited relative to others' work in that field" and that it "has provoked widespread commentary on its 
+importance from others working in the field." See generally 6 USCJS Policy Manual, supra, F.2(B)(l). 
+The Petitioner has not argued in the appeal that both elements are present here. 
+The Petitioner also points to what he characterizes as an unpublished 2010 decision from this office 
+that we will not address further other than to note that due to the age ofthe decision, it was adjudicated 
+without the two-step process USCIS has utilized since December of 2010. We also adjudicate each 
+case on a case-by-case basis considering the material in the record and the Petitioner hasn't 
+demonstrated the evidence and the facts from the cited case are similar to his. The regulation repeatedly 
+reflects that an eligibility determination on a benefit request will be based on information contained in the 
+record of proceeding. 8 C.F.R. § 103.2(b)(l0), (11), (14), (16)(i)-(ii). Each case must be decided on its 
+own facts with regard to the sufficiency ofthe evidence presented. See, e.g., Matter ofH-C-R-C-, 28 I&N 
+Dec. 809, 812 (BIA 2024). "[A] case-by-case determination [] is based on the specific facts and 
+circumstances of each individual case." Matter ofL-F-R-, 29 I&N Dec. 787, 792 (BIA 2026) ( emphasis 
+added). This 2010 material will not aid the Petitioner in this petition. 
+4 
+Then, the Petitioner turns to his claims of influence of his findings on other researchers' work. In his 
+first example, in the paper's paragraph the Petitioner identified, his work is cited one time among 18 
+other cites, and his work is only cited one time while some others were cited as many as three times. 
+It is not apparent that the Petitioner's work was as he claims: "a critical benchmark in advancing 
+circuit-integrated actuation and motion control for next-generation robots." 
+As it relates to the second example, the Petitioner received two citations to his work in a closing 
+paragraph that conveyed some newer ways of processing data. The paper mentioned that AI-based 
+methods and brain-inspired computing have been used in other flexible electronic systems but have 
+not yet been widely tested with a widely used semiconductor material for flexible electronics. The 
+authors theorized that using those methods could help the technology work more reliably and make it 
+easier to connect many sensors without needing as many wires or physical connections. Serving as a 
+possibility at the end ofthe material does not corroborate the Petitioner's characterization that his cited 
+work here "is highly influential and used as a foundation for their" article. Again, the two citations to 
+his work were among over 100 citations and he has not shown how the article's reliance on his work 
+was influential. 
+As the final example, the Petitioner characterizes the single citation to his work as demonstrating that 
+his "method provides an invaluable baseline for similar and adjacent research on the modeling and 
+control of intelligent piezoelectric soft robots." The supporting citation provided: "Piezoelectric 
+actuators are categorized into stack actuators and bending actuators, characterized by the diversity of 
+layers forming the actuator. The multilayers can either be double mounted or single-ended as a 
+cantilever" and it cited to the Petitioner's paper and another paper primarily to support the general 
+proposition that piezoelectric actuators-devices that tum electrical energy directly into mechanical 
+movements or physical force-are used in soft robotic systems, but not to establish a foundational 
+control method or a field-wide baseline. The article cites the Petitioner's work in the introductory 
+discussion immediately after explaining how the actuators can be set up in different ways. Then, it 
+uses the Petitioner's work to show that layers can be mounted in two ways: mounted on both sides, 
+or held on just one side like a shelf. The Petitioner has not established that this citation to his work 
+warrants substantial evidentiary value in these proceedings. 
+Next in the appeal, the Petitioner highlights three support letters and he asserts the authors benefitted 
+from his research. We can summarize them quickly as they simply indicate they placed some general 
+reliance on his research findings within their own work. But this brings us back to our above 
+discussion about the level ofinfluence a petitioner's work must have in the field to meet this criterion's 
+requirements. Agency policy requires that published material has "been highly cited relative to others' 
+work in that field," and that it "has provoked widespread commentary on its importance from others 
+working in the field." See generally 6 USCIS Policy Manual, supra, F.2(B)(l). 
+And as it relates to letters from experts in the field, they should explain "the nature and significance 
+of the person's contribution" and "specifically describe the person's contribution and its significance 
+to the field." Id. While these letters may exhibit general reliance on the Petitioner's findings in their 
+work or reflect that these individuals built upon the Petitioner's work in their own research, they do 
+not show the significance of his research in the overall field beyond their own research and written 
+findings. Such a showing of incremental progress to the common repository of knowledge does not 
+demonstrate that his work has "provoked widespread commentary on its importance from others 
+5 
+working in the field." Agrawal v. Miller, No. 4:24CV3143, 2025 WL 2879217, at *20 (D. Neb. Sept. 
+12, 2025) (upholding that it must be objectively demonstrated that the field considers the work to be 
+majorly significant); Visinscaia, 4 F. Supp. 3d at 134 ("[T]he regulatory requirement that the petitioner 
+demonstrate the 'major significance' of any original contributions means that the petitioner's work 
+must significantly affect [his] field of endeavor"). 
+The remainder ofthe Petitioner's appellate claims relate to his citations, funding, and peer review. For 
+his citation record, the Petitioner notes his collective number of citations for all of his work, as well 
+as how the citations to one of his papers in 2024 placed him in the top percent of most cited articles in 
+engineering for that year. His arguments regarding the collective or total number of citations to his 
+published work fails to meet this criterion's requirements. In general, the comparison of a petitioner's 
+cumulative citations to those of others in the field in an attempt to draw a conclusion of their 
+comparative impact in the field, is often more appropriate within a final merits determination after 
+they have satisfied at least three regulatory criteria. Such a comparison may assist in determining 
+whether the record shows sustained national or international acclaim and demonstrates that they are 
+among the small percentage at the very top ofthe field ofendeavor. We view a comparison ofcitations 
+to individual scientific articles to be more relevant for this criterion in order to establish the overall 
+field's general view of a contribution of major significance. See generally 6 USCIS Policy Manual, 
+supra, F.2(B)(l ). 
+Turning to his individual published work in 2024, he notes his 1 7 citations place him in the top 10 
+percent most cited articles in the engineering field for that year with the average number of cites at 
+2.78. The comparative ranking the Petitioner presents to baseline or average citation rates does not 
+automatically establish majorly significant contributions in the field. For example, according to the 
+data from Clarivate Analytics, engineering papers published in 2024 receiving seven citations were in 
+the top ten percent, and 24 citations were in the top one percent. The Petitioner has not demonstrated 
+that papers with such citation counts have necessarily had a major, significant impact or influence in 
+the field as evidenced by being among the top percentage of most highly cited articles according to 
+year of publication. 
+The issue for this criterion is whether the Petitioner has made original contributions of major 
+significance in the field rather than where his citation rates rank among the averages of others in his 
+field. A more appropriate analysis, for example, would be to compare the Petitioner's citations to 
+other similarly, highly cited articles that the field views as having been of major significance, as well 
+as factoring in other corroborating evidence. The Petitioner has not demonstrated, as he asserts, that 
+his articles at the time of filing, using the methodology found in the Clarivate Analytics evidence 
+through citation numbers and percentiles, resulted in original contributions of major significance in 
+the field. We also note that the Petitioner's documentation from Clarivate Analytics reflects that 
+"[ c ]itation frequency is highly skewed, with many infrequently cited papers and relatively few highly 
+cited papers. Consequently, citation rates should not be interpreted as representing the central 
+tendency of the distribution." Stated differently, the Petitioner did not sufficiently show the reliability 
+of these figures. 
+The Petitioner also places substantial weight on the funding received for some of his research. We 
+distinguish between evidence that research was sufficiently meritorious to attract funding versus 
+evidence that the work actually resulted in a contribution of major significance in the field. The fact 
+6 
+that some entity elected to support research may demonstrate that the work was considered 
+worthwhile, original, or potentially useful. But without more it does not establish the subsequent 
+impact in the Petitioner's field. Research ordinarily must offer some new or useful information to 
+obtain funding or other scholarly attention, but it does not follow that every researcher whose work 
+adds to the general pool of knowledge has also made a contribution of major significance. 
+Agency policy further speaks to the issue of funding: "Evidence that the person's work was funded, 
+patented, or published, while potentially demonstrating the work's originality, will not necessarily 
+establish, on its own, that the work is ofmajor significance to the field." See generally 6 USCIS Policy 
+Manual, supra, at F.2(B)(l). 
+The burden is on the Petitioner to provide adequate evidence to support his claims. And we note that 
+funding is most probative when the record connects the funding to demonstrated field-wide 
+consequences. For instance, evidence that the funded work was subsequently adopted, was widely 
+implemented, it materially influenced other researchers or practitioners, or otherwise produced a 
+measurable impact beyond the funding institution. In his appeal, the Petitioner has not even explained 
+how the funded projects resulted in any measurable impact in the broader field. Absent that type of 
+evidence, funding establishes at best that an institution or sponsor considered the research sufficiently 
+promising or meritorious to warrant investment. But it does not illustrate that the research ultimately 
+achieved the level of major significance in the field that the regulation here requires. 
+And finally, the Petitioner identifies his peer review service for distinguished or reputable journals as 
+evidence under this criterion. We agree that his service for the listed journals may reflect his expertise 
+and professional recognition. But we do not agree that those factors demonstrate selection for peer 
+review even amounts to a contribution to the field, let alone one of major significance. Performing 
+peer review is almost exclusively an evaluative process rather than reflecting some level of creativity 
+or innovation. And even if we were to agree that peer review was more than an evaluative 
+process-which we do not outside of some exceptional set of circumstances-it is the filing party's 
+responsibility to demonstrate their service was more than just a contribution. They also must show 
+the degree to which that contribution impacted the field, and that it was significant. 
+Lacking is an indication that to be selected to perform peer review for the relevant journals and 
+conferences, one must have received a reaction from colleagues that would be viewed as a major 
+significance in the field. To sum up, while performing peer review may highlight an individual's 
+professional standing, it does not meet the standard for demonstrating original contributions of major 
+significance in the field. 
+Accordingly, the Petitioner has not established that he made original contributions of major 
+significance in the field. The record shows that his work has received some citations, funding, peer 
+review opportunities, and garnered favorable support letters, but this evidence does not demonstrate 
+that his contributions significantly affected the field as a whole. Rather, the evidence reflects 
+respectable scholarly activity, incremental research progress, and limited reliance by other researchers. 
+Because the Petitioner has not shown that his work provoked widespread commentary, was broadly 
+adopted, materially influenced the field, or otherwise rose to the level of major significance, he has 
+not satisfied this criterion. 
+7 
+III. CONCLUSION 
+Congress set a very high benchmark for aliens of extraordinary ability by requiring the petitioner 
+demonstrate "sustained national or international acclaim" and present "extensive documentation" to 
+show his or her achievements have been recognized in the field. Section 203(b)(1 )(A)(i) of the 
+Act. Because the Petitioner has not satisfied the threshold "initial evidence" requirements at 8 C.F.R. 
+§ 204.5(h)(3), we cannot conclude that he is an alien of extraordinary ability and we need not further 
+analyze the merits under the statute. See Kazarian, 596 F.3d at 1119-20; see also Nagaiah v. Allen, 
+784 F. Supp. 3d 798, 814 (E.D. Pa. 2025) (finding the regulatory criteria at 8 C.F.R. § 204.5(h)(3)(i)­
+(x) "establishes a necessary, not sufficient, evidentiary requirement for a petitioner who seeks an 
+extraordinary ability visa."). 
+Therefore, we decline to reach and hereby reserve any final merits determination in this matter. Patel 
+v. Garland, 596 U.S. 328, 332 (2022) ( citing INS v. Bagamasbad, 429 U.S. 24, 25-26 (1976) (finding 
+agencies are not required to make "purely advisory findings" on issues that are unnecessary to the 
+ultimate decision)). 
+The two-step adjudication process is an interpretive rule that does not violate the Administrative 
+Procedure Act, nor is it a legislative rule. Taneja v. USCIS, No. 24-CV-05657 (RER), 2026 WL 
+1734266, at *8 (E.D.N.Y. June 16, 2026); Nagaiah, 784 F. Supp. 3d at 810; Agrawal, 2025 WL 
+2879217, at *12; Etsy, Inc. v. Jaddou, No. 4:22CV3022, 2023 WL 3689555, at *23 (D. Neb. May 25, 
+2023) (citing Perez v. Mortg. Bankers Ass 'n, 575 U.S. 92, 96 (2015). This approach is rooted in an 
+exhaustive historical review of the congressional record, the governing statutory language, and the 
+comprehensive regulatory scheme intended to ensure only those at the very top of their field receive 
+this classification. 
+For the reasons discussed above, the Petitioner has not demonstrated his eligibility as an alien of 
+extraordinary ability. The appeal will be dismissed for the above stated reasons, with each considered 
+as an independent and alternate basis for the decision. 
+ORDER: The appeal is dismissed. 
+NOTICE: This constitutes the final decision in this matter. The filing of a motion will not postpone the 
+effect of the decision. 8 C.F.R. § 103.5(a)(l )(iv). Aliens who are not lawfully present, or who are 
+otherwise inadmissible or deportable, may be subject to the commencement of removal proceedings 
+under section 240 ofthe Act through the issuance of a Form I-862, Notice to Appear. Those proceedings 
+may result in their removal from the United States and possible ineligibility for future visas or other 
+immigration benefits. 
+8 

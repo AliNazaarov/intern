@@ -1,0 +1,85 @@
+Non-Precedent Decision of the
+Administrative Appeals Office 
+U.S. Citizenship 
+and Immigration 
+Services 
+In Re: 43582844 Date: AUG. 11, 2026 
+Appeal of U.S. Citizenship and Immigration Services (USCIS) Decision 
+Form I-140, Immigrant Petition for Alien Workers (Extraordinary Ability) 
+The Petitioner, a software developer, seeks classification as an alien of extraordinary ability. See 
+Immigration and Nationality Act (the Act) section 203(b)(l)(A), 8 U.S.C. § l 153(b)(l)(A). This first 
+preference classification makes immigrant visas available to those who can demonstrate their 
+extraordinary ability through sustained national or international acclaim and whose achievements have 
+been recognized in their field through extensive documentation. 
+USCIS denied the petition, concluding that the record did not establish that the Petitioner bad a major, 
+internationally recognized award, nor did it demonstrate that he met at least three of the ten regulatory 
+criteria listed at 8 C.F.R. § 204.5(h)(3)(i) - (x). The matter is now before us on appeal pursuant to 
+8 C.F.R. § 103.3. 
+The Petitioner bears the burden ofproof to demonstrate eligibility by a preponderance ofthe evidence. 
+Matter afChawathe, 25 I&N Dec. 369, 375-76 (AAO 2010). We review the questions in this matter 
+de novo. Matter a/Christa's, Inc., 26 I&N Dec. 537, 537 n.2 (AAO 2015). Upon de novo review, 
+we will withdraw USCIS' decision and remand the matter for entry of a new decision consistent with 
+the following analysis. 
+Section 203(b )( I )(A) of the Act makes visas available to immigrants with extraordinary ability if: 
+(i) the alien has extraordinary ability in the sciences, arts, education, business, or 
+athletics which has been demonstrated by sustained national or international 
+acclaim and whose achievements have been recognized in the field through 
+extensive documentation, 
+(ii) the alien seeks to enter the United States to continue work in the area of 
+extraordinary ability, and 
+(iii) the alien's entry into the United States will substantially benefit prospectively 
+the United States. 
+The term "extraordinary ability" refers only to those individuals in "that small percentage who have 
+risen to the very top of the field of endeavor." 8 C.F.R. § 204.5(h)(2). The implementing regulation 
+at 8 C.F.R. § 204.5(h)(3) sets forth two options for satisfying this classification's initial evidence 
+requirements. First, a petitioner can demonstrate a one-time achievement (that is, a major, 
+internationally recognized award). Ifthat petitioner does not submit this evidence, then he or she must 
+provide documentation that meets at least three of the ten categories listed at 8 C.F.R. 
+§ 204.5(h)(3)(i) - (x) (including items such as awards, published material in certain media, and 
+scholarly articles). The regulation at 8 C.F.R. § 204.5(h)(4) allows a petitioner to submit comparable 
+material if he or she is able to demonstrate that the standards at 8 C.F.R. § 204.5(h)(3)(i)-(x) do not 
+readily apply to the individual's occupation. 
+Where a petitioner meets these initial evidence requirements, we then consider the totality of the 
+material provided in a final merits determination and assess whether the record shows sustained 
+national or international acclaim and demonstrates that the individual is among the small percentage 
+at the very top of the field of endeavor. See Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010) 
+( discussing a two-part review where the documentation is first counted and then, if fulfilling the 
+required number of criteria, considered in the context of a final merits determination); see also 
+Visinscaia v. Beers, 4 F. Supp. 3d 126, 131-32 (D.D.C. 2013); Rijal v. USCIS, 772 F. Supp. 2d 1339 
+(W.D. Wash. 2011). This two-step analysis is consistent with our holding that the "truth is to be 
+determined not by the quantity of evidence alone but by its quality," as well as the principle that we 
+examine "each piece of evidence for relevance, probative value, and credibility, both individually and 
+within the context ofthe totality ofthe evidence, to determine whether the fact to be proven is probably 
+true." Matter ofChawathe, 25 I&N Dec. at 376. 
+The Petitioner plans to continue to work in the field ofcloud computing and microservice architecture. 
+Because the Petitioner has not indicated or established that he received a major, internationally 
+recognized award, he must establish at least three of the alternate regulatory criteria at 
+8 C.F.R. § 204.5(h)(3)(i)-(x). The Petitioner initially claimed four criteria relating to awards,judging, 
+original contributions, and leading or critical role. USCIS determined he satisfied three of the four 
+criteria and proceeded to do a final merits determination. USCIS concluded that the Petitioner did not 
+establish that he has sustained national or international acclaim and is among the small percentage at 
+the very top of his field. 
+On appeal, the Petitioner contends USCIS mischaracterized his work and repeatedly relied on factors 
+he did not claim to deny his petition. He asserts that these fundamental errors "influenced the overall 
+direction of the adjudication and the final decision reached." He also maintains that the evidence was 
+sufficient to demonstrate his eligibility for the requested classification. 
+Upon review, we observe that USCIS incorrectly stated that the Petitioner "intends to work as a 
+Scientific Researcher in the field of microbiology, soil, and water conservation" and that he has 
+"distinguished himself as a Statistical Programming/Researcher." In addition, USCIS stated that the 
+Petitioner "presented evidence that he published scholarly articles" but the Petitioner did not provide 
+such evidence and did not claim the criterion relating to scholarly articles. We therefore agree with 
+the Petitioner that USCIS' decision contains sufficient errors to warrant a remand. 
+2 
+Here, users' errors deprived the Petitioner of a fair opportunity to appeal the denial and inhibit our 
+ability to meaningfully review the denial on appeal. An officer must folly explain the reasons for 
+denying a visa petition to allow the Petitioner a fair opportunity to contest the decision and to allow 
+us an opportunity for meaningful appellate review. See 8 e.F.R. § 103.3(a)(i); see also Matter ofM­
+P-, 20 I&N Dec. 786 (BIA 1994) (finding that a decision must folly explain the reasons for denying a 
+motion to allow the respondent a meaningful opportunity to challenge the determination on appeal). 
+Therefore, we will withdraw the decision based on this deficiency. On remand, users should review 
+the entire record and determine the Petitioner's eligibility under the two-step analysis. users may 
+request any additional evidence considered pertinent to the new determination. As such, we express 
+no opinion regarding the ultimate resolution of this case on remand. 
+ORDER: The decision is withdrawn. The matter is remanded for the entry of a new decision 
+consistent with the foregoing analysis. 
+3 

@@ -1,0 +1,180 @@
+Non-Precedent Decision of the
+Administrative Appeals Office 
+U.S. Citizenship 
+and Immigration 
+Services 
+In Re: 40289198 Date: FEB. 11 , 2026 
+Appeal of Service Center Operations Decision 
+Form 1-140, Immigrant Petition for Alien Workers (Extraordinary Ability) 
+The Petitioner, a cloud engineer, seeks classification as an alien of extraordinary ability. See 
+Immigration and Nationality Act (the Act) section 203(b)(l)(A), 8 U.S.C. § l 153(b)(l)(A). This first 
+preference classification makes immigrant visas available to those who can demonstrate their 
+extraordinary ability through sustained national or international acclaim and whose achievements have 
+been recognized in their field through extensive documentation. 
+Service Center Operations (SCOPS) denied the petition, concluding the Petitioner satisfied the initial 
+evidentiary requirements for this classification but did not establish, as required, that she has sustained 
+national or international acclaim and is among the small percentage at the very top of her field. The 
+matter is now before us on appeal. 8 C.F.R. § 103.3. 
+The Petitioner bears the burden ofproof to demonstrate eligibility by a preponderance ofthe evidence. 
+Matter afChawathe, 25 l&N Dec. 369, 375-76 (AAO 2010). We review the questions in this matter 
+de novo. Matter a/Christa's, Inc., 26 I&N Dec. 537, 537 n.2 (AAO 2015). Upon de novo review, 
+we will withdraw SCOPS' decision and remand the matter for the entry of a new decision consistent 
+with the foregoing analysis. 
+I. LAW 
+Section 203(b)(l)(A) of the Act makes visas available to immigrants with extraordinary ability if: 
+(i) the alien has extraordinary ability in the sciences, arts, education, business, or 
+athletics which has been demonstrated by sustained national or international 
+acclaim and whose achievements have been recognized in the field through 
+extensive documentation, 
+(ii) the alien seeks to enter the United States to continue to work in the area of 
+extraordinary ability, and 
+(iii) the alien's entry into the United States will substantially benefit prospectively the 
+United States. 
+The term "extraordinary ability" refers only to those individuals in "that small percentage who have 
+risen to the very top of the field of endeavor." 8 C.F.R. § 204.5(h)(2). The implementing regulation 
+at 8 C.F.R. § 204.5(h)(3) sets forth two options for satisfying this classification's initial evidence 
+requirements. First, a petitioner can demonstrate a one-time achievement (that is, a major, 
+internationally recognized award). Ifthat petitioner does not submit this evidence, then he or she must 
+provide documentation that meets at least three of the ten categories listed at 8 C.F.R. 
+§ 204.5(h)(3)(i) - (x) (including items such as awards, published material in certain media, and 
+scholarly articles). The regulation at 8 C.F.R. § 204.5(h)(4) allows a petitioner to submit comparable 
+material if he or she is able to demonstrate that the standards at 8 C.F.R. § 204.5(h)(3)(i)-(x) do not 
+readily apply to the individual's occupation. 
+Where a petitioner meets these initial evidence requirements, we then consider the totality of the 
+material provided in a final merits determination and assess whether the record shows sustained 
+national or international acclaim and demonstrates that the individual is among the small percentage 
+at the very top of the field of endeavor. See Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010) 
+( discussing a two-part review where the documentation is first counted and then, if fulfilling the 
+required number of criteria, considered in the context of a final merits determination); see also 
+Visinscaia v. Beers, 4 F. Supp. 3d 126, 131-32 (D.D.C. 2013); Rijal v. USCIS, 772 F. Supp. 2d 1339 
+(W.D. Wash. 2011). This two-step analysis is consistent with our holding that the "truth is to be 
+determined not by the quantity of evidence alone but by its quality," as well as the principle that we 
+examine "each piece of evidence for relevance, probative value, and credibility, both individually and 
+within the context ofthe totality ofthe evidence, to determine whether the fact to be proven is probably 
+true." Matter ofChawathe, 25 I&N Dec. at 376. 
+II. ANALYSIS 
+The Petitioner is a cloud engineer specializing in supply chain management, cloud computing, and 
+operational organization. She has a master's degree in engineering management frortj 
+I I The Petitioner plans to advance cloud infrastructure an._d_s_u_p_p-ly-ch_a_i_n_. 
+innovation in the United States. 
+Because the Petitioner has not indicated or established that she received a major, internationally 
+recognized award, she must satisfy at least three of the alternate regulatory criteria at 
+8 C.F.R. § 204.5(h)(3)(i)-(x). The Petitioner initially claimed and submitted evidence to satisfy the 
+criteria relating to awards, published materials, judging, contributions, leading or critical role, and 
+salary. Without analysis, SCOPS determined the Petitioner satisfied three of the ten criteria listed in 
+the regulations relating to published material, leading or critical role, and high salary. SCOPS then 
+proceeded to do a final merits determination and found insufficient evidence of sustained acclaim and 
+recognized accomplishments to place the Petitioner among the small percentage at her field's very 
+top. On appeal, the Petitioner contends SCOPS failed "to account for the weight, context, and 
+probative value of the evidence presented in the record." Upon de novo review, we conclude that the 
+record does not establish that the Petitioner meets three of the ten criteria. Specifically, we disagree 
+with SCOPS regarding published material and high salary. 1 
+1 While we do not discuss each piece of evidence individually, we have reviewed and considered the record in its entirety. 
+2 
+A. Published materials 
+The regulation at 8 C.F.R. § 204.5(h)(3)(iii) requires "[p]ublished material about the alien in 
+professional or major trade publications or other major media, relating to the alien's work in the field 
+for which classification is sought." These materials must include "the title, date, and author of the 
+material, and any necessary translation." Id. The published material should be about the alien and 
+their work, rather than the alien's employer and its work (or about an organization and its work). 
+Professional or major trade publications may be identified by their intended audience, while other 
+major media and major trade publications should have elevated circulation or readership relative to 
+other media in the field. See generally 6 USCIS Policy Manual at F.2(B)(l ). 
+In support, the Petitioner provided an article from The Nation, along with a Similarweb printout. The 
+Similarweb printout indicates "Total visits" of 1.404 million from August 2024 to October 2024. 
+However, the Petitioner has not explained how this statistic supports a determination that The Nation 
+qualifies as "major media" by having a high circulation or distribution relative to other online 
+publications. Evidence of published material in major media publications about the Petitioner should 
+establish that the circulation (online or in print) or viewership is high compared to other statistics and 
+identify the intended audience. Id. Here, the record does not contextualize those statistics, indicate 
+their significance, or elaborate on how that information could establish that the website is the type of 
+major media contemplated by 8 C.F.R. § 204.5(h)(3)(iii). Moreover, given the lack of information 
+regarding the intended audience of The Nation, the record does not establish that it is a professional 
+or trade publication. 
+In addition, the Petitioner provided a press release from Marquis Who's Who, along with a published 
+interview with the editor of Who's Who and an article about the 60th edition of Who's Who in The 
+New York Times. First, the press release does not include the author ofthe material as required. Kumar 
+v. Dir. ofUS. Citizenship & Immigr. Servs., No. CV RDB-23-2251, 2024 WL 1374794, at *5 (D. Md. 
+Apr. 1, 2024) (upholding plaintiff's evidence did not include the required title, date, or author). 
+Second, as the article is labeled as a "press release," it indicates that an unnamed third party submitted 
+the article for publication. The origin of the article is material to this proceeding because promotional 
+or marketing materials are not generally considered to be published material about the person. This 
+includes seemingly objective content about the person in major print publications that the person or 
+the person's employer paid for. See generally 6 USCIS Policy Manual at F.2(B)(l). While the article 
+is identified as a press release, the Petitioner has not identified the source of that press release, which 
+undermines the value of the article. 
+We therefore withdraw SCOPS' finding that the Petitioner satisfied this criterion. 
+B. Salary 
+As for the regulation at 8 C.F.R. § 204.5(h)(3)(iii), it calls for "evidence that the alien has commanded 
+a high salary or other significantly high remuneration for services, in relation to others in the field." 
+A credible employment contract or job offer may establish that an alien "has commanded" such salary 
+or remuneration, as may evidence of past earnings such as tax returns and pay statements. 
+Comparative wage or remuneration data that is appropriate for the alien's occupation and location 
+3 
+should be submitted to establish that their compensation is high relative to others working in the field. 
+See generally 6 USCIS Policy Manual F.2(B)(l). 
+In support, the Petitioner provided a document entitled "Total Rewards" as of August 2024 showing 
+that her base salary as a senior product manager withl Iis $177,000. It also shows non­
+guaranteed compensation such as a sign-on bonus of $30,000; stocks value at $24,000; and benefits 
+totaling $24,839. In addition, the Petitioner submitted her 2023 W-2 and Earnings Summary showing 
+$253,387.92 under "Wages, tips, other comp." and $160,200 under "Social security wages," along 
+with two copies of her Earnings Statements from November 2024 that shows her bi-weekly base rate 
+as $7458.33 or $193,916 annually. The Petitioner's work location is i~.____ ____.~exas. 
+The Petitioner also provided the Bureau of Labor Statistics (BLS) Occupational Employment and 
+Wage Statistics (OEWS) data in 2023 which indicates the "annual mean wage" for engineers, all other 
+in Texas was $116,750. Moreover, the Petitioner submitted data from Talent.com, which indicates 
+that the "Senior Product Engineer average salary in the USA, 2024" is $145,111 per year and "most 
+experienced workers make up to $192,676 per year." 
+First, the Petitioner has not established that her cloud engineer position falls under the occupational 
+category of engineers, all others, or that it is the same or similar to senior product engineers. Second, 
+the mean salary information for Texas from the OEWS is for a 2023 statewide survey of engineers, all 
+other in all settings (i.e., architectural, scientific research, and management), as well as across 
+geographic areas, both major metropolitan areas and those that are not. Moreover, the data from 
+Talent.com does not provide salary data for the area where the Petitioner works. Without more, such 
+general information is insufficient to establish that she meets this criterion. 
+Here, the Petitioner has not provided sufficient evidence that would allow a comparis~en her 
+total remuneration and that ofother similarly employed workers in her geographic area,L__JTexas. 
+Both precedent and case law support this application of 8 C.F.R. § 204.5(h)(3)(ix). See Matter of 
+Price, 20 I&N Dec. 953, 954 (Assoc. Comm'r 1994) ( considering a professional golfer's earnings 
+versus other PGA Tour golfers); see also Skokos v. US. Dept. ofHomeland Sec., 420 F. App'x 712, 
+713-14 (9th Cir. 2011) (finding salary information for those performing lesser duties is not a 
+comparison to others in the field); Crimson v. INS, 934 F. Supp. 965,968 (N.D. Ill. 1996) (considering 
+NHL enforcer's salary versus other NHL enforcers); Muni v. INS, 891 F. Supp. 440, 444-45 (N. D. Ill. 
+1995) ( comparing salary of NHL defensive player to salary of other NHL defensemen). 
+Therefore, we also withdraw SCOPS' finding that the Petitioner satisfied this criterion. 
+As the record does not establish that the Petitioner meets three ofthe ten regulatory criteria and SCOPS 
+did not address the Petitioner's other claimed criteria, we will remand the matter. SCOPS should 
+consider all of the evidence submitted in support of the claimed criteria and specifically address its 
+deficiencies and inconsistencies. 
+For example, regarding the regulation at 8 C.F.R. § 204.5(h)(3)(i), the Petitioner asserts eligibility for 
+this criterion based on her Global Recognition Award and the Gartner's Global Supply Chain Top 25 
+awarded to her former employer for rising to number four in the supply chain rankings. In support, 
+the Petitioner submitted information about the awards including media articles and criteria. Notably, 
+4 
+the record lacks evidence regarding relative circulation or readership information about the 
+publications to demonstrate that the awards are nationally or internationally recognized. SCOPS 
+should determine whether the Petitioner has established that she received nationally and 
+internationally recognized awards based upon excellence in her field. 
+Moreover, under the regulation at 8 C.F.R. § 204.5(h)(3)(iv), the Petitioner provided an email 
+invitation and a certificate of appreciation from the Globee Awards. SCOPS should determine if this 
+evidence demonstrates that the Petitioner participated in the judging "ofthe work ofothers in the same 
+or an allied field of specification." See generally 6 USCIS Policy Manual F.2(8)(1 ). 
+Finally, to establish original contribution criterion at 8 C.F.R. § 204.5(h)(3)(v), the Petitioner 
+submitted emails discussing various supply chain initiatives and projects for data centers that list the 
+Petitioner as a contributor along with several other individuals. She also submitted articles about her 
+former employer's artificial intelligence initiatives. Notably, the articles do not mention the Petitioner. 
+SCOPS should determine if the evidence shows that the Petitioner has made original contributions of 
+major significance in the field. 
+III. CONCLUSION 
+If SCOPS determines the Petitioner satisfies three of the ten criteria listed in the regulations, SCOPS 
+should conduct a final merits determination of the totality of the evidence (including the Petitioner's 
+claims on appeal). We observe that SCOPS did not consider all of the evidence together under the 
+final merits determination. The new decision should include an analysis of the totality of the evidence 
+evaluating whether the Petitioner has demonstrated, by a preponderance of the evidence, her sustained 
+national or international acclaim, her status as one of the small percentage at the very top of her field 
+of endeavor, and that her achievements have been recognized in the field through extensive 
+documentation. See section 203(b)(l)(A)(i) of the Act; 8 C.F.R. § 204.5(h)(2), (3); see also Kazarian, 
+596 F.3d at 1119-20. 
+ORDER: SCOPS' decision is withdrawn. The matter is remanded for the entry of a new decision 
+consistent with the foregoing analysis. 
+5 

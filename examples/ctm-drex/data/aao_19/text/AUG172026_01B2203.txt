@@ -1,0 +1,241 @@
+Non-Precedent Decision of the
+Administrative Appeals Office 
+U.S. Citizenship 
+and Immigration 
+Services 
+In Re: 40777936 Date: AUG. 17, 2026 
+Appeal of U.S. Citizenship and Immigration Services (USCIS) Decision 
+Form I-140, Immigrant Petition for Alien Workers (Extraordinary Ability) 
+The Petitioner, a doctoral (Ph.D.) student and a research assistant in the field of agriculture water 
+management, seeks classification under the employment-based, fust-preference (EB-I) immigrant 
+visa category as an alien with "extraordinary ability." See Immigration and Nationality Act (the Act) 
+section 203(b)(l)(A), 8 U.S.C. § l 153(b)(l)(A). This EB-1 classification makes immigrant visas 
+available to those who can demonstrate their extraordinary ability through sustained national or 
+international acclaim and whose achievements have been recognized in their field through extensive 
+documentation. Section 203(b)(l)(A)(i) of the Act. 
+USCIS denied the petition, concluding that the record did not establish that the Petitioner had satisfied 
+at least three of ten initial evidentiary criteria, as required. The matter is now before us on appeal 
+pursuant to 8 C.F.R. § 103 .3. 
+The Petitioner bears the burden ofproof to demonstrate eligibility by a preponderance of the evidence. 
+Matter ofChawathe, 25 I&N Dec. 369, 375-76 (AAO 2010). We review the questions in this matter 
+de novo. Matter of Christa 's, Inc., 26 I&N Dec. 537,537 n.2 (AAO 2015). Upon de novo review, 
+we will dismiss the appeal. 
+I. LAW 
+To qualify for this immigrant visa category, petitioners must demonstrate that they: 
+• Have "extraordinary ability in the sciences, arts, education, 
+business, or athletics"; 
+• Seek to continue work in their field of expertise in the United States; and 
+• Would substantially benefit the United States as an immigrant. 
+Section 203(b)(l)(A)(i)-(iii) of the Act. 
+The term "extraordinary ability" means expertise commensurate with "one that small percentage who 
+have risen to the very top of the field of endeavor." 8 C.F.R. § 204.5(h)(2). Unless a petitioner can 
+demonstrate international recognition of his or her achievements in the field through a one-time 
+achievement (that is, a major, internationally recognized award), be or she must provide sufficient 
+qualifying documentation that meets at least three ofthe ten lesser evidentiary criteria listed at 8 C.F.R. 
+§ 204.5(h)(3)(i)-(x). The regulation at 8 C.F.R. § 204.5(h)(4) allows a petitioner to submit comparable 
+evidence if he or she is able to demonstrate that the standards at 8 C.F.R. § 204.5(h)(3)(i)-(x) do not 
+readily apply to the individual's occupation. 
+If a petitioner meets these initial evidence requirements, USCIS must then consider the totality of the 
+material provided in a final merits determination and assess whether the record shows sustained 
+national or international acclaim and demonstrates that the individual is among the small percentage 
+at the very top of the field of endeavor. See Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010) 
+( discussing a two-part review where the documentation is first counted and then, if fulfilling the 
+required number of criteria, considered in the context of a final merits determination); see also Amin 
+v. Mayorkas, 24 F.4th 383,391 (5th Cir. 2022) (finding USCIS' two-step extraordinary ability analysis 
+"consistent with the governing statute and regulation"); see generally 6 USCIS Policy Manual F.2(B), 
+www.uscis.gov/policy-manual. 
+II. ANALYSIS 
+.______________.The Petitioner is a Ph.D. student and a research assistant at in the 
+Department of._____________. According to her supervisor, Dr. M-Y-, the Petitioner's 
+research involves "improving agricultural practices in Utah to benefit thel !ecosystem and 
+developing advanced methods to optimize network metering in water scarcity scenarios." The record 
+shows that the Petitioner obtained a doctorate degree in irrigation and drainage from I I
+I !University, Iran, in 2019, and completed her master's and bachelor's degrees in irrigation 
+and drainage engineering in Iran. 
+Because the Petitioner has not indicated or shown that she received a major, internationally recognized 
+award, she must satisfy at least three ofthe alternate regulatory criteria at 8 C.F.R. § 204.5(h)(3)(i)-(x). 
+The Petitioner claimed that she meets three of these criteria, but USCIS concluded that the Petitioner 
+only satisfied two criteria at 8 C.F.R. § 204.5(h)(3)(iv) (participation as a judge of others' work in the 
+field) and at 8 C.F.R. § 204.5(h)(3)(vi) (authorship of scholarly articles). On appeal, the Petitioner 
+asserts that she also meets the third criterion at 8 C.F.R. § 204.5(h)(3)(v) relating to original 
+contributions of major significance in the field and that USCIS ignored the documents submitted to 
+satisfy this criterion. 
+Upon de novo review, we concur with USCIS' determination. We find that there is ample evidence 
+in the record of the Petitioner's authorship of scholarly articles and service as a peer reviewer for 
+scientific journals to satisfy the two criteria at 8 C.F.R. § 204.5(h)(3)(iv) and (vi), but the Petitioner 
+has not established that she meets the third criterion at 8 C.F.R. § 204.5(h)(3)(v), as discussed below. 
+The criterion at 8 C.F.R. § 204.5(h)(3)(v) requires "[e]vidence of the alien's original scientific, 
+scholarly, artistic, athletic, or business-related contributions of major significance in the field." For 
+this criterion, the Petitioner must establish that not only has she made original contributions but that 
+they have been of major significance in the field. See generally 6 USCIS Policy Manual, supra, at 
+F.2(B)(l), Criterion 5. For example, a petitioner may show that his or her contributions have been 
+widely implemented throughout the field, or have otherwise risen to a level of major significance in 
+the field. See Amin v. Mayorkas, 24 F.4th 383, 394 (5th Cir. 2022) (providing for a petitioner's 
+2 
+contributions to be "of major significance," evidence must demonstrate that his or her work has been 
+widely adopted or replicated by unaffiliated industry actors). 
+The Petitioner claimed that the following four research projects (and subsequent research papers) are 
+her original contributions of major significance in the field of agriculture water management: 
+• Analyzing farming-based water consumption in the ....l ____.....lin Iran for conflict resolution 
+on groundwater extraction (i.e., evaluating the economic and environmental impacts of 
+cropping patterns through system dynamics); 
+• Determining the water needs ofbarley by studying the evapotranspiration 1 properties ofbarley 
+and ensuring efficient water resource management in the agricultural sector using the Penman­
+Monteith equation and artificial intelligence (AI); 
+• Optimizing groundwater level monitoring systems by incorporating expert feedback and 
+AI-powered algorithm to address the limitations of conventional approaches and precisely 
+determine average water table elevations; and 
+• Evaluating rainfall intensity from video footage by using an advanced deep learning model and 
+improving the precision and speed ofprecipitation measurement to help farmers schedule and 
+evaluate their irrigation system. 
+The Petitioner claimed that these research projects are "complemented by expert commentaries to 
+highlight her use of innovative methodologies, the nature of her breakthroughs, and the ways that her 
+unique findings have been applied throughout the field." Further, she asserted that her research papers 
+are cited "dozens of times by peers using her innovative methods and original findings," published in 
+high-impact journals in her field, and at least three of her papers are "among the most highly cited 
+under the category of agricultural sciences for their years of publication." 
+users determined that although the Petitioner provided her own research papers that she authored or 
+co-authored and published in scientific conferences, publication alone does not serve as evidence of 
+originality or major contribution in the field. users farther concluded that the testimonial letters "do 
+not provide specific detailed examples ofhow the petitioner's research or research findings and results 
+have been of major significance to the field." Upon de novo review, we agree that the Petitioner has 
+not met this criterion. Here, the evidence does not sufficiently corroborate a widespread impact of her 
+work in the field. Agrawal v. Miller, No. 4:24eV3143, 2025 2879217, at *20 (D. Neb. Sept. 12, 2025) 
+(upholding that it cannot be automatically presumed that all articles published by respected journals 
+and organizations are considered majorly significant). We will examine each of the four research 
+areas to determine the significance of its impact. 
+First, the Petitioner analyzed farmin -based water consum tion in the in Iran and 
+published a paper entitled ' ~---------------------------~ 
+1 Evapotranspiration is defined as "loss of water from the soil both by evaporation and by transpiration from the plants 
+growing thereon." Merriam-Webster Dictionary, https://www.merriam-webster.com/dictionary/article (last visited July 
+17, 2026). 
+3 
+._________.t' in Civil Engineering Journal in 2019. This research paper gained 55 citations at 
+the time of filing. The Petitioner claimed that her findings are "key for optimizing water management 
+to promote sustainable agricultural practices" and provided samples of other journals that cited her 
+research and testimonial letters. But many of these articles that cited to the Petitioner's paper have 
+limited references to the results of the Petitioner's research ( e.g., considering them as examples or 
+comparisons) and do not single out the Petitioner's paper as particularly impactful or original to the 
+field. Such references demonstrate that her research findings reached other scholars but did not show 
+that her published paper remarkably impacted or influenced the field. 
+We also examined various testimonial letters in the record regarding this research. However, these 
+letters reveal very little detail about the widespread impact made by her research findings. Instead, 
+the authors generally describe the research's mechanics and make broad claims about its influence 
+without any corroborating evidence or persuasive details. In addition, the record does not provide 
+sufficient information to qualify some of the authors as experts in agriculture water management. For 
+example, Dr. N-H-M-, a lecturer a~ !University in Egypt, discussed 
+the mechanics of this research paper and explained that he and his co-authors "used her research as a 
+methodological reference, guiding our crop-specific cost-benefit analysis in Egypt's I I 
+region." Although the author's utilization ofthe Petitioner's research was limited to a region in Egypt, 
+he broadly concluded that the Petitioner's work "has influenced agriculture water management 
+scholars within the United States and beyond" and did not elaborate on the purported widespread 
+impact of her findings to other scholars in the United States. Moreover, his curriculum vitae (CV) in 
+the record does not provide adequate information about his research background and exrertisl other 
+than that he is a faculty lecturer atl !University and is also a Ph.D. student at where 
+the Petitioner currently attends. The Petitioner has not provided sufficient documentation to establish 
+that Dr. N-H-M- qualifies as an expert in water resource management and as such, his testimonial 
+letter has limited probative value. 
+Another letter from Dr. B-S-, an executive director of '----------------~ discusses the Petitioner's "data-driven strategies to enhance water management for agriculture in arid 
+regions" and states that "these tools serve as direct information sources for policymakers in thel II lbasin." But once again, the author's CV indicates that his background and experience are 
+in public policy and political science and does not show that he has the credentials consistent with 
+being an exBert in water resource management. The Petitioner also included a letter from Professor 
+S-M-, froml !University. The professor indicates that the Petitioner's analysis of 
+economic and environmental impacts of cropping patterns through dynamic modeling "provides 
+valuable insights for policymakers and farmers seeking to develop more sustainable agricultural 
+practices" and the Petitioner is "a knowledgeable and dedicated professional in her field." However, 
+the letter does not provide adequate details regarding how this research has influenced the field as a 
+whole. 
+The second focus of her research is her stud ~----------"------'----'-----''---'--------''-'------"'"--~ 
+research paper entitled ' 
+' This research paper was'-------------------------------' published in 2020 in Theoretical and Applied Climatology, receiving 31 citations. The Petitioner again 
+provided samples of other journals that cited to this research and built upon her strategy. She also 
+mentioned that her study has been supported by funding from the Iran National Science Foundation 
+4 
+(INSF) and her contributions are "advancing sustainable farming practices and resource conservation." 
+The record includes a testimonial letter from Dr. J-V-, a hydrologic software engineer at I I 
+I hn Nevada. He does not explain how he became familiar with the Petitioner's work 
+in 'I t' but claims that this research is valuable in the 
+western U.S. where optimizing water budgets and reducing agricultural water costs is a priority. But 
+he merely describes mechanics of her research, claiming that her models "outperformed traditional 
+methods due to their ability to achieve high accuracy with minimal input data" but does not explain 
+how this model impacted the field as a whole and is of major significance. Instead, Dr. J-V- generally 
+states that "her contributions to research are evident through her numerous publications in highly 
+regarded journals." However, once again, the papers that cited to her research on this topic do not 
+evidence that it significantly impacted the field. Moreover, the fact that she received fonding from 
+INSF alone does not demonstrate that her research findings influenced the field as a whole. 
+We tum to evaluate the remaining areas of the Petitioner's research. The third aspect of her research 
+concerns roundwater monitorin usin AI al orithm, resultin in two research a ers: ' 
+' published in 2024 in Machine Learning and Knowledge Extraction (l citation). The~--~ 
+Petitioner claims that her work "has significantly improved the precision of groundwater monitoring 
+systems and offers the flexibility of adapting to any hydrology parameter." In support, she submitted 
+evidence indicating fonding from the I Iand the I II ~2 and that she was named as the co-principal investigator on this project, 
+confirming "its importance for addressing groundwater depletion in the United States." 
+The fourth research area is the Petitioner's evaluation of rainfall intensity from video foota an 
+advanced dee leamin model which resulted in a research a er entitled ' 
+'----------------------------------' ' published in 2024 in Earth Science I11formatics ( 6 citations). The Petitioner also claimed that this research has 
+~cant value" for combating the occurrence of floods in the United States, was fonded by the 
+L___J and she was the co-principal investigator. 
+However, the record lacks sufficient evidence to indicate that the Petitioner's findings on monitoring 
+groundwater and evaluation of rainfall intensity through machine learning had widespread impact on 
+the field and satisfy this criterion. These journal articles garnered lower citation numbers, and the 
+record lacks any testimonial letters from experts to corroborate the significant impact ofthese research 
+finlings in lhe field. In addition, the claimed fundings derive from localized sources, such as Utah 
+and region, and the Petitioner has not adequately explained how such fonding represents any 
+widespread reach and influence. 
+On appeal, the Petitioner reiterates that she received fonding for her research as we have mentioned 
+above and provides additional information about her memberships in different associations as well as 
+scholarships and fellowships that she has received. However, such evidence has little probative value 
+2 As the Petitioner explainedJ lis a subsidiary of the~------~andmanages water resources inl~-~ 
+province, ensuring sustainable water supply and infrastructure development. 
+5 
+relating to demonstrating original contributions of major significance to the field and instead, may 
+support other evidentiary criteria not claimed by the Petitioner. But issues and prior eligibility claim 
+not raised on appeal are waived. See, e.g., Matter ofO-R-E-, 28 I&N Dec. 330, 336 n.5 (BIA 2021) 
+(citing Matter ofR-A-M-, 25 I&N Dec. 657,658 n.2 (BIA 2012)). 
+Although the Petitioner asserts that her research relating to agriculture water management constitutes 
+original contributions of major significance, she has not sufficiently corroborated her claims with 
+independent and probative evidence. We do not doubt that the Petitioner is well-equipped to perform 
+research given her credentials. However, the record does not support that her journal articles impacted 
+the field at a significant level, or that her research findings have been widely implemented. See 
+Visinscaia v. Beers, 4 F. Supp. 3d at 134-35. The Petitioner largely relies on the number of citations 
+that her published works received in the Google Scholar profile to claim original contributions of 
+major significance. Generally, citations can serve as an indication that the field has taken interest in a 
+petitioner's research or written work. But the record as a whole does not sufficiently corroborate that 
+her work has major significance in her field. Various testimonial letters do not meaningfully assess 
+major significance of the Petitioner's research or lack specific and persuasive language in describing 
+the research's impact. See e.g., Jafc1rov v. United States Citizenship & Immigr. Servs., No. 23 CIV. 3372 
+(PAE), 2024 WL 69056, *7 (S.D.N.Y. Jan. 5, 2024) (finding the absence ofdetail about the actual impact 
+of the petitioner's work and the limited citations his work had thus far received meant that he did not 
+satisfy this criterion). 
+Based on the foregoing, the Petitioner has not identified any original contributions of major significance 
+in the field of agricultural water management. 
+B. Final Mertis Determination 
+The Petitioner has not submitted the required initial evidence of either a one-time achievement or 
+documents that meet at least three of the ten lesser criteria. As a result, we need not provide the type 
+of final merits determination referenced in Kazarian, 596 F.3d at 1119-20. Nevertheless, we advise 
+that we have reviewed the record in the aggregate, concluding that it does not support a conclusion 
+that the Petitioner has established the acclaim and recognition required for the classification sought. 
+Congress set a very high benchmark for aliens of extraordinary ability by requiring the petitioner 
+demonstrate "sustained national or international acclaim" and present "extensive documentation" to 
+show his or her achievements have been recognized in the field. Section 203(b)(1 )(A)(i) of the 
+Act. Because the Petitioner has not satisfied the threshold "initial evidence" requirements at 8 C.F.R. 
+§ 204.5(h)(3), we cannot conclude that she is an alien of extraordinary ability and need not further 
+analyze the merits under the statute. See Kazarian, 596 F.3d at 1119-20; see also Nagaiah v. Allen, 
+784 F. Supp. 3d 798, 814 (E.D. Pa. 2025) (finding the regulation "establishes a necessary, not 
+sufficient, evidentiary requirement for a petitioner who seeks an extraordinary ability 
+visa."). Therefore, we decline to reach and hereby reserve any final merits determination in this 
+matter. See INS v. Bagamasbad, 429 U.S. 24, 25 (1976) (per curiam) (holding that agencies are not 
+required to make "purely advisory findings" on issues that are unnecessary to the ultimate decision). 
+6 
+III. CONCLUSION 
+For the reasons discussed above, the Petitioner has not demonstrated eligibility as an individual of 
+extraordinary ability. In visa petition proceedings, it is a petitioner's burden to establish eligibility for 
+the immigration benefit sought. The Petitioner has not met that burden here. 
+ORDER: The appeal is dismissed. 
+NOTICE: This constitutes the final decision in this matter. The filing of a motion will not postpone the 
+effect of the decision. 8 C.F.R. § 103.S(a)(l)(iv). Aliens who are not lawfully present, or who are 
+otherwise inadmissible or deportable, may be subject to the commencement of removal proceedings 
+under section 240 ofthe Act through the issuance of a Form 1-862, Notice to Appear. Those proceedings 
+may result in their removal from the United States and possible ineligibility for future visas or other 
+immigration benefits. 
+7 

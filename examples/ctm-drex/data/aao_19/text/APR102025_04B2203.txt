@@ -1,0 +1,217 @@
+Non-Precedent Decision of the
+Administrative Appeals Office 
+U.S. Citizenship 
+and Immigration 
+Services 
+In Re: 37641690 Date: APR. 10, 2025 
+Appeal of Texas Service Center Decision 
+Form 1-140, Immigrant Petition for Alien Workers (Extraordinary Ability) 
+The Petitioner, a civil engineering consultant, seeks classification under the employment-based, first­
+preference (EB-1) immigrant visa category as an alien with "extraordinary ability." See Immigration 
+and Nationality Act (the Act) section 203(b)(l)(A), 8 U.S.C. § l 153(b)(l)(A). 
+The Director of the Texas Service Center denied the petition. The Director concluded that the 
+Petitioner met two of ten initial evidentiary requirements for this category - one less than needed for 
+a final merits determination. On appeal, the Petitioner contends that he also submitted evidence of 
+his: 
+• Memberships in associations in his field requiring outstanding achievements oftheir members; 
+• Original contributions of major significance in the field; and 
+• Commandment of a high salary or significantly high remuneration relative to others in the 
+field. 
+8 C.F.R. § 204.5(h)(3)(ii), (v), (ix). 
+The Petitioner bears the burden of demonstrating eligibility for the requested benefit by a 
+preponderance of the evidence. Matter of Chawathe, 25 I&N Dec. 369, 375-76 (AAO 2010). 
+Exercising de novo appellate review, see Matter of Christo 's, Inc., 26 I&N Dec. 537, 537 n.2 (AAO 
+2015), we conclude that he submitted evidence of original contributions of major significance to the 
+field. We will therefore withdraw the Director's decision and remand the matter for a final merits 
+determination and entry of a new decision consistent with the following analysis. 
+I. LAW 
+To qualify for this immigrant visa category, a petitioner must demonstrate that they: 
+• Have "extraordinary ability in the sciences, arts, education, business, or athletics;" 
+• Seek to continue work in their field of expertise in the United States; and 
+• Would substantially benefit the country as a permanent resident. 
+Section 203(b)(l)(A)(i)-(iii) of the Act. 
+The term "extraordinary ability" means expertise commensurate with "one of that small percentage 
+who have risen to the very top of the field of endeavor." 8 C.F.R. § 204.5(h)(2). Unless a petitioner 
+received "a major, international recognized award," they must satisfy at least three of ten lesser 
+evidentiary criteria. 8 C.F.R. § 204.5(h)(3). 1 
+If a petitioner meets either evidentiary standard and the requirements at section 203(b )(1 )(A)(ii), (iii) 
+of the Act, USCIS must make a final merits determination. To merit approval, the record- as a whole 
+- must establish a petitioner's "sustained national or international acclaim" and recognized 
+achievements placing them among the small percentage at their field's very top. See Amin v. 
+Mayorkas, 24 F.4th 383, 391 (5th Cir. 2022) (finding USCIS' two-step extraordinary ability analysis 
+"consistent with the governing statute and regulation"); see generally 6 USCIS Policy Manual F.2(B), 
+www.uscis.gov/policy-manual. 
+TI. ANALYSIS 
+A. The Petitioner and His Field 
+The record shows that the Petitioner, an Indian native and citizen, received a bachelor of technology 
+degree in civil engineering from a university in his home country before earning master's and doctoral 
+degrees in the same field from a U.S. school. At the time of this petition's filing, he had authored or 
+co-authored 15 research papers and three technical reports. His research topics include: machine 
+learning for object detection and classification; civil integration management (CIM) for transportation 
+guides; and integration of unmanned aircraft systems into transportation operations. He had also 
+reviewed and evaluated more than 50 research papers by his peers in the field. 
+Since 2022, the Petitioner has worked as an engineering consultant for a U.S. employer, leading 
+applied research initiatives in business intelligence, data analytics, and machine learning related to 
+civil engineering, transportation planning, and toll systems operations. He plans to continue his 
+research activities in the United States, seeking affordable and sustainable solutions to transportation 
+and civil infrastructure challenges. 
+The record does not indicate - nor does the Petitioner claim - his receipt of a major internationally 
+recognized award. He must therefore meet at least three of the ten evidentiary criteria at 8 C.F.R. 
+§ 204.5(h)(3)(i-x). 
+The record supports the Director's findings that the Petitioner submitted evidence of his participation 
+as a judge of others' work in his field and his authorship of scholarly articles. See 8 C.F.R. 
+§ 204.5(h)(3)(iv), (vi). 
+We will now review the Director's findings regarding the three evidentiary requirements that the 
+Petitioner claims to have met. To satisfy these criteria, his evidence must objectively meet the 
+1 If an evidentiary criterion does not "readily apply" to a petitioner's occupation, they may submit "comparable evidence" 
+to establish eligibility. 8 C.F.R. § 204.5(h)(4). 
+2 
+parameters of the applicable regulatory descriptions. See generally 6 USCIS Policy Manual F.2(B). 
+"[N]either USCIS nor [the] AAO may unilaterally impose novel substantive or evidentiary 
+requirements beyond those set forth." Kazarian v. USCIS, 596 F.3d 1115, 1121 (9th Cir. 2010). 
+B. Membership in Associations 
+This criterion requires "[ d]ocumentation of the alien's membership in associations in the field for 
+which classification is sought, which require outstanding achievements of their members, as judged 
+by recognized national or international experts in their disciplines or field." 8 C.F.R. § 204.5(h)(3)(ii). 
+The Petitioner submitted copies of e-mail messages and a letter indicating his 2020 appointment as a 
+member of a construction management committee for a research board seeking to anticipate and solve 
+complex transportation-related challenges. 
+The Director found insufficient evidence that the research board requires outstanding achievements of 
+its committee members. The Director faulted the Petitioner for omitting copies of the board's 
+constitution or by-laws. The Director stated: 
+The petitioner is required to submit objective documentary evidence to demonstrate 
+that the association requires outstanding achievement as an essential condition for 
+admission to membership such as the section of the association's constitution or 
+bylaws, which discuss the criteria for membership for [his] level of membership in the 
+association. 
+On appeal, the Petitioner submits a copy of the research board's member guide, which he contends 
+shows the "prestige" of his appointment to the board's committee.2 He also states that, as one of the 
+25 members of the construction management committee, he has "spearheaded" multiple "research 
+needs statements," identifying emerging transportation technologies and developing guidelines for 
+implementation across the United States. 
+A letter from a senior program officer of the research board discusses how committee members are 
+chosen. The letter states: "Industry representatives [ on the construction management committee] are 
+typically highly experienced in engineering consulting or construction projects aligned with the 
+committee's scope, while academic members have substantial research and training experience and 
+have published in leading journals." The letter states that the Petitioner has "a well-rounded 
+background, combining experience in both transportation research and engineering consulting. He 
+proved his dedication and value as a Friend of the committee, which led to his nomination for full 
+membership." The board's member guide states: "As a member, you have been recognized as an 
+expert in your field, someone who can contribute valuable perspective on current issues facing the 
+profession." 
+2 We do not consider evidence on appeal if, before a director's decision, a petitioner received notice of the required 
+documentation and an opportunity to provide it. See Matter of Soriano, 19 I&N Dec. 764, 766 (BIA 1988). But the 
+Director's request for additional evidence (RFE) did not address evidence of the Petitioner's membership in associations. 
+We will therefore consider the board's member guide on appeal. 
+3 
+In the context of this evidentiary criterion, the word "outstanding" means "marked by eminence and 
+distinction." Outstanding, Merriam-Webster Online Dictionary, www.merriam-webster.com. The 
+letter and the member guide indicate that committee members need experience in engineering 
+consulting or construction projects, or research and training experience in the field combined with 
+publications in leading journals. But both the letter and the guide fall short of establishing that the 
+board requires committee members to have achievements marked by eminence and distinction. See 
+Nelson v. USCIS, No. CV 21-10334-LTS, 2022 WL 20583561, at *5 (D. Mass. June 15, 2022) (stating 
+that this criterion "demands membership in an organization that requires 'outstanding achievement' 
+as judged by experts, and not merely membership in selective organizations in the field"); see also 
+6 USCIS Policy Manual F.2(B)( I), Criterion 2 (stating that a requirement for "years of experience in 
+a particular field" indicates that an association may not demand outstanding achievements of its 
+members). 
+Also, the record lacks evidence that the board's committee members are "judged by recognized 
+national or international experts in their disciplines or field." See 8 C.F.R. § 204.5(h)(3)(ii). In the 
+Petitioner's RFE response, counsel claimed that committee chairpersons invite candidates to become 
+members and that the board's "Executive Committee" must then approve their memberships. But 
+counsel's unsubstantiated assertions do not constitute evidence. See, e.g., Matter of S-M-, 22 I&N 
+Dec. 49, 51 (BIA 1998) ("[S]tatements in a brief, motion, or Notice of Appeal are not evidence and 
+thus are not entitled to any evidentiary weight.") The Petitioner has not identified the members of the 
+board's executive committee or established them as experts in their fields. 
+For the foregoing reasons, the Petitioner has not submitted evidence ofhis membership in associations 
+in the field requiring outstanding achievements of their members as judged by recognized national or 
+international experts in their fields. We will therefore affirm the Director's finding regarding this 
+evidentiary criterion. 
+C. Original Contributions of Major Significance 
+To meet this requirement, a petitioner must submit "[e]vidence of the alien's original scientific, 
+scholarly, artistic, athletic, or business-related contributions of major significance in the field." 
+8 C.F.R. § 204.5(h)(3)(v). 
+When adjudicating this requirement, USCIS first determines whether a petitioner has made original 
+contributions in their field. See generalZv 6 USCIS Policy Manual F.2(B)(l ), Criterion 5. If so, the 
+Agency then determines whether the original contributions are of major significance to the field. Id. 
+The Petitioner submitted copies of publications that he authored or co-authored, evidence of citations 
+to the articles,joumal rankings and information, and letters from experts in the field and officials from 
+state transportation agencies. 
+The Director acknowledged that the Petitioner made original contributions to his field. But the 
+Director found insufficient evidence that the contributions had major significance in the field. 
+4 
+On appeal, the Petitioner contends that the number of citations to his research and his frequent 
+selection as a peer reviewer of others' work demonstrate the major significance of his contributions to 
+the field. He also cites letters that he says explain his research's notability. 
+The Petitioner submitted evidence that, at the time of the petition's filing, his published research had 
+generated 248 citations, ranking him among the top 1 % of most-cited authors in the field since 2018. 
+See 8 C.F.R. § 103.2(b)(l) (requiring a petitioner to demonstrate eligibility "at the time of filing 
+the benefit request"). The record also shows that a 2018 article he co-authored received 97 citations, 
+placing it among the top 10% of civil engineering articles cited that year. The 2018 article also 
+appeared in one of the highest ranked journals in the field. 
+The Petitioner notes that, under USCIS policy: 
+published research that has provoked widespread commentary on its importance from 
+others working in the field, and documentation that it has been highly cited relative to 
+others' work in that field, may be probative of the significance of the person's 
+contributions to the field of endeavor. 
+6 USCJS Policy Manual F.2(B)(l ), Criterion 5. 
+Despite the evidence, however, the Director concluded that the Petitioner had not demonstrated that 
+his original research had major significance in the field. The Director stated: 
+While the petitioner submitted copies of articles and reviews ... that cited [his] works 
+and claimed that some researchers have used [his] works in "notable ways," there is no 
+evidence distinguishing the petitioner's work from all the other works cited in the 
+articles to show the major significance of [his] work. 
+We disagree. Letters from experts in the field describe the Petitioner's research and its importance to 
+the field. See 6 USCIS Policy Manual F.2(B)(l), Criterion 5 ("Detailed letters from experts in the 
+field explaining the nature and significance of the person's contribution may also provide valuable 
+context for evaluating the claimed original contributions of major significance.") 
+The Petitioner's 2018 article discusses his develo ment of a machine-learning algorithm applying 
+to automate detection of'-------------------------------' building objects. Experts explained that his approach saves transportation agencies and researchers 
+time and money in assessing infrastrncture and correcting human errors in prior facility evaluations. 
+The Petitioner also developed a framework for state transportation agencies to evaluate and implement 
+CIM - three-dimensional software enabling users to design engineering and constrnction projects in a 
+streamlined design-to-construction workflow. His system incorporates cost-benefit analysis 
+guidelines and an investment prioritization matrix, helping transportation agencies save time and 
+money. One expert, a U.S. associate professor of construction engineering and project management, 
+stated that transportation agencies and researchers use many ofthe Petitioner's methods. Another U.S. 
+associate professor of construction management stated that the Petitioner's research led to the 
+5 
+nationwide development of guidelines for CIM technologies for digital asset data collection and 
+processmg. 
+Experts also cited the Petitioner's use of data analytics to establish guidelines on the use of unmanned 
+aerial systems in the transportation field. The guidelines cover the systems' use in the areas of: traffic 
+monitoring; emergency response and recovery; public outreach; bridge inspections; construction 
+inspections; and surveying and mapping. The guide details technical, operational, and legal 
+requirements. A U.S. assistant professor of civil construction and environmental engineering 
+described the Petitioner's work as "a major safety upgrade for workers in infrastructure, as it allows 
+for more efficient and accurate inspections of hazardous structures." See Rubin v. Miller, 478 F. Supp. 
+3d 499, 505-06 (S.D.N.Y. 2020) (finding that USCIS insufficiently explained why letters detailing a 
+researcher's work did not constitute evidence of his original contributions of major significance) 
+Based on the letters and the Petitioner's citation evidence, a preponderance of the evidence 
+demonstrates that his original contributions to the field have major significance. We will therefore 
+withdraw the Director's contrary finding. 
+D. Commandment of a High Salary or Significantly High Remuneration 
+As required for a final merits determination, the Petitioner has met three evidentiary criteria. Thus, 
+we need not reach and hereby reserve consideration of whether he submitted evidence that he 
+commanded a high salary or significantly high remuneration relative to others in his field. See INS v. 
+Bagamasbad, 429 U.S. 24, 25 (1976) (per curiam) (holding that agencies need not make "purely 
+advisory findings" on issues unnecessary to their ultimate decisions). 
+The Director did not make a final merits determination. Rather than issue one in the first instance, we 
+will remand the matter. 
+On remand, the Director must determine whether the Petitioner has sustained national or international 
+acclaim and received recognition ofhis achievements in his field commensurate with one ofthat small 
+percentage who has risen to his field's very top. See generally 6 USCIS Policy Manual F.2(8)(2). 
+The Director should base the petition's approval or denial on the evidence's type and quality. Id. She 
+should consider any potentially relevant evidence of record, even ifit does not fit one ofthe regulatory 
+criteria or was not presented as comparable evidence. Id. The Petitioner bears the burden of 
+explaining the significance of his evidence and how it demonstrates that he has sustained national or 
+international acclaim and recognition in his field. 
+III. CONCLUSION 
+The Petitioner met the minimum required amount of evidentiary criteria by submitting evidence of his 
+original contributions of major significance to the field. USCIS must now conduct a final merits 
+determination. 
+6 
+ORDER: The Director's decision is withdrawn. The matter is remanded for a final merits 
+determination and entry of a new decision consistent with the foregoing analysis. 
+7 

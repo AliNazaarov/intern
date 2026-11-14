@@ -1,0 +1,320 @@
+Non-Precedent Decision of the
+Administrative Appeals Office 
+U.S. Citizenship 
+and Immigration 
+Services 
+In Re: 42931472 Date: MAY 21, 2026 
+Appeal of U.S. Citizenship and Immigration Services (USCIS) Decision 
+Form I-140, Immigrant Petition for Alien Workers (Extraordinary Ability) 
+The Petitioner, a software automation test engineer, seeks classification as an alien of extraordinary 
+ability. See Immigration and Nationality Act (the Act) section 203(b)(l)(A), 8 U.S .C. 
+§ l 153(b)(l)(A). This first preference classification makes immigrant visas available to those who 
+can demonstrate their extraordinary ability through sustained national or international acclaim and 
+whose achievements have been recognized in their field through extensive documentation. 
+USCIS denied the petition, concluding that although the record established that the Petitioner satisfied 
+the initial evidentiary requirements, it did not establish, as required, that the Petitioner bas sustained 
+national or international acclaim and is an alien in the small percentage at the very top of the field. 
+The matter is now before us on appeal under 8 C.F.R. § 103.3. 
+The Petitioner bears the burden ofproof to demonstrate eligibility by a preponderance ofthe evidence. 
+Matter afChawathe, 25 I&N Dec. 369, 375-76 (AAO 2010). We review the questions in this matter 
+de novo. Matter a/Christa's, Inc., 26 I&N Dec. 537, 537 n.2 (AAO 2015). Upon de novo review, 
+we will dismiss the appeal. 
+I. LAW 
+Section 203(b )(1 )(A) of the Act makes immigrant visas available to aliens with extraordinary ability 
+in the sciences, arts, education, business, or athletics which has been demonstrated by sustained 
+national or international acclaim and whose achievements have been recognized in the field through 
+extensive documentation. A petitioner must establish that these aliens seek to enter the United States 
+to continue work in the area of extraordinary ability, and that their entry into the United States will 
+substantially benefit the United States. The term "extraordinary ability" refers only to those aliens in 
+"that small percentage who have risen to the very top ofthe field of endeavor." 8 C.F.R. § 204.5(h)(2). 
+The implementing regulation at 8 C.F.R. § 204.5(b)(3) sets forth a multi-part analysis. First, a 
+petitioner can demonstrate international recognition of an alien's achievements in the field through a 
+one-time achievement in the form of a major, internationally recognized award. Or the petitioner can 
+submit evidence that meets at least three of the ten criteria listed at 8 C.F.R. § 204.5(h)(3)(i)-(x), 
+including items such as awards, published material in certain media, and scholarly articles. If those 
+standards do not readily apply to the alien's occupation, then the regulation at 8 C.F.R. § 204.5(h)(4) 
+allows the submission of comparable evidence. 
+Once a petitioner has met the initial evidence requirements, the next step is a final merits 
+determination, in which we assess whether the record shows sustained national or international 
+acclaim and demonstrates that the alien is among the small percentage at the very top of the field of 
+endeavor. See Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010) (discussing a two-part review where 
+the documentation is first counted and then, if fulfilling the required number of criteria, considered in 
+the context of a final merits determination); see also Visinscaia v. Beers, 4 F. Supp. 3d 126, 131-32 
+(D.D.C. 2013); Rijal v. USCIS, 772 F. Supp. 2d 1339 (W.D. Wash. 2011). 
+II. ANALYSIS 
+The Petitioner taught German in Russia before working for subsidiaries of first as a 
+software test engineer inl IRussia, and then as a test automation engineer in.__ ___. 
+Hungary. The Petitioner last entered the United States in January 2025 as a B-2 nonimmigrant visitor. 
+She intends to establish a software company to implement a framework she developed, "designed to 
+tackle the most common and costly testing challenges in complex enterprise systems." The Petitioner 
+filed the present Form 1-140 petition in October 2025. Shortly after the filing date, an aerospace company 
+in California offered the Petitioner a position as a software engineer. The Petitioner indicated that she 
+intended to accept this job offer, but that she still intends, in the long term, to establish her own company. 
+Because the Petitioner has not indicated or shown that she received a major, internationally recognized 
+award, she must satisfy at least three ofthe alternate regulatory criteria at 8 C.F.R. § 204.5(h)(3)(i)-(x). 
+The Petitioner claimed to have satisfied seven of these criteria, summarized below: 
+• (i), Lesser nationally or internationally recognized prizes or awards; 
+• (ii), Membership in associations that require outstanding achievements; 
+• (iii), Published material about the alien in professional or major media; 
+• (iv), Participation as a judge of the work of others; 
+• (vi), Authorship of scholarly articles; 
+• (viii), Leading or critical role for distinguished organizations or establishments; and 
+• (ix), High remuneration for services. 
+USCIS concluded that the Petitioner met the basic requirements of all seven claimed criteria. 
+Because USCIS determined that the Petitioner had satisfied three or more initial criteria, USCIS 
+proceeded to a final merits determination to evaluate whether she has demonstrated, by a 
+preponderance of the evidence, sustained national or international acclaim and that she is one of the 
+small percentage at the very top of the field of endeavor, and that her achievements have been 
+recognized in the field through extensive documentation. A final merits determination involves 
+analyzing an alien's accomplishments and weighing the totality of the evidence to determine if his or 
+her successes are sufficient to demonstrate that they have extraordinary ability in the field of endeavor. 
+See section 203(b)(l)(A)(i) of the Act; 8 C.F.R. § 204.5(h)(2), (3); see also Kazarian, 596 F.3d at 
+1119-20. See generally 6 USCIS Policy Manual F.2(B)(2), https://www.uscis.gov/policy-manual 
+(stating that USCIS officers should then evaluate the evidence together when considering the petition 
+2 
+in its entirety to determine if the petitioner has established, by a preponderance of the evidence, the 
+required high level of expertise for the immigrant classification). 
+In this matter, we agree with USCIS' determination that the Petitioner has not established eligibility. 
+On appeal, the Petitioner cites a district court decision, Mukherji v. Miller, No. 4:24-CV-3170 (D. 
+Neb. Jan. 28, 2026), in which the court objected to USCIS' reliance on Kazarian to justify its use of 
+the final merits determination as the basis for dismissing an appeal. We disagree with the Petitioner's 
+reliance on this non-precedent decision. In contrast to the precedential authority of the case law of a 
+United States circuit court, we are not bound to follow a decision of a United States district court. See 
+Matter ofK-S-, 20 I&N Dec. 715 (BIA 1993). 
+Moreover, while we may consider the court's reasoning when it is properly before us, unpublished 
+opinions are not considered binding precedent. See Suchite-Salguero v. Att'y Gen. United States, 
+147 F.4th 355, 359-60 (3d Cir. 2025) ("[W]e have cautioned over and over again that non-precedential 
+opinions carry little to no weight for future cases."); Wang v. Holder, 569 F.3d 531, 538 n.5 (5th Cir. 
+2009); cf Matter ofK-S-, 20 I&N Dec. at 719 (considering the reasoning of district court decisions). 
+Importantly, we note that the Mukherji decision was issued by a district court in Nebraska. In the 
+present case, the Petitioner is in California and the petition was denied at the Texas Service Center, 
+outside the jurisdiction of the Nebraska court that decided Mukherji. 
+The two-step adjudication process is an interpretive rule that does not violate the Administrative 
+Procedure Act, nor is it a legislative rule. Nagaiah v. Allen, 784 F. Supp. 3d at 810; Agrawal v. Miller, 
+No. 4:24CV3143, 2025 WL 2879217, at *12 (D. Neb. Sept. 12, 2025); Etsy, Inc. v. Jaddou, No. 
+4:22CV3022, 2023 WL 3689555, at *23 (D. Neb. May 25, 2023) (citing Perez v. Mortg. Bankers 
+Ass 'n, 575 U.S. 92, 96 (2015). 
+The final merits determination considers the totality ofthe evidence in the broader context ofsustained 
+national or international acclaim as required by the statute. Issues that "are not relevant to the 
+antecedent procedural question of whether the petitioner has provided at least three types of evidence" 
+"might be relevant to the final merits determination of whether a petitioner is at the very top of his or 
+her field of endeavor." Kazarian v. USCIS, 596 F.3d at 1121. Considerations that might 
+impermissibly amount to "a novel evidentiary requirement" within the narrow confines of an initial 
+criterion nevertheless "might be relevant to a final merits determination." Id. 
+The final merits determination hinges on whether the Petitioner has established sustained national or 
+international acclaim and has reached the small percentage at the very top of the field. This 
+determination is related to, but separate from, the antecedent question of whether the Petitioner has 
+satisfied at least three of the initial criteria at 8 C.F.R. § 204.5(h)(3)(i)-(x). 
+Therefore, we review the record with an eye toward the broader issue of sustained acclaim rather than 
+the narrower focus of those initial criteria. 
+In its final merits determination, USCIS observed that most of the Petitioner's evidence is from 2024 
+and 2025, the years immediately preceding the petition's October 2025 filing date. USCIS concluded 
+3 
+therefore that the Petitioner's recognition did not amount to sustained acclaim as the statute and 
+regulations require. 
+On appeal, the Petitioner asserts: 'The record shows multiple instances of national or international 
+recognition across several years, including in 2024 and 2025, and no evidence that [her] acclaim has 
+declined or become purely historic." Some of the Petitioner's relevant evidence dates back to 2010. 
+We agree with the Petitioner that her most recent evidence should be viewed in the context of the 
+entire record, rather than in isolation. But we agree with users that this evidence does not 
+consistently show sustained national or international acclaim at the very top of the field. 
+users concluded that a "Best Innovation" award that the Petitioner won at an I I2024
+1 I' meets the requirements of 8 e.F.R. § 204.5(h)(3)(i), but does not show that the Petitioner 
+has risen to the very top of her field. On appeal, the Petitioner mentions 'I Iprizes" as 
+examples of recognition in her field, but she does not discuss this specific issue in depth. 
+An organizer of the event where the Petitioner won a prize stated in a letter: "The I lis 
+covered by top [Russian] media outlets such as the international edition [ of] Argument}· IFakty·, the 
+federal magazine Regions of Russia, the news agency Novosti Rossii, as well as authoritative 
+specialized publications such as Designers ofRussia." The statements made by witnesses should be 
+corroborated by documentary evidence in the record. See, generally, 6 USCIS Policy Manual, supra, 
+at F.2(B)(3). A letter that claims that a particular! !attracts major media coverage does not 
+have the same weight as first-hand documentation of such coverage. 
+The only submitted evidence of media coverage of theI I2024 competition is a piece in Experts­
+Say, which appears to be a blog post; links marked "Previous post" and "Next post" appear below the 
+text. The Petitioner submitted readership statistics for several websites, but not for Experts-Say. 
+Novosti Rossii and Biznes Vremia published articles about later competitions that took race in 2025. 
+The three published pieces are broadly similar, each of them naming thel members but 
+not the winners. These materials are not persuasive evidence of the significance and recognition of 
+the Petitioner's prize from the I I20241 I The Experts-Say blog post indicated that the 
+I 12024 competition, in which the Petitioner participated, attracted "more than 300 applications." 
+In contrast, Novosti Rossii reported that "[t]he organizing committee accepted more than 1650 
+applications for participation" in the April 2025 competition. The Petitioner has not established that 
+the competition had a significant reputation when she took part i~ 12024, or that prize winners 
+receive publicity commensurate with national or international acclaim. 
+The record indicates that several different organizations host I t competitions. The 
+Petitioner has not established that the I I 2024 event where she won a prize was an especially 
+significant one, such that winning the competition would tend to indicate that she has earned sustained 
+national or international acclaim and reached the very top of her field. 
+users acknowledged that the Petitioner wrote scholarly articles, fulfilling the requirements of 
+8 e.F.R. § 204.5(h)(3)(vi), but "[t]he evidence does not show that the beneficiary consistently 
+published scholarly articles in journals with the highest impact factors within the field, and/or on-line 
+4 
+or in print magazines or editorials which enjoy high circulation among national or international 
+readers." users concluded that the Petitioner had not submitted evidence of the impact of her 
+scholarly articles, such as widespread citation. 
+On appeal, the Petitioner states that she "[h]as published consistently over many years." The record 
+identifies only three published articles by the Petitioner. The first article appeared in 2010, and the 
+Petitioner apparently did not publish again until 2023, with a third article published in 2025. 
+The Petitioner claims that users "fails to acknowledge that the beneficiary's articles span 15 years 
+(2010-2025)." But in the denial decision, users specifically stated that the Petitioner's "articles were 
+published in 2010, 2023 and 2025." 
+The Petitioner acknowledges that these articles did not appear "in 'highest-impact' journals," but 
+asserts nevertheless that "they represent ongoing contributions to the field's knowledge base, 
+especially in an applied domain where practitioners rely on trade-type publications and internal 
+documentation." The Petitioner maintains that, because she does not work in academia, it is unfair 
+and unrealistic to hold her work to the standards of academia, for example by expecting evidence of a 
+high citation rate. 
+Nevertheless, the Petitioner has not explained and established how these articles have had an impact 
+on her field in a manner that contributed to the acclaim and recognition that the statute and regulations 
+reqmre. 
+The Petitioner also asserts that users required "forms of evidence that are more typical of pure­
+research academics than applied-engineering professionals." More specifically, the Petitioner asserts 
+that, in her field, "influence is demonstrated" not through frequent, highly-cited scholarly publications, 
+but rather through "[a]doption of testing frameworks and automation tools," "[r]eduction of defects 
+and release-cycle time," and "[l]eadership in QA [quality assurance] processes for large-scale 
+systems." The Petitioner also asserts that "[f]or software-engineering and QA professionals, impact 
+is often measured by adoption of tools, methodologies, or frameworks." 
+To the extent that adoption of her methods establishes impact, the Petitioner must show such adoption 
+on a national or international scale, rather than within one company. The Petitioner has detailed her 
+work on specific projects at I Ibut has not shown that this work has resulted in 
+widespread influence outside of parts of that company. 
+Also, "influence" and "impact," while important, are not synonymous or interchangeable with 
+"acclaim." The Petitioner must show not only that others have adopted her work, but that she is 
+generally recognized and credited with the work adopted in that way. Impact does not translate into 
+individual acclaim if the Petitioner's name is not associated with the adopted work. 
+The record shows that the Petitioner's employers have praised her work. For example, a chapter lead 
+for software testing at ~------~stated that the Petitioner "was central to our corporate 
+infrastructure cloud migration project," and that the Petitioner's "advanced test automation framework 
+... became a model later adopted by other engineering groups." This vague statement that unidentified 
+"other ... groups" adopted the Petitioner's work does not tell us the breadth or depth ofthe Petitioner's 
+5 
+influence. Absent further evidence, recognition within one company alone, even a large or well­
+known company, is not sufficient to establish national or international acclaim. 
+A leading or critical role for an organization with a distinguished reputation can satisfy the 
+requirements of 8 C.F.R. § 204.5(h)(3)(viii). To show her critical role, the Petitioner submitted 
+background information establishing that I Ias a whole, is a major multinational 
+organization. But the record is less persuasive in terms of how critical the Petitioner's role was for 
+the organization as a whole. Officials of I I describe her work in the company's 
+"testing Chapter." When a role is leading or critical for a department or division of an organization, 
+rather than for the entire organization, a petitioner must establish the distinguished reputation of that 
+department or division. See, generally, 6 USCIS Policy Manual, supra, at F.2(B)(l). 
+The Petitioner submitted a letter from an official of I I who "became acquainted with [the 
+Petitioner] through professional networks and technical communities." This official stated that the 
+Petitioner has earned "recognition among colleagues worldwide" but did not elaborate or cite 
+independent evidence showing such recognition. A letter from an acquaintance is not persuasive 
+evidence of sustained national or international acclaim. 
+The Petitioner asserts that she"[w ]as featured in professional or major trade-type media in 2025, with 
+circulation data showing meaningful readership." users concluded that the submitted articles satisfy 
+the requirements of 8 C.F.R. § 204.5(h)(3)(iii), but that, in the broader context of the record, these 
+articles do not establish sustained national or international acclaim. users also stated that the articles 
+are too recent to show a pattern of sustained acclaim. 
+The Petitioner submitted printouts of three articles, which share the same basic format: discussing an 
+issue relating to computer security, punctuated with quotations from the Petitioner. A 02025 
+article from Gazeta quotes the Petitioner's advice about the importance of installing software updates 
+on one's smartphone. A02025 article from VC quotes the Petitioner discussing how "a QA 
+engineer works with security." A02025 HackerNoon article quotes the Petitioner regarding the 
+use of artificial intelligence in the QA process. 
+A submitted printout from HackerNoon's website states: "We are an open and international 
+community of 45,000+ contributing writers," and that the site is run by "a small, distributed team of 
+20-ish people." This information raises questions about the extent of editorial control that 
+HackerNoon is able to exercise over submissions. 1 See Onaghise v. Dep 't of Homeland Sec., No. 
+3:20-CV-03033-X, 2022 WL 4073344, at *4 (N.D. Tex. Sept. 2, 2022) (determining that a blog-like 
+forum where community members could post information or articles they have written with limited 
+editorial involvement did not satisfy the "published materials" criterion). 
+All three articles refer to the Petitioner in the present tense as an engineer withl lin 
+Hungary; the HackerNoon article specifically refers to "her current role at lr==-i....------,1-"____JBut 
+1 Two submitted articles also contain other anomalies that an editor ought to have easily intercepted. The VC article 
+includes three bullet points about "three levels at which QA engineers work with security." But in the original, Russian­
+language version ofthe article, the headings for each ofthe three bulleted points are in English- "Prevention," "Detection," 
+and "Response." The Hacke1Noon article has two bylines - one crediting the article to 'I I' (sic), the 
+other to the Petitioner herself. 
+6 
+the Petitioner had left that company several months before any of the articles appeared. Her own 
+resume indicates that she leftl Iin December 2024, and the Petitioner has been in the 
+United States since January 2025. This shared omission raises further questions about the origins of 
+the articles and the circumstances under which they were written and published. 
+Regarding the Petitioner's assertion regarding "meaningful readership," the Gazeta article includes 
+emojis at the end, whereby readers can register their reactions. The printout in the record shows a 
+total of seven reactions. At the end of the VC article is an image of an eye next to the number 19, 
+which appears to indicate that 19 people viewed the article. These numbers do not readily indicate 
+that a significant number of people read the articles. This information is directly relevant to the extent 
+of the Petitioner's recognition and acclaim in her field. 
+The record often lacks sufficient evidence to give needed context to the Petitioner's claims. For 
+example, the Petitioner shows that, in 2024, she earned a high salary in relation to test engineers in 
+Hungary. But, as the Petitioner has emphasized elsewhere, she worked for a major corporation there. 
+If I Igenerally paid higher salaries than smaller nearby employers, then the 
+Petitioner's high remuneration in 2024 might have had more to do with her employer than with her 
+own individual recognition and acclaim. The record does not address this potentially significant issue. 
+See Racine v. INS, No. 94 e 2548, 1995 WL 153319, at *7 (N.D. Ill. Feb. 27, 1995) (holding that the 
+regulations allow comparison of an alien's salary with that of others similarly situated). 
+Also, the Petitioner provided salary data for only one year, 2024. A single year's ( or even a few years') 
+worth ofsalary data is unlikely to show a consistent history ofhigh remuneration necessary to establish 
+sustained acclaim. See Jafarov v. USCIS, No. 23 eIV. 3372 (PAE), 2024 WL 69056, at *9 (S.D.N.Y. 
+Jan. 5, 2024). 
+The Petitioner served on juries to evaluate "graduate projects" in 2021 and 2023 and at al~---~ 
+in 2024. users concluded that this judging activity satisfied the requirements of 8 e.F.R. 
+§ 204.5(h)(3)(iv), but that the Petitioner had not shown that her judging work showed sustained 
+national or international acclaim at the very top of the field. users also stated: 'The evidence does 
+not show that the beneficiary has reviewed a large number of articles for distinguished journals, 
+magazines, or editorials in the beneficiary's same or allied field." 
+We agree with the Petitioner that users viewed the evidence ofjudging through an academic lens, 
+and that "[t]he regulation does not require journal-article reviewing." But we are also bound by the 
+USCIS Policy Manual, which states: 
+Participating in the judging of the work of others in the same or an allied field of 
+specialization alone, regardless of the circumstances, should satisfy the regulatory 
+criteria in the first step of the analysis. However, the second step requires the officer 
+to evaluate the person's participation to determine whether it was indicative of the 
+person being one of that small percentage who have risen to the very top of the field of 
+endeavor and enjoying sustained national or international acclaim. 
+See, generally, 6 USCIS Policy Manual, supra, at F.2(B)(l). In this case, the burden is on the 
+Petitioner to establish that her review of student projects and jury service at al !demonstrate 
+7 
+the required acclaim and recognition. The Petitioner argues on appeal that her judging work is 
+"[c]omparable to peer review of judging of technical work." But not every peer reviewer, or other 
+type ofjudge, is necessarily at the top of his or her field. The Petitioner has not established how her 
+judging activities show the required level of acclaim and recognition. The burden is on the Petitioner 
+to establish either that she was chosen as a judge because of her existing acclaim, or that her work as 
+a judge resulted in such acclaim. See Agrawal, 2025 WL 2879217, at *23 (upholding that plaintiff 
+did not show how she judged to such an extent, or at a high enough level, that her judging surpasses 
+the majority of the field and places her in the top echelon of the field). 
+The materials from the organizations for which the Petitioner acted as a judge indicate that the 
+Petitioner was invited to serve as a judge owing to her "expertise" and "professional experience." The 
+available evidence does not indicate that the organizations limited their searches to nationally or 
+internationally acclaimed individuals in the Petitioner's field. 
+The record shows that the Petitioner has been successful and productive in her field, but we agree with 
+USCIS that the Petitioner has not established by a preponderance ofthe evidence that she has achieved 
+sustained national or international acclaim in that field. 
+III. CONCLUSION 
+The Petitioner seeks a highly restrictive visa classification, intended for individuals already at the top 
+of their respective fields, rather than those progressing toward the top. Matter ofPrice, 20 I&N Dec. 
+953, 954 (Assoc. Comm'r 1994) ( concluding that even major league level athletes do not 
+automatically meet the statutory standards for classification as an individual of "extraordinary 
+ability,"); Visinscaia, 4 F. Supp. 3d at 131 (internal quotation marks omitted) (finding that the 
+extraordinary ability designation is "extremely restrictive by design"); Hamal v. Dep 't ofHomeland 
+Sec., No. 19-cv-2534, 2021 WL 2338316, at *5 (D.D.C. June 8, 2021), aff'd, 2023 WL 1156801 
+(D. C. Cir. Jan. 31, 2023) ( determining that EB-1 visas are "reserved for a very small percentage of 
+prospective immigrants"); Lapteva v. Schuurmans, No. 8:24CV83, 2025 WL 815087, at *1 (D. Neb. 
+Mar. 10, 2025) ( stating that EB-1 visas are intended to be available to only an exceedingly small 
+amount of individuals with extraordinary ability); see also Hamal v. Dep 't ofHomeland Sec., No. 
+l 9-cv-2534, 2020 WL 2934954, at* 1 (D.D.C. June 3, 2020) ( citing Kazarian, 596 at 1122 (upholding 
+denial of petition of a published theoretical physicist specializing in non-Einsteinian theories of 
+gravitation) (stating that "[c]ourts have found that even highly accomplished individuals fail to win 
+this designation")); Lee v. Ziglar, 237 F. Supp. 2d 914, 918 (N.D. 2002) (finding that "arguably one 
+of the most famous baseball players in Korean history" did not qualify for visa as a baseball coach). 
+Here, the Petitioner has not shown a degree of recognition of her work that rises to the level of 
+sustained national or international acclaim and demonstrates a "career of acclaimed work in the field" 
+as contemplated by Congress. H.R. Rep. No. 101-723, 59 (Sept. 19, 1990); see also section 
+203(b)(1 )(A) of the Act. Moreover, the record does not otherwise demonstrate that the Petitioner is 
+one of the small percentage who has risen to the very top of the field of endeavor. See section 
+203(b)(l)(A) of the Act and 8 C.F.R. § 204.5(h)(2). 
+The Petitioner has not demonstrated eligibility as an alien of extraordinary ability. We will therefore 
+dismiss the appeal. 
+8 
+ORDER: The appeal is dismissed. 
+NOTICE: This constitutes the final decision in this matter. The filing of a motion will not postpone 
+the effect of the decision. 8 C.F.R. § 103 .5( a )(1 )(iv). Aliens who are not lawfully present, or who are 
+otherwise inadmissible or deportable, may be subject to the commencement of removal proceedings 
+under section 240 of the Act through the issuance of a Form 1-862, Notice to Appear. Those 
+proceedings may result in their removal from the United States and possible ineligibility for future 
+visas or other immigration benefits. 
+9 

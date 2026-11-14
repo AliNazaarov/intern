@@ -1,0 +1,264 @@
+Non-Precedent Decision of the
+Administrative Appeals Office 
+U.S. Citizenship 
+and Immigration 
+Services 
+In Re: 42509147 Date: JUN. 02, 2026 
+Appeal of Service Center Operations Decision 
+Form 1-140, Immigrant Petition for Alien Workers (Extraordinary Ability) 
+The Petitioner seeks classification as an alien of extraordinary ability. See Immigration and Nationality 
+Act (the Act) section 203(b)(l)(A), 8 U.S .C. § l 153(b)(l)(A). This first preference classification makes 
+immigrant visas available to those who can demonstrate their extraordinary ability through sustained 
+national or international acclaim and whose achievements have been recognized in their field through 
+extensive documentation. 
+Service Center Operations (SCOPS) denied the petition, concluding the Petitioner satisfied the initial 
+evidentiary requirements for this classification but did not establish, as required, that he has sustained 
+national or international acclaim and is among the small percentage at the very top of his field. The 
+matter is now before us on appeal. 8 C.F.R. § 103.3. 
+The Petitioner bears the burden ofproof to demonstrate eligibility by a preponderance ofthe evidence. 
+Matter afChawathe, 25 l&N Dec. 369, 375-76 (AAO 2010). We review the questions in this matter 
+de novo. Matter a/Christa's, Inc., 26 I&N Dec. 537, 537 n.2 (AAO 2015). Upon de novo review, 
+we will dismiss the appeal. 
+I. LAW 
+Section 203(b)(l)(A) of the Act makes visas available to immigrants with extraordinary ability if: 
+(i) the alien has extraordinary ability in the sciences, arts, education, business, or 
+athletics which has been demonstrated by sustained national or international 
+acclaim and whose achievements have been recognized in the field through 
+extensive documentation, 
+(ii) the alien seeks to enter the United States to continue work in the area of 
+extraordinary ability, and 
+(iii) the alien's entry into the United States will substantially benefit prospectively 
+the United States. 
+The term "extraordinary ability" refers only to those individuals in "that small percentage who have 
+risen to the very top of the field of endeavor." 8 C.F.R. § 204.5(h)(2). The implementing regulation 
+at 8 C.F.R. § 204.5(h)(3) sets forth two options for satisfying this classification's initial evidence 
+requirements. First, a petitioner can demonstrate a one-time achievement (that is, a major, 
+internationally recognized award). Ifthat petitioner does not submit this evidence, then he or she must 
+provide documentation that meets at least three of the ten categories listed at 8 C.F.R. 
+§ 204.5(h)(3)(i) - (x) (including items such as awards, published material in certain media, and 
+scholarly articles). The regulation at 8 C.F.R. § 204.5(h)(4) allows a petitioner to submit comparable 
+material if he or she is able to demonstrate that the standards at 8 C.F.R. § 204.5(h)(3)(i)-(x) do not 
+readily apply to the individual's occupation. 
+Where a petitioner meets these initial evidence requirements, we then consider the totality of the 
+material provided in a final merits determination and assess whether the record shows sustained 
+national or international acclaim and demonstrates that the individual is among the small percentage 
+at the very top of the field of endeavor. See Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010) 
+( discussing a two-part review where the documentation is first counted and then, if fulfilling the 
+required number of criteria, considered in the context of a final merits determination); see also 
+Visinscaia v. Beers, 4 F. Supp. 3d 126, 131-32 (D.D.C. 2013); Rijal v. USCIS, 772 F. Supp. 2d 1339 
+(W.D. Wash. 2011). This two-step analysis is consistent with our holding that the "truth is to be 
+determined not by the quantity of evidence alone but by its quality," as well as the principle that we 
+examine "each piece of evidence for relevance, probative value, and credibility, both individually and 
+within the context ofthe totality ofthe evidence, to determine whether the fact to be proven is probably 
+true." Matter ofChawathe, 25 I&N Dec. at 376. 
+II. ANALYSIS 
+The Petitioner is a lead application developer at~----------------~New 
+Jersey. In his statement of intent, he explained that he specializes "in the design and development of 
+AI-powered workforce analytics platforms, enterprise software architectures, and advanced data 
+visualization systems." He also explained that he plans "on continuing to enhance [Human Capital 
+Management (HCM)] practices by creating novel and improved business intelligence BI solutions." 
+The record indicates the Petitioner has a master's degree in computer science fro~~.________....1 
+I I 
+Because the Petitioner has not indicated or established that he received a major, internationally 
+recognized award, he must satisfy at least three of the alternate regulatory criteria at 
+8 C.F.R. § 204.5(h)(3)(i)-(x). The Petitioner initially claimed seven criteria relating to memberships, 
+published materials, judging, contributions, scholarly articles, leading or critical role, and salary. 
+SCOPS determined he satisfied three of the seven criteria relating to judging, scholarly articles, and 
+salary. Therefore, SCOPS proceeded to do a final merits determination. 
+Given the structure of the regulations and the two-step analysis described in Kazarian, the satisfaction 
+of three evidentiary criteria alone does not automatically or presumptively establish eligibility. In a 
+final merits determination, we evaluate whether a petitioner has demonstrated, by a preponderance of 
+2 
+the evidence, their sustained national or international acclaim, 1 that they are among the small 
+percentage at the very top of his field of endeavor, and that their achievements have been recognized 
+in the field through extensive documentation. Therefore, we analyze an individual's accomplishments 
+and weigh the totality of the evidence to determine if their successes are sufficient to demonstrate 
+extraordinary ability in the field of endeavor. See section 203(b)(l)(A)(i) of the Act; 8 C.F.R. 
+§ 204.5(h)(2), (3); see also Kazarian, 596 F.3d at 1119-20.2 Here, SCOPS concluded that, although 
+the Petitioner met the initial evidence requirements, he did not show he garnered sustained national or 
+international acclaim and that he is among that small percentage who have risen to the very top of the 
+field. 
+On appeal, the Petitioner contends the record "[d]emonstrates sustained national acclaim through the 
+convergence of industry adoption, commercial impact, peer selection, market compensation, and 
+expert endorsement." He asserts SCOPS made procedural and legal errors in the decision. We 
+evaluate the totality of the evidence, based on the documentation presented to SCOPS, in the context 
+of the final merits determination. After reviewing the Petitioner's appellate claims and the remaining 
+record, we agree with SCOPS that he has not shown sustained national or international acclaim or that 
+he is eligible for this immigration benefit. 
+As a preliminary matter, the Petitioner has provided inconsistent information regarding his occupation. 
+On the Form 1-140, the Petitioner indicated his job title as "Lead Application Developer" and he 
+explained that he is a leading expert in the field of software development. However, in response to 
+SCOPS' request for evidence (RFE), he stated that he is a senior software engineer and he has 
+sustained national and international recognition in the field of software engineering and enterprise 
+systems architecture. Moreover, on appeal, the Petitioner states that he is an enterprise software 
+architect. The Petitioner must resolve this ambiguity in the record with independent, objective 
+evidence pointing to where the truth lies. Matter ofHo, 19 I&N Dec. 582, 591-92 (BIA 1988). 
+As discussed further below, the Petitioner belongs to associations, authored material, conducted 
+review work, made contributions, served in a critical role, and earned a salary for his work. However, 
+in considering the totality of the evidence, the Petitioner has not demonstrated that his achievements 
+to date reflect a "career of acclaimed work in the field" as contemplated by Congress at H.R. Rep. No. 
+101-723, 59 (Sept. 19, 1990). Nor has he shown that he has risen to that small percentage at the very 
+top ofthe field ofendeavor. See 8 C.F .R. § 204.5(h)(2). The commentary for the proposed regulations 
+implementing section 203(b )(1 )(A)(i) of the Act provides that the "intent of Congress that a very high 
+standard be set for aliens of extraordinary ability is reflected in this regulation by requiring the 
+petitioner to present more extensive documentation than that required" for lesser classifications. 56 
+Fed. Reg. 30703, 30704 (July 5, 1991). Here the Petitioner has not established that he meets these 
+very high standards. See Amin v. Mayorkas, 24 F.4th 386-87 (5th cir. 2022) (stating that the narrow 
+definition reflects the stringency of the extraordinary ability standard). 
+1 See generanv 6 USCIS Policy Manual F.2(A)(l ), https://www.uscis.gov/policy-manual (stating that the definition of 
+"sustain" is "to support or maintain, especially over a long period of time ... To persist in making (an effort) over a long 
+period of time"). 
+2 See generally 6 USC1S Policy Manual F.2(B)(2) (stating that USCIS officers should evaluate the evidence together when 
+considering the petition in its entirety to determine if a petitioner has established by a preponderance of the evidence, the 
+required high level of expertise required for this immigrant classification). 
+3 
+The Petitioner provided evidence of his memberships with the British Computer Society Fellowship 
+(FBCS), Hackathon Raptors Fellowship, Forbes Technology Council, and the Institute of Electrical 
+and Electronics Engineers (IEEE). However, the Petitioner does not show how his memberships 
+resulted in sustained national or international acclaim or a career of acclaimed work. See Donskoy v. 
+United States Citizenship & Immigr. Servs., No. 21-CV-04757-CRB, 2021 WL 5240224, at *5 (N.D. 
+Cal. Nov. 11, 2021) (upholding the petitioner's membership did not demonstrate the requisite level of 
+achievement or sustained acclaim to establish extraordinary ability). 
+Moreover, the Petitioner does not demonstrate how his memberships reflect that small percentage who 
+have risen to the very top of the field of endeavor. For example, the Petitioner does not explain how 
+the Forbes Technology Council membership, which requires applicants to have "at least $1 M in annual 
+revenue and/or" have "at least $IM in financing," places him among the upper echelon of his field. 
+The record does not contain evidence indicating that he received national or international recognition 
+based on his membership with any of these associations. In addition, the Petitioner did not establish 
+that he has distinguished himself from others in the field based on his memberships, gaining national 
+or international attention or placing him among the upper echelon in his field. 
+Regarding published materials, the Petitioner offered five articles he wrote for Forbes in 2025, which 
+he states, "includes his expert commentary on matters directly related to his occupational field." He 
+explained that the inclusion of his work in Forbes "constitutes public recognition of his professional 
+impact and positions him among a select group of industry leaders whose perspectives shape 
+contemporary discourse in technology and innovation." However, while the published material 
+indicates some attention to him and his work, the Petitioner does not establish that such reporting is 
+consistent with a level of success among that small percentage who has risen to the very top of the 
+field of endeavor or has achieved sustained national or international acclaim. The Petitioner, for 
+instance, does not show how his five articles published inl 12025, approximately six 
+months prior to the filing of the instant petition, compares to other lead application developers among 
+the very top of the field. Here, the Petitioner does not demonstrate how his published materials reflect 
+a career of acclaimed work in the field or a very high standard to present more extensive 
+documentation than that required. 
+Relating to the Petitioner's service as a judge of the work of others in his field, an evaluation of the 
+significance of his experience is appropriate to determine if such evidence is indicative of the 
+extraordinary ability required for this highly restrictive classification. See Kazarian, 596 F. 3d at 
+1121-22. 3 The record shows that the Petitioner served as a ·ud e for the 2024 ~------~ 
+~-------~2024~----------------.---- as well as a technical 
+manuscript reviewer for several books for~-------~ and a peer reviewer for several 
+journals and conferences in 2024 and 2025. However, the Petitioner does not establish that these 
+judging instances contributed to a finding that he has a career of acclaimed work in the field or 
+indicative of the required sustained national or international acclaim. The Petitioner does not show, 
+for example, how his judging experience compares to others at the very top of the field. In addition, 
+the Petitioner does not establish, for instance, that he garnered wide attention from the field based on 
+3 See also generally 6 USC1S Policy Manual F.2(B)(l) (providing that the second step requires USCIS to evaluate the 
+person's judging participation to determine whether it was indicative of the person being of that small percentage who has 
+risen to the very top of the field of endeavor and enjoying sustained national or international acclaim). 
+4 
+his evaluation work. Moreover, participation in the peer review process does not automatically 
+demonstrate that an individual has sustained national or international acclaim. Here, the Petitioner 
+does not sufficiently explain the relevance of his judging occurrences. See Hamal v. United States 
+Dep 't ofHomeland Sec., No. 21-5160, 2023 WL 1156801, at *2 (D.C. Cir. Jan. 31, 2023) (finding the 
+petitioner did not provide needed context for his judging experience and the response to his work). 
+Without evidence that sets the Petitioner apart from others in his field, such as evidence that he has a 
+consistent history ofreviewing or judging recognized, acclaimed experts in his field, the Petitioner has 
+not shown that his two years ofjudging experience places him among that small percentage who has 
+risen to the very top of the field of endeavor. See Hamal v. United States Dep 't ofHomeland Sec., 
+No. 21-5160, 2023 WL 1156801, at *2 (finding the petitioner did not show that he served as a judge 
+of renowned directors as opposed to aspiring artists or the competitions were considered prestigious 
+or attracted significant attention by the field). 
+Likewise, authorship and publication do not automatically place one at the top ofthe field. 4 The record 
+reflects the Petitioner presented evidence showing that he published and presented his articles at 
+conferences in 2024 and 2025. However, the Petitioner does not demonstrate that his publication 
+record is consistent with having a career of acclaimed work, sustaining national or international 
+acclaim, and being among the small percentage at the very top ofhis field. The Petitioner, for instance, 
+does not show the significance of the number of his authorships or how his publication record 
+compares to others who are viewed to be at the very top of the field. See Jafarov v. United States 
+Citizenship & Immigr. Servs., No. 23 CIV. 3372 (PAE), 2024 WL 69056, at *9 (finding it reasonable 
+for USCIS to focus on the fact that a publication record of six publications over seven years 
+inconsistent with a career of acclaimed work and sustained national or international acclaim). 
+In support of his contributions, the Petitioner submitted copies of two patents for graphical user 
+interface design, where he was one of several inventors for his employer's technology. The Petitioner 
+also hi hli hted that he develo ed and desi ned several technolo ies for his em loyer, including 
+In addition, he~-------------------------------~ provided press releases from his employer about its technologies. Although the evidence indicates the 
+originality of his work, the Petitioner does not establish that his contributions garnered him national 
+or international acclaim. For instance, the Petitioner does not establish that these technologies have 
+made a major impact in the field of endeavor as a whole. Evidence that the person's work was fonded, 
+patented, or published, while potentially demonstrating the work's originality, will not necessarily 
+establish, on its own, that the work is of major significance to the field. See generally 6 USCIS Policy 
+Manual F.2(B)(l ), https://www.uscis.gov/policy-manual. The Petitioner also noted that his work "has 
+been cited 23 times by leading corporations" such as Google, Salesforce, Thomas Reuters, and 
+Microsoft. However, the Petitioner does not provide context for these claims. For instance, the 
+Petitioner does not show that being "cited 23 times by leading corporations" represents a person who 
+is among the small percentage at the very top of the field or somehow reflects sustained national or 
+international acclaim. See Donskoy v. United States Citizenship & Immigr. Servs., No. 21-CV-04757-
+CRB, 2021 WL 5240224, at *6 (N.D. Cal. Nov. 11, 2021) (finding the Petitioner did not establish that 
+4 See also generally 6 USC1S Policy Manual, supra, at F.2(B)(l) (indicating that the second step requires USCIS to 
+evaluate the person's publications to determine whether it is indicative ofbeing one of that small percentage who has risen 
+to the very top of the field of endeavor and enjoying sustained national or international acclaim). 
+5 
+he garnered sustained national or international acclaim for his contributions, and his achievements 
+have been recognized). 
+In addition, the record includes six recommendation and reference letters, as well as three expert 
+opinion letters. However, the letters are not sufficiently persuasive. The letters generally praise him 
+and his work. For instance, K-B- states that the Petitioner's "work ate=] has had a profound impact 
+on the company and our clients" and he is "confident that his contributions will continue to shape the 
+future of HR technology." The letter from S-N- states that the Petitioner's "work on the Data Mashup, 
+Tableau Data Connector and Power BI Connector projects has been innovative, impactful, and pivotal 
+in enhancing! Ibusiness intelligence offerings and driving revenue growth" and that his "deep 
+technical expertise, leadershil, andl ability to deliver scalable and user-friendly solutions have made 
+him an indispensable asset to " The letter from B-W- also generally states that the Petitioner's 
+"innovations have helped thousands of businesses gain deeper insights into their workforce, leading 
+to better strategic decisions. Solutions developed by [the Petitioner] are directly contributing to over 
+88 Million USD annual revenue for c=Jand its Data Solutions Division and over 55k thousand 
+companies globally use his solution regularly." Moreover, the letter from R-N- concludes that the 
+Petitioner "is one of the few pioneers who reshaped HCM data intelligence and business intelligence 
+practices through the use of AI. His contributions have shown quantitative and qualitative impact 
+across the industry and have become foundational to how companies conduct their operations." 
+Letters that make general and expansive statements regarding the beneficiary and the beneficiary's 
+accomplishments are generally not persuasive. See generally 6 USCIS Policy Manual F.2(B)(3). 
+Here, the letters do not claim, nor does the content show that the Petitioner achieved national or 
+international acclaim from the field. Moreover, the letters do not demonstrate that the Petitioner has 
+attracted a level of attention placing him at the very top of his field. In addition, the letters do not 
+show that he has enjoyed a career of acclaimed work. See Jafarov v. United States Citizenship & 
+Immigr. Servs., No. 23 CIV. 3372 (PAE), 2024 WL 69056, at *9 (finding testimonial letters were 
+insufficient to establish his relative status in the field and do not compare him to others). 
+Finally, although the Petitioner documented his income as a lead application developer, he does not 
+establish that he commanded earnings commensurate with sustained national or international acclaim. 
+The Petitioner does not show that his wages are tantamount to an individual who is among that small 
+percentage at the very top of the field of endeavor. He does not demonstrate, for example, how his 
+earnings compare to others at the very top of the field or other renowned lead application developers 
+or that he received notoriety or attention based on his salary separating himself from others in the field 
+or placing him in the upper echelon. See Bodhankar v. United States Citizenship & Immigr. Servs., 
+No. l 19CV706MADCFH, 2020 WL 777211, at *5 (finding that the plaintiff's high salary was not so 
+high as to indicate that he has risen to the very top of the field). 
+6 
+III. CONCLUSION 
+The record as a whole, including the evidence discussed above, does not establish the Petitioner's 
+eligibility for the benefit sought. 5 Here, the Petitioner seeks a highly restrictive visa classification, 
+intended for individuals already at the top of their respective fields, rather than those progressing 
+toward the top. Matter ofPrice, 20 I&N Dec. 953,954 (Assoc. Comm'r 1994) (concluding that even 
+major league level athletes do not automatically meet the statutory standards for classification as an 
+individual of "extraordinary ability,"); Amin v. Mayorkas, 24 F.4th at 394 (stating that extraordinary 
+ability is such an elite level of accomplishment); Lapteva v. Schuurmans, No. 8:24CV83, 2025 WL 
+815087, at *1 (D. Neb. Mar. 10, 2025) (stating that EB-1 visa are intended to be available to only an 
+exceedingly small amount of individuals with extraordinary ability). In this case, the Petitioner has 
+not shown the significance of his work is indicative of the required sustained national or international 
+acclaim or it is consistent with a career of acclaimed work in the field. See Section 203(b )(1 )(A) of 
+the Act. While the Petitioner need not establish that there is no one more accomplished to qualify for 
+the classification sought, the record is insufficient to demonstrate that he is among the small percentage 
+at the top of his field. See 8 C.F.R. § 204.5(h)(2). 
+For the reasons discussed, the Petitioner has not demonstrated his eligibility as an individual of 
+extraordinary ability. The appeal will be dismissed for the above stated reasons. In visa petition 
+proceedings, it is a petitioner's burden to establish eligibility for the immigration benefit sought. The 
+Petitioner has not met that burden here. 
+ORDER: The appeal is dismissed. 
+NOTICE: This constitutes the final decision in this matter. The filing of a motion will not postpone 
+the effect ofthe decision. 8 C.F.R. § 103.5(a)(l)(iv). Aliens who are not lawfully present, or otherwise 
+inadmissible or deportable, may be subject to the commencement of removal proceedings under 
+section 240 of the Act through the issuance of a Form 1-862, Notice to Appear. Those proceedings 
+may result in their removal from the United States and possible ineligibility for future visas or other 
+immigration benefits. 
+5 See generally 6 USC1S Policy Manual, supra, at F.2(B)(2) (providing that some evidence weighs more favorably on its 
+own, while other evidence is more persuasive when viewed with other evidence). 
+7 

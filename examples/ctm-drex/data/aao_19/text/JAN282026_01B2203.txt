@@ -1,0 +1,264 @@
+Non-Precedent Decision of the
+Administrative Appeals Office 
+U.S. Citizenship 
+and Immigration 
+Services 
+In Re: 40512632 Date: JAN. 28, 2026 
+Appeal of Service Center Operations (SCOPS) Decision 
+Form 1-140, Immigrant Petition for Alien Workers (Extraordinary Ability) 
+The Petitioner, a senior staff engineer, seeks classification as an alien of extraordinary ability. See 
+Immigration and Nationality Act (the Act) section 203(b)(l)(A), 8 U.S.C. § l 153(b)(l)(A). This first 
+preference classification makes immigrant visas available to those who can demonstrate their 
+extraordinary ability through sustained national or international acclaim and whose achievements have 
+been recognized in their field through extensive documentation. 
+Service Center Operations (SCOPS) denied the petition, concluding the Petitioner did not establish, 
+as required, that he meets at least three of the ten evidentiary criteria set forth in the regulations for 
+this classification. The matter is now before us on appeal pursuant to 8 C.F.R. § 103 .3. 
+The Petitioner bears the burden ofproof to demonstrate eligibility by a preponderance of the evidence. 
+Matter afChawathe, 25 I&N Dec. 369, 375-76 (AAO 2010). We review the questions in this matter 
+de novo. Matter a/Christa's, Inc. , 26 I&N Dec. 537,537 n.2 (AAO 2015). Upon de novo review, 
+we will dismiss the appeal. 
+I. LAW 
+An alien is eligible for the extraordinary ability immigrant classification under section 203(b)(l)(A) 
+of the Act if: they have extraordinary ability in the sciences, arts, education, business, or athletics 
+which has been demonstrated by sustained national or international acclaim and their achievements 
+have been recognized in the field through extensive documentation; they seek to enter the country to 
+continue working in the area of extraordinary ability; and their entry into the United States would 
+substantially benefit the country. 
+The term "extraordinary ability" refers only to those individuals in "that small percentage who have 
+risen to the very top of the field of endeavor." 8 C.F.R. § 204.5(h)(2). The implementing regulation 
+at 8 C.F.R. § 204.5(h)(3) sets forth a multi-part analysis. First, a petitioner can provide evidence of a 
+one-time achievement (that is, a major, internationally recognized award). If a petitioner does not 
+submit this evidence, then they must document that they meet at least three of the ten criteria listed at 
+8 C.F.R. § 204.5(h)(3)(i)-(x) (including items such as awards, published material in certain media, and 
+scholarly articles). 
+Where a petitioner demonstrates that they meet these initial evidence requirements, we then consider 
+the totality ofthe material provided in a final merits determination and assess whether the record shows 
+sustained national or international acclaim and demonstrates that they are among the small percentage 
+at the very top of the field of endeavor. See Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010) 
+( discussing a two-part review where the documentation is first counted and then, if fulfilling the 
+required number of criteria, considered in the context of a final merits determination); see also Amin 
+v. Mayorkas, 24 F.4th 383, 391 (5th Cir. 2022) (finding USCIS' two-step analysis of extraordinary 
+ability "consistent with the governing statute and regulation"). 
+II. ANALYSIS 
+The Petitioner has been employed by ........__________, since 2013, where he currently works 
+as a senior staff engineer in H-lB nonimmigrant status. He claims eligibility for classification as an 
+alien of extraordinary ability as "a leading expert in advanced wireless technologies." 
+A. Evidentiary Criteria 
+Because the Petitioner has not indicated or shown that he received a major, internationally recognized 
+award, he must satisfy at least three of the alternate regulatory criteria at 8 C.F.R. § 204.5(h)(3)(i)-(x). 
+The Petitioner has consistently claimed that he satisfies four criteria, summarized below: 
+• (iii), Published materials in professional, major trade publications or other major media; 
+• (v), Original contributions of major significance; 
+• (viii), Leading or critical role for distinguished organizations or establishments; and 
+• (ix), High salary in relation to others in the field. 
+SCOPS determined that the Petitioner met only one criterion by demonstrating that he has performed 
+in a leading or critical role for his employer and that his employer enjoys a distinguished reputation. 
+See 8 C.F.R. § 204.5(h)(3)(viii). The record supports SCOPS' favorable determination with respect 
+to that criterion. 
+On appeal, the Petitioner asserts that he meets all four claimed criteria and maintains that SCOPS 
+misapplied USCIS policy guidance and arbitrarily overlooked, dismissed or rejected relevant evidence 
+that was sufficient to establish his eligibility by a preponderance of the evidence. 1 
+After reviewing all the evidence in the record, we conclude that the Petitioner has not established that 
+he meets at least three of the ten evidentiary criteria at 8 C.F.R. § 204.5(h)(3)(i)-(x). Accordingly, he 
+has not established his eligibility for classification as an alien of extraordinary ability. We discuss the 
+contested individual criteria below. 
+1 The Petitioner stated on the Form I-290B, Notice of Appeal or Motion, filed on September 2, 2025, that he would provide 
+a brief and/or additional evidence within 30 days. We have not received a supplemental brief or evidence and consider the 
+record complete as presently constituted. 
+2 
+1. Published Material 
+The criterion at 8 C.F.R. § 204.5(h)(3)(iii) requires evidence of published material about the alien in 
+professional or major trade publications or other major media, relating to the person's work in the field 
+for which classification is sought. 
+In evaluating evidence submitted under this criterion, U.S. Citizenship and Immigrant Services 
+(USCIS) must first determine whether the published material was related to the petitioner and their 
+specific work in the field. The published material should be about the person, relating to their work 
+in the field, and not just about their employer and the employer's work, or about another organization 
+and that organization's work. See generally 6 USCIS Policy Manual F.2(B)(l), 
+https://www.uscis.gov/policy-manual. 
+However, the person and the person's work need not be the only subject of the material; published 
+material that covers a broader topic but includes a substantial discussion of the person's work in the 
+field and mentions the person in connection to the work may be considered material about the person 
+relating to the person's work. USCIS may also consider material that focuses solely or primarily on 
+work or research being undertaken by a team of which the person is a member, provided that the 
+material mentions the person in connection with the work or other evidence in the record documents 
+the person's significant role in the work or research. Id. 
+At the time of filing, the Petitioner stated that his work in advanced wireless technologies, including 
+Wi-Fi 6E, Wi-Fi 7, automated frequency coordination (AFC) systems and fixed wireless access 
+(FW A) platforms, has been featured in coverage by major media and professional publications. He 
+provided: (1) online articles published by media outlets Yahoo, Forbes, and PC Mag; 2 (2) press 
+releases and other materials published by the websites ofl ICommScope, Cisco, TLP Law, 
+and the Wireless Broadband Alliance; and (3) a Federal Communications Commission (FCC) Public 
+Notice announcing approval of seven 6 GHz band automated frequency coordination (AFC) systems 
+for commercial operation. 
+The Petitioner emphasized that while he "is not personally named in these articles, the technologies 
+highlighted in these reports are the very systems he architected, validated, and launched, as 
+documented in detailed letters of support." 
+SCOPS acknowledged the Petitioner's submission of "numerous articles about his field," but 
+concluded the evidence did not satisfy this criterion because it is not "about the petitioner." On appeal, 
+the Petitioner asserts that SCOPS "incorrectly required articles to be 'about' [him] personally, 
+contradicting Policy Manual guidance permitting coverage of teamwork where other evidence 
+documents the person's significant role." The Petitioner asserts that multiple articles "covered 
+technologies [he] developed with executive letters confirming his central role." 
+2 Cover letters submitted in support of the petition and in response to the request for evidence refer to articles published 
+by C'NBC, The Washington Post. ZDNet. and PR Newswire. However, the Petitioner has not listed articles from these 
+sources on the tables of contents accompanying his submissions, nor has he provided copies of these articles for the record. 
+3 
+I 
+While we agree with the Petitioner that SCOPS should have addressed his claims regarding the 
+applicability of the referenced USCIS Policy Manual guidance, the record does not support his 
+contention that he provided published material that "focuses solely or primarily on work or research 
+being undertaken by a team of which [he] is a member." 
+Turning to the submitted evidence, we note the Petitioner rovided a letter from 
+Ivice president and general manager for....._-~----~------~ who 
+stated that "numerous media articles have been written about.__ _______, major contributions to the 
+[Wi-Fi] industry." He referenced "articles on I Ileadership and launches on [Wi-Fi] 7," 
+"Service Defined Wi-Fi" and "Fixed Wireless Access" published by San Diego Business Journal, 
+Yahoo Finance, Wi-Fi Now Global, and GulfTimes.I Istated that the Petitioner 'was 
+a critical member ofthe team whose work is featured in these articles." However, copies ofthe articles 
+he referenced in his letter were not submitted for incorporation into the record. We therefore cannot 
+evaluate them under this criterion to ascertain whether they focused solely or primarily on work or 
+research undertaken by a team of which the petitioner was a member. 
+Further, ofthe published materials the Petitioner submitted for the record, we note that only the Yahoo, 
+Forbes and PCMag articles meet the regulatory requirement that a petitioner provide evidence of 
+published material "in professional or major trade publications or other major media." See 8 C.F.R. 
+§ 204.5(h)(3)(iii). He has not explained, for example, how product information from his employer's 
+website could be considered a qualifying publication under this criterion. 
+The articled ublished b Yahoo entitled' 
+'---------...-----------'" reports on'----~---~---' announcement that 
+it has partnered wit '-----~to deliver Wi-Fi 7 routers to its....___~ dvanced Wi-Fi customers 
+in 2024. The article compares Wi-Fi 7's performance and features to predecessor Wi-Fi technologies 
+and includes a quote from al Ispokesperson, praising! Ifor their "leading Wi-Fi 7 
+innovations." 
+The Forbes article, enrt=it=le=d=--i.--~--------------------------l
+I I' discusses chipset products designed for the Wi-Fi 7 standard and how its 
+latest chipset,__ _________, compares to the company's current product offerings. It provides 
+the author's insights on which devices are likely to use the new chipset and which products will be 
+direct competitors. 
+Finally, the PCMag article, entitled 'L-------1-------,...._______________.J" 
+reports onl !announcement of its._____~·' described as a "4G/5G component that will 
+connect 2022's phones to carrier networks." The article notes that the new modem allows for "10 
+gigabit" 5G connectivity by expanding the number of 5G channels it can use at once, and speculates 
+as to whether Apple or Samsung would be the first major manufacturer to incorporate it into their 
+mobile phones. The article also mentioned thatl lhas developed a new, second-generation 
+dedicated FW A ( fixed wireless access) platform based on the I Iand discusses the state of 
+the FW A market. 
+While these articles may "describe the public deployment and strategic importance of technologies" 
+that rely in part on the Petitioner's contributions as a senior staff engineer at I Ithey do not 
+4 
+"focus solely or primarily on work or research being undertaken by a team" of which the Petitioner is 
+or was a member, as contemplated by the guidance at 6 USCIS Policy Manual, supra, at F.2(B)(l). 
+The plain language of this criterion requires evidence of published material "about the alien" and 
+"relating to the person's work in the field." 8 C.F.R. § 204.5(h)(3)(iii). Therefore, published material 
+that does not mention a petitioner by name, like that submitted here, will generally not satisfy this 
+language. The USCIS Policy Manual states we may consider published material that focuses "solely 
+or primarily on work or research undertaken by a team" of which the petitioner was a member and key 
+contributor." None of the submitted articles have such a focus. 
+We acknowledge that the record contains testimonial evidence from I Iand its partners, 
+explaining the Petitioner's contributions to accelerating the market readiness ofcompany products and 
+technologies that are mentioned in articles about the company and its commercial partnerships. 
+However, we disagree with the Petitioner's position that any article aboutl Ithat mentions 
+these same products and technologies in any context should be deemed an article about the Petitioner 
+and his work that satisfies the regulatory language at 8 C.F.R. § 204.5(h)(3)(iii) and the applicable 
+USCIS policy guidance. That guidance requires USCIS to distinguish between "published material 
+about the employer and the employer's work," which is explicitly non-qualifying under this criterion, 
+and "material that focuses solely or primarily on work or research being undertaken by a team" of 
+which the petitioner is a member. Here, the published materials fall into the former category. 
+Therefore, for the foregoing reasons, the Petitioner has not demonstrated that he meets this criterion. 
+2. High Salary 
+The criterion at 8 C.F.R. § 204.5(h)(3)(ix) requires evidence that the petitioner has commanded a high 
+salary, or other significantly high remuneration for services, in relation to others in the field. Evidence 
+relevant to this criterion includes tax returns, pay statements or other evidence of past salary or 
+remuneration for services, along with comparative wage or remuneration data for the person's field, 
+such as geographical or position-appropriate compensation surveys. See generally 6 USCIS Policy 
+Manual, supra, at F.2(B)(l). 
+The Petitioner claimed that he meets this criterion based on his high salary and provided ersonnel 
+and payroll records showing that his base salary as a senior staff engineer with was 
+$192,781.66 in 2023 and $200,575.14 in 2024. 3 The Petitioner's work location is in~--~ 
+California. 
+The Petitioner provided comparative wage data for "software quality assurance analysts and testers" 
+published by the Bureau of Labor Statistics (www.bls.gov/oes) in May 2023. 4 This source shows the 
+3 The "Employment Plus Income" statement he provided from his employer indicated that he received additional 
+remuneration through participation in an ·i I' a bonus, and other sources, resulting in total compensation of 
+$289,882.23 in 2023 and $344,643.53 in 2024. However, he did not provide comparative total remuneration data for 
+similarly employed workers in his field or claim that he has commanded significantly high remuneration. 
+4 The Petitioner explained that these DOL salary resources do not provide specific salary data for software engineers, and 
+noted that the duties that fall under the "software quality assurance analysts and testers" occupation closely align with 
+5 
+following annual mean wages: $108,460 (United States); $132,750 (California); and $164,470 (San 
+Jose metropolitan area). The record also includes 2023 wage data from the Department of Labor's 
+(DOL) Career One Stop salary finder (www.careeronestop.org), which shows low, median and high 
+salaries for software quality assurance analysts and testers. The high salaries reported are as follows: 
+$164,520 (United States); $196,730 (California), and $214,880 ~.____ ____.lmetropolitan area). 
+SCOPS determined that the wage reports were not specific to the Petitioner's position as a senior staff 
+engineer and found he "did not provide evidence that compares his remuneration to others in his 
+profession with the same level of expertise, education and years of experience." 
+On appeal, the Petitioner asserts that SCOPS erroneously rejected the provided wage data and 
+maintains that his senior staff engineering role, which has a documented focus on software testing, 
+validation and quality assurance, matches the occupational classification of "software quality 
+assurance analysts and testers." He maintains that his $200,575 salary "exceeds the national median 
+by 97% and thel lmetro median by 22%." 
+We conclude, contrary to SCOPS' determination, that the Petitioner provided appropriate comparative 
+wage data for his position and geographic area of employment. We also agree that the Petitioner's 
+salary exceeds the mean or median salary reported in DOL sources for the United States, California 
+and the I Imetropolitan area. However, we disagree with the Petitioner's assertion that "any 
+salary exceeding the median is considered objectively high under USCIS guidance," and note that he 
+does not cite to any users policy guidance supporting this interpretation of the regulatory language 
+at 8 C.F.R. § 204.5(h)(3)(ix). 
+users policy guidance emphasizes the probative value of geographically specific compensation 
+surveys when evaluating this criterion. See generally 6 USCIS Policy Manual, supra at F.2(B)(l). 
+The submitted BLS data shows that the I larea where the Petitioner works is the top paying 
+metropolitan area in the United States for his occupation and that there are significant regional 
+variations in pay. To show that he meets this criterion, the evidence should demonstrate that his salary 
+is high compared to other similarly employed workers in the same geographic area. 
+The Petitioner's 2023 annual base salary of $192,781.66 is above the reported median wage of 
+$164,160 for similarly employed workers inl lbased on the 2023 data from DOL's Career One 
+Stop website. However, it falls more than $22,000 below the published high salary of$214,880, which 
+corresponds to the 90th percentile figure reported by BLS. 
+As explained above, the record does not support the Petitioner's claim that users considers a "high 
+salary" as "any salary exceeding the median." Here, the evidence does not sufficiently establish that 
+the Petitioner has commanded a high salary, as opposed to one that is above average, in comparison 
+to others in the field. Therefore, the Petitioner has not demonstrated that he meets this criterion. 
+those he performs atl IHe provided a description ofthe occupation from the DOL's ON et Online website. which 
+shows that job titles reported under this application include software quality assurance engineer, software test engineer and 
+software quality engineer. 
+6 
+3. Summary and reserved criterion 
+Although SCOPS determined that the Petitioner has performed in a leading or critical role for his 
+employer, the record does not establish that the Petitioner meets either of the evidentiary criteria 
+discussed above. Because the Petitioner cannot meet the initial evidentiary requirement of three 
+criteria under 8 C.F.R. § 204.5(h)(3), detailed discussion ofthe remaining claimed criterion at 8 C.F.R. 
+§ 204.5(h)(3)(v) cannot change the outcome of the appeal. Accordingly, we need not reach, and 
+therefore reserve, this remaining criterion. See INS v. Bagamasbad, 429 U.S. 24, 25 (1976) (per 
+curiam) (holding that agencies are not required to make "purely advisory findings" on issues that are 
+unnecessary to the ultimate decision). 
+III. CONCLUSION 
+The Petitioner has not submitted the required initial evidence of either a one-time achievement or 
+documents that meet at least three of the ten criteria. As a result, we need not provide the type of final 
+merits determination referenced in Kazarian, 596 F.3d at 1119-20. Nevertheless, we advise that we 
+have reviewed the record in the aggregate, and concluded it does not support a finding that the 
+Petitioner has the sustained acclaim and recognition required for the classification sought. 
+The Petitioner seeks a highly restrictive visa classification. USCIS has long held that even athletes 
+performing at the major league level do not automatically meet the "extraordinary ability" 
+standard. Matter of Price, 20 I&N Dec. 953, 954 (Assoc. Comm'r 1994). Here, the Petitioner 
+demonstrated that his work as a senior staff engineer is highly valued by his long-time employer and 
+its commercial partners, and that he has played a role in ensuring the market readiness of some of its 
+Wi-Fi and networking technologies. However, he has not shown that the significance of his work is 
+indicative of the required sustained national or international acclaim or that it is consistent with a 
+"career of acclaimed work in the field" as contemplated by Congress. H.R. Rep. No. 101-723, 59 
+(Sept. 19, 1990); see also section 203(b )(1 )(A) of the Act. Moreover, the record does not otherwise 
+demonstrate that the Petitioner has garnered sustained national or international acclaim in his field, 
+and that he is one of the small percentage who have risen to the very top of the field of endeavor. See 
+section 203(b)(l)(A) of the Act and 8 C.F.R. § 204.5(h)(2). 
+For the reasons discussed above, the Petitioner has not demonstrated his eligibility as an individual of 
+extraordinary ability. The appeal will be dismissed for the above-mentioned reasons, with each 
+considered as an independent and alternate basis for the decision. 
+ORDER: The appeal is dismissed. 
+NOTICE: This constitutes the final decision in this matter. The filing of a motion will not postpone the 
+effect of the decision. 8 C.F.R. § 103.5(a)(l)(iv). Aliens who are not lawfully present, or who are 
+otherwise inadmissible or deportable, may be subject to the commencement of removal proceedings 
+under section 240 ofthe Act through the issuance ofa Form 1-862, Notice to Appear. Those proceedings 
+may result in their removal from the United States and possible ineligibility for future visas or other 
+immigration benefits. 
+7 

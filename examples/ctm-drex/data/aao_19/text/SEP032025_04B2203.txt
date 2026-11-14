@@ -1,0 +1,244 @@
+Non-Precedent Decision of the
+Administrative Appeals Office 
+U.S. Citizenship 
+and Immigration 
+Services 
+In Re: 37958792 Date: SEP. 3, 2025 
+Appeal of Service Center Operations (SCOPS) Decision 
+Form 1-140, Immigrant Petition for Alien Workers (Extraordinary Ability) 
+The Petitioner, a researcher specializing in cybersecurity, seeks classification as an individual of 
+extraordinary ability. See Immigration and Nationality Act (the Act) section 203(b)(l)(A), 8 U.S.C. 
+§ ll 53(b)(1 )(A). This first preference classification makes immigrant visas available to those who 
+can demonstrate their extraordinary ability through sustained national or international acclaim and 
+whose achievements have been recognized in their field through extensive documentation. 
+Service Center Operations (SCOPS) denied the petition, concluding that while the record showed that 
+the Petitioner met the initial evidence requirement for this classification by fulfilling at least three of 
+the evidentiary criteria under 8 C.F.R. § 204.5(h)(3), the record did not establish that he was among 
+the very top of his field or that he possessed the requisite sustained national or international acclaim 
+to demonstrate his eligibility as an individual of extraordinary ability. The matter is now before us on 
+appeal pursuant to 8 C.F.R. § 103.3. 
+The Petitioner bears the burden ofproof to demonstrate eligibility by a preponderance of the evidence. 
+Matter ofChawathe, 25 I&N Dec. 369, 375-76 (AAO 2010). We review the questions in this matter 
+de novo. Matter of Christo 's, Inc., 26 l&N Dec. 537, 537 n.2 (AAO 2015). Upon de novo review, 
+we will dismiss the appeal. 
+I. LAW 
+An individual is eligible for the extraordinary ability classification if they have extraordinary ability 
+in the sciences, arts, education, business, or athletics which has been demonstrated by sustained 
+national or international acclaim and their achievements have been recognized in the field through 
+extensive documentation; they seek to enter the United States to continue work in the area of 
+extraordinary ability; and their entry into the United States will substantially benefit prospectively the 
+United States. Section 203(b)(l)(A) of the Act. 
+The term "extraordinary ability" refers only to those individuals in "that small percentage who have 
+risen to the very top of the field of endeavor." 8 C.F.R. § 204.5(h)(2). The implementing regulation 
+at 8 C.F.R. § 204.5(h)(3) sets forth a multi-part analysis. First, a petitioner may demonstrate 
+international recognition of their achievements in the field through a one-time achievement (that is, a 
+major, internationally recognized award). Absent such an achievement, a petitioner must provide 
+sufficient qualifying documentation demonstrating that they meet at least three ofthe ten criteria listed 
+at 8 C.F.R. § 204.5(h)(3)(i)-(x). 
+Where a petitioner meets these initial evidence requirements, we then consider the totality of the 
+material provided in a final merits determination, assessing whether the record shows that the 
+individual possesses the acclaim and recognition required for this highly exclusive immigrant visa 
+classification. See Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010) (discussing a two-part review 
+where the documentation is first counted and then, if fulfilling the required number of criteria, 
+considered in the context of a final merits determination); see also Visinscaia v. Beers, 4 F. Supp. 3d 
+126, 131-32 (D.D.C. 2013); Rijal v. USCIS, 772 F. Supp. 2d 1339 (W.D. Wash. 2011). 
+TI. ANALYSIS 
+A. Evidentiary Criteria 
+The Petitioner is a doctoral candidate and researcher in the field of cybersecurity as it relates to 
+networks ofinternet-connected devices that exchange data with other devices and systems, also known 
+as the "Internet of Things," or IoT. He intends to continue his work as an assistant researcher in the 
+United States. 
+SCOPS concluded that the Petitioner met three ofthe ten evidentiary criteria to qualify as an individual 
+of extraordinary ability: 
+• 8 C.F.R. § 204.5(h)(3)(iii), published material about the alien in professional or major 
+trade publications or other major media, relating to the alien's work in the field for 
+which classification is sought; 
+• 8 C.F.R. § 204.5(h)(3)(iv), participation, either individually or on a panel, as a judge 
+of the work of others in the same or an allied field of specialization for which 
+classification is sought; and 
+• 8 C.F.R. § 204.5(h)(3)(vi), authorship of scholarly articles in the field, in professional 
+or major trade publications or other major media. 
+On appeal, the Petitioner disagrees with SCOPS' conclusion that he did not meet the following criteria: 
+• 8 C.F.R. § 204.5(h)(3)(i), receipt of lesser nationally or internationally recognized 
+prizes or awards for excellence in the field of endeavor; and 
+• 8 C.F.R. § 204.5(h)(3)(v), original scientific, scholarly, artistic, athletic, or business-
+related contributions of major significance in the field. 
+We agree that the Petitioner met at least three of the evidentiary criteria required to establish the initial 
+evidentiary requirements for classification as an individual of extraordinary ability. Because the 
+Petitioner has met the initial requirements, will not separately address in our decision the evidence 
+pertaining to the criteria concerning awards and original contributions to the field. Instead, we will 
+consider that evidence as part of the totality of the record in a final merits determination. 
+2 
+B. Final Merits Determination 
+As noted above, once an individual has established that they meet the initial evidence requirements, 
+we conduct a final merits determination. In a final merits determination, we examine and weigh the 
+totality of the evidence to determine whether an individual has sustained national or international 
+acclaim and is among the small percentage at the very top of their field of endeavor. See Kazarian v. 
+USCIS, 596 F.3d at 1115, 1121; see also Amin v. Mayorkas, 24 F.4th 383,394 (5th Cir. 2022). 
+On appeal, the Petitioner asserts that SCOPS mischaracterized and failed to fully evaluate the evidence 
+of record in reaching a final merits determination. The Petitioner reasserts his qualifications under the 
+criteria at 8 C.F.R. § 204.5(h)(3)(i),(iii), (iv), (v), and (vi) as evidence of his extraordinary ability, and 
+he also points to the integrity of the journals in which his work has been published. 1 As discussed 
+more fully below, the totality of the record does not establish that the Petitioner is eligible for the 
+requested classification. 
+Concerning whether the Petitioner has received lesser nationally or internationally recognized prizes 
+or awards for excellence in his field, he initially pointed to his receipt of a fellowship from his 
+university and a scholarship through an education initiative in China. The record shows that the 
+fellowship is conferred annually by the university to graduate students and that six fellowships for 
+$2,000 each were awarded for the 2023-to-2024 academic year. The record, however, does not include 
+evidence of whether this fellowship is recognized nationally or internationally. The record shows that 
+the scholarship awarded to the Petitioner is awarded to international students for a year of attendance 
+at universities in China by China's Ministry of Education. However, the record does not contain 
+evidence sufficient to demonstrate that the scholarship is considered a nationally or internationally 
+recognized award; while the record initially included documentation describing application 
+requirements for the scholarship and referencing the issuance of scholarships numbering in the 
+hundreds each year, this documentation indicated that the scholarships were based on academic 
+standing and plans of study, rather than applicants' demonstrations of excellence in their fields. 
+On appeal, the Petitioner submits information from the websites ofseveral U.S. universities describing 
+the scholarship's application process and selection criteria, which include an applicant's objective for 
+participation in the program and a strong record of academic achievement. He asserts that the 
+scholarship is "widely regarded as a prestigious award in China and internationally, recognized for its 
+rigorous selection process and its support of exceptional academic achievements." His assertion, 
+however, is not supported by evidence to demonstrate that the scholarship is awarded for a specific 
+level of achievement in a particular field, nor is it supported by evidence showing that the scholarship 
+is recognized nationally or internationally as an award given for excellence in a given field. While we 
+recognize that receipt of a scholarship to study abroad is a notable academic achievement, it is not 
+evident from the record that the Petitioner's scholarship is considered a widely recognized 
+achievement attained by individuals at the very top of their fields. The Petitioner has not provided 
+1 The Petitioner also asserts on appeal that evidence of interest from universities in hiring him demonstrates recognition of 
+his high level of expe1iise in his field. However, because the documentation submitted post-dates the filing date of the 
+petition, it is not relevant in demonstrating the Petitioner's eligibility, as this must be established at the time of filing. 
+8 C.F.R. § 103.2(b)(l); see also Matter ofIzummi, 22 I&N Dec. at 175 (stating that a petition cannot be approved at a 
+future date after the self-petitioner becomes eligible under a new set of facts). 
+3 
+sufficient evidence to show that either his scholarship or fellowship demonstrates sustained national 
+or international acclaim or a career of acclaimed work in his field. See Hamal v. US. Dep 't of 
+Homeland Sec., No. CV 19-2534 (RC), 2021 WL 2338316, at *4 (D.D.C. June 8, 2021), ajf'd sub 
+nom. Hamal v. United States Dep 't ofHomeland Sec., No. 21-5160, 2023 WL 1156801 (D.C. Cir. Jan. 
+31, 2023) (upholding plaintiff did not contextualize his awards throughout his career to show sustained 
+national or international acclaim). 
+As evidence of his original contributions of major significance to his field, the Petitioner provided 
+letters ofsupport from professors and assistant professors who have served as his mentors and advisors 
+or who have reviewed his work, as well as from colleagues with whom he has previously worked. The 
+Petitioner's research projects are topics featured in most of the letters, and the authors emphasize the 
+relevance and the originality of his innovative approach to cybersecurity techniques for use with IoT, 
+such as agricultural automation equipment and self-driving vehicles. However, the authors only 
+reference, in broad terms, the potential impact of his research; they do not discuss specific 
+contributions the Petitioner has made to the field, such as how his research or methodologies have 
+been applied to solve or preempt problems concerning cybersecurity and IoT or how his work has 
+been adopted or influenced the field. While the letters' authors laude the Petitioner's work ethic, 
+intellect, curiosity, and dedication, they do not cite any specific impact that the Petitioner's research 
+has had in the field. The Petitioner must support his assertions with relevant, probative, and credible 
+evidence. See Matter ofChawathe, 25 I&N Dec. at 376. The letters do not show that he has enjoyed 
+a career of acclaimed work. See Jafarov v. United States Citizenship & Immigr. Servs., No. 23 CIV. 
+33 72 (PAE), 2024 WL 69056, at *9 ( finding testimonial letters were insufficient to establish his 
+relative status in the field and do not compare him to others). In addition, it is generally expected that 
+one whose accomplishments have garnered sustained national or international acclaim would have 
+received recognition for their accomplishments well beyond the circle of their personal and 
+professional acquaintances. 2 
+The Petitioner also highlights on appeal the award of a research grant of $1.2 million from a U.S. 
+federal agency, and according to a letter from his advisor, the Petitioner's research was the foundation 
+for the federal grant. The record shows that grant funding from another prominent source was also 
+awarded based on the Petitioner's research. We acknowledge the significance of the Petitioner's role 
+in securing grant funding for research projects. However, the regulatory language referencing 
+contributions of major significance connotes that an individual's work has significantly impacted the 
+field, and the record does not contain evidence to show how grants to continue his research show how 
+his work has impacted the field. The record does not detail specific outcomes of his work 
+demonstrating that he is among the small percentage at the top of his field. While the Petitioner's 
+work may have led to government funding for additional research, a petitioner must provide sufficient 
+context regarding evidence and considerations concerning that funding to demonstrate that the 
+evidence meets the relevant criteria to establish the person's extraordinary ability in the totality of 
+circumstances. This means that a petitioner must explain the significance of the submitted evidence, 
+and how it demonstrates that the person has achieved sustained national or international acclaim and 
+recognition in their field of expertise. 3 
+2 See generally 6 USCIS Policy Manual F.2(B)(3), https://www.uscis.gov/policy-manual. 
+3 See generally 6 USCIS Policy Manual, supra, at F.2(B)(2). 
+4 
+Further regarding the Petitioner's research, the record shows that brief stories discussing the Petitioner 
+and his work have been published by three news outlets in Nigeria, that he has published an article in 
+a professional journal, and that he has presented his work at two conferences. Although these 
+achievements meet the plain language requirements regarding published material about an individual 
+and an individual's authorship of scholarly articles,4 they do not reflect a history of academic 
+recognition that one would expect to the associated with a researcher at the top of his field. For 
+example, the Petitioner asserts on appeal that his research concerning cybersecurity for agricultural 
+IoT "was recognized for pioneering a solution to a previously unaddressed problem in the field." The 
+record, however, does not include evidence that the solution has garnered attention in the form of 
+major media coverage or references in academic material, as would be expected of a solution of 
+importance in theory and in practice. On appeal, the Petitioner provides the following regarding 
+recognition for his research: 
+While I understand the adjudicator places significant emphasis on the quantity of 
+publications and citations, I respectfully argue that impact often outweighs sheer 
+volume and numbers, especially in cybersecurity. Academic integrity guides my 
+approach to research and publishing. I have deliberately avoided contributing to 
+predatory journals or publishing for the sake of meeting numerical criteria or citations 
+. . . . Instead, I have focused on producing meaningful, impactful research that 
+addresses real-world problems, rather than incremental work or parameter tuning that 
+lacks substantial innovation. There exist various vendors who offer citations for 
+purchase just to boost citations and h-index or tell friends and students to cite their work 
+which I do not subscribe to .... 
+While there are undoubtedly individuals who combine quality and quantity, the 
+academic community also recognizes the prevalence of publications driven by the 
+"publish or perish" culture. Some researchers prioritize meeting metrics through 
+superficial contributions or self-referential citations, practices that undermine the 
+credibility of academic scholarship. I have chosen integrity and meaningful 
+contributions over engaging in such practices, confident that the originality and 
+significance of my work speak to its value. 
+We acknowledge the Petitioner's point that the absence of academic citations to recently published 
+work should not reflect negatively on the importance of that work, as the accrual of citations can be 
+artificial. However, recognition of the work of researchers is typically demonstrated, at some point 
+following the dissemination oftheir research, through the reference by others to that research; the lack 
+of citations of the Petitioner's work indicates the positioning of an individual in the early stages of a 
+research career, as opposed to that of more highly referenced researchers who have reached a level of 
+recognition indicative of individuals of extraordinary ability at the top of their field. As with Hamal, 
+both acclaim and recognition of achievements must be shown. We also recognize the Petitioner's 
+point concerning the integrity of the publication that accepted his work, as opposed to the priorities of 
+individuals and publications that reinforce certain cultural norms recognized by the academic 
+community that may not accurately reflect the actual usage of the work cited. However, like the low 
+citations rates of some researchers early in their careers, while the Petitioner's publication history 
+4 See 8 C.F.R. § 204.5(h)(3)(iii) and (vi). 
+5 
+meets the plain language requirements of the criterion, it is not a publishing history indicative of 
+researchers whose accomplishments are among those at the top of their fields. 
+Similarly, while the Petitioner's service as a judge at several events of note in his field meets the plain 
+language requirement of the criterion, 5 participation in the peer review process does not automatically 
+demonstrate that an individual has sustained national or international acclaim at the very top of their 
+field. Although the record includes an assessment of one of the Petitioner's reviews that gives it a top 
+rating, the record does not demonstrate how his reviews generally differentiate him from the field, 
+such as evidence showing how his work compares in quantity and quality to that of his peers. Without 
+evidence that sets him apart from others in his field, such as evidence that he has a consistent history 
+ofreviewing or judging acclaimed experts in his field, evidence that he has served in editorial positions 
+for distinguished journals or publications, or other sufficient evidence, the Petitioner has not 
+established that his peer review experience places him among that small percentage at the very top of 
+the field of endeavor. 
+While the evidence presented may demonstrate that the Petitioner has a successful academic record as 
+a researcher who has attracted grant fonding for projects in which he has served a prominent role, 
+taken together with his brief history judging the work of others and the limited records of publication 
+and recognition for his work, the evidence does not demonstrate by a preponderance of the evidence 
+that the Petitioner has garnered a level of recognition for expertise in his field that would be expected 
+from an individual at the top of his field. Although letters of support show that the Petitioner has been 
+a valued researcher recognized by his peers for his original approaches and potential solutions to issues 
+within the field of cybersecurity, it is not evident from the record that the Petitioner's work has 
+involved achievements at a level that would render him an individual who is considered extraordinary 
+in his field and who has sustained national or international acclaim. 
+III. CONCLUSION 
+The Petitioner seeks a highly restrictive visa classification, intended for individuals already at the top 
+of their respective fields, rather than for those progressing toward the top. USCIS has long held that 
+even athletes performing at the major league level do not automatically meet the "extraordinary 
+ability" standard. Matter ofPrice, 20 I&N Dec. 953,954 (Assoc. Comm'r 1994). Here, the Petitioner 
+has not shown that the significance of his work is indicative of the required sustained national or 
+international acclaim or that it is consistent with a "career of acclaimed work in the field" as 
+contemplated by Congress. H.R. Rep. No. 101-723, 59 (Sept. 19, 1990); see also section 203(b )(l)(A) 
+of the Act. The record does not demonstrate that the Petitioner has garnered sustained national or 
+international acclaim in the field and that he is one of the small percentage who have risen to the very 
+top ofhis field. See section 203(b)(l)(A) ofthe Act and 8 C.F.R. § 204.5(h)(2). We therefore conclude 
+that the Petitioner has not established his eligibility as an individual of extraordinary ability. 
+ORDER: The appeal is dismissed. 
+NOTICE: This constitutes the final decision in this matter. The filing of a motion will not postpone 
+the effect of the decision. 8 C.F.R. § 103.5(a)(l)(iv). Aliens who are not lawfully present, or who are 
+5 See 8 C.F.R. § 204.5(h)(3)(iv). 
+6 
+otherwise inadmissible or deportable, may be subject to the commencement of removal proceedings 
+under section 240 ofthe Act through the issuance of a Form I-862, Notice to Appear. Those proceedings 
+may result in their removal from the United States and possible ineligibility for future visas or other 
+immigration benefits. 
+7 

@@ -1,0 +1,289 @@
+Non-Precedent Decision of the
+Administrative Appeals Office 
+U.S. Citizenship 
+and Immigration 
+Services 
+In Re: 41814497 Date: APR. 30, 2026 
+Appeal of Service Center Operations (SCOPS) Decision 
+Form 1-140, Immigrant Petition for Alien Workers (Extraordinary Ability) 
+The Petitioner, a business and financial management solutions company, seeks to classify the 
+Beneficiary as an individual of extraordinary ability in the sciences. See Immigration and Nationality 
+Act (the Act) section 203(b)(l)(A), 8 U.S .C. § 1153(b)(l)(A). This first preference classification 
+makes immigrant visas available to those aliens who can demonstrate their extraordinary ability 
+through sustained national or international acclaim and whose achievements have been recognized in 
+their field through extensive documentation. Id. 
+SCOPS denied the petition, concluding that the record satisfies at least three of the 10 initial 
+evidentiary criteria but it does not show sustained national or international acclaim and demonstrate 
+that the Petitioner is among the small percentage at the very top of the field of endeavor. The matter 
+is now before us on appeal pursuant to 8 C.F.R. § 103.3. 
+The Petitioner bears the burden ofproof to demonstrate eligibility by a preponderance of the evidence. 
+Matter ofChawathe, 25 I&N Dec. 369, 375-76 (AAO 2010). We review the questions in this matter 
+de novo. Matter of Christa's, Inc., 26 I&N Dec. 537,537 n.2 (AAO 2015). Upon de novo review, 
+we will dismiss the appeal. 
+I. LAW 
+Section 203 (b)(1) of the Act makes visas available to immigrants with extraordinary ability if: 
+(i) the alien has extraordinary ability in the sciences, arts, education, business, or 
+athletics which has been demonstrated by sustained national or international 
+acclaim and whose achievements have been recognized in the field through 
+extensive documentation, 
+(ii) the alien seeks to enter the United States to continue work in the area of 
+extraordinary ability, and 
+(iii) the alien's entry into the United States will substantially benefit prospectively 
+the United States. 
+The term "extraordinary ability" refers only to those individuals in "that small percentage who have 
+risen to the very top of the field of endeavor." 8 C.F.R. § 204.5(h)(2). The implementing regulation 
+at 8 C.F.R. § 204.5(h)(3) sets forth a multi-part analysis. First, a petitioner can demonstrate sustained 
+acclaim and the recognition of their achievements in the field through a one-time achievement (that 
+is, a major, internationally recognized award). If that petitioner does not submit this evidence, then 
+they must provide sufficient qualifying documentation that meets at least three of the 10 categories 
+listed at 8 C.F.R. § 204.5(h)(3)(i)-(x) (including items such as awards, published material in certain 
+media, and scholarly articles). 
+Where a petitioner meets these initial evidence requirements, we then consider the totality of the 
+material provided in a final merits determination and assess whether the record shows sustained 
+national or international acclaim and demonstrates that the individual is among the small percentage 
+at the very top of the field of endeavor. See Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010). 
+II. ANALYSIS 
+According to the Petitioner, it intends to continue employing the Beneficiary as an expert "in the field 
+of Artificial Intelligence (AI) Machine Leaming, specifically in Computer Vision, Natural Language 
+Processing, and Generative AI." 
+As noted above, SCOPS concluded the record satisfies at least three of the 10 initial evidentiary 
+criteria, specifically 8 C.F.R. §§ 204.5(h)(3)(v)-(vi), (viii)-(ix). However, SCOPS determined that the 
+record does not show sustained national or international acclaim and demonstrate that the Beneficiary 
+is among the small percentage at the very top of the field of endeavor. See Kazarian, 596 F.3d at 
+1119-20 (citing section 203(b)(l)(A) of the Act; 8 C.F.R. §§ 204.5(h)(2)-(3)). On appeal, the 
+Petitioner reasserts that the record satisfies at least three of the initial evidentiary criteria, that it shows 
+the Beneficiary has sustained acclaim, and that it demonstrates he is among the small percentage at 
+the very top of the field of endeavor. For the reasons discussed below, upon de novo review, we 
+conclude the record does not satisfy at least three of the 10 initial evidentiary criteria. 
+A. Withdrawal of Initial Evidentiary Criteria 
+Before we address SCOPS' basis for denying the Form 1-140, Immigrant Petition for Alien Workers, 
+we first withdraw two of SCOPS' conclusions regarding initial evidentiary criteria. 
+1. Leading or Critical Role 
+The criterion at 8 C.F.R. § 204.5(h)(3)(viii) requires "[e]vidence that the alien has performed in a 
+leading or critical role for organizations or establishments that have a distinguished reputation." For 
+a leading role, we consider whether evidence establishes the individual is or was a leader within the 
+organization or establishment, or a division or department thereof See generally 6 USCIS Policy 
+Manual F.2(B)(l), https://www.uscis.gov/policy-manual. For a critical role, we consider whether 
+evidence establishes the individual has contributed in a way that is of significant importance to the 
+outcome of the organization or establishment's activities, or those of a division or department of the 
+organization or establishment. See generally id. 
+2 
+The extent of SCOPS's analysis of this criterion is the conclusory statement, "The record includes 
+evidence of the [B]eneficiary having performed in a leading or critical role with [the Petitioner]. As 
+such, the submitted evidence meets this criterion." SCOPS did not clarify whether the Beneficiary 
+performed in a leading role or a critical role, nor did it specify what evidence may establish that. 
+The record contains limited information regarding the Petitioner's organizational and leadership 
+structure among "over 17,000 employees in offices in the United States, India, Canada, the United 
+Kingdom, Israel, Australia, and other locations." The Petitioner does not purport that the Beneficiary 
+led the organization or establishment in its entirety and, in tum, it does not clarify what its divisions 
+or departments are and which one(s) it believes the Beneficiary led-or even the particular division(s) 
+or department( s) in which the Beneficiary worked-as opposed to any other leaders of such division( s) 
+or department(s). 1 Rather, the record contains statements from the Petitioner and the Beneficiary's 
+coworkers, characterizing the Beneficiary as performing a leading role for initiatives such as the 
+Petitioner's generative artificial intelligence projects and its "AI-based document extraction and 
+classification system." The Petitioner bears the burden of clearly articulating whether-and 
+demonstrating how-the Beneficiary may have led it or a division or department of it, as opposed to 
+leading certain projects within some unspecified division or department; however, it does not meet 
+that burden here. See Matter of Chawathe, 25 I&N Dec. at 375-76; see also 8 C.F.R. 
+§ 204.5(h)(3)(viii); and see generally 6 USCIS Policy Manual, supra, at F.2(B)(l). 
+Next, we acknowledge that the Petitioner asserted the Beneficiary "has played a critical role working 
+on various backend ... applications" for its software products, and it describes the importance of 
+information security for maintaining its reputation and customer usage. However, although the 
+Petitioner relates the Beneficiary's software development work to the Petitioner's priority of 
+information security, the record does not establish how the Beneficiary's contributions affected the 
+outcome of the Petitioner's activities, or those of a division or department thereof 
+As noted above, the record does not clearly establish what the Petitioner's divisions or departments 
+are, and the division(s) or department(s) in which the Beneficiary worked. The record also does not 
+clearly establish the activities of those unspecified divisions or departments, the outcomes of those 
+activities, the causal nexus between the Beneficiary's contributions and the outcomes of those 
+divisions' or departments' activities, and the significance of his contributions to those outcomes. 
+Rather, the Petitioner generally claims that customers' information would be less secure, its reputation 
+would be worsened, and it would lose customers without the Beneficiary's contributions to certain 
+software development projects. However, the Petitioner also informs that it was founded in 1983 and 
+it provided products and services for many decades before it hired the Beneficiary, and before he began 
+making contributions. 
+The record does not reconcile how the Beneficiary's contributions affected the Petitioner's activities' 
+outcomes, or those of divisions or departments thereof, compared to the outcomes of its activities 
+throughout the many decades preceding his contributions, based on the contributions of the 
+Petitioner's 17,000 other employees throughout the world. Again, the Petitioner does not meet its 
+burden ofclearly articulating whether-and demonstrating how-the Beneficiary contributed in a way 
+1 For example, if the Beneficiary merely led teams or projects assigned to him by a division or department manager, the 
+Beneficiary's leadership role would be minimized. 
+3 
+that is of significant importance to the outcome of the Petitioner's activities, or those of a division or 
+department thereof. See Matter of Chawathe, 25 I&N Dec. at 375-76; see also 8 C.F.R. 
+§ 204.5(h)(3)(viii); and see generally 6 USCIS Policy Manual, supra, at F.2(B)(l). 
+The Petitioner does not assert that the Beneficiary performed in a leading or critical role for any other 
+organization or establishment. For the foregoing reasons, the record does not establish how the 
+Beneficiary performed in a leading or critical role for the Petitioner, or a division or department 
+thereof. Therefore, we withdraw SCOPS' statement that the record satisfies the criterion at 8 C.F.R. 
+§ 204.5(h)(3)(viii). 
+2. High Salary or Othe Significantly High Remuneration 
+The criterion at 8 C.F.R. § 204.5(h)(3)(ix) requires "[e]vidence that the alien has commanded a high 
+salary or other significantly high remuneration for services, in relation to others in the field." 
+The extent of SCOPS' analysis of this criterion is the conclusory statement, 'The record included 
+evidence of the [B]eneficiary earning a high salary relative to others in the field. As such, the 
+submitted evidence meets this criterion." SCOPS did not elaborate on what evidence in the record 
+may support such a conclusion. 
+The Petitioner submitted IRS Forms W-2 for the Beneficiary for the years of2022-24, to establish the 
+annual wages it paid him; wage information provided by the U.S. Department of Labor, Office of 
+Foreign Labor Certification (OFLC) and Careeronestop.com; documents that purport to be U.S. 
+Department of Labor, Bureau of Labor Statistics (BLS) wage estimates; and two job postings. The 
+Petitioner does not assert that the Beneficiary's salary or other remuneration outside the period of 
+2022-24 was high in relation to others in the field. We further note that the Beneficiary's income 
+varied each year; therefore, the record does not conclusively establish what his wage would have been 
+in any given year outside of the years for which the Petitioner submitted IRS Forms W-2. Moreover, 
+the Beneficiary's total remuneration is substantially different from his salary alone; therefore, a 
+meaningful analysis of this criterion requires probative information about how his total remuneration 
+relates to the total remuneration of others in the field, not merely relative to others' base salaries. 
+Although the record establishes the salary or other remuneration the Petitioner paid the Beneficiary, it 
+does not establish that the Beneficiary's salary or other remuneration is high, in relation to others in 
+the field. The wage information the Petitioner submitted pertains to "software developers," but the 
+record does not establish that that is the most appropriate occupational classification as a frame of 
+reference. The Petitioner stated on the Form I-140 that the Beneficiary's job title is "senior staff 
+software engineer" and that his position corresponds to the U.S. Department of Labor's standard 
+occupational classification for software developers. A copy of the Beneficiary's resume in the record 
+describes his duties as including the following: "leading GenAI initiatives," "led a team to creation 
+of [the Petitioner's] first AI based document extraction and classification criteria," and "lead a team 
+for content creation and automation." Given the Beneficiary's "senior" position, entailing what he 
+describes as a persistent leadership role for multiple teams or projects, his duties appear to exceed 
+4 
+those of typical software developers, potentially entailing managerial duties. 2 The record does not 
+resolve whether a general software developer is the most appropriate occupational classification for 
+the Beneficiary's position. 
+Even if "software developer" is the most appropriate occupational classification for the Beneficiary's 
+position, the Petitioner nevertheless narrowed the scope of "others in the field," as contemplated by 
+this criterion, by characterizing the Beneficiary as an expert "in the field ofArtificial Intelligence (AI) 
+Machine Leaming, specifically in Computer Vision, Natural Language Processing, and Generative 
+AI." Meaningfully comparing the Beneficiary's total remuneration to that of "others in the field" 
+focuses on the total remuneration of other experts "in the field of Artificial Intelligence (AI) Machine 
+Leaming, specifically in Computer Vision, Natural Language Processing, and Generative AI," and not 
+merely all other software developers in all specializations with all sets and levels of knowledge, skills, 
+and abilities, as total remuneration among such disparate workers may vary. See, e.g., Matter ofPrice, 
+20 I&N Dec. 953, 955 (Assoc. Comm'r 1994) ( considering a professional golfer's earnings compared 
+to other Professional Golfers' Association Tour golfers); Skokos v. DHS, 420 F. App'x 712, 713-14 
+(9th Cir. 2011) (finding salary information for those performing lesser duties is not a comparison to 
+others in the field); Crimson v. INS, 934 F. Supp. 965, 968 (N.D. Ill. 1996) (considering a National 
+Hockey League (NHL) enforcer's salary versus other NHL enforcers); Muni v. INS, 891 F. Supp. 440, 
+444-45 (N. D. Ill. 1995) ( comparing salary of an NHL defensive player to salary of other NHL 
+defensemen). 
+Even to the extent that wage information in the record for "software developers" may be the most 
+appropriate occupational classification as a frame of reference, it bears minimal probative value. The 
+OFLC wage information states that it pertains to the period of"7 /2025 - 6/2026." However, as noted 
+above, the Petitioner submitted IRS Forms W-2 for the Beneficiary for the years of 2022-24. Wage 
+information for portions of 2025 and 2026 do not inform what wages of software developers were 
+during 2022-24, the period in which the Petitioner purports the Beneficiary's salary or other 
+remuneration was high relative to others. In tum, the Careeronestop.com wage information does not 
+state the period during which it reports data, although we note that it bears a 2025 copyright notice, 
+indicating that its information falls outside the period of 2022-24. Finally, the documents that purport 
+to be BLS wage estimates are not properly authenticated. Rather, they bear a handwritten statement 
+"BLS wage estimates (U.S.)," without any other indicia that the data depicted in them actually 
+originated from the BLS. Even to the extent that the purported BLS data may be deemed authentic, 
+similar to the Careeronestop.com information, the documents do not indicate the date range to which 
+it purportedly corresponds. For the foregoing reasons, none of the wage information probatively 
+establishes what salaries or other remuneration may have been during the relevant period, even if that 
+occupational classification were most appropriate in this circumstance. 
+The two job postings the Petitioner submits are for "senior software engineer" positions at Capitol 
+One and Liberty Mutual. We first note that, similar to the evidence discussed above, neither of the 
+job postings appear to correspond to the relevant period. The Capitol One job announcement states 
+that it was posted "08/21/2025" and, although the Liberty Mutual job announcement does not identify 
+2 We note, however, that the record nevertheless does not establish the Beneficiary performed in a leading role within the 
+Petitioner's organization, or any particular division or department thereof, as contemplated by the criterion at 8 C.F.R. 
+§ 204.5(h)(3)(viii), for the reasons addressed above. 
+5 
+when it was posted, it instructs applicants to "enter job requisition #2025-71806 in the 'Job ID or 
+Keywords field," suggesting that it was posted in 2025, which would indicate that both job postings 
+are outside the 2022-24 period. Moreover, as discussed above, neither job posting indicates that the 
+positions are for experts "in the field of Artificial Intelligence (AI) Machine Leaming, specifically in 
+Computer Vision, Natural Language Processing, and Generative AI," as the Petitioner characterizes 
+the Beneficiary. 
+Even ifthe job postings were dated during the relevant period and addressed others in the Beneficiary's 
+field rather than the broad classification of software developers, neither of them clearly establish what 
+the positions' actual total remuneration would be. Although they both provide minimum and 
+maximum annual salaries, both also reference undisclosed amounts of additional compensation. The 
+Capitol One job posting adds, "This role is also eligible to earn performance based incentive 
+compensation, which may include cash bonus( es) and/or long term incentives (L TI). Incentives could 
+be discretionary or non discretionary depending on the plan." Likewise, the Liberty Mutual posting 
+notes, "Some roles at Liberty Mutual have a corresponding compensation plan which may include 
+commission and/or bonus earnings at rates that vary based on multiple factors set forth in the 
+compensation plan for the role." 
+Without disclosing what the positions' compensation plans and total remuneration would be, neither 
+job posting informs what other "senior software engineer" workers receive, in order to compare those 
+salaries or other remuneration to that of the Beneficiary. And, given that employers providing 
+unspecified additional remuneration to software engineers seems to be a common practice, the 
+omission of cash bonuses and L TI from the wage information from OFLC and Careeronestop.com 
+addressed above further undermines their limited informative value regarding what the occupational 
+classification's actual total remuneration estimates may be. We also note that, even ifthe Capitol One 
+and Liberty Mutual job postings specified the total salary or other remuneration those positions 
+actually would receive, job postings for only two other workers provide limited information regarding 
+what the salary or other remuneration range generally is among all relevant workers. 
+For all of the foregoing reasons, the record does not establish what the salary or other remuneration of 
+other "senior staff software engineers" were during the period in which the Petitioner asserts the 
+Beneficiary's salary or other remuneration qualifies. Therefore, we withdraw SCOPS' statement that 
+the record satisfies the criterion at 8 C.F.R. § 204.5(h)(3)(ix). 
+B. Final Merits Determination 
+Congress set a very high benchmark for aliens of extraordinary ability by requiring the petitioner 
+demonstrate "sustained national or international acclaim" and present "extensive documentation" to 
+show his or her achievements have been recognized in the field. Section 203(b)(1 )(A)(i) of the 
+Act. Because the Petitioner has not satisfied the threshold "initial evidence" requirements at 8 C.F.R. 
+§ 204.5(h)(3), we cannot conclude that he is an alien of extraordinary ability. See Kazarian, 596 F.3d 
+at 1119-20; see also Nagaiah v. Allen, 784 F. Supp. 3d 798,814 (E.D. Pa. 2025) (finding the regulation 
+"establishes a necessary, not sufficient, evidentiary requirement for a petitioner who seeks an 
+extraordinary ability visa."). Nevertheless, we will address the final merits below because SCOPS' 
+basis for denying the Form 1-140 was that the record does not support the conclusion the Beneficiary 
+is in that small percentage who have risen to the very top of the field of endeavor and that he sustained 
+6 
+national or international-rather than localized or internalized-acclaim. 3 See section 203(b )(1 )(A)(i) 
+of the Act; 8 C.F.R. § 204.5(h)(2). For the reasons discussed below, we agree. 
+As noted above, letters from the Petitioner and the Beneficiary's coworkers bear minimal limited 
+informative value. For example, the letters generally reference the Beneficiary's "career of over 
+9 years" and, similarly, the Beneficiary's resume in the record claims that the Petitioner employed him 
+since 2015, apparently with the position title of "Sr. Staff Engineer" for the entire time. However, the 
+record does not establish when the Petitioner actually hired the Beneficiary and, more to the point, 
+when the Beneficiary may have risen to the very top of the field of endeavor and attained any degree 
+of national or international acclaim by virtue ofhis employment among 17,000 other individuals who 
+work for the Petitioner, and how he may have sustained such acclaim after that unspecified date. The 
+Petitioner does not clearly indicate the date(s) on which the Beneficiary's performance may have been 
+leading or critical to it or any particular division or department thereof, rather than merely leading 
+certain projects or teams within unspecified divisions or departments, and how such a performance 
+may have been recognized outside the Petitioner's own organization to be indicative of having risen 
+to the very top of the field of endeavor and accruing national or international acclaim, let alone how 
+such acclaim may have been sustained. Likewise, the record does not establish what acclaim­
+whether national, international, or otherwise-the Beneficiary may have received as a result of his 
+salary or other remuneration in 2022-24, which limits its relevance for determining whether he may 
+have sustained the requisite level of acclaim. 
+We acknowledge that some of the patents addressed in the record may have garnered a degree of 
+interest from others; however, that interest has thus far been brief: given the close proximity between 
+the patent grants and the Form 1-140 filing date. We also acknowledge the Beneficiary is credited as 
+a contributor to research projects leading to those patents and one scholarly article. In particular, we 
+note that, unlike the Beneficiary, two of the four co-authors for the research paper crediting him were 
+professors of computer and information engineering. But even when considered together, they do not 
+sufficiently establish that he has risen to the very top of the field of endeavor, or the nexus between 
+his specific contributions and any acclaim the research paper may have received. 
+For the foregoing reasons, the record does not support the conclusion that the Beneficiary has sustained 
+national or international acclaim and that he is among the small percentage at the very top of the field 
+of endeavor. See Kazarian v. USCIS, 596 F.3d at 1119-20. 
+III. CONCLUSION 
+The evidence does not meet at least three of the 10 criteria at 8 C.F.R. §§ 204.5(h)(3)(i)-(x). 
+Additionally, the totality ofthe record does not support a conclusion that the Petitioner has established 
+the acclaim and recognition required for the classification sought. See Kazarian, 596 F.3d at 1119-
+20. USCIS has long held that even athletes performing at the major league level do not automatically 
+meet the "extraordinary ability" standard. Matter ofPrice, 20 I&N Dec. 953, 954 (Assoc. Comm'r 
+1994). The Petitioner has not shown that the significance of his work is indicative of the required 
+sustained national or international acclaim or that it is consistent with a "career of acclaimed work in 
+3 Black's Law Dictionary defines "sustain" as "to support or maintain, especially over a long period of time" or "to persist 
+in making (an effort) over a long period of time." Sustain, Black's Law Dictionary (11th ed. 2019). 
+7 
+the field" as contemplated by Congress. H.R. Rep. No. 101-723, 59 (Sept. 19, 1990); see also section 
+203(b)(l)(A) of the Act. The record does not otherwise demonstrate that the Petitioner has garnered 
+national or international acclaim in the field and that he is one of the small percentage who has risen 
+to the very top of the field of endeavor. See section 203(b)(1 )(A) of the Act; see also 8 C.F .R. 
+§ 204.5(h)(2). 
+ORDER: The appeal is dismissed. 
+NOTICE: This constitutes the final decision in this matter. The filing of a motion will not postpone 
+the effect ofthe decision. 8 C.F.R. § 103.5(a)(l)(iv). Aliens who are not lawfully present, 
+or who are otherwise inadmissible or deportable, may be subject to the commencement of 
+removal proceedings under section 240 of the Act through the issuance of a Form 1-862, 
+Notice to Appear. Those proceedings may result in their removal from the United States 
+and possible ineligibility for future visas or other immigration benefits. 
+8 

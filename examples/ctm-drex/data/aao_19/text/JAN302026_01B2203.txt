@@ -1,0 +1,254 @@
+Non-Precedent Decision of the
+Administrative Appeals Office 
+U.S. Citizenship 
+and Immigration 
+Services 
+In Re: 40778046 Date: JAN. 30, 2026 
+Appeal of Service Center Operations (SCOPS) Decision 
+Form 1-140, Immigrant Petition for Alien Workers (Extraordinary Ability) 
+The Petitioner, an engineer in the sustainable energy field, requests classification under the 
+employment-based, first-preference (EB-1) immigrant visa category as an alien with "extraordinary 
+ability." See Immigration and Nationality Act (the Act) section 203(b)(l)(A), 8 U.S.C. 
+§ 1153(b )(1 )(A). Successful petitioners for U.S. permanent residence in this category must 
+demonstrate "sustained national or international acclaim" and extensively document recognition of 
+their achievements in their fields. Section 203(b )( 1 )(A)(i) of the Act. 
+Service Center Operations (SCOPS) denied the petition. SCOPS concluded that the Petitioner met 
+two initial evidentiary requirements - one less than needed for a final merits determination. On appeal, 
+he contends that he satisfied two other evidentiary criteria and demonstrated sufficient acclaim and 
+recognition to establish his claimed extraordinary ability in his field. 
+The Petitioner bears the burden of demonstrating eligibility for the requested benefit by a 
+preponderance of the evidence. See Matter of Chawathe, 25 l&N Dec. 369, 375-76 (AAO 2010). 
+Exercising de novo appellate review, see Matter of Christo 's, Inc., 26 I&N Dec. 537, 537 n.2 (AAO 
+2015), we agree with SCOPS that he did not meet the minimum number of evidentiary criteria to 
+qualify for the requested immigrant visa category. We will therefore dismiss the appeal. 
+I. LAW 
+To qualify for this immigrant visa category, a petitioner must demonstrate that they: 
+• Have "extraordinary ability" in the sciences, arts, education, business, or athletics; 
+• Seek to continue work in their field of expertise in the United States; and 
+• Would substantially benefit the country as a permanent resident. 
+Section 203(b)(l)(A)(i-iii) of the Act. 
+The term "extraordinary ability" means expertise commensurate with "one of that small percentage 
+who have risen to the very top of the field of endeavor." 8 C.F.R. § 204.5(h)(2). 
+Unless a petitioner received "a major, international recognized award," they must satisfy at least three 
+of ten alternative evidentiary criteria. 8 C.F.R. § 204.5(h)(3). 1 If a petitioner meets either evidentiary 
+standard and the requirements at sections 203(b)(1 )(A)(ii), (iii) of the Act, U.S. Citizenship and 
+Immigration Services (USCIS) then makes a final merits determination. To merit final approval, the 
+record - as a whole - must establish a petitioner's "sustained national or international acclaim" and 
+recognized achievements placing them among the small percentage at their field's very top. See Amin 
+v. Mayorkas, 24 F.4th 383, 391 (5th Cir. 2022) (finding USCIS' two-step review process to be 
+"consistent with the governing statute and regulation"); see generally 6 USCIS Policy Manual F.2(B), 
+www.uscis.gov/policy-manual. 
+II. ANALYSIS 
+A. The Petitioner 
+The record shows that an Indian university awarded the Petitioner a bachelor of engineering degree in 
+mechatronics, a field that integrates mechanical engineering, electronics, computer science, and 
+control systems to create smart products and automated systems. He continued his studies in the 
+United States, earning a master of science degree in energy systems. While in school, he designed a 
+portable thermoelectric heating and cooling fan for refugee camps and low-income communities, and 
+a modular waste-to-energy microgrid generator for disaster-prone areas. Since August 2019, he has 
+worked in this country as an energy engineer for an energy consulting company. 
+If allowed to remain in the United States, the Petitioner states that he seeks to establish a "public­
+interest technology enterprise focused on energy access, disaster resilience, and equity-driven climate 
+innovation." He states that his enterprise would: commercialize thermoelectric and waste-to-energy 
+systems; support government grant programs; collaborate with state energy offices; develop 
+educational pipelines; and contribute to national resilience, clean infrastructure, and equity design 
+priorities. He states that "[h ]is continued presence in the United States will result in significant and 
+demonstrable national benefits and will contribute directly to federal climate and equity goals, 
+accelerate commercialization of public-interest technology, and support resilience infrastructure 
+serving at-risk populations." 
+B. The Initial Evidentiary Criteria 
+The record does not indicate - nor does the Petitioner claim - his receipt of a major internationally 
+recognized award. He therefore must meet at least three of the ten initial evidentiary criteria at 
+8 C.F.R. § 204.5(h)(3)(i-x). 
+SCOPS' found that the Petitioner submitted evidence of: 
+• Published materials about himself and his work; and 
+• His original contributions of major significance to the field. 
+1 If an evidentiary criterion does not "readily apply" to a petitioner's occupation, they may submit "comparable evidence" 
+to establish eligibility. 8 C.F.R. § 204.5(h)(4). 
+2 
+See 8 C.F.R. § 204.5(h)(3)(iii), (v). 
+On appeal, the Petitioner claims that he also provided evidence of his: 
+• Receipt of nationally or internationally recognized awards for excellence in his field; and 
+• Authorship of scholarly articles in the field. 
+See 8 C.F.R. § 204.5(h)(3)(i), (vi). 
+To satisfy an evidentiary criterion, the Petitioner must objectively meet the parameters ofan applicable 
+regulatory description. See generalZv 6 USCIS Policy Manual F.2(B). "[N]either USCIS nor [the] 
+AAO [ Administrative Appeals Office] may unilaterally impose novel substantive or evidentiary 
+requirements beyond those set forth at 8 C.F.R. § 204.5." Kazarian v. USCIS, 596 F.3d 1115, 1121 
+(9th Cir. 2010). 
+We will first review SCOPS' favorable evidentiary findings. 
+1. Published Material 
+This evidentiary criterion requires "[p ]ublished material about the alien in professional or major trade 
+publications or other major media, relating to the alien's work in the field for which classification is 
+sought." 8 C.F.R. § 204.5(h)(3)(iii). "Such evidence shall include the title, date, and author of the 
+material, and any necessary translation." 
+When adjudicating this evidentiary requirement, USCIS first determines whether the published 
+material relates to a petitioner and their specific work in their field. See generalZv 6 USCIS Policy 
+Manual F.2(B)(l), Criterion 3. The Agency next considers whether a publication qualifies as a 
+professional publication, major trade publication, or major media publication. Id. Relevant factors 
+for professional and trade publications include their intended audiences. Id. For major trade 
+publications and other major media, relevant factors include their relative circulations, readerships, or 
+viewership. Id. 
+The Petitioner submitted copies ofpublications about his selection as one of five students from among 
+thousands of worldwide applicants to present their inventions onstage at a 2018 meeting addressing 
+global problems. He and his team developed the thermoelectric heating and cooling fan for refugee 
+camps and low-income communities. He submitted copies of articles about his selection in 
+publications of the U.S. university that issued his master's degree. The articles include photographs 
+of him and others on stage with a former U.S. president who founded the organization that holds the 
+annual meetings. The record also contains copies of the organization's 2019 e-mail message to its 
+subscribers, which contains similar photos. 
+Despite describing the Petitioner as part of a team, the published materials sufficiently relate to him 
+and his work in his field. 
+[O]fficers may consider material that focuses solely or primarily on work or research 
+being undertaken by a team ofwhich the person is a member, provided that the material 
+3 
+mentions the person in connection with the work or other evidence in the record 
+documents the person's significant role in the work or research. 
+6 USCJS Policy Manual F.2(B)(l), Criterion 3. The published materials mention the Petitioner and 
+describe him as the team's leader. Also, a copy of a 2020 Indian patent certificate identifies him as 
+the thermoelectric fan's inventor. Thus, the materials satisfy the first part ofthis criterion's evaluation. 
+The Petitioner, however, has not demonstrated that the submitted published materials qualify as 
+professional or major trade publications or other major media. A letter from a former deputy director 
+ofthe organization that honored the Petitioner's thermoelectric fan states that "the selected participants 
+were announced during the plenary session [before an audience of about 2,000 people], promoted in 
+official [organization] media channels, and featured on websites and publications viewed by global 
+audiences." But the Petitioner did not submit evidence that the publications' intended audiences were 
+professionals or others in his field or of the publications' relative circulations, readerships, or 
+viewership. See Kumar v. Dir. of USCIS, No. CV RDB-23-2251, 2024 WL 1374794, at *5 (D. Md. 
+Apr. 1, 2024) (ruling that, because a senior data analyst did not "submit sufficient evidence to establish 
+that the material qualified as professional or major trade publications or other major media", he did 
+not meet this evidentiary requirement). The Petitioner therefore did not document his materials' 
+appearance in professional or major trade publications or other major media. 
+The Petitioner did not establish his submission of published material about himself and his work in 
+professional or major trade publications or other major media. We will therefore withdraw SCOPS' 
+contrary finding. 
+2. Original Contributions of Major Significance 
+The record supports SCOPS' finding that the Petitioner submitted evidence of original contributions 
+of major significance in his field. See 8 C.F.R. § 204.5(h)(3)(v). We will therefore proceed to review 
+SCOPS' findings regarding the additional evidentiary criteria that the Petitioner claims to have met. 
+3. Nationally or Internationally Recognized Awards for Excellence 
+To meet this evidentiary requirement, a petitioner must submit "[d]ocumentation of the[ir] receipt of 
+lesser nationally or internationally recognized prizes or awards for excellence in the field ofendeavor." 
+8 C.F.R. § 204.5(h)(3)(i). 
+USCIS first determines if a petitioner - as opposed to their employer, for example - received prizes 
+or awards. See generally 6 USCIS Policy Manual F.2(B)(l ), Criterion 1. If so, USCIS next considers 
+whether an award is nationally or internationally recognized and given for excellence in the 
+appropriate field. Id. 
+The Petitioner submitted evidence that, at a U.S. student innovation expos1t10n, he won an 
+"outstanding research" award regarding his waste-to-energy generator. Based on that research, he was 
+selected to participate in a U.S. National Science Foundation (NSF) program that matched student 
+inventors with mentors to help the students' develop their ideas. During the program, the Petitioner 
+further developed his waste-to-energy system, and, at the program's end, the NSF chose his project to 
+4 
+receive protype funding. He also submitted evidence of his selection to present the thermoelectric fan 
+invention on stage and that, based on his waste-to-energy generator, he placed within the top 50 in an 
+international entrepreneurship competition. 
+As SCOPS found, however, the Petitioner did not sufficiently demonstrate that these honors received 
+national or international recognition. He submitted evidence that the U.S. university where he studied 
+published articles about his awards. But the record does not establish that the university publications 
+have sufficient audiences to reflect national or international recognition. He also provided evidence 
+that the organization that honored his thermoelectric fan publicized his award on the organization's 
+social media and in email messages to its subscribers. But these materials are insufficient to show that 
+people nationally or internationally beyond the awarding organization learned of the Petitioner's 
+honor. See Visinscaia v. Beers, 4 F. Supp. 3d 126, 136 (D.D.C. 2013) ("Without evidence of how a 
+larger audience viewed Plaintiffs awards, there was no way for the agency to evaluate whether those 
+awards were recognized widely enough to satisfy this criterion.") 
+On appeal, the Petitioner argues that SCOPS improperly required national or international media 
+articles about his awards. He contends that, under USCIS policy, "awards conferred by national or 
+international institutions ... are inherently nationally or internationally recognized. Media coverage 
+is not required under the regulation." 
+We agree with the Petitioner that, to show an award' s national or international recognition, he need 
+not necessarily have provided examples of media coverage. Also, we agree that the NSF and the 
+organization that honored his thermoelectric fan are nationally or internationally recognized 
+institutions. "But, as reflected in the regulation's plain text, the focus is on the award, not the awarding 
+organization." Krasniqi v. Dibbins, 558 F. Supp. 3d 168, 183 (D.N.J. 2021) ( emphasis in original). 
+Thus, the Petitioner had to show that his specific awards - not the organizations that issued them -
+garnered national or international recognition. He submitted insufficient evidence to show that the 
+awards received such recognition beyond their awarding organizations. 
+The Petitioner also argues that, because SCOPS credited his published materials as meeting 8 C.F.R. 
+§ 204.5(h)(3)(iii), SCOPS must also accept the same evidence to meet this awards criterion at 8 C.F.R. 
+§ 204.5(h)(3)(i). He stated: "USCIS accepted national/international media coverage of these awards 
+but then declined to credit them as national/international media coverage of those awards under the 
+Awards criterion. This is logically inconsistent and contrary to law." 
+As previously discussed, however, SCOPS erred in its decision on the published materials under 
+8 C.F.R. § 204.5(h)(3)(iii). Thus, the premise of the Petitioner's argument is no longer true. 
+The Petitioner did not submit evidence ofhis receipt ofnationally or internationally recognized awards 
+for excellence in his field. We will therefore affirm SCOPS' finding regarding this evidentiary 
+criterion. 
+4. Authorship of scholarly articles 
+This evidentiary criterion requires "[e]vidence of the alien's authorship of scholarly articles in the 
+field, in professional or major trade publications or other major media." 8 C.F.R. § 204.5(h)(3)(vi). 
+5 
+[A] scholarly article reports on original research, experimentation, or philosophical 
+discourse. It is written by a researcher or expert in the field who is often affiliated with 
+a college, university, or research institution. Scholarly articles are also generally peer 
+reviewed by other experts in the field of specialization. 
+6 USCIS Policy Manual F.2(B)(l), Criterion 6. 
+The Petitioner's evidence included documentation indicating that he first-authored a 2015 scholarly 
+article on thermoelectric configurations in an international journal on energy and statistics. In response 
+to SCOPS' request for additional evidence, he submitted printouts of additional online information 
+about the journal and his publication record. 
+SCOPS questioned the journal's reputation, stating that "some sources classify[] it as a predatory 
+journal with a lack of clear information on the journal's review process and its adherence to standard 
+academic publishing practices." SCOPS concluded: 
+Given the concerns surrounding the [journal]'s reputation and considering that the 
+petitioner's record contains only one authorship record tied to this journal, USCIS is 
+unable to accept this article as evidence of the petitioner's evidence of alien's 
+authorship of scholarly articles in professional or major trade publications or other 
+major media. 
+SCOPS did not identify its sources. Our online search indicated that the journal stopped publishing in 
+201 7. But we found no evidence disparaging its reputation or academic review practices. Thus, a 
+preponderance of the evidence indicates that a scholarly journal in the Petitioner's field published his 
+article using a peer-review process. We therefore find that he met this evidentiary criterion. See 
+6 USCIS Policy Manual F.2(B) ("[A]lthough some of the regulatory language relating to evidence 
+occasionally uses plurals, it is entirely possible that the presentation of a single piece of evidence in a 
+specific evidentiary category may be sufficient.") 
+The Petitioner submitted evidence that he authored scholarly articles in his field in professional 
+publications. We will therefore withdraw SCOPS' contrary finding. 
+C. The Final Merits Determination 
+The Petitioner has met two initial evidentiary criteria. Because he did not meet a requisite third, we, 
+like SCOPS, need not conduct a final merits determination. But, even if he qualified for a final merits 
+determination, he would not have demonstrated his claimed extraordinary ability in his field. 
+To merit final approval as an alien with extraordinary ability, a petitioner must demonstrate - through 
+evidence of sustained national or international acclaim and recognition of their achievements in their 
+field- that they are one of the small percentage who has risen to their field's very top. 6 USCIS Policy 
+Manual F.2(B)(2). They "must explain the significance of the submitted evidence, and how it 
+demonstrates that [they have] achieved sustained national or international acclaim and recognition in 
+their field of expertise." Id. USCIS must review all evidence in the totality and consider "any 
+6 
+potentially relevant evidence in the record, even if such evidence does not fit one of the ... regulatory 
+criteria or was not presented as comparable evidence." Id. 
+The Petitioner's strongest evidence of his claimed extraordinary ability in his field are his inventions. 
+The U.S. entrepreneurship professor who ran the NSF program in which the Petitioner developed the 
+waste-to-energy generator stated that this invention "can be a game-changer." A mentor in the 
+program stated that "[t]he potential of his work was not just theoretical - it carried profound 
+humanitarian and environmental implications." Also, United Nations agencies and government 
+organizations expressed interest in the generator and the thermoelectric fan he developed. 
+Nevertheless, the Petitioner's evidence as a whole would not have placed him among the small 
+percentage at his field's very top. While he submitted several recommendation letters on his behalf: 
+most of them are from people who personally know him, such as former teachers, co-workers, and 
+mentors in the NSF program. "It is generally expected that one whose accomplishments have garnered 
+sustained national or international acclaim would have received recognition for their accomplishments 
+well beyond the circle of their personal and professional acquaintances." 6 USCJS Policy Manual 
+F.2(8)(3). In general, the evidence identifies the Petitioner as a rising star in his field but would fall 
+short of placing him among the small percentage who are already at the field's very top. 
+Congress intended to set "a very high standard" for aliens of extraordinary ability. Proposed Rule for 
+Employment-Based Immigrants, 56 Fed. Reg. 30703, 30704 (July 5, 1991 ). The legislature indicated 
+that this immigrant visa category was meant "for that small percentage of aliens who have risen to the 
+very top of their field of endeavor." Id. Considering the evidence as a whole, the Petitioner would not 
+have established his claimed place among the small percentage at his field's very top. See Amin, 
+24 F.4th at 386 ("[G]iven the lofty bar for extraordinary ability classifications, we cannot say that the 
+agency acted arbitrarily when it determined that [a petitioner] was not 'extraordinary' but merely very 
+good."); Matter ofPrice, 20 I&N Dec. at 954 (holding that even athletes performing in their sports' 
+premier leagues do not automatically meet the extraordinary ability standards). 
+III. CONCLUSION 
+The Petitioner did not meet the required number of alternative evidentiary criteria. We will therefore 
+affirm the petition's denial. 
+ORDER: The appeal is dismissed. 
+NOTICE: This constitutes the final decision in this matter. The file of a motion will not postpone the 
+effect of the decision. 8 C.F.R. § 103.5(a)(l)(iv). Aliens who are not lawfully present, or who are 
+otherwise inadmissible or deportable, may be subject to the commencement of removal proceedings 
+under section 240 ofthe Act through the issuance of a Form I-862, Notice to Appear. Those proceedings 
+may result in their removal from the United States and possible ineligibility for future visas or other 
+immigration benefits. 
+7 

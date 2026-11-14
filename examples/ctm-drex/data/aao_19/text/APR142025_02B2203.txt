@@ -1,0 +1,154 @@
+Non-Precedent Decision of the
+Administrative Appeals Office 
+U.S. Citizenship 
+and Immigration 
+Services 
+In Re: 36984150 Date: APR. 14, 2025 
+Appeal of Service Center Operations (SCOPS) Decision 
+Form 1-140, Immigrant Petition for Alien Workers (Extraordinary Ability) 
+The Petitioner, asystems engineer specializing in education technology, seeks classification as an alien 
+of extraordinary ability. See Immigration and Nationality Act (the Act) section 203(b)(l)(A), 8 U.S.C. § 
+1153(b)(l)(A). This first preference classification makes immigrant visas available to those who can 
+demonstrate their extraordinary ability through sustained national or international acclaim and whose 
+achievements have been recognized in their field through extensive documentation. 
+SCOPS denied the petition, concluding that the Petitioner did not satisfy at least three of the ten initial 
+evidentiary criteria. The matter is now before us on appeal pursuant to 8 C.F.R. § 103.3. 
+The Petitioner bears the burden of proof to demonstrate eligibility by apreponderance of the evidence. 
+Matter of Chawathe, 25 l&N Dec. 369, 375-76 (AAO 2010). We review the questions in this matter 
+de nova. Matter of Christo 's , Inc., 26 l&N Dec. 537, 537 n.2 (AAO 2015). Upon de nova review, 
+we will dismiss the appeal. 
+I. LAW 
+Section 203(b)(l)(A) of the Act makes visas available to immigrants with extraordinary ability if: 
+(i) the alien has extraordinary ability in the sciences, arts, education, business, or 
+athletics which has been demonstrated by sustained national or international 
+acclaim and whose achievements have been recognized in the field through 
+extensive documentation, 
+(ii) the alien seeks to enter the United States to continue work in the area of 
+extraordinary ability, and 
+(iii) the alien's entry into the United States will substantially benefit prospectively 
+the United States. 
+The term "extraordinary ability" refers only to those individuals in "that small percentage who have 
+risen to the very top of the field of endeavor." 8 C.F.R. § 204.5(h)(2). The implementing regulation 
+at 8 C.F.R. § 204.5(h)(3) sets forth a multi-part analysis. First, a petitioner can demonstrate sustained 
+acclaim and the recognition of his or her achievements in the field through a one-time achievement 
+(that is, a major, internationally recognized award). If that petitioner does not submit this evidence, 
+then he or she must provide sufficient qualifying documentation that meets at least three of the ten 
+categories listed at 8 C.F.R. § 204.5(h)(3)(i)-(x) (including items such as awards, published material 
+in certain media, and scholarly articles). 
+Where a petitioner meets these initial evidence requirements, we then consider the totality of the 
+material provided in a final merits determination and assess whether the record shows sustained 
+national or international acclaim and demonstrates that the individual is among the small percentage 
+at the very top of the field of endeavor. See Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010) 
+(discussing a two-part review where the documentation is first counted and then, if fulfilling the 
+required number of criteria, considered in the context of a final merits determination); see also 
+Visinscaia v. Beers, 4 F. Supp. 3d 126, 131-32 {D.D.C. 2013); Rijal v. USCIS, 772 F. Supp. 2d 1339 
+(W.D. Wash. 2011). 
+II. ANALYSIS 
+The Petitioner is seeking to be classified as an alien of extraordinary ability based on his work as a 
+systems engineer in the field of education technology. He intends to establish abusiness which would 
+provide universities with an e-learning platform that integrates with academic and administrative tools. 
+A. Evidentiary Criteria 
+Because the Petitioner has not indicated or established that he has received a major, internationally 
+recognized award, the issue to be addressed on appeal is whether the Petitioner satisfied at least three 
+of the alternate regulatory criteria at 8 C.F.R. § 204.5(h)(3)(i)-(x). SCOPS determined that although 
+the Petitioner met two of the claimed evidentiary criteria, leading or critical role at 
+8 C.F.R. § 204.5(h)(3)(viii) and high salary or other renumeration at 8 C.F.R. § 204.5(h)(3)(ix), he did 
+not establish eligibility for the third claimed category, original contributions of major significance at 
+8 C.F.R. § 204.5(h)(3)(v). On appeal, the Petitioner claims eligibility for this criterion. Upon de nova 
+review, the Petitioner has not established he meets the requirements for original contributions of major 
+significance or otherwise satisfies at least three of the initial evidentiary criteria. 1 
+For the first time on appeal, the Petitioner claims eligibility and submits new evidence for two 
+additional criteria, membership in associations at 8 C.F.R. § 204.5(h)(3)(ii) and participation as ajudge 
+of others' work at 8 C.F.R. § 204.5(h)(3)(iv). The Petitioner did not assert eligibility for these two 
+criteria either at the initial filing of the petition or in response to SCOP's request for evidence. Where 
+a petitioner has been put on notice of a deficiency in the evidence and has been given an opportunity 
+to respond to that deficiency prior to issuance of the adverse decision, new eligibility claims will not 
+be considered on appeal or on motion. See Matter of Soriano, 19 l&N Dec. 764, 766 (BIA 1988). We 
+will not consider this newly submitted evidence for the new criteria claims in our decision. 
+1 While we may not discuss every document submitted, we have reviewed and considered each one. 
+2 
+For the criterion at 8 C.F.R. § 204.5(h)(3)(v), the Petitioner must submit evidence of his "original 
+scientific, scholarly, artistic, or business-related contributions of major significance in the field." 
+First, we determine that a petitioner's contributions in their field were original. See generally 6 USCIS 
+Policy Manual F.2(8)(1), https://www.uscis.gov/policy-manual. Next, we examine whether the 
+original contributions are of major significance to the field. Id. 
+The Petitioner claims his role in creating the Doctor CV platform demonstrates his original business­
+related contributions of major significance in his field of education technology. A recommendation 
+letter from the founder and CEO of Doctor CV describes Doctor CV as "an [artificial intelligence] 
+platform that analyzes and improves users' resumes to improve their job opportunities." The Petitioner 
+maintains his education technology strategies, his project management skills, and his ability to 
+coordinate multidisciplinary teams were essential to the development of the platform. In support of 
+the criterion, the Petitioner submitted the letter from Doctor CV's founder and CEO, as well as articles 
+and website information about Doctor CV and grants received to develop the platform.2 
+The evidence in the record, however, does not demonstrate the Petitioner's original contributions in 
+his field, or that his contributions were of major significance in his field. The recommendation letter 
+only provides general statements about the Petitioner's contributions, stating he was "instrumental in 
+the initial stages of conception and development of the platform" between 2018 and 2019 and "[h]is 
+mastery in the design and implementation of educational technology strategies, his experience in 
+project management and his ability to coordinate multidisciplinary teams make him an ideal 
+candidate." While letters explaining the nature and significance of a petitioner's contributions may be 
+valuable to evaluating the claimed original contributions and significance, such letters should 
+specifically describe the person's contribution and its significance to the field. Id. Here, the letter and 
+other evidence in the record do not detail the Petitioner's original contributions in developing the 
+platform, or his contribution's significance in his field of education technology. 
+To establish the major significance of his contributions, the Petitioner focuses on Doctor CV having 
+been recognized for its unique and innovative value to students and individuals seeking to improve 
+their resumes and employment opportunities. The submitted articles about Doctor CV and the 
+printouts from Doctor CV's website describe how Doctor CV's founder and CEO won two grants 
+supported by the governments of Peru and Chile in order to develop the platform, and how the 
+governments and others have used the platform. 
+The articles and other documents in the record, however, do not discuss the Petitioner's original work 
+or the significance of his original work. Instead, the evidence indicates that the Petitioner's 
+contributions were limited to helping to develop Doctor CV, rather than to his field of education 
+technology. A petitioner must show that their original contributions rise to the level of major 
+2 With the appeal, the Petitioner submits new evidence to support his claims under this criterion. The record shows that, 
+before the petition's denial, he had a chance to submit the materials in response to the Director's request for evidence. See 
+8 C.F.R. § 103.2(b)(11) (requiring the submission of all requested evidence together at one time); see also Matter of 
+Soriano, 19 I&N Dec. at 766 (declining to consider new evidence on appeal because "the petitioner was put on notice of 
+the required evidence and given a reasonable opportunity to provide it for the record before the denial"). We, therefore, 
+will not consider this newly submitted evidence in our decision. 
+3 
+significance in the field as a whole, rather than to a project or to an organization. See Amin v. 
+Mayorkas, 24 F.4th 383, 394 (5th Cir. 2022) (citing Visinscaia v. Beers, 4 F. Supp. 3d at 134). The 
+Petitioner did not establish what original contributions he made, or that his contributions extend 
+beyond his work with Doctor CV and are of major significance in his field. 
+For the reasons discussed above, the Petitioner did not show he meets this criterion. 
+B. Summary and Reserved Issue 
+Although SCOPS determined the Petitioner meets the criteria for leading or critical role at 
+8 C.F.R. § 204.5(h)(3)(viii) and high salary or other renumeration at 8 C.F.R. § 204.5(h)(3)(ix), the 
+Petitioner has not established he meets the third claimed criterion relating to original contributions of 
+major significance at 8 C.F.R. § 204.5(h)(3)(v). Because the Petitioner cannot fulfill the initial 
+evidentiary requirement for three criteria under 8 C.F.R. § 204.5(h)(3), we need not provide the type 
+of final merits determination referenced in Kazarian v. USCIS, 596 F.3d at 1119-20. Accordingly, we 
+will reserve these issues. See INS v. Bagamasbad, 429 U.S. 24, 25 (1976) (per curiam) (holding that 
+agencies are not required to make "purely advisory findings" on issues that are unnecessary to the 
+ultimate decision). 
+Nevertheless, we advise that we have reviewed the record in the aggregate, concluding that it does not 
+support a finding that the Petitioner has established the acclaim and recognition required for the 
+classification sought. The Petitioner seeks a highly restrictive visa classification, intended for 
+individuals already at the top of their respective fields, rather than those progressing toward the top. 
+Matter of Price, 20 I&N Dec. 953, 954 (Assoc. Comm'r 1994) (concluding that even major league 
+level athletes do not automatically meet the statutory standards for classification as an individual of 
+"extraordinary ability"); Visinscaia v. Beers, 4 F. Supp. 3d at 131 (internal quotation marks omitted) 
+( finding that the extraordinary ability designation is "extremely restrictive by design"); Hamal v. Dep 't 
+of Homeland Sec. (Hamal 11), No. 19-cv-2534, 2021 WL 2338316, at *5 (D.D.C. June 8, 2021), aff'd, 
+2023 WL 1156801 (D.C. Cir. Jan. 31, 2023) (determining that EB-1 visas are "reserved for a very 
+small percentage of prospective immigrants"); See also Hamal v. Dep 't ofHomeland Sec. (Hamal I), 
+No. 19-cv-2534, 2020 WL 2934954, at *1 (D.D.C. June 3, 2020) (citing Kazarian v. USCIS, 596 F.3d 
+at 1122 (upholding denial of petition of a published theoretical physicist specializing in non­
+Einsteinian theories of gravitation) (stating that "[c]ourts have found that even highly accomplished 
+individuals fail to win this designation")); Lee v. Ziglar, 237 F. Supp. 2d 914, 918 (N.D. 2002) (finding 
+that "arguably one of the most famous baseball players in Korean history" did not qualify for the visa 
+as a baseball coach). 
+Here, the Petitioner has not shown the significance of his work is indicative of the required sustained 
+national or international acclaim or it is consistent with a "career of acclaimed work in the field" as 
+contemplated by Congress. H.R. Rep. No. 101-723, 59 (Sept. 19, 1990); see also section 203(b)(1)(A) 
+of the Act. Moreover, the record does not otherwise demonstrate the Petitioner has garnered national 
+or international acclaim in the field, and he is one of the small percentage who has risen to the very 
+top of the field of endeavor. See section 203(b)(1)(A) of the Act and 8 C.F.R. § 204.5(h)(2). 
+4 
+Ill. CONCLUSION 
+For the reasons discussed above, the Petitioner has not demonstrated his eligibility as an alien of 
+extraordinary ability. The appeal will be dismissed for the above stated reasons. 
+ORDER: The appeal is dismissed. 
+5 

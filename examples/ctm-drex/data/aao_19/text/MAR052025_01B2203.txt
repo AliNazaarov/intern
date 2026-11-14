@@ -1,0 +1,322 @@
+U.S. Citizenship 
+and Immigration 
+Services 
+Non-Precedent Decision of the
+Administrative Appeals Office 
+Date: MAR. 5, 2025 In Re: 35275469 
+Appeal of Nebraska Service Center Decision 
+Form 1-140, Immigrant Petition for Alien Workers (Extraordinary Ability) 
+The Petitioner, an artificial intelligence (AI) researcher, seeks classification as an alien ofextraordinary 
+ability. See Immigration and Nationality Act (the Act) section 203(b)(1 )(A), 8 U.S .C. 
+§ l 153(b)(l)(A). This first preference classification makes immigrant visas available to those who 
+can demonstrate their extraordinary ability through sustained national or international acclaim and 
+whose achievements have been recognized in their field through extensive documentation. 
+The Director of the Nebraska Service Center denied the petition, concluding that the record did not 
+establish that the Petitioner had satisfied at least three of ten initial evidentiary criteria, as required. 
+The matter is now before us on appeal under 8 C.F.R. § 103.3 . 
+The Petitioner bears the burden ofproof to demonstrate eligibility by a preponderance of the evidence. 
+Matter ofChawathe, 25 I&N Dec. 369, 375-76 (AAO 2010). We review the questions in this matter 
+de novo. Matter of Christo 's, Inc., 26 l&N Dec. 537, 537 n.2 (AAO 2015). Upon de novo review, 
+we will dismiss the appeal. 
+I. LAW 
+Section 203(b )(1 )(A) of the Act makes immigrant visas available to aliens with extraordinary ability 
+in the sciences, arts, education, business, or athletics which has been demonstrated by sustained 
+national or international acclaim and whose achievements have been recognized in the field through 
+extensive documentation. A petitioner must establish that these aliens seek to enter the United States 
+to continue work in the area of extraordinary ability, and that their entry into the United States will 
+substantially benefit the United States. The term "extraordinary ability" refers only to those aliens in 
+"that small percentage who have risen to the very top ofthe field of endeavor." 8 C.F.R. § 204.5(h)(2). 
+The implementing regulation at 8 C.F.R. § 204.5(h)(3) sets forth a multi-part analysis. First, a 
+petitioner can demonstrate international recognition of an alien's achievements in the field through a 
+one-time achievement in the form of a major, internationally recognized award. Or the petitioner can 
+submit evidence that meets at least three of the ten criteria listed at 8 C.F.R. § 204.5(h)(3)(i)- (x), 
+including items such as awards, published material in certain media, and scholarly articles. If those 
+standards do not readily apply to the alien's occupation, then the regulation at 8 C.F.R. § 204.5(h)(4) 
+allows the submission of comparable evidence. 
+Once a pet1t10ner has met the initial evidence requirements, the next step is a final merits 
+determination, in which we assess whether the record shows sustained national or international 
+acclaim and demonstrates that the alien is among the small percentage at the very top of the field of 
+endeavor. See Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010) (discussing a two-part review where 
+the documentation is first counted and then, if fulfilling the required number of criteria, considered in 
+the context of a final merits determination); see also Visinscaia v. Beers, 4 F. Supp. 3d 126, 131-32 
+(D.D.C. 2013); Rijal v. USCIS, 772 F. Supp. 2d 1339 (W.D. Wash. 2011). 
+II. ANALYSIS 
+The Petitioner earned a Ph.D. in electrical engineering, focusing on machine intelligence and robotics, at 
+I Iin his native Iran in 2009. Since 2012, he has been the chief executive officer of his 
+own software company in I I The Petitioner states that his "research has particularly focused on 
+applied AI in cyber-physical systems, from banking and energy to transportation and healthcare." The 
+Petitioner seeks employment "as an AI safety & robustness analytics manager at Apple." The Petitioner 
+stated that he has "been contacted by several recruiters from ... Apple" and other companies, but the 
+record shows only that Apple and other companies acknowledged receiving the Petitioner's resume. 1 
+A. Evidentiary Criteria 
+Because the Petitioner has not indicated or shown that he received a major, internationally recognized 
+award, he must satisfy at least three of the alternate regulatory criteria at 8 C.F.R. § 204.5(h)(3)(i)-(x). 
+Initially, the Petitioner claimed to have satisfied the requirements for three of the criteria, pertaining 
+to judging the work of others, original contributions of major significance, and authorship of scholarly 
+articles. In response to a request for evidence (RFE), the Petitioner also claimed to have met a fourth 
+criterion pertaining to high remuneration. 
+In the denial notice, the Director concluded that the Petitioner had met two of the criteria, pertaining 
+to judging and scholarly articles. 2 
+Upon review of the record, we agree with the Director that the Petitioner has satisfied the criteria 
+relating to judging and scholarly articles. We will discuss the other claimed criteria below. 
+1. Original Contributions 
+The regulation at 8 C.F.R. § 204.5(h)(3)(v) calls for evidence of the alien's original scientific, 
+scholarly, artistic, athletic, or business-related contributions of major significance in the field. 
+1 On Form T-140, the Petitioner acknowledged the filing and approval of an earlier immigrant petition, on which he sought 
+classification as a member of the professions holding an advanced degree under section 203(b)(2) of the Act, with a national 
+interest waiver of the job offer requirement. That petition, with receipt number and a priority date of August 
+31, 2023, was approved in December 2023. 
+2 The Director also stated that the Petitioner had not satisfied three other criteria, relating to prizes, memberships, and 
+published material. Because the Petitioner did not claim to have met these three criteria, we will not discuss them further. 
+2 
+By itself, evidence of patents or publication may establish originality, but not necessarily major 
+significance. Evidence of major significance might include documentation showing that a person's 
+published research has been heavily cited and provoked widespread commentary, or that a person's 
+patented technology has attracted significant attention or commercialization. See generally 6 USCIS 
+Policy Manual F.2(B)(l), https://www.uscis.gov/policy-manual. Detailed letters from experts in the 
+field explaining the nature and significance of the person's contribution may also provide valuable 
+context, particularly when the record includes corroborating documentation. Id. 
+Initially, the Petitioner submitted copies of his articles published in journals and conference 
+proceedings; evidence of citation of those articles; and letters from various individuals in the 
+computing field. Later, in response to the RFE, the Petitioner submitted additional documentation 
+intended to show that the significance of his work has resulted in "prestigious awards," "media 
+recognition," and "prestigious membership" in organizations. 
+In the denial notice, the Director acknowledged the Petitioner's published work and citation history, 
+but concluded that "the petitioner has not established how the citation to each publication is 
+commensurate with major significance." The Director also stated: "The letter authors have not 
+specifically detailed how [the Petitioner's] research is being widely utilized throughout the field." 
+On appeal, the Petitioner asserts that he has submitted sufficient evidence of the major significance of 
+his contributions, including types of evidence specifically identified in the USCIS Policy Manual. The 
+Petitioner contends that the Director dismissed this evidence without sufficient discussion and 
+consideration. The Petitioner also asserts that the Director considered other submitted materials under 
+other, unclaimed criteria instead of as evidence of the major significance of the Petitioner's 
+contributions. 
+Below, we will more fully discuss and evaluate the Petitioner's evidence. 
+The Petitioner initially stated that he: 
+has made original contributions of major significance in the field of AI, including but 
+not limited to enhancing crane control through the BELBIC [brain emotional learning­
+based intelligent controller] model, accelerating AI algorithm development with model­
+driven architecture (MDA), stabilizing AI controllers for complex systems, and 
+revolutionizing cyber-physical system monitoring .... [The Petitioner] is particularly 
+well-known for his contributions to the implementation of emotional bio-inspired 
+control algorithms in real-world systems. 
+The Petitioner submitted letters from individuals in the IT field, some of whom have collaborated with 
+the Petitioner, while others have cited his published work. These individuals provided details about 
+some of the Petitioner's projects and described the problems that the Petitioner's work is intended to 
+address. The individuals generally described the implications of the Petitioner's work but did not 
+specifically explain its major significance in the field. 
+3 
+On appeal, the Petitioner asserts that "none of [the letters] were specifically evaluated" in the 
+Director's decision. The Petitioner devotes a considerable portion of the appellate brief to discussion 
+of, and quotations from, these letters. We will discuss examples here. 
+A researcher in Iran stated that the Petitioner's "approach demonstrated remarkable efficacy in 
+optimizing processing speed, stability, and resource utilization across diverse AI applications," which 
+"not only streamlined development processes but also reduced costs and time-to-market for real-world 
+AI applications." A researcher in India who cited one of the Petitioner's articles stated that the 
+Petitioner's "research demonstrated significant improvements in reaction time and error reduction 
+compared to conventional control methods" and "created a robust framework for implementing such 
+algorithms in embedded systems," which "has had a marked impact on AI applications in the real 
+world." These individuals, however, cited no specific examples of "real-world AI applications" that 
+use the Petitioner's work in this way. 
+Two further letters submitted in response to the RFE are from researchers stating why they cited the 
+Petitioner's publications in their own articles, and describing articles by others that also include 
+citations to the Petitioner's work. Like the previous letters, these letters include descriptions of the 
+Petitioner's work but do not provide specific, corroborated explanations of how the Petitioner's 
+contributions are of major significance as the criterion requires. 
+One of the writers, a researcher in the Netherlands, stated that he "extensively cited [the Petitioner's] 
+research" in one of his articles. The Petitioner submitted only the first page of the citing article, and 
+therefore the record does not substantiate the claim that the article includes "extensive" citations to the 
+Petitioner's work. 
+While we acknowledge the letters suggest how the Petitioner's work is useful, the letters do not provide 
+sufficient detail to meet the Petitioner's burden of establishing how his work is of major significance 
+to meet the criterion. 
+Other letters specifically addressed the applications of the Petitioner's work to the banking industry. 
+But these letters say little about the specific impact of the Petitioner's work beyond his company's 
+clients. A bank official stated that the Petitioner presented "his studies and activities regarding Iran's 
+Payment System" at a conference in 2016, where his "suggestions were welcomed by the regulatory 
+authorities and paved the way for banking system[s] to improve their operations." The lack of detail 
+does not permit the conclusion that the Petitioner's conference presentation was a contribution of 
+major significance. 
+The same bank official stated that the Petitioner's company "has developed some very useful 
+applications" that "have been deployed in 40+ payment companies [ and] banks, and have contributed 
+a lot to reaching optimum reliability, and perceived availability in banking and payment services 
+transactions." The letter lacks both documentary corroboration and background information to 
+establish that the impact of the Petitioner's work has reached the level of major significance, rather 
+than solely or primarily benefit to individual clients. This lack of corroboration tends to limit the 
+weight of the letter. See generally 6 USCIS Policy Manual, supra, at F.2(8)(1). 
+4 
+Other letters provide more details but do not establish how widely the Petitioner's work is used. A 
+municipal project manager in I Idescribed the Petitioner's improvements to license plate 
+recognition cameras, increasing accuracy and therefore revenues, and another project in which he 
+improved the accuracy of one bank's network of automatic teller machines. But project-specific 
+details do not provide the broader context necessary to show their field-wide major significance. 
+As noted above, expert opinion letters are generally more persuasive when supported by 
+documentation, and the record does not consistently corroborate the writers' assertions about the 
+significance and impact of the Petitioner's work on Iran's banking industry and other areas. 
+Next, we turn to the citation of the Petitioner's published work. Published research that has provoked 
+widespread commentary on its importance from others working in the field, and documentation that it 
+has been highly cited relative to others' work in that field, may be probative of the significance of the 
+person's contributions to the field of endeavor. See generally 6 USCIS Policy Manual, supra, at 
+F.2(B)(l). 
+The Petitioner submitted complete or partial copies of several scholarly articles and conference 
+presentations that he co-wrote, published between 2002 and 2023. A printout from Google Scholar lists 
+44 published articles and presentations, 20 of which had been cited between 1 and 49 times each, for a 
+total of312 citations. Most ofthe citations relate to seven articles published between 2007 and 2010. 
+We agree with the Director's conclusion that the citation data does not suffice to establish the major 
+significance of the Petitioner's published work. 
+The Google Scholar printout shows that the Petitioner earned an h-index of 8, meaning that eight of his 
+articles have been cited at least eight times each. The Petitioner asserted that this h-index "plac[ es] him 
+in the top 5% of authors publishing in computer science." To support this assertion, the Petitioner 
+submitted a table of"h-index percentiles for computer science." The Petitioner did not identify the source 
+ofthe table. The source does not appear to be Clarivate, the identified source ofother citation information; 
+the printout is in a different font than the Clarivate printouts. The Petitioner has not established the 
+probative value of this unattributed data table. 
+The Petitioner also submitted data from Clarivate Analytics to support the assertion that "[fJor all articles 
+published in the category of Computer Science in 2023, the average number of citations is only 0.6," and 
+that one ofthe Petitioner's 2023 articles is in "the top 10% most-cited" because it had "received 2 citations 
+to date." The submitted evidence is not sufficient to establish major significance. In this regard, it is 
+significant that the Petitioner did not cite percentile figures for any of his other, earlier articles. 
+Clarivate' stable of"Baseline Citation Rates" shows expected citation rates for papers in computer science 
+published between 2013 and 2023, a date range that excludes the Petitioner's most-cited work. The 
+baseline figures are higher for earlier years, because there has been more time to accumulate citations. 
+The baseline rate for articles from 2013 is 18.2 citations; the overall baseline rate for 2013-2023 is 12.04 
+citations. The Petitioner published 14 papers during that period. Only two of those articles, both 
+published in 2023, were cited at all, earning one and two citations respectively. 
+5 
+As explained above, the citation data is incomplete and ambiguous, and therefore does not establish the 
+major significance of the Petitioner's published work. 
+In the RFE, the Director stated that the citation evidence did not establish the major significance of the 
+Petitioner's contributions. In response, the Petitioner submitted "data ... taken from OpenAlex" that 
+"places him among the top 2.32% ofresearchers in the field in terms ofresearch productivity." The cited 
+data relates to the volume, not the significance, of one's published work. 
+The Petitioner also showed that researchers in 33 different countries have cited his published work. The 
+Petitioner did not establish that the geographic distribution of citing authors correlates with the 
+significance of the cited work. 
+As "[e ]vidence of the utilization of [the Petitioner's] work," the Petitioner submitted copies of contracts 
+showing that his company provided the following services: 
+• "monitoring services for core and payment switch systems" for a software development company 
+that provides "banking/insurance solution[ s ]"; 
+• "measurement and analytics of qualitative indicators of all the [customer's] infrastructure 
+components" for an informatics company; and 
+• "measuring, checking and analyzing the quality of infrastructures" for a software company. 
+The contracts provide few additional details about the work performed, and do not identify the Petitioner's 
+specific original contributions used in the contracted projects. Because the contracts were executed at the 
+beginning of each project, they do not establish their later impact and significance. 
+The Petitioner also stated that various awards, articles, and memberships demonstrate the significance of 
+his contributions, even ifthey do not meet the requirements ofrelated criteria at 8 C.F.R. § 204.5(h)(3)(i)­
+(iii). The record does not support this claim. The awards include second place in a "RoboSoccer 
+Simulation League" and recognition ofa software program as an "exemplary product in the Fifth National 
+congress of Information Technology Managers," with no indication ofbroader significance. 
+One article identifies the Petitioner as "an expert in payment systems," and quotes his opinions on digital 
+currency and cryptocurrency. Other articles discuss the Petitioner's positions on Instagram filtering and 
+on overreliance on credit cards instead of cash for small transactions. Still others discuss the Petitioner's 
+use of computer modeling to predict the spread of COVID-19 in Iran. The record does not establish that 
+the Petitioner's recommendations have been implemented and have produced the predicted benefits. The 
+articles indicate that the Petitioner has a degree of public visibility, but they do not establish original 
+contributions ofmajor significance. 
+A letter from the International Chamber of Commerce of Iran indicates that the Petitioner holds a 
+permanent pos1t10n on its and has chaired its I I working group 
+since 2015. An official ofthe organization stated that the Petitioner "was invited for membership due to 
+his deep academic and research activities at the national and international levels." The letter attests to the 
+depth of the Petitioner's knowledge and his active involvement in the field, but does not establish the 
+major significance of specific, documented contributions. 
+6 
+For the above reasons, we agree with the Director that the Petitioner has not met his burden of proof 
+regarding original contributions of major significance. 
+2. High Salary 
+The regulation at 8 C.F.R. § 204.5(h)(3)(ix) calls for evidence that the alien has commanded a high 
+salary or other significantly high remuneration for services in relation to others in the field. 
+Evidence to show that an alien's compensation is high relative to that of others working in the field may 
+take the form of geographical or position-appropriate compensation surveys. See generally 6 USCIS 
+Policy Manual, supra, at F.2(B)(l). 
+The Petitioner stated that his total compensation, including his annual salary, benefits, and "[s ]hare of 
+annual profits" total 53.4 billion IRR. The Petitioner noted that this total is "notably higher" than Iranian 
+survey figures from the World Salaries website. The Petitioner stated that the surveys show annual 
+salaries of roughly 10 billion IRR for managing directors; roughly 6.85 billion for AI developers; and 
+roughly 8.58 billion for data scientists. 3 
+Citing Strategati, LLCv. Sessions, 2019 WL 2330181 (S.D. Cal. May 31, 2019), the Director concluded 
+that the Petitioner had compared his "salary to the average, and not others who command high salaries." 
+The Director also stated that the Petitioner had not provided comparative figures for non-salary 
+compensation. 
+On appeal, the Petitioner asserts that the regulation at "8 C.F.R. § 204.5(h)(3)(ix) does not require a high 
+salary as compared to others who command high salaries." The Petitioner cites numerous district court 
+cases indicating that a petitioner should not have to establish that one's remuneration ranks at the very 
+highest levels to meet the regulatory requirements. 
+None of the court cases cited by the Director or by the Petitioner have precedential authority in this 
+proceeding. There are other cases reaching the opposite conclusion. See, e.g., Kinuthia v. Eiden, 702 F. 
+Supp. 3d 5, 10 (D. Mass. 2023) (holding that USCIS "reached a rational conclusion" when determining 
+that a salary below the 90th percentile was not sufficiently high to satisfy the regulatory criterion). 
+The USCIS Policy Manual does not directly address the issue, stating that relevant evidence may include 
+"[c ]omparative wage or remuneration data for the person's field." See generally 6 USCIS Policy Manual, 
+supra, at F.2(B)(l). But the same source does permit a more focused comparison, for example 
+"geographical ... surveys." Id. The Policy Manual also cites, as a resource, "[t]he Bureau of Labor 
+Statistics (BLS) Overview ofBLS Wage Data by Area and Occupation webpage," which provides results 
+for specific areas within the United States, and "[t]he Department of Labor's Career One Stop website," 
+which distinguishes between figures for entry-level workers and the generally higher wages earned by 
+3 The figures the Petitioner discussed are ten times higher than the figures on the World Salaries printouts. On appeaL the 
+Petitioner compares his claimed remuneration to the unmodified figures in the printouts, thereby increasing the difference by 
+an order ofmagnitude. But the Petitioner also states on appeal that "the comparative salary data is likely offby a factor of 1 0," 
+owing to issues with Iranian currency revaluation that are beyond the scope of this decision. In the absence of evidence to 
+resolve the issue either way, we will follow the Petitioner's initial interpretation of the World Salaries data. 
+7 
+more experienced workers.4 Id. Consistent with this guidance, the information from World Salaries 
+acknowledges that "salaries will vary a lot based on [one's] experience, location, skills," and other factors. 
+Relevant caselaw suggests that "in relation to others in the field" should be interpreted as allowing 
+comparisons to those employed in the same occupation at a similar level. See Matter ofPrice, 20 I&N 
+Dec. 953, 954 (Assoc. Comm'r 1994) (considering a professional golfer's earnings versus other PGA 
+Tour golfers); Grimson v. INS, 934 F. Supp. 965, 968 (N.D.Ill. 1996) (considering NHL enforcer's 
+salary versus other NHL enforcers); Muni v. INS, 891 F. Supp. 440, 444-45 (N.D.Ill. 1995) (comparing 
+salary of NHL defensive player to salary of other NHL defensemen). 
+A case from the Ninth Circuit illustrates the importance of comparing the salaries of individuals 
+performing similar work: 
+The only evidence in the record of comparable salaries is that of the average "security 
+guard." By Skokos's own description, he was much more than a security guard, but a 
+security consultant with additional responsibilities of supervising other guards, 
+arranging security in other locales and foreign countries, and providing round-the-clock 
+protection to [his client] and her family. The record is void of information regarding 
+salaries for security consultants who perform similar work for musical artists, 
+celebrities, or other public figures. 
+Skokos v. US. Dep't ofHomeland Sec., 420 F. App'x 712, 713-14 (9th Cir. 2011). The comparison 
+is apt here because the Petitioner has provided salary information for "managing directors," "data 
+scientists," and "artificial intelligence developers." The Petitioner has not shown that any of these 
+occupational titles fully captures the nature of his work with his company, such that the salary survey 
+figures relate to individuals who perform similar work to the Petitioner. 
+Also, the World Salaries printouts provided by the Petitioner provide only base salaries and bonuses. The 
+majority of the Petitioner's 2023-2024 income, as documented on a monthly payroll receipt, is identified 
+as "overtime," "housing allowance," "coupon" and "child benefit"; there is no designated "bonus." 
+Therefore, the base salary and bonus figures provided by World Salaries do not provide a reliable 
+comparison to the Petitioner's total compensation. 
+The Petitioner has not met his burden ofproof to meet the regulatory requirements. 
+III. CONCLUSION 
+The Petitioner has not submitted the required initial evidence of either a one-time achievement or 
+documents that meet at least three of the ten lesser criteria. As a result, we need not provide the type 
+of final merits determination referenced in Kazarian, 596 F.3d at 1119-20. Nevertheless, we advise 
+4 The cited sources relate directly to employment in the United States rather than Tran, but they suggest that it is appropriate to 
+consider other factors beyond aggregate national averages. The World Salaries printouts indicate that the Petitioner's 2023-
+2024 salary was below average for a managing director with his level ofeducation and experience. 
+8 
+that we have reviewed the record in the aggregate, concluding that it does not support a conclusion 
+that the Petitioner has established the acclaim and recognition required for the classification sought. 
+The Petitioner seeks a highly restrictive visa classification, intended for aliens already at the top of 
+their respective fields, rather than for those progressing toward the top. U.S. Citizenship and 
+Immigration Services has long held that even athletes performing at the major league level do not 
+automatically meet the "extraordinary ability" standard. Matter ofPrice, 20 I&N Dec. at 954. Here, 
+the Petitioner has not shown a degree of recognition of his work that indicates sustained national or 
+international acclaim and demonstrates a "career of acclaimed work in the field" as contemplated by 
+Congress. H.R. Rep. No. 101-723, 59 (Sept. 19, 1990); see also section 203(b)(l)(A) of the 
+Act. Moreover, the record does not otherwise demonstrate that the Petitioner is one of the small 
+percentage who has risen to the very top of the field of endeavor. See section 203(b )(1 )(A) of the Act 
+and 8 C.F.R. § 204.5(h)(2). 
+The Petitioner produced the bulk of his published and presented work before 2014, in conjunction with 
+his graduate studies and postdoctoral training. The Google Scholar printout ofhis publication and citation 
+history indicates that 261 out of 312 citations to his work appeared before 2019. Every article with ten 
+or more citations at the time of filing was published before 2011. This information does not appear to 
+indicate sustained acclaim and recognition. 
+The Petitioner has documented some degree ofpublic visibility and has earned the respect ofhigh-ranking 
+figures in the computing and financial industries in Iran, but the evidence in the record does not 
+consistently support key claims and assertions relating to the Petitioner's claims of sustained national or 
+international acclaim. 
+The Petitioner has not demonstrated eligibility as an alien of extraordinary ability. We will therefore 
+dismiss the appeal. 
+ORDER: The appeal is dismissed. 
+9 

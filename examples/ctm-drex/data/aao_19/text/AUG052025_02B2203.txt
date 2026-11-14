@@ -1,0 +1,111 @@
+Non-Precedent Decision of the
+Administrative Appeals Office 
+U.S. Citizenship 
+and Immigration 
+Services 
+In Re: 39087354 Date: AUG. 05, 2025 
+Appeal of Service Center Operations (SCOPS) Decision 
+Form 1-140, Immigrant Petition for Alien Workers (Extraordinary Ability) 
+The Petitioner, a computational biology researcher, seeks classification as an individual of 
+extraordinary ability in the sciences. See Immigration and Nationality Act (the Act) section 
+203(b)(l)(A), 8 U.S.C. § l 153(b)(l)(A). This first preference classification makes immigrant visas 
+available to those aliens who can demonstrate their extraordinary ability through sustained national or 
+international acclaim and whose achievements have been recognized in their field through extensive 
+documentation. Id. 
+SCOPS denied the petition, concluding that the record did not establish the Petitioner has a one-time 
+achievement (that is, a major internationally-recognized award) or meets at least three of the ten 
+evidentiary criteria at 8 C.F.R. § 204.5(h)(3). Specifically, while SCOPS correctly found that the 
+Petitioner has participated as a judge of the work of others in the same or an allied field of 
+specialization and has authored scholarly articles in the field in professional or major trade 
+publications or other major media, it also found that he did not establish he has made original scientific, 
+scholarly, artistic, athletic, or business-related contributions of major significance in his field. As the 
+Petitioner did not establish at least three of the ten evidentiary criteria, SCOPS did not conduct a final 
+merits determination to determine whether the Petitioner is one of the small percentage who has risen 
+to the top of his field of endeavor and has sustained acclaim. The matter is now before us on appeal 
+pursuant to 8 C.F.R. § 103 .3. 
+The Petitioner bears the burden ofproof to demonstrate eligibility by a preponderance of the evidence. 
+Matter ofChawathe, 25 I&N Dec. 369, 375-76 (AAO 2010). We review the questions in this matter 
+de novo. Matter of Christo 's, Inc. , 26 l&N Dec. 537, 537 n.2 (AAO 2015). Upon de novo review, 
+we will dismiss the appeal. 
+We adopt and affirm SCOPS' decision. See Matter ofBurbano, 20 l&N Dec. 872, 874 (BIA 1994); 
+see also Giday v. INS, 113 F.3d 230, 234 (D.C. Cir. 1997) (noting that the practice of adopting and 
+affirming the decision below "is not only common practice, but universally accepted"). In correctly 
+finding that the Petitioner did not establish that he has made original scientific, scholarly, artistic, 
+athletic, or business-related contributions of major significance in his field of computational biology, 
+SCOPS listed the evidence provided by the Petitioner and thoroughly and accurately discussed the 
+Petitioner's arguments and evidence. We therefore disagree with the Petitioner's assertion on appeal 
+that he provided sufficient evidence of original scientific contributions of major significance in his 
+field. The Petitioner provides similar arguments as before and points to areas in SCOPS' decision in 
+which he claims it erred. Specifically, he claims that SCOPS was dismissive of his citation count, 
+citation statistics from Clarivate Analytics, evidence from OpenAlex, funding by the National 
+Institutes of Health (NIH), and letters of support. 1 
+First, SCOPS referenced the Petitioner's Google Scholar profile and number of citations at the time 
+of filing the petition and at the time he responded to a request for evidence (RFE). SCOPS 
+acknowledged the Petitioner's claim that the increase in his total citations during this time period 
+demonstrated the significance of his contributions. The Petitioner again refers to this increase in 
+citation count on appeal. However, SCOPS correctly found the Petitioner must be eligible at the time 
+of filing and therefore the citation increase at the time of the RFE was not probative. Additionally, 
+SCOPS pointed out that the Petitioner did not demonstrate how his citation count compared to other 
+similar, highly cited articles that his field established as having major significance. The Petitioner 
+does not address this issue on appeal. Rather, he asserts that SCOPS imposed a threshold number for 
+citations, but a review of SCOPS' decision does not include a citation number requirement. 
+Second, SCOPS noted that the Petitioner's field is research driven and by nature research adds to the 
+general knowledge in one's field, and publications can demonstrate the originality ofwork. However, 
+SCOPS correctly stated that the Petitioner must establish his contributions have had major significance 
+in the broader field. SCOPS mentioned that the significance of the Petitioner's research has yet to be 
+realized, determined, measured, or established; and he has not established that his work has impacted 
+the field at a significant level, such that it has been widely adopted and implemented throughout the 
+field, remarkably impacted or influenced the field, or the field has been changed as a result. The 
+Petitioner has not provided this type of evidence on appeal or otherwise established that the record 
+shows this. 
+Third, SCOPS discussed information from Clarivate Analytics regarding articles published from 2013 
+to 2023 and their percentile rankings based on number of citations received. SCOPS noted that the 
+Petitioner's field is computational biology, but he inappropriately included printouts for the broader 
+fields of biology and biochemistry. The Petitioner refers to information from Clarivate Analytics 
+showing that computational biology is a subfield of biology and biochemistry. While that may be the 
+case, we would still assess the level of significance of his work relative to his particular field of 
+computational biology. SCOPS discussed the evidentiary deficiencies of a document from A-S-. 2 The 
+document was purported to be an email from a Clarivate Analytics representative, but it did not include 
+any identification ofwho it was emailed to, when it was emailed, or that A-S- was a Clarivate Analytics 
+representative. It also included a faulty website link in its text. The Petitioner includes evidence on 
+appeal that A-S- worked for Clarivate Analytics, but did not otherwise address the issues mentioned 
+by SCOPS. 
+Fourth, SCOPS reviewed information about OpenAlex, and an OpenAlex profile with the Petitioner's 
+citation count, publication count, and percentile rankings for both. SCOPS pointed out that the 
+1 We note the Petitioner's claim that SCOPS ignored his peer review service. However, SCOPS mentioned this in finding 
+that he participated as a judge of the work of others in the same or an allied field of specialization. 
+2 We use initials to protect the identity of individuals. 
+2 
+Petitioner did not demonstrate the significance of the OpenAlex profile, the actual source material 
+used to find the profile statistics, or the method to calculate the profile figures. The Petitioner provides 
+information on OpenAlex, but it does not contain the method to calculate the profile figures. 
+Fifth, SCOPS addressed multiple letters of support from professors and found that while they 
+expressed admiration for his original research and his influence on a few researchers, they did not 
+provide specific detailed information explaining the unusual influence or high impact his work has 
+had on the broader field. The Petitioner disagrees and points to a letter in the record mentioning his 
+"research is esteemed for its provision of critical insight into molecular level changes in crop plants 
+under drought and salinity stresses, and its revelation of associated DNA polymorphism, DNA 
+methylation, and transcriptional variations being used for high-yield crops susceptible to said 
+environmental conditions." The information from this letter does not detail who the research is 
+esteemed by or otherwise establish the unusual influence or high impact his work has had on the 
+broader field. The Petitioner also quotes from three other letters which SCOPS addressed in detail. 
+Again, these letters express admiration for his original research and his influence on a few researchers, 
+but they do not provide sufficient information explaining the unusual influence or high impact his 
+work has had on the broader field. 
+Finally, SCOPS discussed evidence related to funding from the NIH and how it failed to establish the 
+major significance of the Petitioner's work. The Petitioner asserts that the NIH only funds new and 
+breakthrough projects with impacts on human health. This general assertion does not address the 
+specifics of the Petitioner's work and whether it is of major significance. 
+Although the Petitioner has established that he participated as a judge ofthe work ofothers in the same 
+or an allied field of specialization and has authored scholarly articles in the field in professional or 
+major trade publications or other major media, he has not established that he has made original 
+scientific, scholarly, artistic, athletic, or business-related contributions of major significance in his 
+field. Therefore, he is not eligible for classification as an individual of extraordinary ability. 
+ORDER: The appeal is dismissed. 
+NOTICE: This constitutes the final decision in this matter. The filing of a motion will not postpone the 
+effect of the decision. 8 C.F.R. § 103.S(a)(l)(iv). Aliens who are not lawfully present, or who are 
+otherwise inadmissible or deportable, may be subject to the commencement of removal proceedings 
+under section 240 ofthe Act through the issuance ofa Form 1-862, Notice to Appear. Those proceedings 
+may result in their removal from the United States and possible ineligibility for future visas or other 
+immigration benefits. 
+3 

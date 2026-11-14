@@ -1,0 +1,342 @@
+Non-Precedent Decision of the
+Administrative Appeals Office 
+U.S. Citizenship 
+and Immigration 
+Services 
+In Re: 38774909 Date: SEP. 16, 2025 
+Appeal of Service Center Operations (SCOPS) Decision 
+Form 1-140, Immigrant Petition for Alien Workers (Extraordinary Ability) 
+The Petitioner, a data scientist, seeks classification under the employment-based, first-preference 
+(EB-1) immigrant visa category as an alien with "extraordinary ability." See Immigration and 
+Nationality Act (the Act) section 203(b)(l)(A), 8 U.S.C. § 1153(b)(l)(A). This EB-1 classification 
+makes immigrant visas available to those who can demonstrate their extraordinary ability through 
+sustained national or international acclaim and whose achievements have been recognized in their 
+field through extensive documentation. Section 203(b )(1 )(A)(i) of the Act. 
+SCOPS denied the petition, concluding that the record did not establish that the Petitioner had satisfied 
+at least three of ten initial evidentiary criteria, as required. The matter is now before us on appeal 
+pursuant to 8 C.F.R. § 103.3. 
+The Petitioner bears the burden ofproof to demonstrate eligibility by a preponderance ofthe evidence. 
+Matter afChawathe, 25 l&N Dec. 369, 375-76 (AAO 2010). We review the questions in this matter 
+de novo. Matter a/Christa's, Inc. , 26 I&N Dec. 537, 537 n.2 (AAO 2015). Upon de novo review, 
+we will dismiss the appeal. 
+I. LAW 
+To qualify for this immigrant visa category, a petitioner must demonstrate that they: 
+• Have "extraordinary ability in the sciences, arts, education, business, or athletics;" 
+• Seek to continue work in their field of expertise in the United States; and 
+• Would substantially benefit the United States as an immigrant. 
+Section 203(b)(l)(A)(i)-(iii) of the Act. 
+The term "extraordinary ability" means expertise commensurate with "one that small percentage who 
+have risen to the very top of the field of endeavor." 8 C.F.R. § 204.5(h)(2). Unless a petitioner can 
+demonstrate international recognition of his or her achievements in the field through a one-time 
+achievement (that is, a major, internationally recognized award), they must provide sufficient 
+qualifying documentation that meets at least three ofthe ten lesser evidentiary criteria listed at 8 C.F.R. 
+§ 204.5(h)(3)(i)-(x). The regulation at 8 C.F.R. § 204.5(h)(4) allows a petitioner to submit comparable 
+evidence if they are able to demonstrate that the standards at 8 C.F.R. § 204.5(h)(3)(i)-(x) do not 
+readily apply to the individual's occupation. 
+If a petitioner meets these initial evidence requirements, U.S. Citizenship and Immigration Services 
+(USCIS) must then consider the totality of the material provided in a final merits determination and 
+assess whether the record shows sustained national or international acclaim and demonstrates that the 
+individual is among the small percentage at the very top of the field of endeavor. See Kazarian v. 
+USCIS, 596 F.3d 1115 (9th Cir. 2010) (discussing a two-part review where the documentation is first 
+counted and then, iffulfilling the required number ofcriteria, considered in the context ofa final merits 
+determination); see also Amin v. Mayorkas, 24 F.4th 383, 391 (5th Cir. 2022) (finding USCIS' two­
+step extraordinary ability analysis "consistent with the governing statute and regulation"); see 
+generally 6 USCIS Policy Manual F.2(B), www.uscis.gov/policy-manual. 
+II. ANALYSIS 
+The record shows that the Petitioner earned a bachelor's degree in software and industrial engineering 
+and completed a master's degree in software engineerin in Janua 2018 in Turkey. The Petitioner's 
+resume indicates that she worked as a data scientist at for approximately four months 
+and then as a contractor ( analytics consultant for,________~from February 2018 to June 2019. 
+In July 2019, the Petitioner joined,__ ____. a Turkish technology company, and eventually! I 
+a startup company from the product spin-off of I Iwhere she works as a senior lead data 
+scientist. 
+Because the Petitioner has not indicated or shown that she received a major, internationally recognized 
+award, she must satisfy at least three of the alternate regulatory criteria at 8 C.F.R. § 204.5(h)(3)(i)­
+(x). The Petitioner claims to have satisfied six of these criteria, summarized below: 
+• Membership in associations in the field requiring outstanding achievements of their members; 
+• Participation as a judge of other's work in the field; 
+• Original contributions of major significance in the field; 
+• Authorship of scholarly articles; 
+• Performance in a leading or critical role for distinguished organizations or establishments; and 
+• Commanding of a high salary or significantly high remuneration relative to others in the field. 
+8 C.F.R. § 204.5(h)(3)(ii), (iv), (v), (vi), (viii), (ix). 
+SCOPS concluded that the Petitioner only met two criteria: participation as a judge of others' work 
+in the field at 8 C.F.R. § 204.5(h)(3)(iv) and authorship of scholarly articles at 8 C.F.R. § 204.5(h)(3) 
+(vi). Upon review of the record, we will not disturb SCOPS' determination. 
+On appeal, the Petitioner asserts that she meets all six ofthe claimed criteria. For the reasons discussed 
+below, we agree with SCOPS that the Petitioner does not meet the remaining four claimed criteria and 
+is not eligible for the extraordinary ability visa classification sought. 
+2 
+A. Evidentiary Criteria 
+1. Membership in Associations 
+To meet this evidentiary requirement, a pet1t10ner must submit "[d]ocumentation of the alien's 
+membership in associations in the field for which classification is sought, which require outstanding 
+achievements of their members, as judged by recognized national or international experts in their 
+disciplines or fields." 8 C.F.R. § 204.5(h)(3)(ii). Associations may have multiple levels of 
+membership, and the level of membership afforded to the alien must show that in order to obtain that 
+level of membership, the alien was judged by recognized national or international experts as having 
+attained outstanding achievements in the field for which classification is sought. See generally 6 
+USCIS Policy Manual, supra, at F.2(B)(l), Criterion 2. 
+The Petitioner argues that her "senior membership" with the Institute of Electrical and Electronics 
+Engineers (IEEE) fulfills this criterion. The Petitioner submitted her IEEE membership certificate, 
+which states that she is a "Senior Member in good standing through December 2024, denoting a 
+personal and professional commitment to the advancement of technology," and a copy of the IEEE 
+bylaws and website information regarding the requirements for "IEEE Senior Member Grade." 
+In denying the petition, SCOPS determined that the IEEE's stated requirements for admission as a 
+senior member did not rise to the level of "outstanding achievements of its members, as judged by 
+recognized national or international experts" in the field, consistent with this regulatory criterion. The 
+Petitioner claims on appeal that SCOPS did not "meaningfully engage with the petitioner's arguments 
+and supporting documentation" and "a decision [was] made without a thorough or individualized 
+assessment." 
+Upon de novo review, we acknowledge that SCOPS did not fully explain the reasoning behind this 
+determination; however, we nevertheless agree with SCOPS's ultimate finding that the Petitioner's 
+membership in the IEEE falls short of meeting the requirements of this criterion. Relevant factors that 
+may lead to a conclusion that the person's membership in the association(s) was not based on 
+outstanding achievements in the field include, but are not limited to, instances where the person's 
+membership was based solely on the following factors (by themselves or in the aggregate): a level of 
+education or years of experience in a particular field; the payment of a fee or by subscribing to an 
+association's publications; and a requirement, compulsory or otherwise, for employment in certain 
+occupations, as commonly seen with union membership or guild affiliation for actors. Id. 
+According to the IEEE bylaws, "a candidate shall be an engineer, scientist, educator, technical 
+executive or originator in IEEE-designated fields ... The candidate shall have been in professional 
+practice for at least ten years and shall have shown significant performance of a period of at least five 
+ofthose years." The requirements for the "Senior Member Grade" on the IEEE website further specify 
+that "significant performance" does not require "special awards, patents, or other extremely 
+sophisticated technical accomplishments," but can include "substantial job responsibilities such as 
+team leader, task supervisor, engineer in charge of a program or project, engineer or scientist 
+performing research with some measure of success (papers), or faculty developing and teaching 
+courses with research and publications." 
+3 
+The record, therefore, does not demonstrate that the IEEE's standards for the senior grade membership 
+rise to the level of "outstanding achievements" as contemplated by the plain language of 8 C.F.R. 
+§ 204.5(h)(3)(ii). While this membership level does not appear to be available to all professionals 
+with 10 years of experience in the field, the Petitioner must establish that IEEE requires senior 
+members to have "outstanding achievements" as an essential condition of membership to satisfy this 
+criterion. Braga v. Poulos, No. CV 06-5105 SJO FMOX, 2007 WL 9229758, at *5 (C.D. Cal. July 6, 
+2007), aff'd, 317 F. App'x 680 (9th Cir. 2009) (finding the organization itself must require outstanding 
+achievements as a condition for membership). The Petitioner has not established that the IEEE 
+requirements of 10 years of relevant experience in a particular field with "substantial job 
+responsibilities [ ofbeing a team leader, supervisor, in charge of projects, or performing research]" rise 
+to the level of "outstanding achievements" consistent with this regulatory criterion. 
+In addition, the Petitioner did not establish that recognized national or international experts judge the 
+outstanding achievements for senior membership with IEEE as required by 8 C.F.R. § 204.5(h)(3)(ii). 
+The bylaws discuss how applications for membership are "referred to the Admission and 
+Advancement Committee" but the Petitioner has not shown that this committee's makeup consists of 
+recognized national or international experts in the field. 
+The Petitioner also claimed that she meets this criterion through her membership with the British 
+Computer Society (BCS). However, we agree with SCOPS that this membership was obtained after 
+the filing of the petition and is not probative. A petitioner must establish their eligibility "at the time 
+of filing the benefit request." 8 C.F.R. § 103.2(b)(l). In fact, the Petitioner acknowledges that her 
+BCS membership was obtained in 2025, after the filing of this petition. 
+Based on the foregoing, the Petitioner has not demonstrated that she meets this regulatory criterion. 
+2. Original Contributions of Major Significance 
+This criterion requires "[e]vidence of the alien's original scientific, scholarly, artistic, athletic, or 
+business-related contributions of major significance in the field." 8 C.F.R. § 204.5(h)(3)(v). For this 
+criterion, the Petitioner must establish that not only has she made original contributions but that they 
+have been of major significance in the field. See generally 6 USCIS Policy Manual, supra, at 
+F.2(B)(l), Criterion 5. For example, a petitioner may show that her contributions have been widely 
+implemented throughout the field, or have otherwise risen to a level of major significance in the field. 
+See Amin v. Mayorkas, 24 F.4th 383,394 (5th Cir. 2022) (for a petitioner's contributions to be "ofmajor 
+significance," evidence must demonstrate that their work has been widely adopted or replicated by 
+industry actors unaffiliated with them). 
+The Petitioner has claimed that creating "Digital Customer Chum Prediction Model" for her employer, 
+satisfies this criterion and rovided a rintout ofher blog post entitled '1 I 
+~------------------~" on I Iown website. SCOPS 
+determined that although two recommendation letters ( one from an associate professor at I II !University and from her employer,! ~ attributed this chum prediction model to the 
+Petitioner, the letters lacked details regarding how this model constitutes original contribution ofmajor 
+significance to the field of data science. 
+4 
+On appeal, the Petitioner claims that the chum prediction model that she developed has been "widely 
+adopted across industries, significantly influencing the way major corporations approach customer 
+retention and engagement." The Petitioner also argues that SCOPS erroneously declined to afford 
+sufficient evidentiary weight to the expert letter from the field and disregarded other supporting 
+evidence, such as her speaking engagements, Google Scholar profile, and various recommendation 
+letters. 
+We agree with SCOPS that the Petitioner has not provided corroborating evidence to support her claim 
+that this model is her original contribution that provided major significance to the field of data science. 
+Although the letter froml !claims that "multiple high-profile clients" 1 reported reduction in 
+customer chum as well as retention of high-value customers after adopting the Petitioner's model, the 
+record does not support that this model has impacted the field at a significant level, or that it has been 
+widely implemented beyond I I and its clientele. We do not doubt that the Petitioner is well­
+equipped to develop specialized data models for her employer and its clients. However, the plain 
+language of the phrase "contributions of major significance in the field" requires evidence of an impact 
+beyond one's employer and clients or customers. See Visinscaia v. Beers, 4 F. Supp. 3d 126, 134-135 
+(D.D.C. 2013). Here, the Petitioner has not submitted widespread reports from the media or independent 
+expert letters that speak in detail regarding how her modeling resulted in major significance or impact to 
+the field as a whole. 
+The Petitioner acknowledges on appeal that her name does not appear in public sources because "this is 
+a common outcome in large corporations where innovations are routinely credited to the company rather 
+than individual employees." The Petitioner also contends that the fact thatl ICEO "explicitly 
+confirmed in writing that [the Petitioner] was the one who developed the model" reinforces credibility 
+that it is her original contribution. However, her statements support only that the chum prediction model 
+is her original contribution for her employer, not that it is contribution of"major significance to the field," 
+as contemplated by the regulatory criterion. 
+The Petitioner also contends that the record includes an independent and objective expert letter from 
+the associate professor at I I University who "does not personally know [the 
+Petitioner]." Although the professor praises the Petitioner's achievements in data science, he only 
+discusses the impact or potential impact of the Petitioner's contributions in broad terms, and the letter 
+does not establish that the Petitioner's chum prediction model is already recognized as majorly 
+significant within the field. Other recommendation letters are from the Petitioner's current and former 
+employers and none of these letters identifies any specific original contributions by the Petitioner or 
+explains how those contributions are of major significance in the field; instead, the letters praise the 
+Petitioner's skills and successes with various projects that she has handled in the work setting. 
+The Petitioner further asserts that her significant contributions to the field of data science include her 
+technical writings and s eakin ements. For example, the record includes certificates of 
+participation in the ' ' workshop or as a panelist in '1 
+' at the conference. The Petitioner also presented her paper entitled 
+' at the International Conference on Engineering~------------------~ 
+1 The letter names various Turkish companies who appear t,....o_b_e~I__,_7__,clients, including,~!----~Iand banks 
+likel ~ and._l____,r.--
+5 
+I 
+Technologies (ICENTE) held in Turkey; excerpts of her four published articles on topics related to 
+artificial intelligence and applied sciences; and a Google Scholar printout showing that her articles 
+received a total of four citations from 2021 to 2024. 
+However, aside from providing the samplings of her presentations and publications, the Petitioner does 
+not explain how her articles or speaking engagements on various topics amount to an original contribution 
+or discuss the specifics on the actual impact to the field. Although the expert letter praises the Petitioner's 
+"scholarly contributions" as "notable" and "enhancing the field through rigorous research and analysis," 
+the letter largely speaks in generalities and in vague terms, that these articles are relevant to "areas that 
+are critical to the future of data science." See e.g., Jafarov v. United States Citizenship & Immigr. Servs., 
+No. 23 CN. 3372 (PAE), 2024 WL 69056, *7 (S.D.N.Y. Jan. 5, 2024) (finding the absence of detail 
+about the actual impact of the petitioner's work and the limited citations his work had thus far received 
+meant that he did not satisfy this criterion). 
+Here, the Petitioner has not provided evidence that contains specific, detailed information explaining 
+the influence or impact her modeling, her presentations, or publications have had on the field. Letters 
+that lack specifics and use hyperbolic language do not add value and are not considered to be probative 
+evidence that may form the basis for meeting this criterion. See Kazarian, 580 F.3d at 1036, aff'd in 
+part, 596 F.3d at 1115 (holding that letters that repeat the regulatory language but do not explain how 
+an individual's contributions have already influenced the field are insufficient to establish original 
+contributions of major significance in the field). Moreover, USCIS need not accept primarily 
+conclusory statements. 1756, Inc. v. The US. Atty Gen., 745 F. Supp. 9, 15 (D.C. Dist. 1990). 
+Therefore, the Petitioner has not identified any original contributions of major significance in her field. 
+3. Leading or Critical Role 
+To meet this requirement, a petitioner must provide "[e]vidence that the alien has performed in a 
+leading or critical role for organizations or establishments that have a distinguished reputation." 
+8 C.F.R. § 204.5(h)(3)(viii). A critical role means an alien contributed in a significantly important way 
+to the activities ofthe organization, establishment, division, or department. See generally 6 USC IS Policy 
+Manual, supra, at F.(2)(B)(l), Criterion 8. Next, the Petitioner must establish that the organization, 
+establishment, division, or department has a distinguished reputation. The word "distinguished" 
+ordinarily means "marked by eminence, distinction, or excellence" or "befitting an eminent person." 
+Distinguished, Merriam-Webster Online Dictionary, www.merriam-webster.com. Relevant 
+considerations in determining whether an organization is "distinguished" include not only its relative 
+size and longevity but also other factors, such as the scale of its customer base or relevant media 
+coverage of it. See generally 6 USCIS Policy Manual, supra, at F.(2)(B)(l ), Criterion 8. 
+The Petitioner has claimed that she performed in a critical role for her current and former employers and 
+submitted letters from all four employers, ._______________, and I ~ 
+SCOPS concluded that the Petitioner sufficiently demonstrated that she performed critical roles for these 
+employers but did not establish these companies have a distinguished reputation because the Petitioner 
+submitted the organizations' own website pages without providing more independent and objective 
+documentary evidence. 
+6 
+In regard to her work as an analytics consultant atl lwe will withdraw SCOPS' conclusion that 
+the Petitioner performed in a critical role. The record shows that the Petitioner worked as a contractor 
+pursuant to a project agreement and includes a letter from the senior business development director at 
+I Iwho praises the Petitioner for her "talent, technical acumen, and strategic vision." Although 
+the author claims that the Petitioner "played a critical role atl I" he does not discuss the specific 
+duties and responsibilities that the Petitioner performed so that we can assess how she "contributed in a 
+significantly important way to the activities" ofl I. Instead, the senior director discusses how 
+he has "closely followed [the Petitioner's] career" or observed "her achievements at I Iand
+I t' and again praises her in general terms, that she is "an exceptional data scientist, a natural leader, 
+and a transformational force in the digital technology sector." As the letter does not describe how the 
+Petitioner was responsible for I Ioverall success or achievements in the field, we conclude 
+that the Petitioner has not shown that she performed in a critical role. See Goncharov v. Allen, No. 
+3:21-CV-1372-B, 2022 WL 17327304, at *6 (N.D. Tex. Nov. 29, 2022) (upholding petitioner's letters 
+did not show his role was critical to the success of the organization). 
+The Petitioner also claims that she performed in a critical role for three other employers, I I(senior 
+lead data scientist), I I ( data scientist), and I I ( data scientist). However, the 
+Petitioner has not demonstrated that these companies have a distinguished reputation. The Petitioner did 
+not submit comparative evidence to show the size, longevity, the scale of the customer base and relevant 
+media coverage showing distinguished reputation compared to other companies in Turkey. Without this 
+context, the companies' own website data by themselves do not establish that each employer has a 
+distinguished reputation. On appeal, the Petitioner submits news articles about these employers. 
+Although the news articles provide additional information about the companies, they do not offer any 
+basis for comparison between the reputation ofthese companies and those ofrival businesses in the same 
+field to determine whether they are "distinguished" or marked by eminence or excellence. 
+For these reasons, the Petitioner did not demonstrate that she meets this criterion. 
+4. High Salary or Significantly High Remuneration 
+This criterion requires "[ e ]vidence that the alien has commanded a high salary or other significantly 
+high remuneration for services, in relation to others in the field." 8 C.F.R. § 204.5(h)(3)(ix). Evidence 
+regarding whether the person's compensation is high relative to that of others working in the field may 
+take many forms. Examples may include, but are not limited to, geographical or position-appropriate 
+compensation surveys and organizational justifications to pay above the compensation data. See 
+generally 6 USCIS Policy Manual, supra, at F.2(B)(l), Criterion 9. 
+The Petitioner initially submitted evidence of her monthly payroll statements from Turkey as well the 
+I ldata showing an average salary of a "Manager Data Scientist." However, 
+in the request for evidence (RFE), SCOPS correctly pointed out that average salary levels are not 
+comparable when evaluating whether a salary was high "in relation to others in the field." E.g., 
+Kinuthia v. Eiden, 702 F. Supp. 3d 5, 11 (D. Mass. 2023) (finding USCIS reasonably concluded a 
+filing party's evidence comparing average and median salaries was insufficient to establish he 
+commanded a high salary in relation to others in the field). 
+7 
+In response to the RFE, the Petitioner offered salary figures of data scientists and data analysts from 
+kariyer.net. However, the salary information from kariyer.net was based on wage surveys "prepared 
+with data from 79 users" for data scientists and "prepared with data from 92 users" for data analysts. 
+Therefore, SCOPS properly concluded that such salary data was neither sufficient nor probative source 
+of evidence for the positions the Petitioner has held, especially given that there is no documentation 
+establishing the validity of these surveys. 
+On appeal, the Petitioner provides additional salary information from glassdoor.com and indeed.com, 
+as well as Reed's 2024 Salary Guide for Turkey. However, as the Petitioner has been given an 
+opportunity to respond to the deficiency in the evidence, we will not accept evidence offered for the 
+first time on appeal. Matter ofSoriano, 19 I&N Dec. 764 (BIA 1988); Matter ofObaigbena, 19 I&N 
+Dec. 533 (BIA 1988). 
+Even if we were to accept this evidence in addition to the Petitioner's initial filing and RFE response, 
+it does not establish eligibility. Although the Petitioner claimed that she meets this criterion solely on 
+the wages that she earned in Turkey, the printout from indeed.com only shows salary figures for data 
+scientists in the United States. USCIS evaluates persons working outside of the United States based 
+on the wage statistics or comparable evidence relevant to the applicable work location, rather than by 
+simply converting the salary to U.S. dollars and then viewing whether that salary would be considered 
+high in the United States. See generally 6 USCIS Policy Manual, supra, at F.2(B)(l), Criterion 9. 
+Moreover, the Petitioner has not shown that the printout from glassdoor.com corresponds to the salary 
+of data scientists who are similarly situated. The salary figures in the printout do not show that they 
+are grouped by similar locality, region, or country, or differentiated by employee experience levels or 
+employment types. Therefore, they are insufficient to provide a valid point of comparison to establish 
+that the Petitioner's salary was significantly high "in relation to others in the field." 
+Furthermore, the Petitioner has not demonstrated that Reed's salary information for data analysts in 
+Turkey corresponds to the salary of data scientists who may perform higher level of work and duties. 
+On the Form I-140, Immigrant Petition for Alien Worker, the Petitioner classified her position under 
+Standard Occupation Classification (SOC) code 15-2051, "Data Scientist" and listed her job titled on 
+the Form I-140 as "Senior Lead Data Scientist." Therefore, her assertion that her position's salary 
+aligns with that of data analysts is not the proper basis for comparison. Both precedent and case law 
+support this application of 8 C.F.R. § 204.5(h)(3)(ix). See Matter ofPrice, 20 I&N Dec. 953, 954 
+(Assoc. Comm'r 1994) ( considering a professional golfer's earnings versus other PGA Tour golfers); 
+see also Skokos v. US. Dept. ofHomeland Sec., 420 F. App'x 712, 713-14 (9th Cir. 2011) (finding 
+salary information for those performing lesser duties is not a comparison to others in the field); 
+Crimson v. INS, 934 F. Supp. 965, 968 (N.D. Ill. 1996) (considering NHL enforcer's salary versus 
+other NHL enforcers); Muni v. INS, 891 F. Supp. 440, 444-45 (N. D. Ill. 1995) (comparing salary of 
+NHL defensive player to salary of other NHL defensemen). 
+Because of the deficiencies in the various salary evidence provided, the Petitioner has not 
+demonstrated that her salary is high when compared to others in the field who are similarly situated. 
+The evidence does not provide a clear picture ofthe comparable range of salaries earned by other data 
+scientists in Turkey. 
+Accordingly, the Petitioner did not establish that she satisfies this criterion. 
+8 
+B. Reserved Issues 
+The above conclusions determine the outcome of the appeal. Therefore, we decline to reach and 
+hereby reserve the Petitioner's appellate arguments regarding whether she seeks "to enter the United 
+States to continue work in the area of extraordinary ability" and whether her entry "will substantially 
+benefit prospectively the United States," under section 203(b)(l)(A)(ii)-(iii) of the Act. See INS v. 
+Bagamasbad, 429 U.S. 24, 25 (1976) (per curiam) (holding that agencies are not required to make 
+"purely advisory findings" on issues that are unnecessary to the ultimate decision). 
+III. CONCLUSION 
+Congress set a very high benchmark for aliens of extraordinary ability by requiring the petitioner 
+demonstrate "sustained national or international acclaim" and present "extensive documentation" to 
+show his or her achievements have been recognized in the field. Section 203(b)(l)(A)(i) of the Act. 
+Here, because the Petitioner has not satisfied the threshold "initial evidence" requirements at 
+8 C.F.R. § 204.5(h)(3), we cannot conclude that they are an alien of extraordinary ability and need 
+not farther analyze the merits under the statute. See Kazarian, 596 F.3d at 1119-20; see also 
+Nagaiah v. Allen, -- F. Supp. 3d ---, 2025 WL 1508028, at *10 (E.D. Pa. May 27, 2025) (finding the 
+regulation "establishes a necessary, not sufficient, evidentiary requirement for a petitioner who seeks 
+an extraordinary ability visa."). Therefore, we decline to reach and hereby reserve any final merits 
+determination in this matter. See INS v. Bagamasbad, 429 U.S. at 25. 
+For the reasons discussed above, the Petitioner has not demonstrated eligibility as an individual of 
+extraordinary ability. In visa petition proceedings, it is a petitioner's burden to establish eligibility 
+for the immigration benefit sought. The Petitioner has not met that burden here. 
+ORDER: The appeal is dismissed. 
+NOTICE: This constitutes the final decision in this matter. The filing of a motion will not postpone 
+the effect of the decision. 8 C.F.R. § 103.5(a)(l)(iv). Aliens who are not lawfully present, or who are 
+otherwise inadmissible or deportable, may be subject to the commencement of removal proceedings 
+under section 240 of the Act through the issuance of a Form I-862, Notice to Appear. Those 
+proceedings may result in their removal from the United States and possible ineligibility for future 
+visas or other immigration benefits. 
+9 

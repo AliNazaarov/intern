@@ -1,0 +1,159 @@
+Non-Precedent Decision of the
+Administrative Appeals Office 
+U.S. Citizenship 
+and Immigration 
+Services 
+InRe: 42131765 Date: APR. 15, 2026 
+Motion on Administrative Appeals Office Decision 
+Form 1-140, Immigrant Petition for Alien Workers (Extraordinary Ability) 
+The Petitioner, a chief architect ofdigital transformations, seeks classification as an alien ofextraordinary 
+ability. See Immigration and Nationality Act (the Act) section 203(b)(l)(A), 8 U.S .C. § 1153(b)(l)(A). 
+This first preference classification makes immigrant visas available to those who can demonstrate their 
+extraordinary ability through sustained national or international acclaim and whose achievements have 
+been recognized in their field through extensive documentation. 
+Service Center Operations (SCOPS) denied the petition, concluding that the Petitioner met only two 
+initial evidentiary criteria, in which three must be satisfied. Specifically, SCOPS found the Petitioner 
+fulfilled judging under 8 C.F.R. § 204.5(h)(3)(iv) and roles under 8 C.F.R. § 204.5(h)(3)(viii). On 
+appeal, we determined the Petitioner met a third criterion relating to scholarly articles under 8 C.F.R. 
+§ 204.5(h)(3)(vi). Therefore, we conducted a final merits determination but concluded the Petitioner 
+did not demonstrate that he is among the small percentage at the very top of the field of endeavor. 
+Accordingly, we dismissed the appeal. The matter is now before us on combined motions to reopen 
+and reconsider. 
+The Petitioner bears the burden ofproof to demonstrate eligibility by a preponderance of the evidence. 
+Matter of Chawathe, 25 I&N Dec. 369, 375-76 (AAO 2010). Upon review, we will dismiss the 
+motions. 
+I. Analysis 
+A motion to reconsider must establish that our prior decision was based on an incorrect application of 
+law or policy and that the decision was incorrect based on the evidence in the record of proceedings 
+at the time of the decision. 8 C.F.R. § 103 .5(a)(3). A motion to reopen must state new facts and be 
+supported by documentary evidence. 8 C.F.R. § 103.5(a)(2). Because the scope ofa motion is limited 
+to the prior decision, we will only review the latest decision in these proceedings. 8 C.F .R. 
+§ 103 .5(a)(l)(i), (ii). We may grant motions that satisfy these requirements and demonstrate eligibility 
+for the requested benefit. 
+The Petitioner argues that our final merits determination "discounted [his] apex Salesforce architecture 
+credential (CT A/ Architect Review Board)" and provides additional evidence regarding "the enormous 
+size and economic footprint of the Salesforce ecosystem" and "the rigorous, board-style nature of the 
+CTA/Architecture Review Board process." 
+As indicated in our prior decision, the Petitioner presented evidence claiming that he is among 400 
+people who possess Salesforce CTA. The record, for instance, contains screenshots from 
+salesforceen.com stating that "[l]aunched in 2011, the CTA certification is, according to Salesforce, 
+the 'pinnacle' of certifications," and screenshots from freepressjournal.in stating that CTA 
+"designation is considered one of the most challenging and prestigious certifications within the 
+Salesforce ecosystem as it is designed for professionals with extensive experience in Salesforce 
+architecture." On motion, the Petitioner references various figures from his evidence, such as 
+"Salesforce and its ecosystem would create 9.3 million jobs and $1.6 trillion in new business 
+revenues," and projects that "[i]f CTA holders are approximately 400-500 globally and the ecosystem 
+jobs figures is 9,300,000, then the CTA cohort is approximately 0.004%-0.005% of that workforce 
+base" and "[i]f CTA holders are approximately 400-500 and Trailhead learners are 7,400,000, then 
+CT As represent approximately 0.005%-0.007% of that learner base." 
+However, the Petitioner did not demonstrate the significance of this credential in establishing him 
+among that small percentage at the very top of his field. Although he may be among 400 - 500 people 
+who possess Salesforce CTA, the Petitioner did not offer relevant context, such as how many people 
+even pursue the credential or how many people never make it through the certification process. 
+Moreover, the fact that, according to the Petitioner's own figures, his Salesforce CTA represents 
+0.004% - 0.007% of the workforce does not necessarily indicate his standing in the field ifrecognition 
+is limited within Salesforce, only applies to people who utilize Salesforce, or only a few apply for it, 
+regardless of the review board process. 
+Furthermore, the record includes screenshots from cio.com regarding 'Top 15 certifications for 
+enterprise architects," in which Salesforce CT A is limited among them. However, the article does not 
+indicate the prestigious nature of these certifications rather than "certifications are a great way to 
+validate your enterprise architecture" and "one or more of these 15 certifications will help strengthen 
+your resume." The Petitioner did not demonstrate that his Salesforce CTA places him among that very 
+top ofhis field as opposed to being better qualified as an enterprise architect. In addition, the Petitioner 
+did not show how his Salesforce CTA differentiates from the other 14 certifications or how he 
+compares himself to other individuals in his field who are viewed among the upper echelon that have 
+any of these certifications, including the Salesforce CT A. 
+Without additional information and further context, considering his Salesforce CTA both individually 
+and collectively, the Petitioner did not demonstrate his sustained national or international acclaim. The 
+alien has extraordinary ability that has been demonstrated through extensive documentation. Section 
+203(b)(l)(A)(i) of the Act, 8 U.S.C. § 1153(b)(l)(A)(i). The intent of Congress that a very high 
+standard be set for aliens of extraordinary ability is reflected in this regulation by requiring the 
+petitioner to present more extensive documentation than that required for lesser classifications. 56 FR 
+30703-01, 30704. Here, the majority of the Petitioner's personal and professional accomplishments 
+reflect events within one or two years of initially filing the petition. For example, the Petitioner's 
+membershi s Institute ofElectrical and Electronics Engineers, the British Computer Society,! I 
+i~--------Ju.L.U..................._.Llo.1.Jwu..L.L...1...-".................,c.....u.J.................,_~........_...,~ed between 2023 -2024; his press material 
+occurred in 2023; his judging experience ~--------------------~ 
+2 
+occurred between 2023 - 2024; his 
+authorshi s 
+occurred in 2024, and his salary was based on 2024 wages. ~----------~ 
+A petition for an alien of extraordinary ability must be accompanied by evidence that the alien has 
+sustained national or international acclaim and that his or her achievements have been recognized in 
+the field of expertise. 8 C.F.R. § 204.5(h)(3). In determining whether an individual has enjoyed 
+"sustained" national or international acclaim, USCIS should consider that such acclaim must be 
+maintained. See generally 6 USCIS Policy Manual F.2(A)(l), https://www.uscis.gov/policy-manual. 
+According to Black's Law Dictionary (11th ed. 2019), the definition of sustain is "to support or 
+maintain, especially over a long period of time ... To persist in making ( an effort) over a long oeriod 
+of time." Id. Although he received Salesforce CTA in 2020 and has worked atl ]from 
+2013 - 2021 and atl Ifrom 2024 - present, the Petitioner did not demonstrate that his relative 
+short personal and professional achievements immediately preceding the filing of the petition 
+represent a career of acclaimed work. An alien can qualify on the basis of a career of acclaimed work 
+in the field. 1990 U.S.C.C.A.N. 6710, 6739. 
+Moreover, the Petitioner did show that he received any recognition for awards received by I I 
+I I See Donskoy v. United States Citizenship & Immigr. Servs., No. 
+21-CV-04757-CRB, 2021 WL 5240224, at *5 (N.D. Cal. Nov. 11, 2021) (finding that what matters for 
+the purpose of the visa classification is whether the award brought the petitioner individual acclaim). 
+In addition, the Petitioner did not establish that he garnered any attention from his memberships or 
+how they place him among that small percentage at the very top of the field. See Hamal v. United 
+States Dep't of Homeland Sec., No. 21-5160, 2023 WL 1156801, at *3 (D.C. Cir. Jan. 31, 2023) 
+(finding although the petitioner's membership demonstrated his professional stature, it did not 
+"establish the exceptional level ofdistinction" required for the extraordinary ability visa). Further, the 
+Petitioner did not demonstrate that three recent articles about him shows his national or international 
+acclaim or indicates his level among the upper echelon his field. Bodhankar v. United States 
+Citizenship & Immigr. Servs., No. 119CV706MADCFH, 2020 WL 777211, at *5 (N.D.N.Y. Feb. 18, 
+2020) (finding the lack of press about the plaintiff was not consistent with national or international 
+acclaim). 
+Likewise, the Petitioner did not establish the significance ofhis recent judging instances. See Agrawal 
+v. Miller, No. 4:24CV3143, 2025 WL 2879217, at *23 (D. Neb. Sept. 12, 2025) (upholding that 
+plaintiff did not show how she judged to such an extent, or at a high enough level, that her judging 
+surpasses the majority of the field and places her in the top echelon of the field). Furthermore, the 
+Petitioner did not show that his work with I Iand I I brought him a level 
+attention by his field consistent with that small percentage at the very top of the field. See Joseph v. 
+Dir. ofTexas Serv. Ctr., United States Citizenship & Immigr. Servs., No. 24-40249, 2025 WL 458001, 
+at*4 (5th Cir. Feb. 11, 2025) (upholding plaintiff did not demonstrate his contributions reflected 
+sustained national or international acclaim through extensive documentation). 
+Similarly, the Petitioner did not demonstrate the importance or value of his four recent authorships or 
+that they received recognition at a level tantamount to the very top of the field. See Bhanu v. Garland, 
+No. 22-103, 2023 WL 6119357, at *9 (E.D. Pa. Sept. 18, 2023) (upholding the Petitioner did not show 
+the significance of authorships reflect that he is among the small percentage at the very top of the 
+3 
+I 
+field). Moreover, the Petitioner did not establish that his employment with I 
+!garnered him recognition as being among the upper tier in his field. S._e_e_R-am_a_l,-2-0_2_1_W__,L 
+2338316, at *4, ajf'd, 2023 WL 1156801 (upholding plaintiff did not contextualize his work at an 
+organization demonstrating recognition by the field as being significantly important or viewed as 
+unusually influential). In addition, the Petitioner did not show that his recent earnings indicate 
+sustained acclaim or places him among the very top of his field. See Jafarov v. United States 
+Citizenship & Immigr. Servs., No. 23 CIV. 3372 (PAE), 2024 WL 69056, at *9 (S.D.N.Y. Jan. 5, 2024) 
+(finding the failure to command consistent high wage earnings did not reflect sustained national or 
+international acclaim and a single year's, or even a few years', worth of salary data unlikely to satisfy 
+this requirement). 
+The record as a whole, including the evidence discussed above, does not establish the Petitioner's 
+eligibility for the benefit sought. 1 Here, the Petitioner seeks a highly restrictive visa classification, 
+intended for individuals already at the top of their respective fields, rather than those progressing 
+toward the top. Matter ofPrice, 20 I&N Dec. 953,954 (Assoc. Comm'r 1994) (concluding that even 
+major league level athletes do not automatically meet the statutory standards for classification as an 
+individual of "extraordinary ability,"); Amin v. Mayorkas, 24 F.4th at 394 (stating that extraordinary 
+ability is such an elite level of accomplishment); Lapteva v. Schuurmans, No. 8:24CV83, 2025 WL 
+815087, at *1 (D. Neb. Mar. 10, 2025) (stating that EB-1 visa are intended to be available to only an 
+exceedingly small amount of individuals with extraordinary ability). In this case, the Petitioner has 
+not shown the significance of his work is indicative of the required sustained national or international 
+acclaim or it is consistent with a career of acclaimed work in the field. See Section 203(b)(l)(A) of 
+the Act. While the Petitioner need not establish that there is no one more accomplished to qualify for 
+the classification sought, the record is insufficient to demonstrate that he is among the small percentage 
+at the top of his field. See 8 C.F.R. § 204.5(h)(2). 
+IL Conclusion 
+On motion, the Petitioner has not demonstrated that our previous decision was based on an incorrect 
+application of law or policy at the time we issued our decision. Further, although he has submitted 
+additional evidence in support of the motion, the Petitioner has not established eligibility. Therefore, 
+the motion will be dismissed. 8 C.F.R. § 103.5(a)(4). 
+ORDER: The motion to reopen is dismissed. 
+FURTHER ORDER: The motion to reconsider is dismissed. 
+NOTICE: Aliens who are not lawfully present, or who are otherwise inadmissible or deportable, may 
+be subject to the commencement of removal proceedings under section 240 of the Act through the 
+issuance of a Form I-862, Notice to Appear. Those proceedings may result in their removal from the 
+United States and possible ineligibility for future visas or other immigration benefits. 
+1 See generally 6 USCJS Policy Manual, supra, at F.2(B)(2) (providing that some evidence weighs more favorably on its 
+own, while other evidence is more persuasive when viewed with other evidence). 
+4 

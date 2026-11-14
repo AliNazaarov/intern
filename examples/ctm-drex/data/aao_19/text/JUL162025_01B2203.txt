@@ -1,0 +1,200 @@
+Non-Precedent Decision of the
+Administrative Appeals Office 
+U.S. Citizenship 
+and Immigration 
+Services 
+In Re: 38599182 Date: WLY 16, 2025 
+Appeal of Service Center Operations (SCOPS) Decision 
+Form 1-140, Immigrant Petition for Alien Workers (Extraordinary Ability) 
+The Petitioner, a doctoral candidate and researcher in bioinfom1atics, seeks classification as an 
+individual of extraordinary ability. See Immigration and Nationality Act (the Act) section 
+203(b)(l)(A), 8 U.S.C. § 1153(b)(l)(A). 
+Service Center Operations (SCOPS) denied the petition, concluding that the record did not establish 
+that the Petitioner has sustained national or international acclaim and is one of that small percentage 
+who has risen to the very top of his field. The matter is now before us on appeal pursuant to 8 C.F.R. 
+§ 103.3 . 
+The Petitioner bears the burden ofproof to demonstrate eligibility by a preponderance of the evidence. 
+Matter ofChawathe, 25 I&N Dec. 369, 375-76 (AAO 2010). We review the questions in this matter 
+de novo. Matter of Christo 's, Inc., 26 I&N Dec. 537, 537 n.2 (AAO 2015). Upon de novo review, 
+we will dismiss the appeal. 
+I. LAW 
+Section 203(b )(1 )(A) of the Act makes immigrant visas available to individuals with extraordinary 
+ability in the sciences, arts, education, business, or athletics which has been demonstrated by sustained 
+national or international acclaim and whose achievements have been recognized in the field through 
+extensive documentation, provided that the individual seeks to enter the United States to continue 
+work in the area of extraordinary ability, and the individual's entry into the United States will 
+substantially benefit prospectively the United States. 
+The term "extraordinary ability" refers only to those individuals in "that small percentage who have 
+risen to the very top of the field of endeavor." 8 C.F.R. § 204.5(h)(2). The implementing regulation 
+at 8 C.F.R. § 204.5(h)(3) sets forth a multi-part analysis. First, petitioners can demonstrate 
+international recognition of their accomplishments in the field through a one-time achievement (that 
+is, a major, internationally recognized award). If petitioners do not submit this evidence, then they 
+must provide sufficient qualifying documentation that meets at least three of the ten criteria listed at 8 
+C.F.R. § 204.5(h)(3)(i)-(x). The regulation at 8 C.F.R. § 204.5(h)(4) allows petitioners to submit 
+comparable evidence if they are able to demonstrate that the standards at 8 C.F.R. § 204.5(h)(3)(i)­
+(x) do not readily apply to their occupation. 
+Where a petitioner meets these initial evidence requirements, we then consider the totality of the 
+material provided in a final merits determination and assess whether the record shows sustained 
+national or international acclaim and demonstrates that the individual is among the small percentage 
+at the very top of the field of endeavor. See Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010) 
+( discussing a two-part review where the documentation is first counted and then, if fulfilling the 
+required number of criteria, considered in the context of a final merits determination); see also 
+Visinscaia v. Beers, 4 F. Supp. 3d 126, 131-32 (D.D.C. 2013); Rijal v. USCIS, 772 F. Supp. 2d 1339 
+(W.D. Wash. 2011). 
+II. ANALYSIS 
+The Petitioner holds a bachelor's degree in biotechnology fro in China and is a 
+doctoral candidate in bioinformatics at the~--------~_In 1s etter confirming the 
+Petitioner's em lo ment as a raduate student research assistant. A-N-, 1 Professor of Bioinformatics 
+at the states the Petitioner is creating! Isoftware and integrating 
+._______, into.____~ an existing platform, to provide a complete workflow for data alalysis. 
+A-N- states the Petitioner's work on these projects will be published in the journal 1 
+I ~ 
+A. Evidentiary Criteria 
+Because the Petitioner has not shown that he received a major, internationally recognized award, he 
+must satisfy at least three of the alternate regulatory criteria at 8 C.F.R. § 204.5(h)(3)(i)-(x). SCOPS 
+determined the Petitioner met the three criteria relating to judging the work of others in the same field, 
+original scientific contributions of major significance, and authorship of scholarly articles at 8 C.F .R. 
+§ 204.5(h)(3)(iv)- (vi). The record supports SCOPS' determinations as evidenced by the Petitioner's 
+peer-reviews of articles for scientific journals, his co-authorship of 15 articles published in scientific 
+journals which, at the time of filing, had been cited a total of 2,681 times, and the fonding of some of 
+his research by the National Cancer Institute (NCI) and the National Institutes of Health (NIH). 
+B. Final Merits Determination 
+The Petitioner has established that he meets at least three of the evidentiary criteria at 
+8 C.F.R. § 204.5(h)(3). As the Petitioner submitted the requisite initial evidence, we will evaluate 
+whether he has demonstrated, by a preponderance of the evidence, his sustained national or 
+international acclaim, that he is among the small percentage at the very top of his field of endeavor, 
+and that his achievements have been recognized in the field through extensive documentation. In a 
+final merits determination, we analyze petitioners' accomplishments and weigh the totality of the 
+evidence to determine if their successes are sufficient to demonstrate that they have extraordinary 
+ability in the field of endeavor. See section 203(b )(1 )(A)(i) of the Act; 8 C.F.R. § 204.5(h)(2), (3); 
+see also Kazarian, 596 F.3d at 1119-20. 
+1 We use initials to protect the privacy of the referenced individuals. 
+2 
+On appeal, the Petitioner asserts SCOPS did not properly consider the contents of his support letters. 
+We have reviewed the support letters the Petitioner submitted below and on appeal and assess their 
+content as follows. A-N-, the Petitioner's supervisor, explains the Petitioner developed "advanced 
+computational tools for enhanced analysis of complex proteomics data" inclucijng I ) a 
+spectrum-centric analysis tool, which he integrated into thd !platform, an~ Iwhich 
+"allowed for simpler identification oftrue peptides from false ones by effectively forecasting retention 
+time, spectral patterns, and other properties." A-N- states the Petitioner usedl IandI I 
+"to discover 18% more immune-related peptides in datasets than previous methods." A-N- explains 
+the Petitioner's "development of thel Iandl Itools accelerated the discovery of 
+of acting as disease biomarkers for more effective and personalized
+~---....,..,...---,-----,-----,-----,~
+treatments" and show that he "is an indispensable force in the bioinformatics field." A-N- does not 
+discuss any other research teams that have relied or expanded upon the Petitioner's work and does not 
+identify any treatments that have been developed based on the Petitioner's research. 
+B-G-, Professor of Biochemistry and Molecular Biophysics at the
+I !commends the Petitioner's development of"a versatile st~an_d_a_l_o_n_e-to_o_l_f_o_r_c_o_m_p_r_e_h_en_s_i_v_e_ly~ 
+visualizing proteomics data" which "has been adopted by researchers across the field, demonstrating 
+its efficacy in advancing proteomics studies including biomarker and cancer-related peptide 
+detection." B-G- also explains that the Petitioner "has substantially aided proteomics data 
+visualization" and "enables researchers to obtain faster and more efficient biomarker identification 
+and to advance cancer research." However, B-G- does not specifically identify or discuss any 
+researchers that have used the Petitioner's tool or relied on his work to advance cancer research. 
+Y-L-, Associate Professor of Pharmacology at I Ipraises the Petitioner's work in 
+improving neoantigen identification, specifically his development ofI l"a computational 
+workflow that effectively organizes prospective neoantigens by combining genomic and proteomic 
+data" and I Iwhich further enhances "the identification of neoantigens in mass 
+spectrometry data." Y-L- explains that the Petitioner's work "is especially important in improving the 
+diagnosis and treatment of cancer, enabling healthcare providers to personalize treatments and 
+improve survival rates and quality of life." Y-L- states he cited the Petitioner's work in his article 
+published in Nucleic Acids Research, but does not discuss any other research teams that have relied 
+upon the Petitioner's work or any clinical application of the Petitioner's work in cancer diagnosis and 
+treatment. 
+T-G-, Associate Professor at in China, also praises the Petitioner's development 
+ofl land~--~which have "aided researchers in identifying and quantifying proteins 
+and peptides, thus improving the identification of biomarkers for complex diseases." T-G- states he 
+relied upon the Petitioner's work in one of his articles, but does not discuss any other research teams 
+that have cited the Petitioner's work or any clinical application of the Petitioner's research. 
+On appeal, the Petitioner submits a letter from B-Z-, Professor of Molecular and Human Genetics at
+I Iwho employed the Petitioner as a bioinformatics programmer in his 
+laboratory from 2018 to 2021. B-Z- praises the Petitioner's development of I I a 
+proteogenomics data analysis workflow, which was funded by NIH and NIC and was published in the 
+journal Nature Communications. B-Z- states the Petitioner was also involved in "several CPTAC 
+3 
+cancer analysis projects" involving studies on several types of carcinomas. B-Z- also commends the 
+Petitioner's development of I la tool which "utilizes deep learning methods to improve 
+the quality of neoantigen discovery results." B-Z- states this work was published in an article in the 
+journal Proteomics which was featured on the cover and of which the Petitioner is the first author. B­
+Z- states the Petitioner's work "made a significant impact on" his laboratory's research in 
+proteogenomics and neoantigen analysis. B-Z- does not, however, discuss any other research teams 
+that have relied upon the Petitioner's work or any clinical applications of his research. 
+The Petitioner's support letters explain the significance ofhis research upon which four research teams 
+relied, but they do not discuss any further impact or clinical application of his work. Consequently, 
+the letters are insufficient to establish the Petitioner's sustained national or international acclaim and 
+that he is among the small percentage at the very top of his field. See Jafarov v. United States 
+Citizenship & Immigr. Servs., No. 23 CIV. 3372 (PAE), 2024 WL 69056, at *9 (S.D.N.Y. Jan. 5, 2024) 
+(finding testimonial letters were insufficient to establish the plaintiff's relative status in the field and 
+did not compare him to others). 
+The Petitioner submitted evidence that his research in three articles was funded by the NCI and NIH, 
+that he is a member of the NCI Clinical Proteomic Tumor Analysis Consortium, that one of his co­
+authored articles was featured on the front cover of the journal I Ithat he served a critical 
+role in the research published in four of his co-authored articles, and that he is one of the inventors of
+I Ithat has been licensed 11 times. This evidence demonstrates the major significance of the 
+Petitioner's scientific contributions to his field, but is insufficient to show he is among the small 
+percentage at the very top of his field. The Petitioner did not submit evidence to show his research 
+funding and role, and publication and licensing records are comparable to scientists at the very top of 
+his field. 
+The record also documents the Petitioner's service as a peer-reviewer ofarticles for scientific journals. 
+The Petitioner submitted evidence that he completed 16 peer reviews of articles for highly ranked 
+scientific journals in his field. This evidence does not demonstrate sustained national or international 
+acclaim, however, because the reviews were conducted only between 2022 and 2024 and the Petitioner 
+did not submit evidence that the number of his reviews is significantly high compared to other 
+scientists in his field. The Petitioner also did not submit evidence that he served on the editorial board 
+of any highly ranked scientific journal, was a member of a selection committee for a distinguished 
+conference, or otherwise assessed the work of other researchers in a manner consistent with being 
+among the small percentage of those scientists at the very top of his field. Consequently, the 
+Petitioner's peer-review service does not evidence extraordinary ability. See Bhanu v. Garland, No. 
+22-103, 2023 WL 6119357, at *9 (E.D. Pa. Sept. 18, 2023) (upholding USCIS' conclusion in a final 
+merits determination that a researcher did not provide evidence that set him apart from others in his 
+field, such as a consistent history of completing a substantial number of review requests relative to 
+others, serving in editorial positions for distinguished journals or publications, or chairing technical 
+committees for reputable conferences). 
+While evidence of his contributions to his field, the Petitioner's publication and citation records also 
+do not establish that he is among the small percentage at the very top ofhis field. At the time of filing, 
+the Petitioner had published 15 articles in highly ranked scientific journals that had been cited a total 
+of 2,681 times. The Petitioner submitted evidence that his citation count placed him in the D 
+4 
+percentile ofresearchers in his field. However, this evidence states the highest ranking is for a citation 
+count of 61,461 which greatly exceeds the Petitioner's citation count of 2,681. The Petitioner also 
+submitted evidence that his h-index of 14 places him among the top four percent ofresearchers in his 
+field, but this evidence shows the highest h-index is 102. We do not discount the significant impact 
+of the Petitioner's publications as evidenced by the numerous citations to his work. However, the 
+evidence indicates that his publication and citation records do not place him at the very top ofhis field. 
+The Petitioner also submitted 21 articles that cite his co-authored publications. These citations show 
+that other researchers have relied upon the Petitioner's work, but they do not show he is among the 
+small percentage at the very top of his field. The most the Petitioner's work is cited in one article is 
+five times. Most of the articles cite the Petitioner's work after just one sentence in the introduction, a 
+summary of related research, or a description of the tools and methods used. The Petitioner also 
+submitted evidence that 20 other researchers in his field have lower citation counts than him. This 
+evidence and the citing articles are insufficient to show his citation record places him among the small 
+percentage at the very top of his field as the citing articles do not discuss his work in depth and there 
+is no evidence that the 20 other researchers are highly ranked in his field. 
+When considered in the aggregate, the evidence shows the Petitioner is an accomplished scientist 
+whose research has been widely cited. The Petitioner's publications, peer reviews, funding, citations, 
+licensing of his software, and recommendation letters show he is a well-respected researcher whose 
+work has made major contributions to his field. However, the record shows the Petitioner's citation 
+count and h-index are significantly lower than those at the very top of his field. In addition, articles 
+citing the Petitioner's work do not discuss his research in-depth and the Petitioner's peer review 
+service does not demonstrate sustained national or international acclaim. When considered as a whole, 
+the record is insufficient to establish that the Petitioner is among that small percentage at the very top 
+of his field. 
+III. CONCLUSION 
+The Petitioner seeks a highly restrictive visa classification, intended for individuals already at the top 
+oftheir respective fields, rather than for individuals progressing towards the top. USCIS has long held 
+that even athletes performing at the major league level do not automatically meet the "extraordinary 
+ability" standard. Matter ofPrice, 20 I&N Dec. 953,954 (Assoc. Comm'r. 1994). Here, the Petitioner 
+has not shown that the significance and recognition of his work are indicative of sustained national or 
+international acclaim as one of that small percentage who have risen to the very top of his field, as 
+extraordinary ability is described at section 203(b)(l)(A) of the Act and 8 C.F.R. § 204.5(h)(2). The 
+Petitioner is consequently ineligible for classification as an alien of extraordinary ability. 
+ORDER: The appeal is dismissed. 
+NOTICE: This constitutes the final decision in this matter. The filing of a motion will not postpone the 
+effect of the decision. 8 C.F.R. § 103.5(a)(l)(iv). Aliens who are not lawfully present, or otherwise 
+inadmissible or deportable, may be subject to the commencement of removal proceedings under section 
+240 ofthe Act through the issuance of a Form 1-862, Notice to Appear. Those proceedings may result in 
+their removal from the United States and possible ineligibility for future visas or other immigration 
+benefits 
+5 
+6 

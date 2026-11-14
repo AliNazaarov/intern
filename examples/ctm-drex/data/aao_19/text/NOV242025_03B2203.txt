@@ -1,0 +1,380 @@
+Non-Precedent Decision of the
+Administrative Appeals Office 
+U.S. Citizenship 
+and Immigration 
+Services 
+In Re: 40156432 Date: NOV. 24, 2025 
+Appeal of Service Center Operations (SCOPS) Decision 
+Form 1-140, Immigrant Petition for Alien Workers (Extraordinary Ability) 
+The Petitioner, a senior data scientist, seeks classification as an alien of extraordinary ability. See 
+Immigration and Nationality Act (the Act) section 203(b)(l)(A), 8 U.S .C. § 1153(b)(l)(A). This first 
+preference classification makes immigrant visas available to those who can demonstrate their 
+extraordinary ability through sustained national or international acclaim and whose achievements have 
+been recognized in their field through extensive documentation. 
+SCOPS denied the petition, concluding that the record did not establish that the Petitioner had either 
+received a major, internationally recognized award or satisfied at least three of ten initial evidentiary 
+criteria, as required. The matter is now before us on appeal under 8 C.F.R. § 103 .3. 
+The Petitioner bears the burden ofproof to demonstrate eligibility by a preponderance of the evidence. 
+Matter afChawathe, 25 I&N Dec. 369, 375-76 (AAO 2010). We review the questions in this matter 
+de novo. Matter a/Christa's, Inc., 26 I&N Dec. 537,537 n.2 (AAO 2015). Upon de novo review, 
+we will dismiss the appeal. 
+I. LAW 
+Section 203(b )(1 )(A) of the Act makes immigrant visas available to aliens with extraordinary ability 
+in the sciences, arts, education, business, or athletics which has been demonstrated by sustained 
+national or international acclaim and whose achievements have been recognized in the field through 
+extensive documentation. A petitioner must establish that these aliens seek to enter the United States 
+to continue work in the area of extraordinary ability, and that their entry into the United States will 
+substantially benefit the United States. The term "extraordinary ability" refers only to those aliens in 
+"that small percentage who have risen to the very top ofthe field of endeavor." 8 C.F.R. § 204.5(h)(2). 
+The implementing regulation at 8 C.F.R. § 204.5(h)(3) sets forth a multi-part analysis. First, a 
+petitioner can demonstrate international recognition of an alien's achievements in the field through a 
+one-time achievement in the form of a major, internationally recognized award. Or the petitioner can 
+submit evidence that meets at least three of the ten criteria listed at 8 C.F.R. § 204.5(h)(3)(i)-(x), 
+including items such as awards, published material in certain media, and scholarly articles. If those 
+standards do not readily apply to the alien's occupation, then the regulation at 8 C.F.R. § 204.5(h)( 4) 
+allows the submission of comparable evidence. 
+Once a pet1t10ner has met the initial evidence requirements, the next step is a final merits 
+determination, in which we assess whether the record shows sustained national or international 
+acclaim and demonstrates that the alien is among the small percentage at the very top of the field of 
+endeavor. See Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010) (discussing a two-part review where 
+the documentation is first counted and then, if fulfilling the required number of criteria, considered in 
+the context of a final merits determination); see also Visinscaia v. Beers, 4 F. Supp. 3d 126, 131-32 
+(D.D.C. 2013); Rijal v. USCIS, 772 F. Supp. 2d 1339 (W.D. Wash. 2011). 
+II. ANALYSIS 
+The Petitioner earned a bachelor's degree in computer science and engineering in 2004 and a master's 
+degree in information technology (IT) in 2007. Starting in 2004, the Petitioner worked in various software 
+engineering positions in India, most recently as a data scientist for the 
+I Ifrom 2014 to 2022. He then entered the United States as a~n-H--l-B-n-on-1-.m-m-ig-r-an_t_t_o_w_o_rk_a_s~a 
+senior data scientist and director of AI for.__ __________.LLC. 
+Because the Petitioner has not indicated or shown that he received a major, internationally recognized 
+award, he must satisfy at least three ofthe alternate regulatory criteria at 8 C.F.R. § 204.5(h)(3)(i)-(x). 
+The Petitioner initially claimed to have satisfied five of these criteria, summarized below: 
+• (ii), Membership in associations that require outstanding achievements; 
+• (iii), Published material about the alien in professional or major media; 
+• (iv), Participation as a judge of the work of others; 
+• (vi), Authorship of scholarly articles; and 
+• (viii), Leading or critical role for distinguished organizations or establishments. 
+Upon review of the record, we agree with SCOPS' conclusion that the Petitioner met two of the 
+criteria, pertaining to judging and authorship of scholarly articles. We will discuss the other claimed 
+criteria below. 
+1. Membership 
+The regulation at 8 C.F.R. § 204.5(h)(3)(ii) calls for documentation of the alien's membership in 
+associations in the field for which classification is sought, which require outstanding achievements of 
+their members, as judged by recognized national or international experts in their disciplines or fields. 
+General membership in an international organization for engineering and technology professionals may 
+not meet the requirements ofthe criterion. However, ifthat same organization at the fellow level requires, 
+in part, that a nominee have accomplishments that have, for example, contributed importantly to the 
+advancement or application of engineering, science, and technology, and that a council of experts and a 
+committee of current fellows judges the nominations for fellows, that higher, fellow level may be 
+qualifying. See, generally, 6 USCIS Policy Manual F.2(B)(l), https://www.uscis.gov/policy-manual. 
+Another possible qualifying example may include membership as a fellow in a scientific society dedicated 
+to artificial intelligence if the membership is based on recognition of a nominee's significant, sustained 
+2 
+contributions to the field of artificial intelligence, and a panel of current fellows makes the selection of 
+new fellows. Id. 
+Relevant factors that may lead to a conclusion that the person's membership in the association(s) was not 
+based on outstanding achievements in the field include, but are not limited to, instances where the person's 
+membership was based solely on the following factors (by themselves or in the aggregate): 
+• A level of education or years of experience in a particular field; 
+• The payment of a fee or by subscribing to an association's publications; and 
+• A requirement, compulsory or otherwise, for employment in certain occupations, as commonly 
+seen with union membership or guild affiliation for actors. 
+Id. 
+The Petitioner is a Fellow of the._______________,· A letter from D confirmed the 
+Petitioner's Fellow status and stated: 
+Fellowship is the highest level of membership offered by D and is reserved for those 
+members ofthe IT community in the highest echelon ofleadership, influence and impact. 
+0Fellows make up around 4% of our currentOmembers.... 
+The0Fellowship is awarded following a highly rigorous selection process, accepting 
+only the most distinguished IT professionals and tech leaders working in the field. To 
+achieveDFellowship, the applicant must be an outstanding leader in IT .... 
+Fellowship applications are assessed by~ Fellows and further reviewed by our 
+Fellowship executive committee. The Fellowship application process is overseen and 
+approved through our governance structure. 
+The letter cited! Ibylaws as "[f]urther confirmation" of the above assertions, but the bylaws, 
+submitted in full, appear to show a substantially lower threshold for fellowship. Paragraph 6 ofthe bylaws 
+indicates that Fellowship is available to "[a]ny persons who ... have established to the satisfaction of the 
+Trustee Board that they have enjoyed not less than five years' responsible experience, and have an 
+established reputation in Computing." 
+SCOPS denied the petition, stating: 
+The~. . . membership requires a fee. Further, this membership does not require 
+outstanding achievements, as judged by renowned experts. Membership requirements 
+based on employment or activity in a given field, minimum education or experience, 
+standardized test scores, grade point average, recommendations by colleagues or current 
+members, or payment of dues, do not satisfy this criterion as such requirements do not 
+constitute outstanding achievements. 
+3 
+On appeal, the Petitioner asserts that SCOPS erred because hisOFellowship is not based "solely" on 
+payment of a fee and meeting a minimum threshold of education or experience. The Petitioner asserts 
+that the record documents "a multi-stage, peer-adjudicated process that is governed by recognized 
+national or international experts at every stage." 
+The Petitioner contends thatOFellows are, by definition, recognized national or international experts, 
+but the Petitioner does not support this assertion. The Petitioner also asserts that "[ a ]11 admissions are 
+ultimately reviewed and approved by the Fellowship Committee." To support this claim, the Petitioner 
+cites the committee's Terms of Reference. That document, however, does not say that the committee 
+reviews and approves all admissions. Rather, it states that "the Committee will ... [ a ]nnually review a 
+sample of Fellowship application assessments for quality assurance." 
+As noted above, the only requirements specified in paragraph 6 ofthe bylaws are five years of experience 
+and "an established reputation in computing." The bylaws do not define the term "established reputation," 
+but there is other record evidence that sheds light on the requirements to become a Fellow of thee=] 
+This evidence does not support the Petitioner's assertion that "established reputation" is synonymous with 
+"outstanding achievements." 
+A Dellowship application in the record asks for information about "accredited certification" and 
+experience. Under the "experience" category, an applicant must meet "four Fellowship sub-criteria" from 
+the following list: 
+• Body of work • Professional impact • Standing in the community 
+o Invention and innovation o Inspiring others o Awards 
+o Responsibility o (Inter)national policy o Governance 
+o Skills development making o Public influencer 
+o Entrepreneurship o Mentoring and coaching o Assessor 
+o Research o Interdisciplinary 
+o Consultancy collaboration 
+o Diversity and inclusion 
+o Sustainability - social or 
+environmental 
+o Outreach 
+The listed sub-criteria represent a range of activities and accomplishments. From the list, it is unclear that 
+all of the activities and accomplishments would represent outstanding achievements. Therefore, the 
+Petitioner has not established that outstanding achievements are necessary to satisfy the sub-criteria. 
+Crucially, the bylaws show higher grades of Fellowship beyond the status that the Petitioner holds. 
+Paragraph 7 states that the Board of Trustees may "appoint ... Distinguished Fellows of the Society in 
+recognition of notable service to the advancement of Computing." Paragraph 8 indicates that "any 
+persons who have rendered outstanding service to the Society ... may be admitted as Honorary Fellows."1 
+1 While individuals such as the Petitioner may apply to be aOFellow, there is no evidence of any application process for 
+Distinguished Fellow or Honorary Fellow status; the record refers only to appointment. Also, Fellows must pay an entrance 
+fee and an annual subscription, but paragraphs 14(b) and 15(b) of the bylaws exempt Distinguished Fellows and Honorary 
+Fellows from those fees. 
+4 
+While only a small minority oQmembers are Fellows, the record does not show that the requirements 
+for Fellowship reach the level of outstanding contributions that the regulations require. The evidence 
+submitted by the Petitioner shows that higher Fellowship levels have significantly more restrictive 
+requirements. 
+The Petitioner has not satisfied the requirements for this criterion. 
+2. Published Material 
+The regulation at 8 C.F.R. § 204.5(h)(3)(iii) calls for published material about the alien in professional 
+or major trade publications or other major media, relating to the alien's work in the field for which 
+classification is sought. The evidence must include the title, date, and author of the material, and any 
+necessary translation. 
+The Petitioner submitted printouts of two online articles published in late 2024. One appeared in Digital 
+Journal, the other in the India edition of International Business Times (IBTimes). Both articles are 
+exclusively about the Petitioner, each naming him in the title, and describing various aspects ofhis career. 
+Neither article mentions any recent development that prompted media coverage of the Petitioner. 
+In a request for evidence (RFE), SCOPS raised the concern that the articles appeared in "web portals" 
+with "no assurances about the reliability of [their] content," because "there is no assurance ofreliability 
+or objectivity from these sources that allow for self-created material to be posted." The Petitioner's 
+response to the RFE did not address this issue. 
+SCOPS repeated its conclusions in the denial notice, noting that the Petitioner "submitted no additional 
+evidence" regarding the criterion in response to the RFE. 
+On appeal, the Petitioner asserts that "[b ]oth articles ... [ w ]ere authored by independent, unaffiliated 
+professional journalists" and "published by media platforms that implement established editorial review 
+procedures." The record does not sufficiently support these assertions. While we agree with the Petitioner 
+that the articles are not user-editable, in the manner of a Wikipedia page, there are nevertheless questions 
+about the origin ofthe articles. 
+We agree with SCOPS that the Petitioner has not established that Digital Journal and IBTimes are 
+professional or major trade publications or other major media. The Petitioner submitted a printout from 
+Digital Journal's website, stating "we publish thousands of stories every day," "upwards of 70,000 
+articles per month," without explaining the degree of editorial oversight that the platform applies to that 
+large volume of content. 2 
+The same printout in the record indicates that Digital Journal redesigned its platform to "allow it to 
+crowdsource from subject matter experts [and] publish content from leading press release and market 
+2 In this respect, it is significant that the Digital Journal article about the Petitioner includes a disclaimer: "Opinions expressed 
+by Digital Journal conttibutors are their own." 
+5 
+research firms." This indicates that Digital Journal publishes promotional and marketing material, 
+consistent with the volume ofarticles published. Similarly, a promotional media kit from IE Times invites 
+the reader to "[ d]irectly engage with our premium audience by providing your own content." 
+The above information from the record shows that the publications openly solicit submissions from the 
+public, and carry promotional material and content created by marketers and other outside writers. The 
+Petitioner provided minimal evidence to support his claim that the articles about him were written by 
+"independent, unaffiliated professional journalists," which is necessary here given the nature of the 
+publications. He submitted a three-sentence blurb about the credited author ofthe Digital Journal article 
+and nothing about the credited author of the IE Times article. 
+The articles submitted by the Petitioner have a promotional tone to them, consistently praising the 
+Petitioner's work as significant without identifying any recent development that would explain how and 
+why the Petitioner's work came to the attention of the media. The content of the articles, the timing of 
+their publication shortly before the filing of the petition, and the somewhat open platforms provided by 
+the publications all raise questions about the circumstances surrounding their publication. Marketing 
+materials created for the purpose of selling the person's products or promoting the person's services are 
+not generally considered to be published material about the person (this includes seemingly objective 
+content about the person in major print publications that the person or the person's employer paid for). 
+See, generally, 6 USCIS Policy Manual, supra, at F.2(B)(l). 
+The above information is sufficient to support the conclusion that the Petitioner has not met his burden of 
+proof to satisfy the requirements of the criterion. 
+3. Leading or Critical Role 
+The regulation at 8 C.F.R. § 204.5(h)(3)(viii) calls for evidence that the alien has performed in a 
+leading or critical role for organizations or establishments that have a distinguished reputation. 
+For a leading role, U.S. Citizenship and Immigration Services (USCIS) considers whether the evidence 
+establishes that the person is ( or was) a leader within the organization or establishment or a division or 
+department thereof A title, with appropriate matching duties, can help to establish that a role is ( or was), 
+in fact, leading. See, generally, 6 USCIS Policy Manual, supra, at F.2(B)(l). 
+For a critical role, USCIS considers whether the evidence establishes that the person has contributed in a 
+way that is of significant importance to the outcome of the organization or establishment's activities or 
+those of a division or department of the organization or establishment. A supporting role may be 
+considered critical if the person's performance in the role is (or was) important. It is not the title of the 
+person's role, but rather the person's performance in the role that determines whether the role is ( or was) 
+critical. Id. 
+Letters from persons with personal knowledge of the significance of the person's leading or critical role 
+can be particularly helpful to officers in making this determination, so long as the letters contain detailed 
+and probative information that specifically addresses how the person's role for the organization, 
+establishment, division, or department was leading or critical. Id. Evidence of experience must consist 
+ofletters from employers. 8 C.F.R. § 204.5(g)(l). 
+6 
+Merriam-Webster's online dictionary defines "distinguished" as "marked by eminence, distinction, or 
+excellence" or "befitting an eminent person."3 The relative size or longevity of an organization or 
+establishment is not in and ofitself a determining factor but is considered together with other information 
+to determine whether a distinguished reputation exists. Other relevant factors for evaluating the reputation 
+of an organization or establishment can include the scale of its customer base or relevant media coverage. 
+See, generally, 6 USCIS Policy Manual, supra, at F.2(B)(l). For academic departments, programs, and 
+institutions, officers may also consider relevant and credible national rankings and receipt of government 
+research grants as positive factors. Id. 
+The Petitioner asserts that he satisfies the requirements of the criterion through his former employment 
+as a principal data scientist at I Iand his current work as a senior data scientist and director of AI 
+atl 1. 
+SCOPS concluded that the letters the Petitioner submitted in support of this claim are deficient, because 
+some letters were from individuals not shown to have authority to speak on behalf of the Petitioner's 
+employers, and others lacked enough information about how the Petitioner's roles were leading or critical. 
+SCOPS also determined that the Petitioner had not established his employers' distinguished reputations. 
+On appeal, the Petitioner contends that SCOPS mischaracterized both the requirements and the evidence. 
+We agree with some elements ofthe Petitioner's argument on appeal. For example, SCOPS did not give 
+weight to letters from individuals who had left the employing companies, stating that those individuals 
+no longer have the authority to speak on behalf of their former employers. But if those individuals have 
+knowledge of the Petitioner's role with the companies in question, then their assertions still have weight 
+with regard to the nature and importance ofthe Petitioner's work. 
+Nevertheless, we agree with SCOPS' broader conclusion that the Petitioner has not satisfied the 
+criterion's requirements. 
+The Petitioner submitted a "Company Profile" ofl lby Tracxn. The Petitioner did not establish 
+the relevance of this document to I I'Ireputati
+1
+n. Much of the profile concerns financing and 
+organizational governance. The profile ranks at number 5 in the 'Tol: 10 ... , ranked by Tracxn 
+score." The accuracy of the document is questionable; it reports thatlhad only one employee as 
+of February 2024. 
+A printout from GetMyUni provides information aboutl ts programs, fees, and other details. The 
+printout lists several "Awards and Recognitions" but does not cite sources for this information, and most 
+ofthe listed information lacks first-hand corroboration. For example, copies of1 !diplomas in the 
+record show the legend: "This program is certified for quality of content, assessment and pedagogy by 
+the I Iof I I The program 
+curriculum has been developed in collaboration withe=]" The Petitioner did not submit information 
+from Oto establish the nature of this collaboration, or to show that the0ertification elevated, or 
+3Distinguished, Merriam-Webster.com, www.merriam-webster.com. 
+7 
+was based on,I l's reputation. For the above reasons, the printout has little weight as evidence of 
+._____.ts distinguished reputation. 
+Press releases from Case Western Reserve University in Ohio, Rennes School ofBusiness in France, and 
+Carleton University in Canada discuss various programs between those schools andl Ibut the 
+Petitioner did not show that these partnerships and other programs are hallmarks of a distinguished 
+reputation. The evidence of these programs is in the form of press releases from the schools, which do 
+not show that the information attracted wider notice. 
+Initially and then in response to the RFE, the Petitioner submitted printouts of online articles, including 
+the following: 
+• A 2019 article from Analytics India with the headline ' 
+I l" including an interview withl l's founder a._n_d_p_r_e-si-d-en_t_;_________. 
+• A 2017 article from CIO, listing an 18-weekl I ___ _.Icertification program among ".... 
+._____________.'; and 
+• Several May 2022 articles reportingl.------.ts acquisition by '1 ~" 
+A number of the 2022 articles abou~ ts acquisition feature the same quotation from anl 
+executive who called! I"the gold standard of excellence in [certain] specialised areas_,...., _S_o_m_e_. 
+articles also have nearly identical headlines. These similarities are consistent with common origin, such 
+as a promotional press release froml ~ 
+The tone of the 2019 Analytics India article is likewise promotional in nature, including links to 
+I ts website and the Linkedin profile of the interviewed official. I ts logo is superimposed 
+onto every photograph in the article. 
+The CIO article does not identify the criteria used to compile the list. The article refers to "our guide to 
+the most sought after big data certifications," but the next paragraph reads: "If you would like to submit 
+a big data certification to this directory, please email us." 
+In the RFE and again in the denial notice, SCOPS stated that press releases and related materials are not 
+independent, objective evidence that the businesses described in those promotional materials have 
+distinguished reputations. 
+In response to the RFE, the Petitioner asserted: "major industry publications consistently listed ....l --~ 
+among the top analytics/ AI education providers, underscoring its reputation in the field." Later, on appeal, 
+the Petitioner asserted that "Independent Major International Media" have attested to I ts 
+reputation. The Petitioner has not corroborated his characterization of the submitted publications as 
+"major." 
+We note that the submitted ranking lists are from 2016 and 2017. The Petitioner did not show that
+I Iremained in these rankings during the time that the Petitioner held his highest rank of principal 
+data scientist from 2019 to 2022. 
+8 
+Furthermore, the materials in the record generally relate to the reputation ofl ~s a whole. As a 
+principal data scientist, the record indicates that the Petitioner led and managed "a 20-member data 
+scientist team located in~_________,center." More detailed descriptions of the Petitioner's 
+work focus on consulting projects for clients. 
+The Petitioner must establish either that his role was leading or critical for either (1) all ofl lor 
+(2) a division or department o~ Ithat has a distinguished reputation in its own right. See, generally, 
+6 USCIS Policy Manual, supra, at F.2(B)(l). 
+SCOPS noted the emphasis on "specific projects." On appeal, the Petitioner states: "for a high-tech 
+consulting firm, leading major client projects is the core business; the criticality of the role is proven by 
+the impact of those projects." But the record does not include evidence ofl ts reputation as "a 
+high-tech consulting firm." Rather, the articles submitted as evidence of s re utation em hasize 
+its role in education and training, consistent with I I's full name, the~-------~ 
+I 1. 
+The Petitioner has not established that his role was leading or critical to all ofl lnor has he shown 
+that thel I data scientist team has a distinguished reputation in its own right. 
+For the reasons discussed below, we agree with SCOPS' conclusion that the Petitioner has not established 
+thatl I has a distinguished reputation. 
+Initially, the Petitioner submitted a printout froml I own website, callinJ the company "a team 
+of~_____________,that empower! _companies to achieve 
+success in Artificial Intelligence, Big Data, and Beyond." A rintout from Zoomlnfo repeated this 
+language. The Petitioner also submitted ress releases from self-described as "a global leader in 
+computational intelligence," and from~-------~ each announcing business ventures with 
+I ~ 
+In the RFE, as previously discussed with regard tol ISCOPS questioned the independence ofthe 
+materials submitted to showl I distinguished reputation. 
+In response, the Petitioner asserted: '1 I partnerships and clientele are further evidence of its 
+standing." The Petitioner referred to the Altair press release mentioned above, and cited two new exhibits, 
+numbered 15 and 16. 
+Exhibit 15 is the 2022-2023 annual report o That company indicated that one of ~---'-----,---.........------"-,
+its subsidiaries "has partnered with and to support sustainable 
+development." Exhibit 16 is a printout from website, showing client testimonials. 
+SCOPS denied the petition, stating that the evidence ofI Ireputation is deficient. SCOPS 
+specifically indicated that I I own promotional materials and website do not establish the 
+company's distinguished reputation. 
+On ippeal, re Petitioner states that the previously submitted materials from 
+and are evidence ofl Idistinguished reputation, but the ~re-c--o-rd_d_o_e_s_n_o_t-su_p_p_o_rt-th~is 
+9 
+assertion. Press releases indicate thatl lis a "Regional System Integrator" forLJand entered 
+into a joint venture with I Ibut the Petitioner has not established that these business arrangements 
+indicate a distinguished reputation. The materials from the client companies identify I lbut do 
+not discuss its reputation. 
+Materials from I !present a different issue. The Petitioner states that he worked onl I 
+I IAI chatbot, as part of al Iteam, and he has submitted a letter fro~official 
+attesting to that collaboration. On appeal, the Petitioner refers to materials from c=}as"public 
+recognition" of "the launch of the j Ichatbot, the very project I architected and led." 
+But I I public-facing statements in the record, including the cited press release at Exhibit 45 of the 
+initial filing, do not mention at all. I lpress release states: 'I IAI ... was 
+developed in-house by " The press release quotes aDofficial, who stated: "we developed an 
+internal~ chatbot, which ... puts us among the pioneers in our industry." The press release 
+acknowledged the involvement of but notl I Because the record does not show that 
+c=]has publicly credited with any involvement in the I !project, the Petitioner has 
+not shown that the project has contributed to or established a distinguished reputation for 
+I ~ 
+Because the Petitioner has not met his burden of proof to establish! Idistinguished reputation, 
+we need not discuss whether his role there has been either leading or critical. We decline to reach and 
+hereby reserve any final merits determination in this matter. See INS v. Bagamasbad, 429 U.S. 24, 
+25 (1976) (per curiam) (holding that agencies are not required to make "purely advisory findings" on 
+issues that are unnecessary to the ultimate decision). 
+The Petitioner has not satisfied the requirements ofthe criterion. 
+III. CONCLUSION 
+Congress set a very high benchmark for aliens of extraordinary ability by requiring the petitioner 
+demonstrate "sustained national or international acclaim" and present "extensive documentation" to 
+show his or her achievements have been recognized in the field. Section 203(b)(1 )(A)(i) of the 
+Act. Here, because the Petitioner has not satisfied the threshold "initial evidence" requirements at 
+8 C.F.R. § 204.5(h)(3), we cannot conclude that the Petitioner has established eligibility as an alien of 
+extraordinary ability and we need not further analyze the merits under the statute. See Kazarian, 596 
+F.3d at 1119-20; see also Nagaiah v. Allen, 784 F. Supp. 3d 798, 814 (E.D. Pa. 2025) (finding the 
+regulation "establishes a necessary, not sufficient, evidentiary requirement for a petitioner who seeks 
+an extraordinary ability visa."). Therefore, we decline to reach and hereby reserve any final merits 
+determination in this matter. 4 
+The Petitioner has not demonstrated eligibility as an alien of extraordinary ability. We will therefore 
+dismiss the appeal. 
+4 We agree with SCOPS that the Petitioner has satisfied two of the initial evidentiary criteria, but this by itself is not a 
+determination that the evidence regarding those criteria necessarily points toward sustained national or international 
+acclaim. 
+10 
+ORDER: The appeal is dismissed. 
+NOTICE: This constitutes the final decision in this matter. The filing of a motion will not postpone the 
+effect of the decision. 8 C.F.R. § 103.5(a)(l)(iv). Aliens who are not lawfully present, or who are 
+otherwise inadmissible or deportable, may be subject to the commencement of removal proceedings 
+under section 240 ofthe Act through the issuance of a Form I-862, Notice to Appear. Those proceedings 
+may result in their removal from the United States and possible ineligibility for future visas or other 
+immigration benefits. 
+11 

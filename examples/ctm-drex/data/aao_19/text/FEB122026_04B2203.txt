@@ -1,0 +1,188 @@
+Non-Precedent Decision of the
+Administrative Appeals Office 
+U.S. Citizenship 
+and Immigration 
+Services 
+In Re: 40988436 Date: FEB. 12, 2026 
+Appeal of Service Center Operations (SCOPS) Decision 
+Form 1-140, Immigrant Petition for Alien Workers (Extraordinary Ability) 
+The Petitioner, a business executive, seeks classification as an individual of extraordinary ability. See 
+Immigration and Nationality Act (the Act) section 203(b )(1 )(A), 8 U.S .C. § l l 53(b )(1 )(A). This first 
+preference classification makes immigrant visas available to those aliens who can demonstrate their 
+extraordinary ability through sustained national or international acclaim and whose achievements have 
+been recognized in their field through extensive documentation. Id. 
+SCOPS denied the petition, concluding that the Petitioner did not establish either that he received a 
+major, internationally recognized award, or that he satisfied at least three of the 10 initial evidentiary 
+criteria. The matter is now before us on appeal pursuant to 8 C.F.R. § 103 .3. 
+The Petitioner bears the burden ofproof to demonstrate eligibility by a preponderance of the evidence. 
+Matter afChawathe, 25 I&N Dec. 369, 375-76 (AAO 2010). We review the questions in this matter 
+de novo. Matter a/Christa's, Inc., 26 I&N Dec. 537,537 n.2 (AAO 2015). Upon de novo review, 
+we will dismiss the appeal. 
+I. LAW 
+Section 203(b )( 1) of the Act makes visas available to immigrants with extraordinary ability if: 
+(i) the alien has extraordinary ability in the sciences, arts, education, business, or 
+athletics which has been demonstrated by sustained national or international 
+acclaim and whose achievements have been recognized in the field through 
+extensive documentation, 
+(ii) the alien seeks to enter the United States to continue work in the area of 
+extraordinary ability, and 
+(iii) the alien's entry into the United States will substantially benefit prospectively 
+the United States. 
+The term "extraordinary ability" refers only to those individuals in "that small percentage who have 
+risen to the very top of the field of endeavor." 8 C.F.R. § 204.5(h)(2). The implementing regulation 
+at 8 C.F.R. § 204.5(h)(3) sets forth a multi-part analysis. First, a petitioner can demonstrate sustained 
+acclaim and the recognition of their achievements in the field through a one-time achievement (that 
+is, a major, internationally recognized award). If that petitioner does not submit this evidence, then 
+they must provide sufficient qualifying documentation that meets at least three of the 10 categories 
+listed at 8 C.F.R. § 204.5(h)(3)(i)-(x) (including items such as awards, published material in certain 
+media, and scholarly articles). 
+Where a petitioner meets these initial evidence requirements, we then consider the totality of the 
+material provided in a final merits determination and assess whether the record shows sustained 
+national or international acclaim and demonstrates that the individual is among the small percentage 
+at the very top of the field of endeavor. See Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010). 
+II. ANALYSIS 
+The Petitioner described the endeavor as a plan to found and operate a petroleum business consulting 
+firm in the United States. 
+SCOPS concluded that the record satisfies the criteria at 8 C.F.R. §§ 204.5(h)(3)(iv) and (ix), but not 
+the criteria at 8 C.F.R. §§ 204.5(h)(3)(ii)-(iii), (v), and (viii), noting that the Petitioner did not assert 
+eligibility under the remaining criteria. On appeal, the Petitioner reasserts that the record satisfies the 
+criteria at 8 C.F.R. §§ 204.5(h)(3)(iii), and (viii), in addition to the criteria at 8 C.F.R. 
+§§ 204.5(h)(3)(iv) and (ix). 1 
+A. High Salary or Other Significantly High Remuneration 
+Before turning to the criteria that SCOPS determined the record does not meet, we withdraw SCOPS' 
+conclusion that the record satisfies the criterion at 8 C.F.R. § 204.5(h)(3)(ix) for the reasons discussed 
+below. 
+The criterion at 8 C.F.R. § 204.5(h)(3)(ix) requires "[e]vidence that the alien has commanded a high 
+salary or other significantly high remuneration for services, in relation to others in the field." 
+The Petitioner submitted income information for the 2023 calendar year, including an IRS Form W-2, 
+Wage and Tax Statement; and an IRS Form 1040, U.S. Individual Income Tax Return. The Petitioner 
+also submitted information from the U.S. Department ofLabor, Bureau ofLabor Statistics (BLS), that 
+remarks about the wages of chief executives, top executives, and general and operations managers in 
+2023 and 2024. The extent of SCOPS' analysis of this criterion in the decision and a prior request for 
+evidence (RFE) was a brief list of evidence and a conclusory statement that the criterion is met. 
+1 The Petitioner does not assert on appeal-and the record does not support the conclusion-that the record satisfies the 
+criteria at 8 C.F.R. §§ 204.5(h)(3)(i)-(ii), (v)-(vii), or (x). 
+2 
+BLS information regarding wages in 2024 does not inform what wages in 2023-the calendar year for 
+which the Petitioner submitted his income information-were. Moreover, even the limited BLS 
+information the Petitioner submits for the corresponding year addresses wages for individuals with 
+those general occupational titles among all industries and fields, without distinguishing between 
+differences in wages across industries and fields, which may vary substantially. Therefore, the 
+information regarding wages among those generalized occupational categories provides minimal 
+informative value for determining how the Petitioner's income would relate to others in the same field 
+as his, even if the information applied to the same year in question. The Petitioner did not otherwise 
+submit evidence regarding his salary or other remuneration for services in any year other than 2023, 
+nor does he otherwise submit information regarding how his income in 2023 relates to others in the 
+same field as his. Therefore, the record does not support the conclusion that the Petitioner has 
+commanded a high salary or other significantly high remuneration for services, in relation to others in 
+the field, and we withdraw SCOPS' determination that the criterion at 8 C.F.R. § 204.5(h)(3)(ix) has 
+been met. 
+B. Published Material About the Alien 
+The criterion at 8 C.F.R. § 204.5(h)(3)(iii) requires "[p]ublished material about the alien in 
+professional or major trade publications or other major media, relating to the alien's work in the field 
+for which classification is sought. Such evidence shall include the title, date, and author of the 
+material, and any necessary translation." Factors for determining whether a publication qualifies as 
+professional or major trade publications include the intended audience and, for major trade 
+publications and other major media, the relative circulation, readership, or viewership. See generally 
+6 USCIS Policy Manual F.2(B)(l), https://www.uscis.gov/policy-manual. 
+SCOPS acknowledged that the record contains a copy of one article that relates to the Petitioner and 
+his work, published byl l However, SCOPS determined, 
+"This criterion has not been met because the evidence does not indicate that the published material 
+was published in professional or major trade publications or other major media." 
+On appeal, the Petitioner generally reasserts that I Iqualifies because it "is widely 
+recognized as one ofArgentina's three principal economic newspapers" and it has "significant national 
+circulation." However, he does not identify documentary evidence in the record that supports his 
+statements. 
+As SCOPS acknowledged, the record contains a copy of one article published byl Iin 
+,.___ _,12025, with a certified translated in English. The article relates to the Petitioner and his business 
+management work in the petroleum industry. However, the article-as translated in English in the 
+record-does not satisfy the plain language ofthe criterion at 8 C.F.R. § 204.5(h)(3)(iii). Specifically, 
+the criterion requires such evidence to include not only the title and the date of the publication, but 
+also the "author of the material." The English translation of the article reports, "Author:
+I" Repeating the name of the entity that published the article does not identify the 
+author of the material. The author of the material is significant because marketing materials created 
+for the purpose of selling or promoting a person's products or services, including seemingly objective 
+content for which an employer or individual in question paid, generally does not satisfy the criterion 
+at 8 C.F.R. § 204.5(h)(3)(iii). See generally 6 USCIS Policy Manual, supra, at F.2(B)(l). We note 
+3 
+I 
+that the original copy of the article, written in a language other than English, also does not appear to 
+identify any particular author ofthe material, thereby casting doubt on whether it qualifies as published 
+material about the alien or is marketing or commissioned material. See generally id.; see also Matter 
+ofHo, 19 I&N Dec. 582, 591-92 (BIA 1988) (providing that petitioners must resolve ambiguity in the 
+record with independent, objective evidence pointing to where the truth lies). 
+Further, as SCOPS noted, the record also does not establish thatl Iqualifies as the type 
+of professional or major trade publication, or other major media contemplated by the criterion. The 
+Petitioner does not clarify whether he believes! Iis a professional publication, a trade 
+publication, or another form of major media, which are distinguished by different factors, as noted 
+above. See :enerally 6 USCIS Policy Manual, supra, at F.2(B)(l ). For example, the Petitioner refers 
+tol _ Iin his RFE response as "major trade media," apparently conflating major trade 
+publications with major media, but he also describes! Ion appeal as "a leading economic 
+newspaper in Argentina," and he asserts that it is major media and "a professional and trade publication 
+of record for business and finance in Argentina." As noted above, petitioners bear the burden of 
+resolving ambiguity in the record. See Matter ofHo, 19 I&N Dec. at 591-92. 
+Although we acknowledge that the record contains web traffic data regarding I Ifrom 
+Similarweb.com, this information does not inform what web traffic for other business and finance 
+publications is, whether specifically for Argentinian audiences or in rneral. Without more, the 
+Similarweb.com web traffic data does not inform whatl _'s circulation, readership, or 
+viewership is, relative to other, similar publications. See generally 6 USCIS Policy Manual, supra, at 
+F.2(B)(l). 
+In response to SCOPS' RFE, the Petitioner submitted certified translations of two additional articles 
+published by I l regarding itself. We note that the article published inl I2025 
+presents a set of material facts that did not exist at the time the Petitioner filed the Form 1-140 in April 
+2025. A petitioner must establish eligibility for the benefit it is seeking at the time the petition is filed. 
+See 8 C.F.R. § 103.2(b)(l). A visa petition may not be approved based on speculation of future 
+eligibility or after a petitioner becomes eligible under a new set of facts. See Matter of Katigbak, 
+14 I&N Dec. 45, 49 (Reg'l Comm'r 1971). A petitioner may not make material changes to a petition 
+in an effort to make a deficient petition conform to U.S. Citizenship and Immigration Services 
+requirements. See Matter of Izummi, 22 I&N Dec. 169, 176 (Assoc. Comm'r 1998). Because the 
+article published in I I2025 presents set of material facts that did not exist at the time the 
+Petitioner filed the Form 1-140, it cannot-and it does not-establish eligibility and we need not 
+address it farther. See 8 C.F.R. § 103.2(b)(l); see also Matter ofKatigbak, 14 I&N Dec. at 49; Matter 
+of Izwnmi, 22 I&N Dec. at 176. The otherl !article, datedl 12019, that the 
+Petitioner submitted in response to SCOPS' RFE provides self-reported information about it being 
+"among the leading local business newspapers for over 20 years." However, the 2019 article does not 
+inform whether! !remained a generally leading local business newspaper through! I 
+2025, when it published the article in question, or how its profile may have changed in the interim. 
+The Petitioner also submitted a certified Enrlish translation of self-reported information froml II lwhich lists I !among l's media holdings in the forms of various 
+news channels, music channels, newspapers, radio stations, and other content production companies. 
+Thel !information also provides self-reported data regarding its media holdings' overall 
+4 
+I 
+circulation, readership, or viewership in October 2024, although it does not specify what ~ 
+ts circulation, readership, or viewership is within the total figures, nor does it provide data 
+other than for October 2024 to establish how its audience may vary beyond one month in isolation. 
+And, like the Similarweb.com information addressed above,I l's self-reported audience 
+information does not clarify what other, similar publications' audience information is, in order to 
+establish how I I's circulation, readership, or viewership compares relative to other 
+similar publications. See generally 6 USCIS Policy Manual, supra, at F.2(B)(l). 
+The record also contains copies of six pages excerpted from Reuters Institute's Digital News Report 
+2024. However, the excerpt, which mostly consists of the report's cover pages and two tables of 
+contents, does not addressl ts circulation, readership, or viewership, and how it may 
+compare, relative to other similar publications. See generally id. 
+For the reasons discussed above, the record does not satisfy the criterion at 8 C.F.R. § 204.5(h)(3)(iii). 
+Because the Petitioner would not satisfy at least three ofthe 10 criteria at 8 C.F.R. §§ 204.5(h)(3)(i)-(x) 
+even if he met the criterion at 8 C.F.R. § 204.5(h)(3)(viii), we reserve our opinion regarding that 
+criterion. See INS v. Bagamasbad, 429 U.S. 24, 25 (1976) (stating that agencies are not required to 
+make "purely advisory findings" on issues that are unnecessary to the ultimate decision); Matter of 
+L-A-C-, 26 I&N Dec. 516, 526 n.7 (BIA 2015) (declining to reach alternative issues on appeal where 
+an applicant is otherwise ineligible). 
+III. CONCLUSION 
+Congress set a very high benchmark for aliens of extraordinary ability by requiring the petitioner 
+demonstrate "sustained national or international acclaim" and present "extensive documentation" to 
+show his or her achievements have been recognized in the field. Section 203(b)(1 )(A)(i) of the 
+Act. Because the Petitioner has not satisfied the threshold "initial evidence" requirements at 8 C.F.R. 
+§ 204.5(h)(3), we cannot conclude that he is an alien of extraordinary ability and need not further 
+analyze the merits under the statute. See Kazarian, 596 F.3d at 1119-20; see also Nagaiah v. Allen, 
+784 F. Supp. 3d 798, 814 (E.D. Pa. 2025) (finding the regulation "establishes a necessary, not 
+sufficient, evidentiary requirement for a petitioner who seeks an extraordinary ability 
+visa."). Therefore, we decline to reach and hereby reserve any final merits determination in this 
+matter. See INS v. Bagamasbad, 429 U.S. at 25. 
+ORDER: The appeal is dismissed. 
+NOTICE: This constitutes the final decision in this matter. The filing of a motion will not postpone 
+the effect ofthe decision. 8 C.F.R. § 103.5(a)(l)(iv). Aliens who are not lawfully present, 
+or who are otherwise inadmissible or deportable, may be subject to the commencement of 
+removal proceedings under section 240 of the Act through the issuance of a Form 1-862, 
+Notice to Appear. Those proceedings may result in their removal from the United States 
+and possible ineligibility for future visas or other immigration benefits. 
+5 

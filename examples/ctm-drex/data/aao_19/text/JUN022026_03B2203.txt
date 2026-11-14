@@ -1,0 +1,317 @@
+Non-Precedent Decision of the
+Administrative Appeals Office 
+U.S. Citizenship 
+and Immigration 
+Services 
+In Re: 43222969 Date: JUNE 2, 2026 
+Appeal of USCIS Decision 
+Form 1-140, Immigrant Petition for Alien Workers (Extraordinary Ability) 
+The Petitioner, a healthcare consultant and platform developer, requests classification under the 
+employment-based, first-preference (EB-1) immigrant visa category as an alien with "extraordinary 
+ability." See Immigration and Nationality Act (the Act) section 203(b)(l)(A), 8 U.S.C. 
+§ 1153(b )(I )(A). Successful petitioners for U.S. permanent residence in this category must 
+demonstrate "sustained national or international acclaim" and extensively document recognition of 
+their achievements in their fields. Section 203(b )( 1 )(A)(i) of the Act. 
+U.S. Citizenship and Immigration Services (USCIS) denied the petition. The Acting Associate 
+Director of Service Center Operations concluded that, although the Petitioner satisfied the requested 
+category's initial evidentiary requirements, he did not demonstrate acclaim and recognition sufficient 
+to establish extraordinary ability in his field. On appeal, the Petitioner contends that the Director 
+misunderstood, overlooked, and minimized the evidence's significance. 
+The Petitioner bears the burden of demonstrating eligibility for the requested benefit by a 
+preponderance of the evidence. Matter of Chawathe, 25 I&N Dec. 369, 375-76 (AAO 2010). 
+Exercising de novo appellate review, see Matter of Christo 's, Inc. , 26 l&N Dec. 537, 537 n.2 (AAO 
+2015), we agree with the Director that the Petitioner has not established his claimed place among the 
+small percentage at his field's top. We will therefore dismiss the appeal. 
+I. LAW 
+To qualify for the requested immigrant visa category, a petitioner must demonstrate that they: 
+• Have "extraordinary ability" in the sciences, arts, education, business, or athletics; 
+• Seek to continue work in their field of expertise in the United States; and 
+• Would substantially benefit the country as a permanent resident. 
+Section 203(b)(l)(A)(i-iii) of the Act. 
+The term "extraordinary ability" means expertise commensurate with "one of that small percentage 
+who have risen to the very top of the field of endeavor." 8 C.F .R. § 204.5(h)(2). 
+Unless a petitioner received "a major, international recognized award," they must satisfy at least three 
+of ten initial evidentiary criteria. 8 C.F.R. § 204.5(h)(3). 1 If a petitioner meets either evidentiary 
+standard and the requirements at sections 203(b )(1 )(A)(ii), (iii) of the Act, USCIS must then make a 
+final merits determination. To merit final approval, the record - as a whole - must establish a 
+petitioner's "sustained national or international acclaim" and recognized achievements placing them 
+among the small percentage at their field's very top. See Amin v. Mayorkas, 24 F.4th 383, 391 (5th 
+Cir. 2022) (holding that USCIS' two-step analysis "is consistent with the governing statute and 
+regulation"); see generally 6 USCIS Policy Manual F.2(B), www.uscis.gov/policy-manual. 
+TI. ANALYSIS 
+A. The Petitioner and His Field 
+The record shows that the Petitioner earned a bachelor's degree in accounting sciences and a master 
+of business administration degree in information technology management from universities in his 
+home country of Brazil. He has more than l 0 years of consulting experience and worked for other 
+consulting companies before founding his own consulting firm. He specializes in healthcare and 
+finance, and stated that he has led successful hospital restructurings, supported national accreditation 
+processes, and redesigned clinical workflows to improve healthcare performance and patient 
+outcomes. 
+The Petitioner seeks to continue his healthcare consulting work in the United States. He stated that, 
+using his expertise in strategic management, financial sustainability, and digital innovation, he would 
+improve systemic issues hindering U.S. healthcare delivery, such as fragmented workflows, escalating 
+operational costs, and outdated systems that delay or disrupt patient care. He stated: "My goal is to 
+implement robust management frameworks and integrated care models that not only elevate 
+institutional efficiency but also enhance the quality of care across delivery networks." 
+B. The Evidentiary Criteria 
+The record does not indicate - nor does the Petitioner claim - his receipt of a major internationally 
+recognized award. He must therefore meet at least three of the ten initial evidentiary criteria at 
+8 C.F.R. § 204.5(h)(3)(i-x). 
+The record supports the Director's findings that the Petitioner successfully submitted evidence of his: 
+• Participation as a judge of others' work in his or an allied field; 
+• Authorship of scholarly articles in his field; and 
+• Performance in a leading or critical role for organizations with distinguished reputations. 
+See 8 C.F.R. § 204.5(h)(3)(iv), (vi), (viii). 
+1 If an evidentiary criterion does not "readily apply" to a petitioner's occupation, they may submit "comparable evidence" 
+to establish eligibility. 8 C.F.R. § 204.5(h)(4). 
+2 
+On appeal, the Petitioner argues that he met three additional evidentiary requirements. But he already 
+qualifies for a final merits determination based on his satisfaction of three evidentiary criteria. See 
+8 C.F.R. § 204.5(h)(3). We therefore need not determine whether he meets any others. See INS v. 
+Bagamasbad, 429 U.S. 24, 25 ( 1976) (per curiam) (holding that agencies need not make "purely 
+advisory findings" on issues unnecessary to their ultimate decisions). 
+We will next review the Director's final merits determination. 
+C. The Final Merits Determination 
+To establish final eligibility for this immigrant visa category, a petitioner must demonstrate that they 
+have sustained national or international acclaim and that their achievements have been recognized in 
+their field sufficiently to place them among that small percentage who has risen to the field's top. See 
+generalZv 6 USCIS Policy Manual F.2(B)(2). Congress intended classification as an alien with 
+extraordinary ability to reflect a "career of acclaimed work in the field." See H.R. Rep. No. 101-723, 
+59 (Sept. 19, 1990). 
+Under USCIS policy: 
+[T]he petitioner must provide sufficient context ... to demonstrate that the evidence 
+meets the relevant criteria and to establish the person's extraordinary ability in the 
+totality of the circumstances. This means that the petitioner must explain the 
+significance of the submitted evidence, and how it demonstrates that the person has 
+achieved sustained national or international acclaim and recognition in their field of 
+expertise. 
+6 USCIS Policy Manual F.2(B)(2). We must consider any potentially relevant evidence of record, 
+even if it does not fit one of the regulatory criteria or was not presented as comparable evidence. Id. 
+1. Awards 
+The Petitioner submitted evidence that a cloud-based navigation platform that he developed for cancer 
+patients received four awards. The record shows that, in 2022, the platform received an innovation 
+award from a diagnostic imaging and laboratory company in the "patient digital journey" category and 
+a "case report" award from a Brazilian cancer hospital. The platform was also one of 50 initiatives 
+that a Brazilian cancer center recognized for advancing cancer treatment technologies. Further, in 
+2023, the platform was one of five finalists in a startup acceleration program of the Brazilian 
+development bank. 
+On appeal, the Petitioner states that "[t]he significance ofthese recognitions is reinforced by the stature 
+of the institutions involved and the competitive processes through which the awards were granted." 
+For example, he states that the case report award was issued by the largest cancer-focused medical 
+institution in Latin America. 
+By their very natures, the awards constitute recognition of the Petitioner's platform. But the awards 
+do not bear his name, and the record does not indicate that they garnered him national or international 
+3 
+acclaim. See Donskoy v. USCIS, No. 21-CV-04757-CRB, 2021 WL 5240224, at *5 (N.D. Cal. Nov. 
+11, 2021) ("[W]hat matters for the purpose of the visa classification is whether the award brought [ an 
+alien] individual acclaim.") Thus, on their own, the platform's awards do not demonstrate the 
+Petitioner's claimed extraordinary ability in his field. 
+2. Membership in Associations 
+The Petitioner submitted evidence that he is an "ambassador" in a Brazilian association for healthcare 
+startup companies. He also documented his membership in a global healthcare information and 
+management systems association and a global network of independent consultants. The record shows 
+that his ambassadorship required a nomination by that association's directors, counselors, or 
+ambassadors. 
+The Petitioner's memberships reflect his professional standing in his field. But he has not 
+demonstrated that they brought him national or international acclaim or recognition in his field. Thus, 
+the memberships, alone, do not establish his claimed place among the small percentage at his field's 
+very top. See Hamal v. United States Dep 't o_fHomeland Sec., No. 21-5160, 2023 WL 1156801, at *3 
+(D.C. Cir. Jan. 31, 2023) ("[W]hile demonstrating his professional stature," a petitioner's evidence of 
+association memberships "did not establish the exceptional level of distinction required for this 
+extraordinary-ability visa.") 
+Also, the record shows that the Petitioner joined all three associations in 2025. Thus, any acclaim 
+derived from the memberships would not be "sustained" over his career. See section 203(b)(l)(A)(i) 
+of the Act (requiring "sustained national or international acclaim"). 
+3. Publications About the Petitioner 
+The Petitioner provided evidence that, between 2021 and 2025, various Brazilian media reported on 
+his work. For example, ac=]2021 article in one of Brazil's largest newspapers focused on a "digital 
+clinic" platform the Petitioner developed to support cancer patients. The article discussed his platform 
+as an example of an increasing number of digital healthcare companies started in the wake of the 
+COVID-19 pandemic. On appeal, the Petitioner states that media coverage of his contributions to the 
+healthcare field "shows that independent media outlets viewed [his] work as noteworthy within the 
+healthcare sector." 
+The publications about the Petitioner brought him some national acclaim and recognition in his field. 
+But the record lacks evidence of acclaim and recognition sufficient to place him among the small 
+percentage at his field's top. See Hamal v. US. Dep 't ofHomeland Sec., No. CV 19-2534 (RC), 2021 
+WL 2338316, at *4 (D.D.C. June 8, 2021), aff'd sub nom. Hamal v. United States Dep 't ofHomeland 
+Sec., supra (upholding our findings that a petitioner did not show that "his press coverage is indicative 
+of a level of success consistent with being" at the top of his field or "that [he] has significantly 
+influenced the field"). 
+4 
+4. Judge of Others' Work 
+The Petitioner documented that, in 2025, he served as an evaluator and speaker on a case reports panel 
+at a two-day "bootcamp" for healthcare startup companies. He also provided evidence that he 
+developed a technical evaluation system for research submissions at a 2024 ophthalmological 
+conference and that, as director of strategy and innovation at a pharmaceutical distributor in 2020, he 
+designed the company's sales consultant trainee program and made final hiring decisions. 
+The Petitioner argues that these evaluative roles demonstrate recognition of his expertise "across 
+multiple segments of the healthcare ecosystem" and illustrate reliance on his professional judgment 
+"in both healthcare innovation forums and medical research environments." He states that his 
+"repeated selection" for assessment roles "reflects confidence in his expertise and authority within the 
+healthcare innovation ecosystem." 
+The Petitioner, however, has not demonstrated that his assessment roles garnered him sufficient 
+amounts of national or international acclaim or recognition in his field to place him among the small 
+percentage at the field's top. He provided recommendation letters from an ophthalmologist who 
+served on the conference's scientific committee and the former human resources director at the 
+pharmaceutical distributor. But the record does not establish that his judging of others' work in his 
+field resulted in acclaim or recognition beyond the events or the company where his judging occurred. 
+See Bhanu v. Garland, No. 22-103, 2023 WL 6119357, at *9 (E.D. Pa. Sept. 18, 2023) (finding 
+insufficient evidence that a petitioner's peer review experience places him among the small percentage 
+at his field's very top); see also Mishra v. Richardson, No. 120CV991LMBTCB, 2021 WL 1566071, 
+at *3 (E.D. Va. Apr. 20, 2021) ("It is generally expected that an individual whose accomplishments 
+have garnered sustained national or international acclaim would have received recognition for his or 
+her accomplishments well beyond the circle of his personal and professional acquaintances;" 
+see generally 6 USCIS Policy Manual F.2(B)(3). 
+5. Original Contributions of Major Significance 
+The Petitioner submitted evidence of three original contributions he made to his field. First, as 
+previously mentioned, the record shows that he developed the navigation platform for cancer patients, 
+integrating digital technology with clinical management to reduce systemic inefficiencies and improve 
+patient outcomes. The Petitioner states that, by April 2025, more than 5,770 cancer patients had used 
+the platform, which he conceived in 2021. Initial results reported reduced emergency room visits, 
+decreased lengths of hospital stays, and reductions in "no shows" and rescheduled appointments at 
+clinics. 
+In 2023, the Petitioner also launched a platform to manage medical referrals across all specialties and 
+insurance networks. He states that more than 400 Brazilian doctors use the platform, which he 
+designed to combat delays in specialist referrals. 
+5 
+Finally, the Petitioner developed the digital tele-oncology clinic. Medical professionals have 
+purportedly used the application to conduct more than 16,000 consultations with cancer patients.2 
+On appeal, the Petitioner states: 
+These initiatives were not theoretical proposals but implemented healthcare solutions 
+that produced measurable improvements in patient access, clinical coordination, and 
+healthcare delivery efficiency. Such real-world impact demonstrates that [his] work 
+has influenced how healthcare services are structured and delivered, a form of 
+professional impact that the [Director's] final merits determination does not address. 
+We recognize that the Petitioner's contributions have garnered him some acclaim and recognition in 
+his field. As previously indicated, his navigation platform for cancer patients received awards, and 
+multiple media reported on the launch of his tele-oncology clinic business. But the Petitioner's 
+evidence does not contextualize where these contributions place him within his field. See 6 USCIS 
+Policy Manual F.2(B)(2) ("In all cases, the petitioner must provide sufficient context ... to 
+demonstrate that the evidence meets the relevant criteria and to establish the person's extraordinary 
+ability in the totality of the circumstances.") The record lacks independent evidence of his status in 
+the field from others unassociated with him. See Mishra, 2021 WL 1566071, at *3 ("It is generally 
+expected that one whose accomplishments have garnered sustained national or international acclaim 
+would have received recognition for their accomplishments well beyond the circle of their personal 
+and professional acquaintances."); see generally 6 USCIS Policy Manual F.2(B)(3). 
+6. Authorship of Scholarly Articles 
+The Petitioner provided evidence that he wrote two articles that were published in a magazine about 
+business, technology, and management in the Brazilian medical and hospital sectors. His 2021 article 
+discussed potential effects of a sharp decline in cancer screenings and consultations during the 
+COVID-19 pandemic. His 2025 article focused on the healthcare implications of rising interest rates. 
+The Director found insufficient evidence that others in the Petitioner's field cited his articles, 
+suggesting that the articles lack influence. 
+The Petitioner contends that the Director improperly discounted his authorship of the articles by 
+applying "an academic citation-based framework that does not fit [his] field of endeavor." He states 
+that, in the healthcare innovation field, "professional influence is often demonstrated through invited 
+analytical publications directed to industry leadership rather than academic citation metrics." He states 
+that his authorship's significance "lies not in academic citation counts, but in the fact that his analysis 
+was solicited by and disseminated through a major sector-specific publication read by the very 
+professionals who shape healthcare operations, financing, and innovation policy." 
+The Petitioner has demonstrated dissemination of his articles in a professional publication in his field. 
+But the record lacks supporting evidence that the magazine solicited the articles from him as he claims. 
+2 The Petitioner also submitted evidence that, in 2024, he developed a real estate investment platform for the United 
+Kingdom. He has not explained how this platform relates to his stated field of healthcare innovation. We therefore will 
+not discuss it. 
+6 
+This lack of corroborating evidence diminishes the articles' significance. See section 203(b )(l )(A)(i) 
+of the Act (requiring "extensive documentation" of recognition). Also, as the Director found, the 
+Petitioner has not otherwise established that the articles brought him acclaim or recognition. Further, 
+he has not explained how his authorship of two published articles over his 10-plus-year career reflects 
+a person with extraordinary ability in his field. See Jafarov v. USCIS, No. 23 CIV. 3372 (PAE), 2024 
+WL 69056, at *9 (S.D.N.Y. Jan. 5, 2024) (finding that USCIS reasonably focused on the inconsistency 
+between a record of six publications over seven years and "a career of acclaimed work"). 
+7. Display of the Petitioner's Work 
+For this evidentiary category, which requires evidence of the display of an alien's work at artistic 
+exhibits or showcases, the Petitioner submitted comparable evidence. See 8 C.F.R. § 204.5(h)(4) ("If 
+the above standards do not readily apply to the [petitioner]'s occupation, the[y] ... may submit 
+comparable evidence to establish the[ir] ... eligibility.") He provided evidence that, between 2021 
+and 2025, he delivered 10 speeches on health topics at various conferences. The record shows that, at 
+some conferences, he discussed platforms he developed. At others, he addressed more general topics, 
+such as return on investment in healthcare innovation, innovations in real-time health monitoring and 
+digital simulation technologies, and opportunities and challenges in scaling health technology startups. 
+The record, however, does not demonstrate that the Petitioner's speeches garnered him national or 
+international acclaim or recognition in his field. The speeches, alone, therefore do not establish his 
+claimed extraordinary ability in his field. 
+8. Performance in a Leading or Critical Role 
+The Petitioner submitted evidence that he has served organizations in both critical and leading roles. 
+The record shows that, while working as a consultant for a major global consulting firm, he led efforts 
+to restructure and eventually sell a hospital, resulting in the largest healthcare acquisition in 
+northeastern Brazil. Also as a consultant, he guided another Brazilian hospital in achieving full 
+accreditation in less than five months, a process that normally takes a year or more. Further, the 
+Petitioner submitted evidence that he: founded his consulting firm; launched the tele-oncology clinic; 
+and helped establish a medical billing company. 
+The Petitioner contends that, in the final merits determination, the Director "minimized" the 
+significance of the critical roles he has played for healthcare organizations. He states that the record 
+"shows that multiple distinguished institutions repeatedly relied on [him] to lead or execute high­
+stakes initiatives central to institutional performance, valuation, accreditation, innovation, and 
+growth." He states that "the repeated reliance of globally and nationally distinguished institutions on 
+[him] to lead transformative initiatives is itself powerful evidence that his expertise is recognized as 
+exceptional." 
+We agree that the Petitioner has demonstrated that, over his career, he has performed in critical roles 
+for various organizations. Despite this evidence, however, the record lacks independent proof that the 
+Petitioner's roles garnered national or international acclaim, or recognition in his field beyond his 
+former clients and co-workers. See Mishra, 2021 WL 1566071, at *3 ("It is generally expected that 
+one whose accomplishments have garnered sustained national or international acclaim would have 
+7 
+received recogrnt10n for their accomplishments well beyond the circle of their personal and 
+professional acquaintances."); see generalZv 6 USCIS Policy Manual F.2(B)(3). This lack ofobjective 
+evidence hinders the Petitioner's ability to place his achievements in context with those of others in 
+his field. See 6 USCJS Policy Manual F.2(B)(2) ("In all cases, the petitioner must provide sufficient 
+context ... to demonstrate that the evidence meets the relevant criteria and to establish the person's 
+extraordinary ability in the totality of the circumstances.") 
+9. High Salary or Other Significantly High Remuneration 
+As evidence of the Petitioner's income, he submitted a letter from an accountant. The letter states 
+that: 
+• as director of strategy and innovation for the pharmaceutical distributor, he received a salary 
+of 420,000 Brazilian reals (BRL) in 20203; 
+• as a consultant at his own consulting firm, he earned "income in fees" of 357,440.69 BRL in 
+2024 and 397,470.20 BRL in 2025; and 
+• as partner/chief executive of the medical billing company, he received the "economic value" 
+of 25,440 BRL in fees and from 74,592 BRL to 124,098 BRL in "equity participation" in 2024 
+and 76,320 BRL in fees and from 223,776.40 BRL to 372,294 BRL in equity participation in 
+2025. 
+The Petitioner also submitted a letter from a second accountant stating that his consulting firm 
+generated total revenues of 352,440.69 BRL in 2024. 
+The first accountant's statements regarding the Petitioner's income amounts are unreliable. But, if his 
+consulting firm grossed only 352,440.69 BRL in 2024 as the second accountant states, he has not 
+explained how he could have earned 357,440.69 BRL in fees at the company during the same year? 
+A petitioner must resolve inconsistencies of record with independent, objective evidence pointing to 
+where the truth lies. Matter ofHo, 19 I&N Dec. 582, 591 (BIA 1988). Thus, without corroborating 
+evidence of the Petitioner's income amounts, we do not credit the income information in the first 
+accountant's letter. The evidence in this category therefore does not reflect his receipt of acclaim or 
+recognition in his field. 
+10. Commercial Successes 
+The Petitioner submitted comparable evidence in an attempt to meet this evidentiary criterion, which 
+focuses on commercial successes in the performing arts. See 8 C.F.R. § 204.5(h)(3)(x), (4). He points 
+to evidence that his healthcare consulting work has reduced healthcare expenses and has led to 
+increases in the number of patients and revenues at clinics. 
+The Petitioner, however, has not demonstrated that the financial results of his work have generated 
+acclaim and recognition sufficient to place him among the small percentage at his field's top. 
+3 The Petitioner's purported salary of420,000 BRL equates to about $83,334. See Xe, "Currency Converter," www.xe.com 
+(June 1, 2026). 
+8 
+In sum, the record identifies the Petitioner as a talented, accomplished healthcare consultant who has 
+made original contributions to his field. He met the requested category's initial evidentiary 
+requirements and demonstrated his receipt of some national acclaim and recognition in the field. But, 
+even considering the evidence in the aggregate, the Petitioner has not established himself among the 
+small percentage at his field's very top. 
+Congress intended to set "a very high standard" for aliens of extraordinary ability, reserving this 
+immigrant visa category "for that small percentage of aliens who have risen to the very top of their 
+field of endeavor." Proposed Rule for Employment-Based Immigrants, 56 Fed. Reg. 30703, 30704 
+(July 5, 1991 ). Considering the evidence as a whole, the Petitioner has not established his claimed 
+extraordinary ability in his field. See Amin, 24 F.4th at 386 ("[G]iven the lofty bar for extraordinary 
+ability classifications, we cannot say that the agency acted arbitrarily when it determined that [a 
+petitioner] was not 'extraordinary' but merely very good."); Matter of Price, 20 I&N Dec. 953, 954 
+(Assoc. Comm'r 1994) (holding that even athletes performing in their sports' premier leagues do not 
+automatically meet the extraordinary ability standards). 
+III. CONCLUSION 
+The Petitioner met the minimum amount of evidentiary criteria but did not demonstrate his claimed 
+extraordinary ability in his field. We will therefore affirm the petition's denial. 
+ORDER: The appeal is dismissed. 
+NOTICE: This constitutes the final decision in this matter. The filing of a motion will not postpone the 
+effect of the decision. 8 C.F.R. § 103.5(a)(l )(iv). Aliens who are not lawfully present, or who are 
+otherwise inadmissible or deportable, may be subject to the commencement of removal proceedings 
+under section 240 ofthe Act through the issuance of a Form I-862, Notice to Appear. Those proceedings 
+may result in their removal from the United States and possible ineligibility for future visas or other 
+immigration benefits. 
+9 

@@ -1,0 +1,247 @@
+U.S. Citizenship 
+and Immigration 
+Services 
+Non-Precedent Decision of the
+Administrative Appeals Office 
+In Re: 43629392 Date: WL. 22, 2026 
+Appeal of U.S. Citizenship and Immigration Services (USCIS) Decision 
+Form I-140, Immigrant Petition for Alien Workers (Extraordinary Ability) 
+The Petitioner seeks classification as an alien of extraordinary ability in business. See Immigration and 
+Nationality Act (the Act) section 203(b)(l)(A), 8 U.S .C. § 1153(b)(l)(A). This first preference 
+classification makes immigrant visas available to those who can demonstrate their extraordinary ability 
+through sustained national or international acclaim and whose achievements have been recognized in 
+their field through extensive documentation. 
+USCIS denied the petition, concluding that the Petitioner provided inconsistent information and 
+therefore her eligibility claims for this immigrant classification lacked credibility.1 The matter is now 
+before us on appeal pursuant to 8 C.F .R. § I 03 .3. 
+The Petitioner bears the burden ofproof to demonstrate eligibility by a preponderance of the evidence. 
+Matter afChawathe, 25 I&N Dec. 369, 375-76 (AAO 2010). We review the questions in this matter 
+de novo. Matter a/Christa's, Inc., 26 I&N Dec. 537,537 n.2 (AAO 2015). Upon de novo review, 
+we will withdraw the decision and remand the matter for entry of a new decision consistent with the 
+following analysis. 
+I. LAW 
+Section 203(b)(l)(A) of the Act makes immigrant visas available to aliens with extraordinary ability in 
+the sciences, arts, education, business, or athletics which has been demonstrated by sustained national 
+or international acclaim and whose achievements have been recognized in the field through extensive 
+documentation, provided that the alien seeks to enter the United States to continue work in the area of 
+extraordinary ability, and the alien's entry into the United States will substantially benefit 
+prospectively the United States. 
+The term "extraordinary ability" refers only to those individuals in "that small percentage who have 
+risen to the very top of the field of endeavor." 8 C.F.R. § 204.5(h)(2). The implementing regulation 
+at 8 C.F.R. § 204.5(h)(3) sets forth a multi-part analysis. First, a petitioner can demonstrate sustained 
+acclaim and the recognition of achievements in the field through a one-time achievement (that is, a 
+1 Because of the inconsistent infonnation, the decision stated that "USCIS suspends analysis" as to whether the Petitioner 
+has fulfilled at least three of the ten initial evidentiary criteria set forth at 8 C.F.R. § 204.5(h)(3). 
+major, internationally recognized award) or qualifying documentation that meets at least three of the 
+ten categories listed at 8 C.F.R. § 204.5(h)(3)(i) - (x) (including items such as awards, published 
+material in certain media, and scholarly articles). 
+Where a petitioner meets these initial evidence requirements, we then consider the totality of the 
+material provided in a final merits determination and assess whether the record shows sustained 
+national or international acclaim and demonstrates that the individual is among the small percentage 
+at the very top of the field of endeavor. See Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010) 
+( discussing a two-part review where the documentation is first counted and then, if fulfilling the 
+required number of criteria, considered in the context of a final merits determination); see also 
+Visinscaia v. Beers, 4 F. Supp. 3d 126, 131-32 (D.D.C. 2013); Rijal v. USCIS, 772 F. Supp. 2d 1339 
+(W.D. Wash. 2011). 
+II. ANALYSIS 
+A. Evidentiary Criteria 
+Because the Petitioner has not indicated or established receipt of a major, internationally recognized 
+award, she must satisfy at least three of the alternate regulatory criteria at 8 C.F.R. § 204.5(h)(3)(i)­
+(x). The Petitioner claimed to have satisfied the criteria relating to awards, membership, published 
+material, judging, original contributions, authorship, leading or critical role, and high salary. See 
+8 C.F.R. § 204.5(h)(3)(i) - (vi), (viii), and (ix). USCIS' decision, however, did not render a 
+determination on whether the Petitioner's evidence meets at least three of the claimed criteria. 
+B. Inconsistences in the Record 
+In February 2026, USCIS issued as notice of intent to deny (NOID) informing the Petitioner of 
+"inconsistencies" and a "lack of credibility" regarding the information and supporting documentation 
+she submitted. USCIS' NOID stated: 
+[The Petitioner's] claimed employment is declared to be withl Ialso 
+known as I Iand/or I I Per the letters from the company's chief 
+executive officer (CEO), A-S-, [the Petitioner] has been the Chief Revenue Officer 
+(CRO) from January 2024 to present. Inconsistent to such claims, [the Petitioner's] 
+curriculum vitae (CV) provides the dates of "September 2023 - present." It is further 
+noted that A-S- claims [the Petitioner] is a "co-founder" ofl Isince January 
+2024. However, the same letter from A-S- demonstrates [the Petitioner] is not in fact 
+a co-founder, as the company was in existence as early as 2021, which is when the Y 
+combinator occurred. 
+In paralleling inconsistencies, the claimed CEO of ~------~A-S-'s CV is 
+also provided, which notably records the following date inconsistencies when 
+compared to the letters provided. Specifically, the CV indicates the author has not been 
+involved with.__ _______.after 2021. As recorded in [A-S's] CV: 
+2 
+Co-founder/CEO 
+2021 - 2021 (less than a year) 
+In further inconsistencies, the cover letter clearly asserts that funding for 
+~-----~is attributed to [the Petitioner], such as the $125,000I I 
+gained from Y Combinator in 2021. However, as noted above, [the Petitioner] was not 
+employed at the time of funding, 2021. 
+Regarding the claim that I I 2021 Y Combinator funding is attributable to the Petitioner, 
+the NOID points to counsel's January 2025 cover letter which accompanied the filing of the Form I-
+140 petition. In discussing the awards criterion at 8 C.F.R. § 204.5(h)(3)(i), counsel's cover letter 
+stated: 
+Second, venture firms including Y Combinator, Graph Ventures, Occam's Opportunity 
+Fund, and AAVCF LLC have collectively awarded her company $575,000 in funding, 
+a form of merit-based recognition extended to only a tiny fraction of evaluated 
+founders. Together, these exhibits demonstrate that independent institutions with 
+rigorous selection processes have singled out [the Petitioner's] work for distinction, 
+providing strong evidence of "lesser nationally or internationally recognized prizes or 
+awards for excellence" under the EB-IA standard. 
+[The Petitioner] has secured a total of $575,000 in highly competitive venture capital 
+funding from leading U.S, and international investment firms, including Y Combinator, 
+Graph Ventures, Occam's Opportunity Fund, and AAVCF LLC. In technology 
+entrepreneurship, venture capital functions as one of the most selective and prestigious 
+forms of professional recognition, awarded only to founders whose work demonstrates 
+exceptional innovation, technical merit, and market potential. These investments 
+therefore constitute significant merit-based awards acknowledging [the Petitioner's] 
+extraordinary ability in productivity software. 
+Occam's Opportunity Fund and AAVCF LLC likewise operate within this elite 
+investment ecosystem and apply rigorous diligence before awarding capital. Their 
+participation confirms that multiple sophisticated institutions independently recognized 
+[the Petitioner's] unusually strong capabilities as a technology founder. 
+3 
+For each ofthe firms that fonded [the Petitioner], the decision followed rigorous review 
+of her product vision, technical execution, initial traction, and ability to scale. 
+A warded Project 
+[The Petitioner] received these venture fonding awards in recogmt10n of her 
+development of I Ian AI-powered reporting and planning platform targeting 
+critical inefficiencies in professional services teams, which face 30 percent resource 
+underutilization and 21 percent profit loss. . . . Early traction, including 403 paying 
+customers, $20,000 in monthly recurring revenue, and adoption by leading technology 
+companies, farther validated the impact of her innovation. These achievements were 
+central to investors awarding $575,000 in competitive venture fonding, reflecting their 
+assessment that [the Petitioner's] work is a high-impact, technically advanced 
+contribution demonstrating extraordinary ability. 
+As documentation of._________. receipt of venture capital fonding, the Petitioner presented 
+three 2021 "Simple Agreement(s) for Future Equity" (SAFEs) that collectively totaled $575,000. Each 
+of these SAFE documents was executed in 2021 and signed byl ICEO, A-S- (rather than 
+the Petitioner). Despite the multiple claims in counsel's January 2025 cover letter as quoted above, 
+the record contains no evidence to corroborate his assertions that the $575,000 in venture capital 
+fonding received by I Iwas attributable to the Petitioner or was based on her specific 
+achievements. Nor is there documentation showing that the Petitioner even worked forl I 
+in 2021. 
+In response to the issues raised in the NOID, the Petitioner presented a March 2026 letter from counsel 
+and supporting evidence addressing USCIS' concerns regarding the start date of her employment at 
+I Iher status as the company's co-founder, the dates ofA-S-'s employment asl I 
+CEO, and the claims in counsel's cover letter attributing the company's receipt of venture capital 
+fonding in 2021 to the Petitioner. USCIS denied the petition, however, stating that the Petitioner "has 
+not resolved the multiple inconsistencies located in the initial filing" and that it was suspending farther 
+analysis of the Petitioner's arguments and evidence relating to the evidentiary criteria at 8 C.F.R. 
+§ 204.5(h)(3). 
+On appeal, the Petitioner argues that USCIS' decision should be reversed because it mischaracterized 
+the inconsistencies and did not consider the merits ofher evidence using the two-step analysis set forth 
+in Kazarian, 596 F.3d at 1119-20. For the reasons discussed below, we conclude that the Petitioner 
+has sufficiently overcome the inconsistencies identified in USCIS decision by a preponderance of the 
+evidence. 
+1. The Petitioner's Start Date at._l______, 
+With respect to her start date with I I the Petitioner contends that "she began her formal 
+employment with I las a co-founder and Chief Revenue Officer on January 15, 2024." The 
+Petitioner's NOID response included her I lpay statements from early 2024 through 2025, 
+4 
+her Form W-2 for 2025 confirming her status as an employee, emails sent to and received by the 
+Petitioner in her capacity as CRO from throughout 2024 and 2025, and work product samples showing 
+her position with the company. 
+In addressing the discrepancy relating to the September 2023 I Istart date reflected on her 
+CV, the Petitioner presented an affidavit explaining that this date was drawn from her Linkedin profile 
+and was intended to reflect the period during which she was in discussions with A-S- regarding the 
+company's projects and their potential collaboration. She asserted that during the four-month period 
+in question, she provided informal, unpaid strategic input while the parties explored a formal working 
+relationship. The Petitioner farther indicated that the January 2024 date withl Iby contrast, 
+reflects the commencement of her formal employment and placement on the company's payroll. She 
+contended that the difference in dates reflects the distinction between informal pre-employment 
+discussions and the start ofher formal employment. As evidence ofher involvement with I I 
+prior to 2024, the Petitioner offered communications between her and A-S- through Linkedin, email 
+exchanges, and WhatsApp messages as well as calendar invites/notifications for their meetings, a co­
+working proposal suggesting a soft-start/trial period for their collaboration in late 2023, and an 
+affidavit from A-S- confirming their late 2023 interactions. We conclude that the combined weight of 
+this evidence is sufficient to overcome USCIS' concern regarding the discrepancy in the Petitioner's 
+starting date. 
+2. The Petitioner's Co-founder Designation 
+Regarding the Petitioner's claim that she is al !co-founder, the Petitioner indicates that "this 
+title reflects her substantial equity ownership and central leadership role within the company." She 
+farther asserts that "[i]n the startup ecosystem, it is common for individuals who join during early 
+growth stages to be recognized as founders based on their ownership stake and strategic contributions, 
+even if they were not present at the company's initial formation." 
+In support of her claim that she was designated as I Ico-founder, the NOID response 
+included the Petitioner's January 2024 "Co-Founder Agreement" with A-S- showing her employment 
+capacity and her provision of 20% equity inl Icommunications from November 2023 in 
+which A-S- specifically proposed that the Petitioner join his company in such a capacity, screenshots 
+from the company's public website that identify her as a co-founder, and collaborative posts with 
+others that refer to her as a co-founder. The Petitioner also provided a 2021 article in Forbes entitled 
+"Why Adding a Late Cofounder Could Mean a Business Breakthrough." This article presents an 
+example of a successful entrepreneur who "added a cofounder to his business five years after starting 
+it" and offers six reasons encouraging the practice. In addition, the Petitioner submitted articles from 
+Hexa.com, Cnet.com, and Y combinator.com demonstrating that the concept of adding a cofounder 
+multiple years after a business has been formed is not unusual within the startup community. This 
+evidence supports the Petitioner's co-founder designation as reflective of industry practice and 
+accurately describes her role within the company. Accordingly, the Petitioner has overcome USCIS' 
+concern regarding her co-founder designation. 
+5 
+3. The Dates of A-S-'s Employment as~I_____.I CEO 
+With respect to the A-S-'s employment asl ICEO after 2021, the Petitioner states that the 
+evidence shows that A-S- "has continuously served as Chief Executive Officer ofl Isince 
+its founding in 2021. The inconsistent dates reflected on his CV originate from his Linkedln profile 
+and represent an error in that informal source, rather than an accurate reflection of his employment 
+history." As evidence of A-S-'s dates of employment at I I the Petitioner presented his 
+Forms W-2 showing that he worked atl I from 2021 - 2025, SAAS services agreements 
+between! Iand other organizations he signed after 2021, customer agreements executed by 
+I land signed by A-S- subsequent to 2021, a State ofDelaware Annual Franchise Tax Report 
+issued to A-S- for the 2025 tax year, and presentations he authored relating to the company that contain 
+post-2021 project dates in 2023 and 2024. We conclude that the combined weight of this evidence is 
+sufficient to overcome USCIS' concern regarding the dates of A-S-'s employment asl I 
+CEO. 
+4. Claims that~I_____.I Venture Capital Funding is Attributable to the Petitioner 
+Regarding counsel's assertion at the time offiling that venture capital fonding obtained by I,______. 
+is attributable to the Petitioner and therefore it constitutes her receipt of an award under 8 C.F.R. 
+§ 204.5(h)(3)(i), counsel's response to the NOID stated: 
+Upon review of the petition record, undersigned counsel acknowledges that the 
+statements attributing the company's venture capital fonding to [the Petitioner] were 
+the result of attorney error and should not be considered as evidence in support of the 
+awards criterion. 
+Accordingly, the attribution of the $125,000 Y Combinator fonding to [the Petitioner] 
+individually was an inadvertent error by counsel rather than a factual assertion made 
+by [the Petitioner] herself. [The Petitioner] did not claim personal receipt of this award, 
+nor did she intend to represent that the fonding constituted an individual award 
+recognizing her achievements. 
+USCIS policy explicitly recognizes that arguments made by counsel do not themselves 
+constitute evidence. 
+In light of this principle, the statements made in the original cover letter regarding the 
+venture capital fonding should be understood as (mistaken) legal argument rather than 
+evidence, and therefore should not be given evidentiary weight in evaluating the 
+petition. [The Petitioner] respectfully requests that USCIS disregard these statements 
+to the extent they suggested that the fonding constituted an award attributable to her 
+personally. 
+6 
+The error arose from an effort to contextualize [the Petitioner's] contributions within 
+the broader success of the company, rather than from any intention to misrepresent the 
+facts of the case. Importantly, [the Petitioner] herself did not provide inaccurate 
+information, nor did she attempt to claim credit for an award received prior to her 
+involvement with the company. 
+While USCIS was entirely correct in pointing out the inconsistency between counsel's claim about the 
+Petitioner's attainment of venture capital funding for I Iand the documents showing her 
+dates of employment with the company, we also agree that counsel's unsubstantiated assertions do not 
+constitute evidence. See, e.g., Matter ofS-M-, 22 I&N Dec. 49, 51 (BIA 1998) ("statements in a brief: 
+motion, or Notice of Appeal are not evidence and thus are not entitled to any evidentiary weight"). 
+We note, for example, that the Petitioner's curriculum vitae submitted with the initial filing lists 
+multiple awards she received, including her "IT Woman of the Year Award in Business Innovation" 
+(2020), but it does not state that she secured venture capital funding for I I Because the 
+venture capital funding claim has not been established as ascribable to the Petitioner, we conclude that 
+counsel's admission that he was solely responsible is sufficient to overcome USCIS' concern 
+regarding this issue. However, based on the doubts raised by counsel's admitted misstatement of fact 
+pertaining to the criterion at 8 C.F.R. § 204.5(h)(3)(i), his assertions relating to the additional claimed 
+criteria should be fully supported by relevant, probative, and credible evidence that leads USCIS to 
+believe that any such claims are "more likely than not" or "probably" true for the Petitioner to satisfy 
+the standard of proof. See Matter ofE-M-, 20 I&N Dec. 77, 79-80 (Comm'r 1989). 
+III. CONCLUSION 
+For the above reasons, we will withdraw USCIS' decision and remand the matter for further review 
+and entry of a new decision. USCIS should consider all the evidence and determine if the Petitioner 
+satisfies at least three ofthe regulatory criteria at 8 C.F.R. § 204.5(h)(3)(i)-(x). Ifthe Petitioner fulfills 
+these initial evidence requirements, USCIS should evaluate whether the Petitioner has demonstrated 
+sustained national or international acclaim and whether the record demonstrates that she is one of the 
+small percentage at the very top of the field of endeavor, and that her achievements have been 
+recognized in the field through extensive documentation. See section 203(b)(l)(A)(i) of the Act; 
+8 C.F.R. § 204.5(h)(2), (3); see also Kazarian, 596 F.3d at 1119-20 (discussing a two-part review 
+where the documentation is first counted and then, if fulfilling the required number of criteria, 
+considered in the context of a final merits determination). 
+ORDER: The decision is withdrawn. The matter is remanded for the entry of a new decision 
+consistent with the foregoing analysis. 
+7 

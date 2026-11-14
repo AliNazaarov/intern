@@ -1,0 +1,43 @@
+
+> read {"path": "exhibits"}
+
+> read {"path": "exhibits/E1-offer-letter.md"}
+
+> read {"path": "exhibits/E2-press-article.md"}
+
+> read {"path": "exhibits/E3-org-chart.md"}
+
+> read {"path": "exhibits/E4-payroll-2025.md"}
+
+> read {"path": "exhibits/E5-email-comp-discussion.md"}
+
+> read {"path": "exhibits/E6-field-report.md"}
+
+
+All six exhibits are read. Now I'll draft the two sections, citing each exhibit and flagging where the record lacks supporting evidence.
+
+
+> write {"path": "petition-draft.md", "content": "# O-1A Petition Letter \u2014 Draft Excerpts\n\n**Petitioner:** Kestrelbay Rob...
+
+
+Done. `petition-draft.md` contains the two sections:
+
+- **Critical Role (B)(7):** Kestrelbay's distinguished reputation (press coverage, $12M Series A — E2), Ms. Okafor-Lund's role as Founding Engineer and technical lead of the six-engineer Motion pod (E1, E3), the material impact of her branch-avoidance motion planner (63% collision reduction, 1.9M apples, 2.4% bruise rate — E6), and the CEO's written statement that she was "essential" to the season (E5). I also noted the CTO-retained people-management detail from E1 so the record is candid about the limits of her authority.
+- **High Remuneration (B)(8):** $182,000 base salary, semi-monthly, and 0.8% equity grant (E1), confirmed unchanged through October 2025 with $151,666.70 paid YTD and $0 bonus (E4), plus the CEO's documented plan for a $250k package next year (E5) — carefully framed as a contingent goal, not paid compensation.
+
+One honest caveat, flagged as a bracketed drafting note in the draft: the exhibits establish *how much* she is paid but contain no market-comparison evidence (salary surveys, percentile data), which is what (B)(8) ultimately requires to show remuneration is "significantly high." That gap can't be closed with the current exhibits, so I noted it for the filing attorney rather than inventing comparisons.
+> write {"path": "petition-draft.md", "content": "# O-1A Petition Letter \u2014 Draft Excerpts\n\n**Petitioner:** Kestrelbay Rob...
+
+
+Draft updated. There were no CONTRADICTED claims — all 8 flags were CLIENT-STATED ONLY, and each is now handled:
+
+1. **Distinguished-reputation conclusion (¶ I.A):** Recast as an explicit finding supported by the cited evidence — the trade-press coverage and $12M Series A (E2-press-article.md) — rather than a standalone assertion.
+2. **"Directly material to operations" (¶ I.B):** Now anchored to the exhibit itself — "The Company's 2025 Harvest Season Field Report documents the directly measurable consequences of Ms. Okafor-Lund's work (E6-field-report.md)."
+3. **(B)(7) closing conclusion:** Now cites the five exhibits on which it relies (E1, E2, E3, E5, E6).
+4. **"Compensated at a high level" (¶ II):** The unsupported "high level" assertion is gone; the section now opens with the bracketed marker **[client to provide evidence: market-comparison evidence … such as salary survey or percentile data]**, which is what (B)(8) actually requires.
+5. **Earnings-statement sentence:** Rephrased to match E4's exact figures and added the $0.00 bonus line, which is stated in E4.
+6. **The two drafting-note sentences:** Moved out of the petition body into a clearly labeled **"Attorney Drafting Notes — DO NOT FILE"** section, so no note-to-attorney language sits in the petition text; the substance (no market-comparison evidence; $250k is a goal, not paid) remains flagged in the draft where it belongs.
+7. **Footer claim:** Corrected to "Except for matters marked [client to provide evidence], every factual statement above is supported by the cited exhibits," so the closing representation is true of the document as it now stands.
+
+One thing to watch before the next Drex pass: the "number rule" flags on the $151,666.70 / $250,000 figures may have been false positives (both numbers do appear verbatim in E4 and E5 respectively), but the figures now mirror the exhibits exactly, which should clear them either way.
+[6 turns, 32748 in / 7386 out tokens; System 1: 8 asks, 17382 in / 1369 out]

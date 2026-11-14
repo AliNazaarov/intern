@@ -1,0 +1,168 @@
+Non-Precedent Decision of the
+Administrative Appeals Office 
+U.S. Citizenship 
+and Immigration 
+Services 
+In Re: 39211235 Date: SEP. 02, 2025 
+Motion on Administrative Appeals Office Decision 
+Form 1-140, Immigrant Petition for Alien Workers (Extraordinary Ability) 
+The Petitioner, an artificial intelligence (Al) researcher, CEO, and head, seeks classification as an alien 
+of extraordinary ability. See Immigration and Nationality Act (the Act) section 203(b )( I )(A), 8 U.S.C. 
+§ l 153(b)(l)(A). This first preference classification makes immigrant visas available to those who 
+can demonstrate their extraordinary ability through sustained national or international acclaim and 
+whose achievements have been recognized in their field through extensive documentation. 
+Service Center Operations (SCOPS) denied the petition, concluding that the Petitioner did not 
+establish that he satisfied at least three ofthe ten initial evidentiary criteria. We dismissed a subsequent 
+appeal. The matter is now before us on motion to reconsider. 
+The Petitioner bears the burden ofproof to demonstrate eligibility by a preponderance of the evidence. 
+Matter of Chawathe, 25 I&N Dec. 369, 375-76 (AAO 2010). Upon review, we will dismiss the 
+motion. 
+A motion to reconsider must establish that our prior decision was based on an incorrect application of 
+law or policy and that the decision was incorrect based on the evidence in the record of proceedings 
+at the time of the decision. 8 C.F.R. § 103 .5(a)(3). Because the scope of a motion is limited to the 
+prior decision, we will only review the latest decision in these proceedings. 8 C.F.R. § 103 .5(a)(l)(i), 
+(ii). We may grant motions that satisfy these requirements and demonstrate eligibility for the requested 
+benefit. 
+On motion, the Petitioner contests the correctness of our prior decision. In support of the motion, the 
+Petitioner asserts our appeal dismissal improperly diminished the significance of the record letters, 
+publications, citations, and high salary evidence. The Petitioner also contends the evidence was not 
+considered in its totality with the proper standard ofreview. 
+On appeal, we concurred with SCOPS that the Petitioner had demonstrated he met two of the criteria 
+at 8 C.F.R. §§ 204.5(h)(3)(iv) and (vi), respectively, relating to participation as a judge of the work of 
+others in the field and authorship of scholarly articles in the field. We also concurred with SCOPS 
+that the Petitioner had not met the additional two criteria that he claimed to meet at 8 C.F.R. 
+§§ 204.5(h)(3)(v) and (ix), respectively, relating to original contributions of major significance in the 
+field and commanding a high salary. On motion to reconsider, the Petitioner continues to maintain he 
+meets the four evidentiary criteria he claimed previously. 
+Evidence ofthe alien's original scient[fic, scholarly, artistic, athletic, or business-related 
+contributions ofmajor sign[ficance in the field. 8 e.F.R. § 204.5(h)(3)(v). 
+In our prior decision, we considered letters of support from individuals in the IT field that "provided 
+details about some of the Petitioner's projects and described the problems that the Petitioner's work is 
+intended to address." Overall, we determined the letters did not establish the major significance ofthe 
+Petitioner's work in the field. Specifically, we described and considered the contents of the letters of 
+support but found their authors either did not specifically explain the major significance of the 
+Petitioner's work in the field, "provide specific, corroborated explanations of how the Petitioner's 
+contributions are of major significance," provide detail, or establish how widely the Petitioner's work 
+is used. We also explained why the citation data provided by the Petitioner, while it related to the 
+volume of citations and diversity of citing authors, did not sufficiently demonstrate the significance of 
+the Petitioner's published work. 
+On motion, the Petitioner asserts that his publication record reflects 312 citations at the time of filing 
+and submitted statistics placed him in the top percentiles of cited researchers publishing work in the 
+field of computer science. The Petitioner also contends that his work has been cited "in several high­
+impact journals, demonstrating their academic and industrial significance." The Petitioner has not 
+established the publication of articles in highly ranked or popular journals inevitably demonstrates the 
+field considers the research and work to be an original contribution of major significance. Rather, a 
+publication that bears a high ranking or impact factor reflects the publication's overall citation rate; it 
+does not show an author's influence or the impact of their research on the field or that every article 
+published in a highly ranked journal automatically indicates a contribution of major significance. See 
+Venkatnarayan v. Jaddou, No. 1 :23eV256, 2024 WL 4008312, at *7 (M.D.N.e. Aug. 30, 2024), 
+report and recommendation adopted sub nom. Venkatnarayan v. Jaddou Dir. of United States 
+Citizenship & Immigr. Servs., No. l:23-eV-256, 2024 WL 4267307 (M.D.N.e. Sept. 23, 2024) 
+(upholding journal rankings did not show an author's influence or impact). 
+On appeal, we acknowledged the citation records submitted by the Petitioner, including a Google 
+Scholar printout showing that eight of his articles have been cited at least eight times each, earning 
+him ah-index of eight. However, we noted that though the Petitioner claimed this h-index placed him 
+in the top 5% of authors publishing in computer science, he did not identify the source of the computer 
+science h-index percentiles he submitted to support this claim. As such, we found the Petitioner had 
+not established the probative value of the unattributed data table. On motion, the Petitioner argues 
+that our dismissal decision did not acknowledge users Policy Manual guidance encouraging the use 
+of h-index data, unfairly characterized the Petitioner's publication record between 2012 and 2019 as 
+"barely publish[ing] research or receiv[ing] any citations," and did not consider that the sheer volume 
+of his work amount to majorly significant AI research. The users Policy Manual includes, as one 
+consideration that may be probative of the significance of a contribution to the field of endeavor, 
+documentation that a person's published work has been highly cited relative to others' work in that 
+field. See generally 6 USCIS Policy Manual F.2(B), https://www.uscis.gov/policymanual. However, 
+the Petitioner has not demonstrated we erred in finding diminished probative value in an unattributed 
+2 
+data table submitted to demonstrate the relevance and implications of his h-index of eight. 1 It is noted 
+that the USCIS Policy Manual does not indicate the volume of a petitioner's contributions is a 
+consideration under this criterion. In addition, the Petitioner misstates the contents of our dismissal 
+decision, as we did not find a paucity in the Petitioner's publication or citation record between 2012 
+and 2019. For this criterion we ultimately do not determine whether the Petitioner's citation rates rank 
+higher comparative to the average. An appropriate analysis may be the comparison of the Petitioner's 
+citations to other similar, highly cited articles that the field views as having been ofmajor significance, 
+as well as factoring in other corroborating evidence. Though the Petitioner has submitted citation 
+rankings for his contributions, these citations only quantitatively reflect his overall publication record. 
+The Petitioner asserts that the submitted expert letters of support affirm that his original AI 
+contributions have provoked widespread commentary on the importance of his work. On appeal, we 
+discussed specific examples from these submitted letters, as the Petitioner "devote[ d] a considerable 
+portion of the appellate brief to discussion o±: and quotations from these letters," and previously 
+asserted the letters were not specifically evaluated before SCOPS. We found that the letters did not 
+cite to specific examples of "real-world AI applications" that used the Petitioners work or did 
+otherwise provide specific, corroborated explanations of how the Petitioner's contributions are of 
+major significance to the field. For letters addressing the applications of the Petitioner's work to the 
+banking industry, we found they lacked detail related to whether the Petitioner's contribution was of 
+major significance, lacked documentary corroboration and background information to establish the 
+impact of his work reached the requisite level, or did not establish how widely the Petitioner's work 
+was used. On motion, the Petitioner emphasizes additional excerpts from these letters. 
+Upon consideration ofthese excerpts and the whole ofthe letters submitted in support ofthe Petitioner, 
+we do not find error in the previous findings. The excerpts submitted on motion attest to the high 
+caliber of the Petitioner's work and expertise. However, the letters that detail his work, such as using 
+"a model-driven approach to implementI I" or designing a "lightweight financial protocol," 
+"the I IPOS software" and "the first I Isoftware" for one oflran's 
+first private banks do not sufficiently establish that the impact ofthe Petitioner's work rises to the level 
+of major significance to the field required by this criterion. Letters that reference its authors' use of 
+the Petitioner's work in their own studies explain the impact of the Petitioner's work on their own 
+research but do not establish the influence or high impact his work has had on the overall field to the 
+level of major significance. Similarly, these letters do not explain how the Petitioner's work resulting 
+in benefits to a singular institution constitutes a contribution of major significance to the field. 
+Additional excerpts highlightinr the accomplishments of the Petitioner and his team "an independent 
+business unit underl do not delineate or folly explain the Petitioner's involvement in the 
+claimed achievements. As such, the record does not sufficiently demonstrate the Petitioner's specific 
+role in these contributions. In addition, as found in our previous decision, some letters of record do 
+not provide specific, corroborated explanation of how the Petitioner's contributions are of major 
+significance. See generally 6 USCIS Policy Manual, supra, F.2(B)(l) (indicating that when 
+determining the issue of major significance, detailed expert letters explaining the nature and 
+1 It is noted that on motion. the Petitioner asserts he provided information from Elsevier to explain the significance of the 
+h-index in assessing the impact of a particular author's research. In addition, on motion, the Petitioner submits updated 
+citation statistics for his publications. However, a motion to reconsider must establish that our last decision was incorrect 
+based on the evidence in the record of proceeding at the time of the decision to be reconsidered. 8 C.F.R. § 103.5(a)(3). 
+As such, we will not consider new facts or evidence in a motion to reconsider. 
+3 
+significance of a person's contribution may provide valuable context, particularly when the record 
+includes corroborating evidence). We acknowledge the Petitioner's assertions related to awards he 
+received and participation in media articles and interviews. However, as stated in our appeal decision, 
+the articles indicate the Petitioner has a degree of public visibility but the referenced awards and 
+articles do not establish the Petitioner's original contribution ofmajor significance to the field. Overall, 
+considering all evidence of record submitted in support of this criterion, the Petitioner's claims on 
+motion are insufficient to establish error in our prior determination. 
+Evidence that the alien has commanded a high salary or other significantly high 
+remuneration for services, in relation to others in the field. 8 C.F.R. § 204.5(h)(3)(ix). 
+In our prior decision, we concurred with SCOPS that the Petitioner did not meet this criterion. We 
+found the Petitioner submitted comparative salaries information for "occupational titles" that did not 
+"fully capture[d] the nature of his work with his company, such that the salary survey figures relate to 
+individuals who perform similar work to the Petitioner." In addition, we found the comparative 
+salaries provided by the Petitioner did not allow for a reliable comparison as they indicated only base 
+salaries and bonuses while the majority of the Petitioner's 2023-2024 income was identified as 
+overtime, housing allowance, coupon, and child benefit. 
+On motion, the Petitioner asserts our dismissal decision erroneously "intimated" that this criterion 
+requires demonstration of a high salary, as compared to others who command high salaries. Rather, 
+in our previous decision, we noted that the USCIS Policy Manual provides that evidence in support of 
+this criterion can include comparative geographical and position-appropriate evidence. See generally 
+6 USCIS Policy Manual, supra, F.2(8)(1). We further noted that, relevant caselaw suggests that "in 
+relation to others in the field" should be interpreted as allowing comparisons to those employed in the 
+same occupation at a similar level. The Petitioner contends the evidence establishes the Petitioner's 
+salary is high even when compared to other salaries exceeding the average in his field, claiming his 
+equals 30 times the highest annual salary when including his benefit, bonuses and profit-sharing. The 
+Petitioner states that even in comparing base salaries alone, his income is multiples beyond the highest 
+annual salaries provided on motion for CEOs, AI researchers, or data scientists, or even CEO and 
+managing directors combined. As such, the Petitioner claims the submitted average annual salaries 
+are suitable comparisons for his own work as both CEO and head of the Research and Development 
+Department. However, the Petitioner relies upon CEO wages figures that are newly submitted on 
+motion. As stated, we will not consider new facts or evidence on a motion to reconsider. Previously, 
+the Petitioner submitted information on annual salaries for managing directors, AI developers, and 
+data scientists. Since 2012, the Petitioner has held the collective roles of CEO, AI researcher, and 
+head ofthe Research and Development Department for~------------~a software 
+company inl IThese unique roles occupied by the Petitioner are not reflected in the comparative 
+wage data, as submitted prior to the instant motion. Accordingly, the Petitioner has not demonstrated 
+error in our prior determination and does not meet this criterion. 
+On motion to reconsider, the Petitioner has not established that our previous decision was based on an 
+incorrect application of law or policy at the time we issued our decision. Therefore, the motion will 
+be dismissed. 8 C.F.R. § 103.5(a)(4). 
+4 
+ORDER: The motion to reconsider is dismissed. 
+NOTICE: Aliens who are not lawfully present, or who are otherwise inadmissible or deportable, may 
+be subject to the commencement of removal proceedings under section 240 of the Act through the 
+issuance of a Form I-862, Notice to Appear. Those proceedings may result in their removal from the 
+United States and possible ineligibility for future visas or other immigration benefits. 
+5 

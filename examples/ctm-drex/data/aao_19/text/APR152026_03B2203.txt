@@ -1,0 +1,285 @@
+Non-Precedent Decision of the
+Administrative Appeals Office 
+U.S. Citizenship 
+and Immigration 
+Services 
+In Re: 42096406 Date: APR. 15, 2026 
+Appeal of Service Center Operations (SCOPS) Decision 
+Form 1-140, Immigrant Petition for Alien Workers (Extraordinary Ability) 
+The Petitioner, a researcher and lecturer in the field of artificial intelligence (Al), seeks classification 
+as an alien of extraordinary ability. See Immigration and Nationality Act (the Act) section 
+203(b)(l)(A), 8 U.S .C. § 1153(b)(l)(A). This first preference classification makes immigrant visas 
+available to those who can demonstrate their extraordinary ability through sustained national or 
+international acclaim and whose achievements have been recognized in their field through extensive 
+documentation. 
+Service Center Operations (SCOPS) denied the petition, concluding that while the Petitioner met the 
+initial evidence requirements for the classification by meeting at least three of the evidentiary criteria 
+at 8 C.F.R. § 204.5(h)(3), the record did not establish that she had sustained national or international 
+acclaim in her field and was one of the small percentage at the very top of her field. The matter is 
+now before us on appeal pursuant to 8 C.F.R. § 103 .3. 
+The Petitioner bears the burden ofproof to demonstrate eligibility by a preponderance ofthe evidence. 
+Matter ofChawathe, 25 I&N Dec. 369, 375-76 (AAO 2010). We review the questions in this matter 
+de novo. Matter of Christa's, Inc., 26 I&N Dec. 537,537 n.2 (AAO 2015). Upon de novo review, 
+we will dismiss the appeal. 
+I. LAW 
+To establish eligibility as an individual of extraordinary ability, a petitioner (or anyone on the 
+petitioner's behalf) must establish that they: 
+• Have extraordinary ability in the sciences, arts, education, business, or athletics; 
+• Seek to enter the United States to continue work in their area of extraordinary ability; and that 
+• Their entry into the United States will prospectively substantially benefit the United States. 
+Extraordinary ability must be demonstrated by evidence of sustained national or international acclaim 
+as well as extensive documentation that the petitioner's achievements have been recognized in the 
+field. Section 203 (b)( 1) of the Act. 
+The implementing regulation further states that the term "extraordinary ability" refers only to those 
+aliens in "that small percentage who have risen to the very top of the field of endeavor." A petitioner 
+can demonstrate that they meet the initial evidence requirements for this immigrant visa classification 
+through evidence of a one-time achievement (that is, a major, internationally recognized award). If 
+such evidence is unavailable, then they must alternatively provide evidence that meets at least three of 
+the ten listed criteria, which call for evidence about lesser awards they may have received, published 
+material about them in qualifying media, and their authorship of scholarly articles, among other types 
+of evidence. 8 C.F.R. §§ 204.5(h)(2),(3). 
+Where a petitioner meets these initial evidence requirements, we then consider the totality of the 
+material provided in a final merits determination, assessing whether the record shows that the alien 
+possesses the acclaim and recognition required for this highly exclusive immigrant visa 
+classification. See Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010) (discussing a two-part review 
+where the documentation is first counted and then, if fulfilling the required number of criteria, 
+considered in the context of a final merits determination); see also Amin v. Mayorkas, 24 F.4th 383, 
+394 (5th. Cir. 2022). 
+II. ANALYSIS 
+The Petitioner earned a Ph.D. in theoretical physics from the I l I lin 2021, and states that she has since worked as a researcher and lecturer a~ r 
+in China. The record indicates that she has co-authored several papers dealing with the application of 
+AI to problems in particle physics. She intends to come to the United States to work as a software 
+architect focusing on AI-related projects, particularly the development of quantum computing 
+algorithms. 
+A. Evidentiary Criteria 
+Because the Petitioner has not indicated or established that she received a major, internationally 
+recognized award, she must satisfy at least three of the alternate regulatory criteria at 
+8 C.F.R. § 204.5(h)(3)(i)-(x). SCOPS concluded that the Petitioner met three of the evidentiary 
+criteria at 8 C.F.R. § 204.5(h)(3)(i)-(x), relating to her authorship of scholarly articles, her original 
+contributions of major significance, and her participation as a judge of the work of others. On appeal, 
+the Petitioner asserts that in addition to meeting the initial evidence requirements for this classification, 
+the record establishes that she has sustained national or international acclaim in the field of AI and is 
+one of the very small percentage of those at the top of her field. Per the following discussion, we 
+disagree with SCOPS' conclusion regarding the significance of the Petitioner's original contributions 
+to her field, and thus whether she meets the initial evidence requirements for this classification. 
+In order to satisfy the regulation at 8 C.F.R. § 204.5(h)(3)(v), a petitioner must establish that not only 
+have they made original contributions to their field of expertise, but that those contributions have been 
+of major significance in the field. For example, a Petitioner may show that the contributions have 
+been widely implemented throughout the field, have remarkably impacted or influenced the field, or 
+have otherwise risen to a level ofmajor significance. See Visinscaia v. Beers, 4 F. Supp. 3d 126, 134-
+35 (D.D.C. 2013). 
+2 
+Here, the Petitioner claims to have made two original contributions of major significance in the field 
+of AI: 1) development of a machine learning scanning (MLS) method for efficient parameter space 
+exploration, particularly relating to dark matter research, and 2) applying message passing neural 
+networks (MPNN s) to particle collider event classification. She submitted multiple types of evidence 
+to support this assertion, including partial copies of papers she co-authored in which these 
+contributions were presented and disseminated to the field, as well as reports showing the number of 
+times other researchers had cited to this published work. One of those papers relating to the MLS 
+method, published in the journal! Iin 2019, was cited on more than 50 occasions 
+according to the Petitioner's Google Scholar profile submitted in response to SCOPS notice of intent 
+to deny (NOID). Another, published in the journal I Iin 2021, described the 
+Petitioner's and her collaborators' application of MPNN to the study of particle processes at the Large 
+Hadron Collider (LHC), and was cited by other researchers more than 30 times. The Petitioner 
+submitted information from Clarivate Analytics which appeared to show that the number of citations 
+to these and three other papers co-authored by her were in the top 10% of papers in the field of physics, 
+and asserted that this demonstrates the major significance of the original work presented in the papers. 
+However, after analysis of the evidence presented in support of this assertion, we conclude that these 
+figures alone are insufficient evidence of the major significance of her published research in the field 
+of AI. We first note that the Clarivate Analytics data indicates that it was compiled at some point in 
+2024, whereas the Petitioner filed her petition in April 2025 and responded to SCOPS' NOID in 
+October 2025. Thus the data does not reflect citations to published works after 2024, while the 
+evidence of the citations to the Petitioner's work shows citations well into 2025. Further, the table 
+shows that the number of average citations to papers published in a particular field varies widely 
+among different fields. The Petitioner has not shown that the number of citations to papers published 
+in the broader field of physics as of2024 is an accurate basis for comparison to the number ofcitations 
+to papers published in the more specific areas of particle physics or quantum physics as oflate 2025. 
+In addition, the Petitioner asserted in her NOID response that based upon a paper published by experts 
+in bibliometrics, papers with citation rates in the top 10% in a field can be considered to be "highly 
+cited or excellent," and that this is an indicator that the published work is recognized as significant in 
+the field. But the notes explaining the data from Clarivate Analytics state that "citation frequency is 
+highly skewed with many infrequently cited papers and relatively few highly cited papers," and defines 
+"Highly Cited Papers" as those which are placed in the top 1 % of all papers in a given field by number 
+of citations. The highly skewed nature of citations to scientific papers can be seen in the 2024 data 
+for papers published in the field of physics in 2019, where papers in the top 50% were cited 8 times, 
+the top 10% were cited 36 times, and the top 1 % were cited 133 times. Given the relatively small 
+difference in the raw figures between the top 50% papers and the top 10% papers when compared to 
+the much larger gap between the top 10% papers and the top 1%, this evidence does not support the 
+Petitioner's assertion that the number of citations to her published papers reflects recognition by her 
+peers that her original contributions are of major significance in the field. 
+The Petitioner also submitted evidence relating to how her work was of significance to the work of 
+other individual researchers or research teams in her field, including reference letters and partial copies 
+3 
+of papers which cited to her papers. 1 For example, Dr. B-N- states that he has cited to the Petitioner's 
+work in at least three of his own papers, and that he considers her work "as the acme in the application 
+of MPNN to particle physics." He notes the superior performance of her MPNN approach when 
+compared to traditional AI approaches, and states that it "provides a universal framework for particle 
+detection at colliders." However, the partial copy of a paper co-authored by Dr. B-N- does not show 
+that he and his collaborators heavily relied on her work in their own research or provide any indication 
+that it stands out from the approaches used by others. Notably, the evidence indicates that the paper 
+cites the Petitioner's work only a single time, and does not differentiate her paper from more than 70 
+others which also successfully applied deep learning to a specific method used in high energy physics. 
+Relating to the same area of the Petitioner's research, Dr. M-S- submitted two reference letters in 
+support of the Petitioner's contributions to the field of AI research. In his initial letter he states that 
+her MPNN method for analyzing data at the LHC is "innovative" and "opens avenues for more 
+efficient particle detection methods." He also notes that the Petitioner's work "provided valuable 
+context for my analysis" in one of his published papers. But much like B-N-'s citation to the 
+Petitioner's work, the partial copy of M-S-' s paper cites to the Petitioner's work as part of a group of 
+22 papers that have "widely studied" a particular issue of particle physics, and goes on to note that this 
+group's studies "do not exhibit much promise at the HL-LHC." While we do not question whether 
+the Petitioner's paper provided context for Dr. M-S-'s work, the fact that it was among a large group 
+of papers that did so but were ultimately deemed to not exhibit promise does not support the major 
+significance of this contribution. 
+As part of the Petitioner's response to SCOPS' NOID, Dr. M-S- submitted a second letter in which he 
+states that her MPNN methodological framework "has been included by the Particle Data Group 
+(PDG)," which he states shows its "representativeness, originality, and international influence." He 
+also states that the Petitioner "was the first to introduce machine learning into the exploration ofhigh­
+dimensional parameter spaces" and notes that it has been adopted by independent research groups and 
+"integrated into the xBIT computational tool, which has become an important resource for researchers 
+in high-energy physics." However, Dr. M-S- does not sufficiently explain the significance of either 
+the PDG or the xBIT computational tool, nor does the Petitioner submit evidence which might provide 
+sufficient support and context for these statements.2 For example, while the Petitioner submitted the 
+preprint of an article which described xBIT and the incorporation of her MLS method, the record is 
+insufficient to support Dr. M-S-'s statement regarding its importance. 
+Others who have collaborated with the Petitioner also submitted reference letters in support of the 
+significance of her contributions. Dr. M-A- writes that he has "closely collaborated with [the 
+Petitioner] on several high-energy physics projects," and emphasizes that her development ofthe MLS 
+method was a breakthrough that "has set a new benchmark in efficiency and accuracy." Both Dr. M­
+A- and Dr. J-Y-, who was the Petitioner's doctoral advisor, state that she conceived and implemented 
+both the MLS method and MPNN framework discussed above by herself: thus confirming the 
+originality of this work ( although Dr. J-Y- qualifies this by stating that she "was among the first to 
+1 We have reviewed and considered all of the reference letters in the record, including those not specifically mentioned in 
+our analysis. 
+2 We note that one of the partial copies of papers citing to the Petitioner's work is a review paper authored by the PDG 
+which appears to be more than 743 pages long, but it is not apparent whether Dr. M-S- is referring to the single citation in 
+this review to one of the papers co-authored by the Petitioner. 
+4 
+introduce Message Passing Neural Networks (MPNN) into collider phenomenology.") Dr. J-Y- also 
+notes that these contributions have "inspired independent scholars worldwide and her methods [have 
+been] adopted by numerous research teams." 
+These statements from the Petitioner's collaborators are confirmed to some extent by a reference letter 
+from Dr. C-B-, who writes that he adopted her MLS method in his own work in studying gravitational 
+waves in particle physics. The partial copy of the paper in which he and his co-authors cite to the 
+Petitioner's work states that they "adopt[ed] a variation of'' the MLS method proposed in her co­
+authored paper published in I Iin 2019. However, per the discussion above and as 
+shown in other evidence submitted, the Petitioner has not established that her original contributions 
+have impacted the field of particle physics, or her claimed field of expertise of AI, to the extent 
+required under this criterion. As noted above, the major significance of a contribution may be 
+demonstrated by showing that it has been widely implemented throughout the field or has remarkably 
+impacted or influenced the field. Here, while the reference letters and evidence of citations show that 
+the Petitioner's AI methodology and framework has been implemented by other researchers in the 
+field of particle physics to some extent, it is insufficient to establish that they have reached the level 
+of widespread adoption or influence in her field, or have otherwise been of major significance. 
+For all of the reasons discussed above, we disagree with and withdraw SCOPS' determination 
+regarding this criterion, and conclude that the Petitioner has not established that her original 
+contributions are of major significance in her field. 
+B. Final Merits Determination 
+As stated in the foregoing discussion, the Petitioner has not established that her original contributions 
+have been of major significance in her field, and she therefore does not meet at least three of the 
+evidentiary criteria under 8 C.F.R. § 204.5(h)(3). While she is not eligible for classification as an alien 
+ofextraordinary ability because she has not met the initial evidence requirements for this classification, 
+we will nevertheless address her assertions regarding the final merits determination. 
+In a final merits determination, we examine and weigh the totality of the evidence to determine 
+whether the Petitioner has sustained national or international acclaim and is one of the small 
+percentage at the very top of the field of endeavor, and that his achievements have been recognized in 
+the field through extensive documentation. Here, the Petitioner has not offered sufficient evidence 
+that she meets that standard. 
+In her appeal brief: the Petitioner begins by highlighting portions of the USCIS Policy Manual which 
+describe types of evidence which may aid in determining a petitioner's eligibility. 6 USCIS Policy 
+Manual F.2(8)(2), www.uscis.gov/policy-manual. In particular, the Petitioner stresses that 
+publication of articles in particularly high-ranked journals, an overall rate of citation which is high 
+relative to others in the field, and being named as a researcher on a competitively-funded U.S. 
+government grant shows that she has sustained national or international acclaim and is one ofthe small 
+percentage at the top of her field. 
+Initially, we note that the Petitioner has not submitted evidence showing that she has been named as 
+an investigator or researcher on a grant from the U.S. government or any other funding source. As 
+5 
+Exhibit 23 ofher initial filing, the Petitioner submitted a partial copy of a paper which she co-authored 
+that included the following statement in the "Acknowledgments" section: "This work was supported 
+by the National Natural Science Foundation of China (NNSFC) under Grants ... " While this evidence 
+indicates that the research project to which the Petitioner contributed was directly fonded by a 
+department of the Chinese government, it does not indicate that she was named on any of the five 
+listed grants or was influential in any way in securing that fonding. It is therefore of negligible value 
+in determining her eligibility as an alien of extraordinary ability. 
+Turning to the ranking of the journals that have published the Petitioner's articles, the users Policy 
+Manual notes that a level of recognition indicating prestige or acclaim associated with publication in 
+a particular journal may be helpful, "especially if the person is the most significant contributor to the 
+published article, a senior author, or the sole author if the article." Id. The Petitioner presented 
+evidence regarding the impact factor, as well as rankings by other metrics, ofl I 
+I I among others. This evidence is insufficient to 
+show that these journals' impact factor is high relative to others, or particularly prestigious, as the 
+records lacks comparative evidence based on this metric. The rankings from Google Scholar based 
+on "h5 index" indicate that I lis ranked first inl I and 
+second inl t' However, whether this or any of the other journals in which the 
+Petitioner has been published are considered "prestigious" has not been established. We note that 
+while Dr. B-N- does not list I las one of the "esteemed" journals that have published 
+the Petitio • rence letter, Dr. M-S- places it in the category of "reputable journals" 
+........__.________~a~·o_u_rn~al which appears much farther down the Goo le Scholar list in 
+ranking and not at all on the rankin .~------------~ While the Petitioner was the first listed author for one of the articles published in.__ ________,, 
+the evidence is inconclusive as to whether this or any of the other journals are considered to be 
+prestigious in the Petitioner's field and thus reflected acclaim for her by publishing her papers. 
+The third factor from the users Policy Manual which is emphasized by the Petitioner on appeal is 
+evidence that the total rate of citations to her body of work is high relative to others in the field. She 
+submitted evidence with her initial filing showing that her work had been cited a total of 241 times, 
+mostly by researchers aside from herself and her collaborators, and in her response to SCOPS' NOrD 
+showed that those citations had increased to 259. While the Petitioner submitted evidence regarding 
+the significance ofthe number ofcitations to certain ofher published papers, she did not submit similar 
+evidence reflecting any acclaim based upon the level of attention to her overall body of published 
+work. We also note that the reference letters she submitted do not suggest that this number ofcitations, 
+by itself: reflects acclaim for her work at the national or international level. On appeal, the Petitioner 
+emphasizes that the Petitioner's work has been cited by researchers from many different countries and 
+asserts that this shows "the global reach of her influence." But whether a petitioner's work has drawn 
+attention in a particular field at the national or international level, the nature and extent ofthat attention 
+must be indicative of acclaim for the work. Here, while we acknowledged the originality of the 
+Petitioner's MLS method and NPMM framework work in the section above, as well as that other 
+researchers had built upon and implemented her work in their own published research, the Petitioner 
+has not established that the citations to her body of published research are qualitatively and 
+quantitively sufficient to demonstrate sustained acclaim for her work or that she is one of the very few 
+at the top of her field. 
+6 
+The Petitioner also asserts on appeal that SCOPS did not give proper consideration to the evidence of 
+her peer review activities, claiming that it treated her peer review as "an insignificant obligation." 
+While SCOPS characterized peer review as a "routine activity," it did not suggest that peer review was 
+either insignificant or an obligation. In addition, the evidence from Elsevier that the Petitioner relies 
+upon to assert that peer review "is a great responsibility that is only given to the most capable, 
+experienced, and accomplished scholars" makes no such statement or suggestion. Rather, it verifies 
+the importance of peer review in general "to uphold the quality and validity of individual articles and 
+the journals that publish them." 
+A reference letter from the Editor-in-Chief of Journal ofSubatomic Particles and Cosmology, one of 
+the journals for which the Petitioner has reviewed manuscripts, applauds her performance as a 
+reviewer, noting that her comments often assist authors in improving their papers. He also states that 
+his journal only selects reviewers "with international reputation and academic authority in their 
+respective research fields." This and other reference letters in the record confirm that peer reviewers 
+must have expertise in the areas of research presented in the manuscripts they review, and that peer 
+review itself remains essential to preserve the integrity of scientific journals and research. However, 
+neither the Editor-In-Chief nor the others who wrote regarding the Petitioner's peer review activity 
+provided details regarding the process of selecting peer reviewers, relying instead upon general 
+statements that are not supported with documentary evidence. Reference letters which do not include 
+specifics terms but offer general statements about a petitioner's accomplishments or eligibility are not 
+generally persuasive. See generally 6 USCIS Policy Manual F.2(B)(3), www.uscis.gov/policy­
+manual. 
+The record as a whole, including the evidence of the Petitioner's published research, the reaction to 
+that research by others in the field, and her participation as a peer review for multiple scientific 
+journals, does not establish the Petitioner's eligibility for the benefit sought. Although her AI methods 
+have been adopted by others in her field, the record does not show that this has brought her sustained 
+acclaim at the national or international level which might reflect her status as one of the few at the top 
+of the field of AI. Here, the Petitioner seeks a highly restrictive visa classification, intended for 
+individuals already at the top of their respective fields, rather than those progressing toward the top. 
+Matter of Price, 20 I&N Dec. 953, 954 ( concluding that even major league level athletes do not 
+automatically meet the statutory standards for classification as an individual of "extraordinary 
+ability,"); Amin v. Mayorkas, 24 F.4th 383, 394 (5th Cir. 2002) (stating that extraordinary ability is 
+such an elite level of accomplishment); Onaghise v. Dep 't ofHomeland Sec., No. 3:20-CV-03033-X, 
+2022 WL 4073344, at *2 (N.D. Tex. Sept. 2, 2022) (holding that extraordinary ability visas are known 
+as "Einstein" visas, are extremely "coveted," and are "reserved for only the most talented" aliens"). In 
+this case, the Petitioner has not shown the significance of her work is indicative of the required 
+sustained national or international acclaim or it is consistent with a career of acclaimed work in the 
+field. Section 203(b)(l)(A) of the Act. 
+ORDER: The appeal is dismissed. 
+NOTICE: This constitutes the final decision in this matter. The filing of a motion will not postpone the 
+effect of the decision. 8 C.F.R. § 103.5(a)(l)(iv). Aliens who are not lawfully present, or who are 
+otherwise inadmissible or deportable, may be subject to the commencement of removal proceedings 
+under section 240 ofthe Act through the issuance ofa Form 1-862, Notice to Appear. Those proceedings 
+7 
+may result in their removal from the United States and possible ineligibility for future visas or other 
+immigration benefits. 
+8 

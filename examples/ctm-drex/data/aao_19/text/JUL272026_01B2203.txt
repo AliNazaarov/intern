@@ -1,0 +1,244 @@
+Non-Precedent Decision of the
+Administrative Appeals Office 
+U.S. Citizenship 
+and Immigration 
+Services 
+In Re: 43392050 Date: JULY 27, 2026 
+Appeal of U.S. Citizenship and Immigration Services (USCIS) Decision 
+Form I-140, Immigrant Petition for Alien Workers (Extraordinary Ability) 
+The Petitioner is a postdoctoral researcher who seeks classification as an alien of extraordinary ability. 
+See Immigration and Nationality Act (the Act) section 203(b)(l)(A), 8 U.S.C. § 1153(b)(l)(A). This 
+first preference classification makes immigrant visas available to those who can demonstrate their 
+extraordinary ability through sustained national or international acclaim and whose achievements have 
+been recognized in their field through extensive documentation. 
+Through its Service Center Operations (SCOPS), USCIS denied the Form I-140, Immigrant Petition 
+for Alien Workers (petition), concluding the record did not establish that the Petitioner had received a 
+major, internationally recognized award, nor did he demonstrate that he met at least three of the ten 
+regulatory criteria. The matter is now before us on appeal under 8 C.F.R. § 103 .3. The Petitioner 
+bears the burden of proof to demonstrate eligibility by a preponderance of the evidence. Section 291 
+of the Act; Matter ofChawathe, 25 I&N Dec. 369,375 (AAO 2010). We review the questions in this 
+matter de novo. Matter of Christa's Inc., 26 I&N Dec. 537, 537 n.2 (AAO 2015). Upon de novo 
+review, we will dismiss the appeal. 
+I. LAW 
+To qualify under this immigrant 
+classification, the statute requires the filing party demonstrate: 
+• The alien enjoys extraordinary ability in the sciences, arts, education, business, or athletics; 
+• They seek to enter the country to continue working in the area of extraordinary ability; and 
+• The alien's entry into the United States will substantially benefit the country in the future. 
+Section 203(b )(1 )(A)(i)-(iii) of the Act. The term "extraordinary ability" refers only to those in "that 
+small percentage who have risen to the very top of the field of endeavor." 8 C.F.R. § 204.5(h)(2). See 
+also H.R. Rep. 101-723, 59 (Sept. 19, 1990), reprinted in 1990 U.S.C.C.A.N. 6710, 1990 WL 200418 
+at *6739 (stating: "In short, admission under this category is to be reserved for that small percentage 
+of individuals who have risen to the very top of their field of endeavor."). 
+The implementing regulation at 8 C.F.R. § 204.5(h)(3) sets forth a multi-step analysis. In the first 
+step, a petitioner can demonstrate international recognition of his or her achievements in the field 
+through a one-time achievement (that is, a major, internationally recognized award). Ifthat petitioner 
+does not submit this evidence, then he or she must provide sufficient qualifying documentation that 
+meets at least three of the ten criteria listed at 8 C.F.R. § 204.5(h)(3)(i)-(x) (including items such as 
+awards, published material in certain media, and scholarly articles). 
+Where a petitioner meets these initial evidence requirements, we then move to the second step to 
+consider the totality of the material provided in a final merits determination and assess whether the 
+record shows sustained national or international acclaim and demonstrates that the individual is among 
+the small percentage at the very top of the field of endeavor. See Kazarian v. USCIS, 596 F.3d 1115, 
+1121 (9th Cir. 2010) ( discussing a two-step review where the documentation is first counted and then, 
+if fulfilling the required number of criteria, considered in the context of a final merits determination); 
+see also Amin v. Mayorkas, 24 F.4th 383, 394 (5th Cir. 2022). 
+II. ANALYSIS 
+The Petitioner is a postdoctoral research engineer specializing in scientific machine learning, 
+uncertainty quantification, and numerical modeling, with experience integrating data-driven and 
+mechanistic models for stochastic energy systems. 
+A. Evidentiary Criteria 
+Because the Petitioner has not indicated or established that he has received a major, internationally 
+recognized award, he must satisfy at least three of the alternate regulatory criteria at 8 C.F.R. 
+§ 204.5(h)(3)(i)-(x). Before SCOPS, the Petitioner claimed he met four of the regulatory criteria. 
+SCOPS decided that the Petitioner satisfied two of the criteria relating to judging and the authorship 
+of scholarly articles but that he had not satisfied the criteria associated with original contributions or 
+performing in a leading or critical role. On appeal, the Petitioner presents several arguments relating 
+to the request for evidence (RFE) SCOPS issued, but this appeal is only a means to contest their final 
+decision so we will not address any issues associated with the RFE. Here, the Petitioner maintains 
+that he meets the two denied evidentiary criteria. After reviewing all the evidence in the record, we 
+conclude that through his appeal, he has not demonstrated SCOPS erred in a manner that would 
+warrant a different result from the denial. 
+l. "Evidence of the alien's original scientific, scholarly, artistic, athletic, or business-related 
+contributions of major significance in the field." 8 C.F.R. § 204.5(h)(3)(v). 
+The primary requirements here are that the Petitioner's contributions in their field were original and 
+they rise to the level of major significance in the field, rather than to a project or to an organization. 
+See Amin, 24 F.4th at 394 (citing Visinscaia v. Beers, 4 F. Supp. 3d 126, 134 (D.D.C. 2013)). The 
+regulatory phrase "major significance" is not superfluous and, thus, it has some meaning. Nielsen v. 
+Preap, 586 U.S. 392,415 (2019) (finding that every word and every provision is to be given effect 
+and none should needlessly be given an interpretation that causes it to duplicate another provision or 
+to have no consequence). Contributions of major significance connotes that the Petitioner's work has 
+significantly impacted the field. Further, the Petitioner's contributions must have already been 
+realized rather than being potential, future improvements. The Petitioner must submit evidence 
+satisfying all of these elements to meet the plain language requirements of this criterion. 
+2 
+The Petitioner provided support letters, some of his published work and other researchers citing to it, 
+and material relating to his citation record. SCOPS determined that the Petitioner did not meet the 
+requirements of this criterion. 
+On appeal, the contest four elements in the denial. First, he took issue with SCOPS' statement that 
+the phrase contributions of major significance in the field requires substantial influence beyond one's 
+employer, clients, or customers. But that statement was made in the context of general requirements 
+a petitioner must show and SCOPS did not directly apply that to the facts of this case. As a result, this 
+is not an error on SCOPS' part and it is unnecessary that we address it further. 
+His second argument relates to SCOPS' discussion of support letters and their statement that 
+correspondence "written by experts may be helpful; however, the major significance of the 
+beneficiary's work must be demonstrated by preexisting, independent, and objective evidence." In 
+support here, he notes his contributions to the field have been adopted internationally by individual 
+researchers. But simple adoption of his original work does not illustrate how that has made an impact 
+in the field necessary to meet this criterion's mandates that it be of major significance. This does not 
+demonstrate a fundamental shift in the field's philosophy or a transformative advancement in research, 
+rather than the routine academic acknowledgement typical in the research oriented fields. Agency 
+policy requires one's published research to have "provoked widespread commentary on its importance 
+from others working in the field, and documentation that it has been highly cited relative to others' 
+work in that field." See generally 6 USCIS Policy Manual F.2(B)(l ), https://www.uscis.gov/policy­
+manual. The acknowledgement of his findings internationally falls far short of this standard. 
+Third, he notes "[t]he denial notice also seeks 'specific examples of contributions that are indicative 
+of major significance"' and he identifies evidence that he provides on appeal that he did not submit to 
+SCOPS (a Department of Energy report), or that postdates the petition filing date (a journal article in 
+Elsevier). Most importantly, the portion of the denial the Petitioner quotes was discussing the 
+shortcomings associated with his recommendation letters and not general evidence, but he contests 
+that portion of the denial without mentioning the letters. So, his argument here does not appear to be 
+directly related to the portion of the denial that he cites. 
+What's more, because the Petitioner was provided proper notice and a reasonable opportunity to 
+respond to an RFE about this issue, we decline to consider new evidence submitted for the first time 
+on appeal, as the appellate process is not a venue for initial filings. Under 8 C.F.R. § 103 .2(b )(11 ), all 
+requested evidence must be submitted together, and administrative bodies consistently refuse to review 
+new evidence first introduced on appeal. See Matter of Furtado, 28 I&N Dec. 794, 801-02 (BIA 
+2024); Matter ofIzaguirre, 27 I&N Dec. 67, 71 (BIA 2017); Matter ofJin, 29 I&N Dec. 441, 449 
+(BIA 2026). Additional precedent strongly reinforces this restriction. See Matter ofN-P-A-, 29 I&N 
+Dec. 347,349 (BIA 2025); Matter ofD-J-L-, 29 I&N Dec. 485,489 (BIA 2026); Matter ofD-G-E-A­
+& N-G-G-E-, 29 I&N Dec. 570, 577 n.5 (BIA 2026). 
+And beyond that, a petitioner must establish eligibility at the time they file the visa petition. 8 C.F.R. 
+§ 103 .2(b)(1 ), (12). USCIS may not approve a visa petition ifa petitioner was not qualified at the priority 
+date but expects to become eligible at a subsequent time. See Matter oflzummi, 22 I&N Dec. 169, 175-76 
+(Assoc. Comm'r 1998); MatterofKatigbak, 14 I&NDec. 45, 49 (Reg'! Comm'r 1971). 
+3 
+For the final element under this criterion, the Petitioner quotes from the denial and he states: 
+For the citation records, the denial notice required "to compare the petitioner's citations 
+to other similarly, highly cited articles that the field views as having been of major 
+significance". I believe this requirement has been met by the analysis of the caliber of 
+journals in which my articles have been published [], and consequently the relative 
+citations in these journals[]. 
+Within SCOPS' decision, the quoted portion was evaluating the evidence the Petitioner provided from 
+Clarivate Analytics in which they stated that instead of comparing his citation rates to the average in 
+a field, "[a] more appropriate analysis [] would be to compare the petitioner's citations to other 
+similarly, highly cited articles that the field views as having been of major significance ...." Instead 
+of adhering to that, the Petitioner relies on the stature ofjournals in which he has published. 
+But the Petitioner doesn't go on to explain how publishing in high caliber journals demonstrates the 
+papers he published in them amounted to a contribution in the field that rose to the level of being of 
+major significance. See Venkatnarayan v. Jaddou, No. 1 :23CV256, 2024 WL 4008312, at *7 
+(M.D.N.C. Aug. 30, 2024), report and recommendation adopted sub nom. Venkatnarayan v. Jaddou 
+Dir. o_f United States Citizenship & Immigr. Servs., No. l:23-CV-256, 2024 WL 4267307 (M.D.N.C. 
+Sept. 23, 2024) (upholding the high-ranking status of a journal did not show an author's influence or 
+impact of the petitioner's research on the field, nor did it establish that every article published in a 
+highly ranked journal automatically indicates a contribution ofmajor significance); Agrawal v. Miller, 
+No. 4:24CV3143, 2025 2879217, at *20 (D. Neb. Sept. 12, 2025) (upholding that it cannot be 
+automatically presumed that all articles published by respected journals and organizations are 
+considered majorly significant). 
+The Petitioner closes his arguments under this criterion referring to unpublished decisions from this 
+office dating back to 2014. The regulation at 8 C.F.R. § 103.3(c) provides that this office's precedent 
+decisions are binding on all USCIS employees in the administration of the Act. But for much the same 
+reasons federal courts recognize the Board of Immigration Appeals' unpublished decisions carry no 
+precedential value (see, e.g., Charles v. Garland, 113 F.4th 20, 24 (1st Cir. 2024), our unpublished 
+decisions are not binding on us or on agency officers. Deciding in one manner in one case-or in a 
+presented set of cases-does not limit our discretion to decide in an alternative manner in a similar case. 
+Another factor is each eligibility determination on a benefit request will be based on information 
+contained in the record of proceeding before us. 8 C.F.R. § 103.2(b)(10), (11), (14), (16)(i)-(ii). Each 
+case must be decided on its own facts with regard to the sufficiency ofthe claims and evidence presented. 
+See, e.g., Matter o_fH-C-R-C-, 28 I&N Dec. 809,812 (BIA 2024). 
+We conclude that the Petitioner has not submitted evidence that his contributions have had a 
+sufficiently appreciable impact in the field, and as a result he has not met this criterion's requirements. 
+4 
+2. "Evidence that the alien has performed in a leading or critical role for organizations or 
+establishments that have a distinguished reputation." 8 C.F.R. § 204.5(h)(3)(viii). 
+The regulation at 8 C.F.R. § 204.5(h)(3)(viii) calls for "evidence that the alien has performed in a 
+leading or critical role for organizations 
+or establishments that have a distinguished reputation." A 
+qualifying role may be shown to be leading or critical for a division or department of an organization 
+or establishment, or for the organization or establishment overall. See generally 6 USCIS Policy 
+Manual F.2(B)(l), https://www.uscis.gov/policymanual. Evidence of a leading role should show that 
+the alien was a leader for the claimed component, and a job title with matching duties may help to 
+establish that a role was leading. A leading role should be apparent by its position in the overall 
+hierarchy and the role's matching duties. Aravamuthan v. Jaddou, No. 3:23-CV-01412-N, 2025 WL 
+1708126, at *7 (N.D. Tex. June 17, 2025). 
+For a critical role, evidence should show that the alien has contributed in a way that is of significant 
+importance to the outcome of the organization or establishment's activities or those of a division or 
+department of the organization or establishment. See generally 6 USCIS Policy Manual, supra, 
+F.2(B)(l ). In determining whether the organization, establishment, department, or division has a 
+distinguished reputation, relevant factors include its size, longevity, scale of its customer base, and 
+relevant media coverage. Id. Organizations, establishments, divisions, or departments that enjoy a 
+distinguished reputation are "marked by eminence, distinction, or excellence." Id. The Petitioner 
+must submit evidence satisfying all of these elements to meet the plain language requirements of this 
+criterion. Branski v. Seng, No. 24-CV-360, 2024 WL 4678939, at *7 (E.D. Wis. Nov. 4, 2024). 
+The Petitioner claims he performed in a critical role in the Department of Chemical Engineering at a 
+U.S. university. SCOPS determined that the Petitioner did not meet the requirements ofthis criterion. 
+While there appears to be some confusion about which entity the Petitioner must have performed in a 
+critical role for, here we clarify that ifhe claims he performed in a critical role for a department within 
+the larger university, he must demonstrate that department enjoys a distinguished reputation, and that 
+he has contributed in a way that is of significant importance to the outcome of the department's 
+activities. See generally 6 USCIS Policy Manual, supra, F.2(B)(l). In other words, the Petitioner 
+must show the manner in which his work on behalf of the department resulted in a measurable level 
+of success for that entity. 
+We agree the relevant department enjoys a distinguished reputation. However, the Petitioner's appeal 
+lacks specificity in identifying what particular evidence supports his claims that he performed in a 
+critical role that contributed in a way that is of significant importance to the outcome of the 
+department's activities. Instead of listing and discussing any evidence then explaining how that 
+supports his assertions, he only listed page numbers from his initial filing and RFE response. We 
+reviewed the relevant pages and we were unable to locate the type of support the Petitioner presents 
+for his role under this criterion. The Petitioner stated correspondence from leadership of a project he 
+worked on would reflect the critical role he played "for the success of the project [] and how this has 
+been 'critical to our [university's] success."' As we noted, the correspondence the Petitioner alluded 
+to contained no such language and did not convey anything similar. 
+Instead, the author explained the Petitioner was a standout researcher who graduated with a Ph.D. from 
+the university, discussed the focus of his research, and noted that he made "impressive achievements" 
+5 
+on research projects in general. And when discussing a Department ofEnergy related project he stated 
+the Petitioner's research formed a key part ofthe project and his "contribution to this research ensures 
+that the health monitoring tool is highly robust to uncharacterized noise associated with plant data and 
+this has been validated with data from both coal and gas fired power plants." This better addresses his 
+work on a project than it does the department and it will not aid the Petitioner in demonstrating his 
+contributions to the department in question were pivotal to its overarching success. 
+The Petitioner has not submitted evidence that meets this criterion's requirements. 
+III. CONCLUSION 
+Congress set a very high benchmark for aliens of extraordinary ability by requiring the petitioner 
+demonstrate "sustained national or international acclaim" and present "extensive documentation" to 
+show his or her achievements have been recognized in the field. Section 203(b)(1 )(A)(i) of the 
+Act. Because the Petitioner has not satisfied the threshold "initial evidence" requirements at 8 C.F.R. 
+§ 204.5(h)(3), we cannot conclude that he is an alien of extraordinary ability and we need not further 
+analyze the merits under the statute. See Kazarian, 596 F.3d at 1119-20; see also Nagaiah v. Allen, 
+784 F. Supp. 3d 798, 814 (E.D. Pa. 2025) (finding the regulatory criteria at 8 C.F.R. § 204.5(h)(3)(i)­
+(x) "establishes a necessary, not sufficient, evidentiary requirement for a petitioner who seeks an 
+extraordinary ability visa."). 
+The two-step adjudication process is an interpretive rule that does not violate the Administrative 
+Procedure Act, nor is it a legislative rule. Taneja v. USCIS, No. 24-CV-05657 (RER), 2026 WL 
+1734266, at *8 (E.D.N.Y. June 16, 2026); Nagaiah, 784 F. Supp. 3d at 810; Agrawal, 2025 WL 
+2879217, at* 12; Etsy, Inc. v. Jaddou, No. 4:22CV3022, 2023 WL 3689555, at *23 (D. Neb. May 25, 
+2023) (citing Perez v. Mortg. Bankers Ass 'n, 575 U.S. 92, 96 (2015). This approach is rooted in an 
+exhaustive historical review of the congressional record, the governing statutory language, and the 
+comprehensive regulatory scheme intended to ensure only those at the very top of their field receive 
+this classification. 
+To date, no other federal court has offered an alternative framework that is similarly grounded in such 
+a thorough analysis of the legislative and agency history. See generalZv 6 USCIS Policy Manual 
+F.2(B)(l), https://www.uscis.gov/policymanual. Contra Mukherji v. Miller, No. 4:24CV3170, 2026 
+WL 895708, at *6 (D. Neb. Jan. 28, 2026) (concluding the two-step framework was adopted without 
+required notice-and-comment rulemaking). But that appears to misconstrue a conference report­
+which serves solely to explain how the House and Senate resolved differences between their two 
+versions of the bill-as being more authoritative on this issue than a Judiciary Committee Report, the 
+purpose of which includes guiding the executive branch in implementing the law and assisting the 
+judicial branch in its interpretation. That view has been rejected by numerous federal courts before 
+and since the Mukherji court made it. Therefore, we decline to reach and hereby reserve any final 
+merits determination in this matter. Patel v. Garland, 596 U.S. 328, 332 (2022) (citing INS v. 
+Bagamasbad, 429 U.S. 24, 25-26 (1976) (finding agencies are not required to make "purely advisory 
+findings" on issues that are unnecessary to the ultimate decision)). 
+6 
+For the reasons discussed above, the Petitioner has not demonstrated his eligibility as an alien of 
+extraordinary ability. The appeal will be dismissed for the above stated reasons, with each considered 
+as an independent and alternate basis for the decision. 
+ORDER: The appeal is dismissed. 
+NOTICE: This constitutes the final decision in this matter. The filing of a motion will not postpone the 
+effect of the decision. 8 C.F.R. § 103.5(a)(l)(iv). Aliens who are not lawfully present, or who are 
+otherwise inadmissible or deportable, may be subject to the commencement of removal proceedings 
+under section 240 ofthe Act through the issuance of a Form I-862, Notice to Appear. Those proceedings 
+may result in their removal from the United States and possible ineligibility for future visas or other 
+immigration benefits. 
+7 

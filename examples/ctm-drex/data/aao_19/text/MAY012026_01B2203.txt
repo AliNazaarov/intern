@@ -1,0 +1,173 @@
+Non-Precedent Decision of the
+Administrative Appeals Office 
+U.S. Citizenship 
+and Immigration 
+Services 
+In Re: 41583686 Date: MAY 1, 2026 
+Appeal of Service Center Operations (SCOPS) Decision 
+Form 1-140, Immigrant Petition for Alien Workers (Extraordinary Ability) 
+The Petitioner, a computer systems analyst, seeks classification as an individual of extraordinary 
+ability in the sciences. See Immigration and Nationality Act (the Act) section 203(b)(l)(A), 8 U.S.C. 
+§ 1153(b)(l)(A). This first preference classification makes immigrant visas available to those aliens 
+who can demonstrate their extraordinary ability through sustained national or international acclaim 
+and whose achievements have been recognized in their field through extensive documentation. Id. 
+SCOPS denied the petition, concluding that the Petitioner did not establish either that he received a 
+major, internationally recognized award, or that the record satisfied at least three of the 10 initial 
+evidentiary criteria. The matter is now before us on appeal pursuant to 8 C.F.R. § 103 .3. 
+The Petitioner bears the burden ofproof to demonstrate eligibility by a preponderance of the evidence. 
+Matter afChawathe, 25 I&N Dec. 369, 375-76 (AAO 2010). We review the questions in this matter 
+de novo. Matter a/Christa's, Inc., 26 I&N Dec. 537,537 n.2 (AAO 2015). Upon de novo review, 
+we will dismiss the appeal. 
+I. LAW 
+Section 203(b )( 1) of the Act makes visas available to immigrants with extraordinary ability if: 
+(i) the alien has extraordinary ability in the sciences, arts, education, business, or 
+athletics which has been demonstrated by sustained national or international 
+acclaim and whose achievements have been recognized in the field through 
+extensive documentation, 
+(ii) the alien seeks to enter the United States to continue work in the area of 
+extraordinary ability, and 
+(iii) the alien's entry into the United States will substantially benefit prospectively 
+the United States. 
+The term "extraordinary ability" refers only to those individuals in "that small percentage who have 
+risen to the very top of the field of endeavor." 8 C.F.R. § 204.5(h)(2). The implementing regulation 
+at 8 C.F.R. § 204.5(h)(3) sets forth a multi-part analysis. First, a petitioner can demonstrate sustained 
+acclaim and the recognition of their achievements in the field through a one-time achievement (that 
+is, a major, internationally recognized award). If that petitioner does not submit this evidence, then 
+they must provide sufficient qualifying documentation that meets at least three of the 10 categories 
+listed at 8 C.F.R. § 204.5(h)(3)(i)-(x) (including items such as awards, published material in certain 
+media, and scholarly articles). If a criterion at 8 C.F.R. §§ 204.5(h)(3)(i)-(x) does not readily apply to 
+a petitioner, they may submit comparable evidence to establish eligibility. 8 C.F.R. § 204.5(h)(4). 
+Where a petitioner meets these initial evidence requirements, we then consider the totality of the 
+material provided in a final merits determination and assess whether the record shows sustained 
+national or international acclaim and demonstrates that the individual is among the small percentage 
+at the very top of the field of endeavor. See Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010). 
+II. ANALYSIS 
+The Petitioner described the endeavor as a plan to continue developing computer software systems at 
+information technology companies including but not limited tol Ihis employer at the time he 
+filed the Form 1-140, Immigrant Petition for Alien Workers. 
+SCOPS concluded that the record satisfies the criteria at 8 C.F.R. §§ 204.5(h)(3)(iv) and (vi), and we 
+agree; however, SCOPS found that the record does not satisfy the criteria at 8 C.F.R. 
+§§ 204.5(h)(3)(i)-(iii), (v), (viii)-(ix), noting that the Petitioner did not assert eligibility under the 
+remaining criteria. On appeal, the Petitioner reasserts that the record satisfies the criteria at 8 C.F.R. 
+§§ 204.5(h)(3)(i)-(vi), (viii)-(ix). For the reasons discussed below, the record satisfies at least three of 
+the criteria at 8 C.F.R. §§ 204.5(h)(3)(i)-(x); however, considering the totality of the material 
+provided, the record does not show that the Petitioner has sustained national or international acclaim 
+and that he is among the small percentage at the very top of the field of endeavor. See Kazarian, 
+596 F.3d at 1119-20 (citing section 203(b)(l)(A) of the Act; 8 C.F.R. §§ 204.5(h)(2)-(3)). 
+A. Leading or Critical Role 
+The criterion at 8 C.F.R. § 204.5(h)(3)(viii) requires "[e]vidence that the alien has performed in a 
+leading or critical role for organizations or establishments that have a distinguished reputation." In 
+determining whether an individual has performed in a critical role, we consider whether the record 
+establishes the individual has contributed in a way that is of significant importance to the outcome of 
+the organization or establishment's activities or those of a division or department thereof. See 
+generally 6 USCIS Policy Manual, F.2(B)(l), https://www.uscis.gov/policy-manual. 
+SCOPS acknowledged that the record contains letters from representatives ofl Iwhich 
+SCOPS determined has a distinguished reputation. However, SCOPS objected that the letters "only 
+indicated that your role was important to your employer" and that "None of theI !colleagues 
+who authored the letters are in an executive position (Chairman of the Board, CEO, CTO, COO, etc.) 
+which typically provide the most persuasive and relevant information, since executives oversee the 
+entire organization, its divisions and departments." SCOPS also observed that the testimonial 
+2 
+evidence in the form of letters is not corroborated by documentary evidence, citing Matter of Y-B-, 
+21 I&N Dec. 1136 (BIA 1998). 
+The plain language of this criterion does not require a leading or critical role for organizations or 
+establishments that have a distinguished reputation to be important to entities or individuals beyond 
+the organization or establishment in question. Therefore, SCOPS improperly objected that the letters 
+from I Irepresentatives "only indicated that [the Petitioner's] role was important to [his] 
+employer." In tum, the plain language of this criterion does not require only executive-level 
+representatives of an organization or establishment to find an individual's role to have been leading or 
+critical. On the contrary, direct supervisors of a given individual's performance are likely to have 
+probative personal knowledge ofhow an individual may have contributed in a way that is ofsignificant 
+importance to the outcome of the organization or establishment's activities or those of a division or 
+department thereof: rather than executive-level personnel who may not even encounter or observe a 
+given individual employee. See generally 6 USCIS Policy Manual, supra, at F.2(B)(l). Therefore, 
+SCOPS improperly objected that the Petitioner did not submit letters from individuals "in an executive 
+position." Moreover, the letter authors included a director of product management and a vice president 
+of data integration and automation platform services, which undermines SCOPS' concern that the 
+letter authors lack oversight of entire divisions or departments. 
+Discussion of evidentiary burdens in asylum claims raised in connection with deportable aliens 
+seeking withholding of removal, as provided in Matter ofY-B-, bears only persuasive relevance to the 
+adjudication of a Form 1-140 seeking first preference immigrant classification. See generally Matter 
+of Y-B-, 21 I&N Dec. at 1136. In any event, Matter of Y-B- contemplates a combination of both 
+testimonial and documentary evidence, whereby "the weaker an alien's testimony, the greater the need 
+for corroborative evidence." Matter of Y-B-, 21 I&N Dec. at 1139. Here, the quality of testimonial 
+evidence, including from individuals who "had the opportunity to directly oversee [the Petitioner's] 
+... contributions" and "had the privilege to oversee [the Petitioner's] work," sufficiently articulates 
+how he contributed in ways that are of significant importance to the outcome of divisions or 
+departments ofl I Moreover, the letters credibly establish how the authors have personal 
+knowledge of the facts they address in detail. Thus, in this case, the testimonial evidence about the 
+Petitioner's critical role does not trigger the type of documentary evidentiary concerns addressed by 
+Matter ofY-B-. 
+In summation, based on the quality of the letters from I Irepresentatives and the substance of 
+their personal knowledge conveyed therein, the record sufficiently describes how the Petitioner 
+performed in a critical role for certain divisions or departments of1 Iwhich SCOPS correctly 
+determined has a distinguished reputation. Therefore, the record satisfies the criterion at 8 C.F.R. 
+§ 204.5(h)(3)(viii). Because the Petitioner meets at least three ofthe 10 initial evidentiary criteria and, 
+thus, warrants a final merits determination, we reserve our opinion regarding the remaining criteria. 
+See INS v. Bagamasbad, 429 U.S. 24, 25 (1976) (stating that agencies are not required to make "purely 
+advisory findings" on issues that are unnecessary to the ultimate decision). 
+B. Final Merits Determination 
+Because the record satisfies at least three of the 10 initial evidentiary criteria, we will consider the 
+totality of the material provided in a final merits determination and assess whether the record shows 
+3 
+sustained national or international acclaim and demonstrates that the Petitioner is among the small 
+percentage at the very top of the field of endeavor. See Kazarian, 596 F.3d at 1119-20 (citing section 
+203(b)(l)(A) of the Act; 8 C.F.R. §§ 204.5(h)(2)-(3)). 
+Black's Law Dictionary defines "sustain" as "to support or maintain, especially over a long period of 
+time" or "to persist in making (an effort) over a long period oftime." Sustain, Black's Law Dictionary 
+(11th ed. 2019). 
+Generally, evidence in this case pertaining to the respective evidentiary criteria is limited to few 
+instances, which occurred shortly before the Petitioner filed the Form 1-140 in May 2025; the evidence 
+does not show that he maintained any level of acclaim over a long period of time. More specifically: 
+• The lesser prize or award the Petitioner submitted is dated 2024, and he also references 
+"institutional awards" within his employing organization, dated 2021 and 2023; 
+• In 2025, the Petitioner became a senior member of the Institute of Electrical and Electronics 
+Engineers (IEEE), a full member of Sigma Xi, and a member of the Asia-Pacific Artificial 
+Intelligence Association (APAIA); 
+• Although the published material the Petitioner submitted is not about him, the articles are dated 
+primarily in 2024-25, with one article also dated 2021; 
+• The Petitioner judged the work of others in 2024-25; 
+• The Petitioner purports that his contributions since 2020 are of major significance in the field; 
+• The Petitioner authored or co-authored scholarly articles and he presented at conferences in 
+2024-25; 
+• The Petitioner performed in a critical role fotj lwhich began employing him in 2020; 
+and 
+• The Petitioner claims he commanded a high salary or other significantly high remuneration, 
+based on earnings statements dated 2025 and a 2024 IRS Form W-2. 
+The record does not establish how the Petitioner has received any degree of acclaim, whether national, 
+international, or otherwise, by virtue ofmuch ofthe evidence. For example, given that the publications 
+dated 2021, 2024-25 are not about the Petitioner for the reasons SCOPS addressed, they do not 
+demonstrate any degree of acclaim he may have received at any point. As further examples, the record 
+does not show a causal nexus between any acclaim he may have received and his 2024-25 salary or 
+other remuneration, or his 2025 membership in IEEE, Sigma Xi, and AP AIA. 
+Even to the extent that the Petitioner may have received any degree of acclaim based on the events 
+referenced above, the record does not establish how such a brief period before the Petitioner filed the 
+Form 1-140 in May 2025 may be deemed a long period oftime, as contemplated by "sustained national 
+or international acclaim" provided at section 203(b)(l)(A) of the Act. 
+Because the Petitioner does not establish that the totality of the evidence provided shows sustained 
+national or international acclaim, that he is among the small percentage at the very top of the field of 
+endeavor, and that his achievements have been recognized in the field through extensive 
+documentation, the Petitioner is not eligible for the requested classification. See Kazarian, 596 F.3d 
+at 1119-20 (citing section 203(b)(l)(A) of the Act; 8 C.F.R. §§ 204.5(h)(2)-(3)). 
+4 
+III. CONCLUSION 
+The evidence meets at least three of the 10 criteria at 8 C.F.R. §§ 204.5(h)(3)(i)-(x). However, the 
+totality of the record does not support a conclusion that the Petitioner has established the acclaim and 
+recognition required for the classification sought. See Kazarian, 596 F.3d at 1119-20. U.S. 
+Citizenship and Immigration Services has long held that even athletes performing at the major league 
+level do not automatically meet the "extraordinary ability" standard. Matter ofPrice, 20 I&N Dec. 
+953, 954 (Assoc. Comm'r 1994). The Petitioner has not shown that the significance of his work is 
+indicative of the required sustained national or international acclaim or that it is consistent with a 
+"career of acclaimed work in the field" as contemplated by Congress. H.R. Rep. No. 101-723, 59 
+(Sept. 19, 1990); see also section 203(b )(1 )(A) of the Act. The record does not otherwise demonstrate 
+that the Petitioner has garnered national or international acclaim in the field and that he is one of the 
+small percentage who has risen to the very top of the field of endeavor. See section 203(b )(1 )(A) of 
+the Act; see also 8 C.F.R. § 204.5(h)(2). 
+ORDER: The appeal is dismissed. 
+NOTICE: This constitutes the final decision in this matter. The filing of a motion will not postpone 
+the effect ofthe decision. 8 C.F.R. § 103.5(a)(l)(iv). Aliens who are not lawfully present, 
+or who are otherwise inadmissible or deportable, may be subject to the commencement of 
+removal proceedings under section 240 of the Act through the issuance of a Form 1-862, 
+Notice to Appear. Those proceedings may result in their removal from the United States 
+and possible ineligibility for future visas or other immigration benefits. 
+5 

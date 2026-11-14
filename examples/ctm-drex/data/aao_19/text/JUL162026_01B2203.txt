@@ -1,0 +1,239 @@
+Non-Precedent Decision of the
+Administrative Appeals Office 
+U.S. Citizenship 
+and Immigration 
+Services 
+In Re: 40765002 Date: WLY 16, 2026 
+Appeal of U.S. Citizenship and Immigration Services (USCIS) Decision 
+Form I-140, Immigrant Petition for Alien Workers (Extraordinary Ability) 
+The Petitioner, an electrical engineer, seeks classification as an alien of extraordinary ability. See 
+Immigration and Nationality Act (the Act) section 203(b)(l)(A), 8 U.S .C. § 1153(b)(l)(A). This first 
+preference classification makes immigrant visas available to those who can demonstrate their 
+extraordinary ability through sustained national or international acclaim and whose achievements have 
+been recognized in their field through extensive documentation. 
+USCIS denied the petition, concluding that the record did not establish that the Petitioner had either 
+received a major, internationally recognized award or satisfied at least three of ten initial evidentiary 
+criteria, as required. The matter is now before us on appeal under 8 C.F.R. § 103 .3. 
+The Petitioner bears the burden ofproof to demonstrate eligibility by a preponderance of the evidence. 
+Matter afChawathe, 25 I&N Dec. 369, 375-76 (AAO 2010). We review the questions in this matter 
+de novo. Matter a/Christa's, Inc., 26 I&N Dec. 537,537 n.2 (AAO 2015). Upon de novo review, 
+we will dismiss the appeal. 
+I. LAW 
+Section 203(b )(1 )(A) of the Act makes immigrant visas available to aliens with extraordinary ability 
+in the sciences, arts, education, business, or athletics which has been demonstrated by sustained 
+national or international acclaim and whose achievements have been recognized in the field through 
+extensive documentation. A petitioner must establish that the alien seeks to enter the United States to 
+continue work in the area of extraordinary ability, and that their entry into the United States will 
+substantially benefit the United States. The term "extraordinary ability" refers only to those aliens in 
+"that small percentage who have risen to the very top ofthe field of endeavor." 8 C.F.R. § 204.5(h)(2). 
+The implementing regulation at 8 C.F.R. § 204.5(h)(3) sets forth a multi-part analysis. First, a 
+petitioner can demonstrate international recognition of an alien's achievements in the field through a 
+one-time achievement in the form of a major, internationally recognized award. Or the petitioner can 
+submit evidence that meets at least three of the ten criteria listed at 8 C.F.R. § 204.5(h)(3)(i)-(x), 
+including items such as awards, published material in certain media, and scholarly articles. If those 
+standards do not readily apply to the alien's occupation, then the regulation at 8 C.F.R. § 204.5(h)( 4) 
+allows the submission of comparable evidence. 
+Once a pet1t10ner has met the initial evidence requirements, the next step is a final merits 
+determination, in which we assess whether the record shows sustained national or international 
+acclaim and demonstrates that the alien is among the small percentage at the very top of the field of 
+endeavor. See Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010) (discussing a two-part review where 
+the documentation is first counted and then, if fulfilling the required number of criteria, considered in 
+the context of a final merits determination); see also Visinscaia v. Beers, 4 F. Supp. 3d 126, 131-32 
+(D.D.C. 2013); Rijal v. USCIS, 772 F. Supp. 2d 1339 (W.D. Wash. 2011). 
+II. ANALYSIS 
+The Petitioner earned master's and doctoral degrees in electrical engineering from theLI_,-------; 
+I ~ in Iran between 2014 and 2023. After a research fellowship at the._l_____. 
+I I in summer 2024, the Petitioner arrived in the United States in October 2024 as a J-1 
+nonimmigrant for a postdoctoral research position at ~--------------~· The 
+Petitioner states that his current research "involves investigating the optimal integration of renewable 
+energy sources, electric vehicles, demand-side management potentials, and energy storage systems to 
+ensure the efficient, reliable, and resilient operation of the power system from technical, economic, and 
+social perspectives [ and] evaluating the impact of the growing load of data centers on power system 
+operations and planning strategies." 
+Because the Petitioner has not indicated or shown that he received a major, internationally recognized 
+award, he must satisfy at least three ofthe alternate regulatory criteria at 8 C.F.R. § 204.5(h)(3)(i)-(x). 
+The Petitioner claims to have satisfied three of these criteria, pertaining to judging the work of others, 
+authorship of scholarly articles, and original contributions of major significance. 
+USCIS concluded that the Petitioner had satisfied only two criteria, pertaining to judging and scholarly 
+articles. We agree. 
+The regulation at 8 C.F.R. § 204.5(h)(3)(v) calls for evidence of the alien's original scientific, 
+scholarly, artistic, athletic, or business-related contributions of major significance in the field. 
+Examples of relevant evidence of major significance include, but are not limited to: 
+• Published materials about the significance of the alien's original work; 
+• Testimonials, letters, and affidavits about the alien's original work; 
+• Documentation that the alien's original work was cited at a level indicative ofmajor significance 
+in the field; and 
+• Patents or licenses deriving from, or evidence of commercial use o±: the alien's work. 
+See, generally, 6 USCIS Policy Manual F.2(B)(l), https://www.uscis.gov/policy-manual. 
+The Petitioner stated that his contributions, as described in his published work, are "ofmajor significance 
+to the field of electrical power engineering, including but not limited to virtual power plants, distributed 
+energy generation and storage, and low-carbon distribution networks," addressing "grid reliability, 
+resilient energy distribution, and integration of renewable energy and emerging technologies." The 
+2 
+Petitioner stated that he "is particularly well-known for his contributions to standard optimization models 
+for utilization of commercial power demand response programs." 
+The Petitioner relies heavily on citation data to establish the claimed significance ofhis contributions, but 
+the evidence submitted in this regard is often incomplete. The Petitioner stated that six ofhis articles are 
+among "the top 10% most cited articles published in [the field of] Engineering" in their respective years 
+ofpublication. The source for this claim is a table of"InCites Essential Science Indicators" from Clarivate 
+Analytics, listing "baseline citation rates" in 22 fields from 2014 to 2024. The Petitioner did not show 
+that this citation data, with a 2024 copyright date, was current when he filed the petition in late March 
+2025. Also, the Petitioner did not establish that citation rates throughout the broad category of 
+"engineering" are representative ofthe rates in his specific area of electrical engineering. 
+The Petitioner stated that his "record of citation has secured him an h-index of 10, placing him in the top 
+4% ofauthors publishing in electronic engineering." 1 The Petitioner submitted a Google Scholar printout 
+showing his h-index and the citation counts ofhis articles, and charts attributed to OpenAlex for the "top 
+4%" figure. The OpenAlex charts rely on data for 624,099 authors in the field of"electronic engineering." 
+The Petitioner has not shown that electronic engineering is the same field as electrical engineering, the 
+field identified on the Petitioner's educational credentials. 
+In response to a request for evidence, the Petitioner submitted a ScholarGPS Ranking Analytics table, 
+showing how the Petitioner ranks among 355,780 scholars in the specialty of "[e]lectric power," a 
+considerably smaller figure than the over 624,000 "electronic engineering" authors in the OpenAlex data. 
+In terms of citations, the ScholarGPS table ranks the Petitioner at 33,563, ranking in the top 9.44%. 
+Citation figures are one factor among many to consider. By themselves, citation counts generally do not 
+suffice to establish the major significance of the Petitioner's original contributions. We must also 
+consider evidence and information addressing those specific contributions. The USCIS Policy Manual 
+provides instructive language: 
+Published research that has provoked widespread commentary on its importance from 
+others working in the field, and documentation that it has been highly cited relative to 
+others' work in that field, may establish the significance ofthe contribution .... Detailed 
+letters from experts in the field explaining the nature and significance of the alien's 
+contribution may also provide valuable context for evaluating the claimed original 
+contributions ofmajor significance, particularly when the record includes documentation 
+corroborating the claimed significance. 
+See, generally, 6 USCIS Policy Manual, supra, at F.2(B)(l). By referring to "widespread commentary 
+... and documentation that [the work] has been highly cited," it is evident that the citations themselves 
+do not necessarily amount to widespread commentary on the significance of the work. See Gadhave v. 
+Thompson, No. 3:21-CV-2938-D, 2023 WL 6931334, at *5 (N.D. Tex. Oct. 19, 2023) ("Any citation to 
+an academic work could equally critique it or laud it."). The Petitioner has submitted partial copies of a 
+few ofthe citing articles, without establishing that these citations are a representative sampling ofthe rest. 
+1 Anh-index of 10 means that 10 of the Petitioner's articles have each garnered 10 or more citations. 
+3 
+The Petitioner stated that those partial copies include "notable citations" to his published work, showing 
+that his "citation record [ shows that] he has driven major advances in power systems, distribution system 
+operators, and multiagent distributed frameworks." 
+The highlighted language in the submitted articles shows that the authors cited the Petitioner's work to 
+support various statements. For instance, a 2019 article inl lcited the 
+Petitioner's work as a source for this sentence: '1 
+Iconditions." The authors ofa 2019 article inl 
+in one of the Petitioner's articles. iIstated that 
+I" The authors of a 2023 paper 
+inl Istated: 'I
+I' including the Petitioner's work. 
+In the denial notice, USCIS concluded that "the evidence in the record is insufficient to demonstrate the 
+reason the citations are notable." On appeal, the Petitioner asserts that the submitted examples "discuss[] 
+in detail precisely how and why scholars throughout [the Petitioner's] field have relied on his original 
+contributions to advance their own research endeavors." The Petitioner contends that these citations 
+"demonstrat[e] that his work had frequently been implemented for further benefit and recognized as state­
+of-the-art." Statements in a brief: motion, or Notice of Appeal are not evidence and thus are not entitled 
+to any evidentiary weight. Matter ofS-M-, 22 I&N Dec. 49, 51 (BIA 1998). 
+It is not readily apparent that these citations to the Petitioner's work, such as the examples above, are 
+more "notable" than the dozens of other citations in these articles. See Venkatnarayan v. Jaddou, No. 
+1 :23CV256, 2024 WL 4008312, at *7 (M.D.N.C. Aug. 30, 2024), report and recommendation adopted 
+sub nom. Venkatnarayan v. Jaddou Dir. ofUSCIS, No. 1 :23-CV-256, 2024 WL 4267307 (M.D.N.C. Sept. 
+23, 2024) (upholding there was no evidence distinguishing the plaintiff's work from all the other works 
+cited in the articles to show the major significance of his work). 
+The record contains letters from some of the researchers who have cited the Petitioner's work. Detailed 
+letters may provide valuable context for evaluating the claimed original contributions of major 
+significance, particularly when the record includes documentation corroborating the claimed significance. 
+See, generally, 6 USCIS Policy Manual, supra, at F.2(8)(1). The reliance on corroboration is significant 
+because it provides objective support for what might otherwise amount to subjective opinion. Agrawal 
+v. Miller, No. 4:24CV3143, 2025 WL 2879217, at *20 (D. Neb. Sept. 12, 2025) (upholding that a 
+petitioner must objectively demonstrate that the field considers the work to be of major significance). 
+In their letters, these researchers explain why the Petitioner's work provided information that was useful 
+to their own research. For example, Professo~ lo±1 !university stated: "[The Petitioner's] 
+insights on commercial demand response programs in virtual power plant platform provided critical 
+insights to my own investigation on this topic." 
+Other researchers have clearly found the Petitioner's work relevant to their own, but relevance is not 
+necessarily major significance in the field. The letters do not offer much information about the extent of 
+the Petitioner's practical influence on power generation. For instance, Dr.I Ia senior researcher 
+at thel lstated that the Petitioner's "methodological integration ofmultiagent 
+4 
+coordination and reliability considerations offered a blueprint for exploring future-ready planning models 
+in active power systems," but Dr. I Idid not indicate that these models have actually been 
+implemented in power system networks. Likewise, ProfD discussed above, stated that the Petitioner 
+"demonstrated methods for optimizing technical and economic objectives in electric power networks," 
+but did not cite any evidence that power companies have put those methods into practice. 
+Letters that generally attest to the value of an alien's work, without explaining in detail specific ways in 
+which the alien's personal contributions have already been widely applied or replicated to serve the 
+industry, do not suffice to establish major significance. See Gadhave v. Thompson, 2023 WL 6931334, 
+at *5. 
+Professor.____________. 2 who supervised the Petitioner's graduate studies atOand co-
+authored several articles with him, states that the Petitioner's student projects "facilitate the restoration of 
+Iran's bulk power system by offering numerous technical, economic, and social benefits, including 
+improved grid stability, reduced damage-related costs, and ... shorter power restoration times" and 
+"effectively addressed critical challenges in substation configuration and contributed to improving the 
+overall reliability of the power network." While Prof..__ ______.provided specific details about 
+the Petitioner's work, these assertions about its practical results are considerably more vague. The 
+Petitioner did not submit independent corroborating evidence of the kind recommended in the USCIS 
+Policy Manual. The Petitioner has not shown practical implementation of his work beyond entities that 
+have employed him, and has not provided objective context to show that his work not only has practical 
+applications, but also meets the much higher threshold of major significance in the field. 
+In a similar vein, an official of .__________________, Company stated that the 
+Petitioner's "research projects ... have yielded highly effective results for this company .... As a result, 
+the company's electricity distribution efficiency and reliability have significantly improved." But the 
+record lacks objective documentation to confirm the nature, extent, and impact ofthese improvements. 
+The authors ofthe letters are experts in their fields, and their statements are not without weight. But when 
+considering the significance of the Petitioner's contributions in a context that relies heavily on citations, 
+we must also consider the citation data for the writers when the record provides that information. Dr.
+I Icurriculum vitae indicates that his own published work has "garnered over 6100 citations with 
+h-index 43." Prof Ocurriculum vitae refers to "7500+ Citations (h-index 52)." These figures are not 
+readily consistent with the Petitioner's assertion that he is "among the most highly-cited scholars in his 
+field." At the time he filed the petition, only one of his articles had earned more than 40 citations. The 
+Petitioner did not submit information citation rates and h-indices for the other writers to show how their 
+publications have fared relative to the Petitioner's work. Such information might have served to give 
+more context to the Petitioner's own statistics. 
+The Petitioner submitted documentation showing that "he was a member of a small student team from 
+the I Iwho won 1st place in the ._______________. 
+I ~ competition on February 4, 2015." users concluded 
+that the Petitioner had not established that this student award, stemming from when the Petitioner was an 
+undergraduate, reflects an original contribution ofmajor significance. On appeal, the Petitioner contends 
+2 We note that the letter misspells his surname ·I~----~!" 
+5 
+that USCIS improperly dismissed the award because it relates to a student competition. We agree with 
+the general principle that a contribution can have major significance even if that contribution is made by 
+students, but the Petitioner has not established that his award-winning student project had significant 
+impact on his field. Translated copies of the award certificate and news coverage immediately after the 
+competition do not show the extent, if any, to which the field adopted the Petitioner's work. 
+Another exhibit in the record illustrates the limitations ofassertions in briefs that accompanied the petition 
+and the appeal. The Petitioner's initial submission includes what he described as an "unsolicited 
+invitation to speak at.______________," This framing of the invitation suggests that the 
+invitation arose from the Petitioner's wider reputation. But the invitation is in the form of a letter dated 
+November 11, 2024, from the sameLJfaculty member who had begun supervising the Petitioner's 
+postdoctoral work several weeks earlier. As such, the invitation letter is not evidence of recognition 
+beyond the laboratory where the Petitioner was already working at the time. 
+The Petitioner has produced useful research as a student and later as a postdoctoral researcher. But he 
+seeks a highly restrictive immigrant classification, and the criterion at 8 C.F.R. § 204.5(h)(3)(v) requires 
+original contributions of major significance, which is a much higher threshold than utility, novelty, or 
+relevance. Evidence that other researchers have found his work useful is not sufficient to establish the 
+major significance that the regulation demands. The Petitioner's research concerns electric power 
+generation, which is a practical, real-world activity rather than an abstract concept confined to the realm 
+of theory. Therefore, we would expect contributions of major significance to be reflected in real-world 
+power generation. The record lacks independent, objective evidence to show the extent of 
+implementation of his work and the impact of that implementation on the field as a whole. 
+The Petitioner has not satisfied the requirements of this criterion. 
+In light of the above conclusions, the Petitioner does not meet the initial evidentiary requirement of 
+three criteria under 8 C.F.R. § 204.5(h)(3). We will therefore dismiss the appeal. 
+III. CONCLUSION 
+Congress set a very high benchmark for aliens of extraordinary ability by requiring the petitioner 
+demonstrate "sustained national or international acclaim" and present "extensive documentation" to 
+show his or her achievements have been recognized in the field. Section 203(b )(1 )(A)(i) of the Act. 
+Because the Petitioner has not satisfied the threshold "initial evidence" requirements at 8 C.F.R. 
+§ 204.5(h)(3), we cannot conclude that he is an alien of extraordinary ability. We need not further 
+analyze the merits under the statute. See Kazarian, 596 F.3d at 1119-20; see also Nagaiah v. Allen, 
+784 F. Supp. 3d 798, 814 (E.D. Pa. 2025) (finding the regulation "establishes a necessary, not 
+sufficient, evidentiary requirement for a petitioner who seeks an extraordinary ability visa."). 
+Therefore, we decline to reach and hereby reserve any final merits determination in this matter. See 
+INS v. Bagamasbad, 429 U.S. 24, 25 (1976) (per curiam) (holding that agencies are not required to 
+make "purely advisory findings" on issues that are unnecessary to the ultimate decision). 
+The Petitioner has not demonstrated eligibility as an alien of extraordinary ability. We will therefore 
+dismiss the appeal. 
+6 
+ORDER: The appeal is dismissed. 
+NOTICE: This constitutes the final decision in this matter. The filing of a motion will not postpone 
+the effect of the decision. 8 C.F.R. § 103.5(a)(l)(iv). Aliens who are not lawfully present, or who are 
+otherwise inadmissible or deportable, may be subject to the commencement of removal proceedings 
+under section 240 ofthe Act through the issuance of a Form I-862, Notice to Appear. Those proceedings 
+may result in their removal from the United States and possible ineligibility for future visas or other 
+immigration benefits. 
+7 

@@ -1,0 +1,241 @@
+Non-Precedent Decision of the
+Administrative Appeals Office 
+U.S. Citizenship 
+and Immigration 
+Services 
+In Re: 40378336 Date: FEB. 13, 2026 
+Appeal of Service Center Operations Decision 
+Form 1-140, Immigrant Petition for Alien Workers (Extraordinary Ability) 
+The Petitioner, a data analyst, seeks classification under the employment-based, first-preference 
+(EB-1) immigrant visa category as an alien with "extraordinary ability." See Immigration and 
+Nationality Act (the Act) section 203(b)(l)(A), 8 U.S.C. § 1153(b)(l)(A). This EB-1 classification 
+makes immigrant visas available to those who can demonstrate their extraordinary ability through 
+sustained national or international acclaim and whose achievements have been recognized in their 
+field through extensive documentation. Section 203(b )(1 )(A)(i) of the Act. 
+Service Center Operations (SCOPS) denied the petition, concluding that the Petitioner had satisfied at 
+least three of ten initial evidentiary criteria, but the totality of the material provided in a final merits 
+determination did not show sustained national or international acclaim demonstrating that the 
+Petitioner is among the small percentage at the very top of the field of endeavor. The matter is now 
+before us on appeal pursuant to 8 C.F .R. § 103 .3. 
+The Petitioner bears the burden ofproof to demonstrate eligibility by a preponderance ofthe evidence. 
+Matter ofChawathe, 25 I&N Dec. 369, 375-76 (AAO 2010). We review the questions in this matter 
+de novo. Matter of Christo 's, Inc., 26 l&N Dec. 537, 537 n.2 (AAO 2015). Upon de novo review, 
+we will dismiss the appeal. 
+I. LAW 
+To qualify for this immigrant visa category, a petitioner must demonstrate that they: 
+• Have "extraordinary ability in the sciences, arts, education, business, or athletics;" 
+• Seek to continue work in their field of expertise in the United States; and 
+• Would substantially benefit the United States as an immigrant. 
+Section 203(b )(1 )(A)(i)-(iii) of the Act. 
+The term "extraordinary ability" means expertise commensurate with "one that small percentage who 
+have risen to the very top of the field of endeavor." 8 C.F.R. § 204.5(h)(2). Unless a petitioner can 
+demonstrate international recognition of his or her achievements in the field through a one-time 
+achievement (that is, a major, internationally recognized award), they must provide sufficient 
+qualifying documentation that meets at least three ofthe ten lesser evidentiary criteria listed at 8 C.F.R. 
+§ 204.5(h)(3)(i)-(x). The regulation at 8 C.F.R. § 204.5(h)(4) allows a petitioner to submit comparable 
+evidence if they are able to demonstrate that the standards at 8 C.F.R. § 204.5(h)(3)(i)-(x) do not 
+readily apply to the individual's occupation. 
+If a petitioner meets these initial evidence requirements, U.S. Citizenship and Immigration Services 
+(USCIS) must then consider the totality of the material provided in a final merits determination and 
+assess whether the record shows sustained national or international acclaim and demonstrates that the 
+individual is among the small percentage at the very top of the field of endeavor. See Kazarian v. 
+USCIS, 596 F.3d 1115 (9th Cir. 2010) (discussing a two-part review where the documentation is first 
+counted and then, iffulfilling the required number ofcriteria, considered in the context ofa final merits 
+determination); see also Amin v. Mayorkas, 24 F.4th 383, 391 (5th Cir. 2022) (finding USCIS' two­
+step extraordinary ability analysis "consistent with the governing statute and regulation"); see 
+generally 6 USCIS Policy Manual F.2(B), www.uscis.gov/policy-manual. 
+II. ANALYSIS 
+The Petitioner claims that she is "a leading expert in data analysis, data modeling, artificial intelligence 
+(AI) and machine learning (ML) within the banking and insurance industries." She is a Senior Member 
+of the Institute of Electrical and Electronics Engineers (IEEE) and lists her notable achievements to 
+include "continuous employment at globally distinguished organizations," "prestigious international 
+awards, memberships in elite professional organizations, and high-impact contributions to enterprise 
+data architecture." 
+A. Evidentiary Criteria 
+Because the Petitioner has not claimed or established her receipt of a major, internationally recognized 
+award, she must satisfy at least three ofthe alternate regulatory criteria at 8 C.F.R. § 204.5(h)(3)(i)-(x). 
+Before SCOPS, the Petitioner claimed she met eight of the regulatory criteria. SCOPS determined the 
+Petitioner satisfied six of the claimed eight criteria, 1 but that the record did not demonstrate her 
+sustained national or international acclaim and that she was one ofthe small percentage at the very top 
+ofthe field ofendeavor, and that her achievements have been recognized in the field through extensive 
+documentation. 
+Having met at least three criteria, the Petitioner does not discuss her eligibility for other criteria on 
+appeal and only claims that SCOPS erred in the final merits determination. Before we evaluate the 
+totality of evidence under Kazarian, we withdraw SCOPS' initial conclusions that the Petitioner 
+satisfied the evidentiary criteria at 8 C.F.R. § 204.5(h)(3)(i) and (ix). 
+1. Lesser Recognized Prizes or Award for Excellence in the Field 
+The Petitioner claimed that her receipt of 2024 '-------------~by the ~I--~ 
+.____________, meets the criteria at 8 C.F.R. § 204.5(h)(3)(i). In order to fulfill this criterion, 
+1 SCOPS concluded that the Petitioner met the following criteria: 8 C.F.R. § 204.5(h)(3)(i), (iii), (iv), (vi), (viii), and (ix). 
+2 
+the Petitioner must demonstrate that she received prizes or awards, and that such awards or prizes are 
+nationally or internationally recognized and granted based upon excellence in her field of endeavor. 
+See generally 6 USCIS Policy Manual F.2(B)(l), www.uscis.gov/policy-manual. 
+However, the Petitioner has not sufficiently established that she received this award based on her 
+outstanding achievements in her field of endeavor of data analytics in the banking and insurance 
+industries. The award indicates that it was given to the Petitioner "In Recognition of Outstanding 
+Professional Achievement & Contribution towards Nation Building." It is unclear whether this award 
+was given for excellence in the field of data analytics and that she competed with experienced and 
+recognized experts in the field. Furthermore, the eligibility criteria for the award in the record states 
+that the award nominees' achievements "must have a direct or indirect impact on India's prosperity" 
+and "could be in any field that can be seen as a followable example." Hence, the record does not 
+sufficiently show that this award is in the Petitioner's field of endeavor and appears to be open 
+generally to any Indians or any foreign nationals who "have business relations with India" in a variety 
+offields. Therefore, the Petitioner did not show that she meets this criterion, and we withdraw SCOPS' 
+determination on this criterion. 
+2. High Salary or Significantly High Remuneration 
+The Petitioner also claimed that she meets the criterion of earning higher salary in relation to other 
+data analysts. 8 C.F.R. § 204.5(h)(3)(ix). Evidence regarding whether the person's compensation is 
+high relative to that of others working in the field may take many forms and examples may include, 
+but are not limited to, geographical or position-appropriate compensation surveys and organizational 
+justifications to pay above the compensation data. See generally 6 USCIS Policy Manual, supra, at 
+F.2(B)(l), Criterion 9. 
+The Petitioner claimed that her position corresponds to "computer systems analyst" under Standard 
+Occupation Classification (SOC) code 15-1211 2 and her 2024 salary of $125,539.76 exceeded the 
+prevailing wage ofthe same position by submitting the U.S. Department ofLabor's wage data for July 
+2024 through June 2025 in thd IIowal Iarea, listing the highest prevailing 
+wage as $107,432 (Level IV). The Petitioner also provided printouts from CareerOneStop showing a 
+median salary of $101,310 to a high salary of $138,270 for computer systems analysts and claimed 
+that her total compensation for 2024 was higher as it totaled "$153,079.76, reflecting $125,539.76 in 
+base salary plus $27,540 in bonus." 
+However, the record does not sufficiently establish that her position corresponds to "computer systems 
+analysts." USCIS records indicate that in the Petitioner's H-1 B specialty occupations petition 
+approved in 2023, the Petitioner filed her labor condition application (LCA) with a position of "Data 
+Warehousing Specialist" with SOC code 15-1243.01 (wage level III). Due to this inconsistent 
+representation of her position, the Petitioner has not demonstrated that salary information for a 
+computer systems analyst in the record is the proper basis for comparison as a data warehouse 
+specialist may perform at higher level of work and receive higher salary. Here, the evidence is 
+insufficient to provide a valid point of comparison. Both precedent and case law support this 
+2 On the Form 1-140, Immigrant Petition for Alien Worker, the Petitioner classified her position under SOC code 15-1199 
+and listed her job titled as "Senior Lead Data Analyst." 
+3 
+application of 8 C.F.R. § 204.5(h)(3)(ix). See Matter ofPrice, 20 I&N Dec. 953,954 (Assoc. Comm'r 
+1994) (considering a professional golfer's earnings versus other PGA Tour golfers); see also Skokos 
+v. US. Dept. ofHomeland Sec., 420 F. App'x 712, 713-14 (9th Cir. 2011) (finding salary information 
+for those performing lesser duties is not a comparison to others in the field); Crimson v. INS, 934 F. 
+Supp. 965, 968 (N.D. Ill. 1996) (considering NHL enforcer's salary versus other NHL enforcers); 
+Muni v. INS, 891 F. Supp. 440, 444-45 (N. D. Ill. 1995) (comparing salary of NHL defensive player 
+to salary of other NHL defensemen). As the Petitioner did not provide a clear picture of her position 
+and the comparable range of salaries earned by her position, we conclude that she does not satisfy this 
+criterion. 
+B. Final Merits Determination 
+After evaluating the totality of the evidence in the context of a final merits determination, we agree 
+with SCOPS' conclusion that the Petitioner has not demonstrated she sustained national or 
+international acclaim, 3 she is one of the small percentage at the very top of the field of endeavor, and 
+her achievements have been recognized in the field through extensive documentation. See section 
+203(b)(l)(A)(i) of the Act; 8 C.F.R. § 204.5(h)(2), (3); see also Kazarian, 596 F.3d at 1119-20.4 
+On appeal, the Petitioner claims that SCOPS failed to properly conduct the final merits determination 
+by using "a piecemeal approach at the final merits stage, improperly requiring each criterion to 
+independently demonstrate that I had 'risen to the very top' ofthe field." In other words, the Petitioner 
+contends that SCOPS' individualized discussion of each criterion in the second step of the Kazarian 
+analysis is erroneous and cites to "USCIS Policy Memorandum PM-602-005.1 (December 22, 2010)" 
+which states: "Adjudicators should not apply a separate 'extraordinary ability' test to the individual 
+evidentiary criteria. The evaluation of extraordinary ability should take place in the final merits 
+determination, where all the evidence is weighed together."5 
+We find the Petitioner's argument unpersuasive. In the first step of the Kazarian framework, SCOPS 
+should not yet make a determination regarding whether or not the person is one of that small 
+percentage who have risen to the very top of the field and make only limited determinations regarding 
+whether the person has met the applicable evidentiary criteria. See generally 6 USCIS Policy Manual, 
+supra, at F.2(B)(l). However, this does not mean that SCOPS is somehow prevented from 
+individually evaluating each individual criterion in performing the Kazarian's second step analysis, 
+or that in order to be holistic and cumulative, SCOPS must structure its discussion to compound all 
+criteria. 
+Here, SCOPS' final merits determination properly considered each individual criterion for sustained 
+acclaim rising to the very top of the field and discussed relevant evidence. SCOPS thoroughly 
+3 See 6 USCIS Policy Manual, supra, at F.2(A)(l) (stating that such acclaim must be maintained and providing Black's 
+Law Dictiona,y's definition of"sustain" is "to support or maintain, especially over a long period of time ... To persist in 
+making (an effort) over a long period of time"). 
+4 See 6 USCIS Policy Manual, supra, at F.2(B)(2) (instructing that USCTS officers should consider the petition in its 
+entirety to detennine eligibility according to the standard- sustained national or international acclaim and the achievements 
+have been recognized in the field of expertise, indicating that the person is one of that small percentage who has risen to 
+the very top of the field of endeavor). 
+5 We note that this policy memorandum language is superseded by 6 USC1S Policy Manual, supra, at F.2(B)(l). 
+4 
+reviewed the record for the final merits determination, discussed all eight criteria claimed by the 
+Petitioner, and articulated reasons why the Petitioner's evidence and assertions of eligibility fell short 
+in demonstrating that she meets the requirements for classification as an individual with extraordinary 
+ability. Therefore, we adopt and affirm SCOPS' decision pertaining to the final merits determination 
+with comments below. See Matter ofBurbano, 20 I&N Dec. 872, 874 (BIA 1994); see also Giday v. 
+INS, 113 F.3d 230,234 (D.C. Cir. 1997) (noting that the practice ofadopting and affirming the decision 
+below has been "universally accepted by every other circuit that has squarely confronted the issue"); 
+Chen v. INS, 87 F.3d 5, 8 (1st Cir. 1996) (joining eight circuit courts in holding that appellate 
+adjudicators may adopt and affirm the decision below as long as they give "individualized 
+consideration" to the case). 
+The Petitioner described herself as a "Senior Lead Data Analyst and Data Architect with over 18+ 
+years of experience in the Insurance and Banking domain" in the instant petition filed on May 14, 
+2025. The initial cover letter stated that she specializes "in designing complex data models and 
+optimizing data infrastructure" and she has been "instrumental in enabling seamless data-driven 
+decision-making processes for major financial institutions" with her "deep knowledge of database 
+technologies, including PostgreSQL, DB2, SQL Server, and Sybase" and "extensive experience with 
+data modeling tools such as SAP Power Designer, ER Studio, and Erwin." The record indicates that 
+since 2018, the Petitioner has been working as a senior lead data analyst a-~--------~ 
+.__________.I The Petitioner claimed that her contributions to the company include "designing 
+and implementing enterprise-wide data models, enhancing data lineage, and optimizing data 
+processmg _µ..a.LJ.J.J:;=-4rks to ensure accuracy and compliance with regulatory standards." Prior to 
+working for the Petitioner worked for other companies in the field of insurance and banking, 
+includin as a senior associatf for three years,I I 
+.______,s an assistant consultant for four years, andl.______.as an application developer for five 
+years. While working for these companies, the Petitioner also rovided consultin services to other 
+well-known financial rou s such as 
+The overall evidence demonstrates that the Petitioner is a dedicated and exceptional employee who 
+has contributed much to her employers and clients that she has served. However, although the 
+Petitioner performed some critical roles for her employers as a data analyst, her duties do not appear 
+above someone who achieved a career that meets the high standard set for aliens of extraordinary 
+ability. The Petitioner claimed that she produced new data models and solutions for her employers 
+and clients in the course of her employment and that these are her original contributions of major 
+significance to the field. While the evidence shows that the Petitioner contributed to the success of 
+her employers and gained recognition from her clients, it does not sufficiently support that her 
+contributions are both original and of major significance to the field of data analysis as a whole. 
+The Petitioner has further submitted documents showing that she was elevated to IEEE's senior 
+membership since Au:ust 2024 and became a member of the
+Isince December 2024. But as explained by SCOPS, these 
+memberships do not require outstanding achievements but only require professional maturity and a 
+certain period of professional performance. 
+5 
+I 
+Similar!~Petitioner submitted evidence;:....::s::.:h-=-ow..:..:...::in:.:.g.:....::th=a=-=t:....:s:=h:..:e:....:r:...:e:..:.c-=-e1:...;·v--=e:...:d==========.----------' 
+award bYL.___J and two articles about her inl ~024) and 
+.__________.12025). 6 The Petitioner also authored scholarly articles as an independent 
+researcher gaining a total of 26 citations and conducted two instances of judging activities by peer 
+reviewing a manuscript and a professional monograph and submitted certificates of appreciation from 
+respective journals. Such evidence shows limited accolades, exposure, and activities over the course 
+of her eighteen-year career and does not demonstrate that she is one of that small percentage who has 
+risen to the very top ofthe field of endeavor and enjoy sustained national or international acclaim. See 
+8 C.F.R. § 204.5(h)(3). 
+The record as a whole, including the evidence discussed above, does not establish the Petitioner's 
+eligibility for the benefit sought. 7 The Petitioner has not demonstrated that her achievements are 
+reflective of a "career of acclaimed work in the field" as contemplated by Congress. H.R. Rep. No. 
+101-723, 59 (Sept. 19, 1990). 8 Here, the Petitioner seeks a highly restrictive visa classification, 
+intended for individuals already at the top of their respective fields, rather than those progressing 
+toward the top. Matter ofPrice, 20 I&N Dec. 953,954 (Assoc. Comm'r 1994) (concluding that even 
+major league level athletes do not automatically meet the statutory standards for classification as an 
+individual of "extraordinary ability,"); Amin v. Mayorkas, 24 F.4th at 394 (stating that extraordinary 
+ability is such an elite level of accomplishment); Lapteva v. Schuurmans, No. 8:24CV83, 2025 WL 
+815087, at *1 (D. Neb. Mar. 10, 2025) (stating that EB-1 visa are intended to be available to only an 
+exceedingly small amount of individuals with extraordinary ability). In this case, the Petitioner has 
+not shown the significance of her work is indicative of the required sustained national or international 
+acclaim or it is consistent with a career of acclaimed work in the field. See Section 203(b )(1 )(A) of 
+the Act. While the Petitioner need not establish that there is no one more accomplished to qualify for 
+the classification sought, the record is insufficient to demonstrate that she is among the small 
+percentage at the top of his field. See 8 C.F.R. § 204.5(h)(2). 
+III. CONCLUSION 
+For the reasons discussed above, the Petitioner has not demonstrated her eligibility as an individual of 
+extraordinary ability. The appeal will be dismissed for the above stated reasons, with each considered 
+as an independent and alternate basis for the decision. 
+ORDER: The appeal is dismissed. 
+NOTICE: This constitutes the final decision in this matter. The filing of a motion will not postpone the 
+effect of the decision. 8 C.F.R. § 103.5(a)(l)(iv). Aliens who are not lawfully present, or who are 
+otherwise inadmissible or deportable, may be subject to the commencement of removal proceedings 
+6 Although the Petitioner also included an article by Forbes I bo24), this article only mentions her co-authored 
+journal and is not specifically about her or her work in the field as a data analyst. 
+7 See generally 6 USCIS Policy Manual, supra, at F.2(B)(2) (providing that some evidence weighs more favorably on its 
+own, while other evidence is more persuasive when viewed with other evidence). 
+8 The commentary for the proposed regulations implementing section 203(b)(l)(A)(i) of the Act provides that the "intent 
+of Congress that a very high standard be set for aliens of extraordinary ability is reflected in this regulation by requiring 
+the petitioner to present more extensive documentation than that required" for lesser classifications. 56 Fed. Reg. 30703, 
+30704 (July 5, 1991). 
+6 
+under section 240 ofthe Act through the issuance of a Form I-862, Notice to Appear. Those proceedings 
+may result in their removal from the United States and possible ineligibility for future visas or other 
+immigration benefits. 
+7 

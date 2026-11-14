@@ -1,0 +1,417 @@
+Non-Precedent Decision of the
+Administrative Appeals Office 
+U.S. Citizenship 
+and Immigration 
+Services 
+In Re: 42069782 Date: SEP. 10, 2026 
+Appeal of U.S. Citizenship and Immigration Services (USCIS) Decision 
+Form I-140, Immigrant Petition for Alien Workers (Extraordinary Ability) 
+The Petitioner, a data analyst, seeks classification as an individual of extraordinary ability in the 
+sciences. See Immigration and Nationality Act (the Act) section 203(b)(l)(A), 8 U.S.C. 
+§ l 153(b)(l)(A). This first preference classification makes immigrant visas available to those aliens 
+who can demonstrate their extraordinary ability through sustained national or international acclaim 
+and whose achievements have been recognized in their field through extensive documentation. Id. 
+USCIS denied the petition, concluding that the Petitioner did not establish either that she received a 
+major, internationally recognized award, or that the record satisfied at least three of the 10 initial 
+evidentiary criteria. The matter is now before us on appeal pursuant to 8 C.F.R. § 103 .3. 
+The Petitioner bears the burden ofproof to demonstrate eligibility by a preponderance of the evidence. 
+Matter afChawathe, 25 I&N Dec. 369, 375-76 (AAO 2010). We review the questions in this matter 
+de novo. Matter a/Christa's, Inc., 26 I&N Dec. 537,537 n.2 (AAO 2015). Upon de novo review, 
+we will dismiss the appeal. 
+I. LAW 
+Section 
+203(b )(I) of the Act makes visas available to immigrants with extraordinary ability if: 
+(i) the alien has extraordinary ability in the sciences, arts, education, business, or 
+athletics which has been demonstrated by sustained national or international 
+acclaim and whose achievements have been recognized in the field through 
+extensive documentation, 
+(ii) the alien seeks to enter the United States to continue work in the area of 
+extraordinary ability, and 
+(iii) the alien's entry into the United States will substantially benefit prospectively 
+the United States. 
+The term "extraordinary ability" refers only to those individuals in "that small percentage who have 
+risen to the very top of the field of endeavor." 8 C.F.R. § 204.5(h)(2). The implementing regulation 
+at 8 C.F.R. § 204.5(h)(3) sets forth a multi-part analysis. First, a petitioner can demonstrate sustained 
+acclaim and the recognition of his or her achievements in the field through a one-time achievement 
+(that is, a major, internationally recognized award). If that petitioner does not submit this evidence, 
+then he or she must provide sufficient qualifying documentation that meets at least three of the 10 
+categories listed at 8 C.F.R. § 204.5(h)(3)(i)-(x) (including items such as awards, published material 
+in certain media, and scholarly articles). Ifa criterion at 8 C.F.R. §§ 204.5(h)(3)(i)-(x) does not readily 
+apply to a petitioner, he or she may submit comparable evidence to establish eligibility. 8 C.F.R. 
+§ 204.5(h)(4). 
+Where a petitioner meets these initial evidence requirements, we then consider the totality of the 
+material provided in a final merits determination and assess whether the record shows sustained 
+national or international acclaim and demonstrates that the individual is among the small percentage 
+at the very top of the field of endeavor. See Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010). 
+II. ANALYSIS 
+The Petitioner 
+described the proposed endeavor as a plan "to pursue advanced education and 
+professional opportunities that align with my long-term goals in research and academia," ultimately 
+"obtain[ing] a faculty appointment at a U.S. university, where I will teach and mentor students in data 
+science with a special focus on healthcare analytics." 
+As addressed above, only aliens who seek to continue to work in the area of extraordinary ability may 
+be eligible for first preference immigrant classification as individuals of extraordinary ability. Section 
+203(b)(l)(A)(ii) ofthe Act. Continuing to work in one's area ofextraordinary ability, as contemplated 
+by Section 203(b)(l)(A)(ii) of the Act, means "working in the same profession in which one has 
+extraordinary ability, not necessarily any profession in that field." Lee v. Ziglar, 237 F. Supp. 2d 914, 
+918 (N.D. Ill. 2002). For example, an individual who has "extraordinary ability as a baseball player 
+does not imply that [the individual] also has extraordinary ability in all positions or professions in the 
+baseball industry such as a manager, umpire or coach." Id. 
+We note, as a general matter, that the Petitioner does not claim to have extraordinary ability as a 
+teacher or mentor of students. Therefore, although the Petitioner's stated goal of pursuing further 
+education and ultimately becoming a teacher and mentor of students in data science with a special 
+focus on healthcare analytics is in a field related to her work thus far as a data analyst, her proposed 
+endeavor does not appear to continue working in the same profession in which she claims to have 
+extraordinary ability, as contemplated by Section 203(b)(l)(A)(ii) of the act. See id.; see also Matter 
+of Chawathe, 25 I&N Dec. at 376 (noting that petitioners bear the burden of proving their claims are 
+more likely than not true under a preponderance of evidence). Relatedly, the Petitioner's aspiration to 
+obtain a faculty appointment at some uncertain point in the future after "pursu[ing] advanced 
+education" does not indicate that she already "ha[ s] risen to the very top of the field of endeavor." See 
+8 C.F.R. § 204.5(h)(2). 
+2 
+A. Initial Evidentiary Criteria 
+USCIS concluded that the 
+record satisfies the criteria at 8 C.F.R. §§ 204.5(h)(3)(iii)-(iv) but not those 
+at 8 C.F.R. §§ 204.5(h)(3)(i)-(ii), (v)-(vi), and (viii), noting that the Petitioner did not assert eligibility 
+under the remaining criteria. On appeal, the Petitioner reasserts that the record satisfies the criteria at 
+8 C.F.R. §§ 204.5(h)(3)(i)-(vi) and (viii). For the reasons discussed below, the record does not satisfy 
+at least three of the criteria at 8 C.F.R. §§ 204.5(h)(3)(i)-(x). 
+1. Nationally or Internationally Recognized Prizes or Awards 
+The criterion at 8 C.F.R. § 204.5(h)(3)(i) requires "[d]ocumentation of the alien's receipt of lesser 
+nationally or internationally recognized prizes or awards for excellence in the field of endeavor." 
+Relevant considerations for determining whether prizes or awards are for excellence in the field 
+include but are not limited to: the criteria used to grant the prizes or awards; the national or 
+international significance of the prizes or awards; the number of recipients; and limitations on 
+competitors. See generally 6 USCIS Policy Manual, F.2(B)(l), https://www.uscis.gov/policy-manual. 
+USCIS acknowledged that the record contains information about a 2024
+I _given to the Petitioner in 2025, and information about the ______ 
+However, USCIS noted that the _____were established in 2021, and the record does not 
+show that, in that four-year period, they have garnered the requisite national or international 
+recognition. Therefore, USCIS concluded that the record does not satisfy this criterion. 
+On appeal, the Petitioner describes the Ias "a merit-based national competition 
+evaluated by qualified experts in the technology field," and she states that prizes or awards need not 
+be "globally famous, long-established, or recognizable to the general public" to qualify as nationally 
+or internationally recognized prizes or awards for excellence in the field of endeavor. 
+that, since 2021, theThe record 
+establishesI _has organized the The awards are divided into more than two dozen 
+cate ories with titles including ' and 
+_______ The record contains a letter from an individual on the ______ 
+which, in relevant part, lists titles and website URLs for six articles addressing 
+th published by Zephyrnet, Supanet, BM Times, London Daily News, Noticias de 
+la Ciencia, and Tech Media Today. The record contains copies of the articles; however, the substance 
+of the articles merely repeats information provided by the[ Isuch as lists of award 
+winners, and I I own opinion of their importance. Neither the articles nor the 
+remainder ofthe record establish the national or international recognition ofthe Petitioner's! I
+I ISee Visinscaia v. Beers, 4 F.Supp. 3d. 126, 136 (D.D.C. 2013) (requiring evidence of "how a 
+larger audience viewed [the] awards"). 
+Based on the foregoing, the record does not support the conclusion that the I laward the 
+Petitioner received is nationally or internationally recognized. Therefore, the Petitioner has not 
+established that she satisfies this criterion. 
+3 
+2. Membership in Associations in the Field 
+The criterion at 8 C.F.R. § 204.5(h)(3)(ii) requires "[d]ocumentation of the alien's membership in 
+associations in the field for which classification is sought, which require outstanding achievements of 
+their members, as judged by recognized national or international experts in their disciplines or fields." 
+USCIS acknowledged that the record contains information about the Hackathon Raptors and the 
+International Association of Software Developers SmartSng.Dev (IASDSSD). The Petitioner is a 
+member of both associations. However, USCIS determined the record does not establish that either 
+association requires outstanding achievements of its members and that nationally or internationally 
+recognized experts in their disciplines or fields judge prospective members. 
+On appeal, the Petitioner claims that both Hackathon Raptors and IASDSSD membership 
+requirements are synonymous with requiring outstanding achievements of their members, and that 
+membership applications are subject to "the expert-review process." 
+The record establishes that the Petitioner became a Hackathon Raptors fellow in 2025. The 
+record contains a copy of the Hackathon Raptors charter and information regarding criteria for 
+fellowship and the selection process. In relevant part, fellowship candidates "must demonstrate a track 
+record of significant achievements upheld at an exceptional standard for at least five continuous years, 
+typically within the past decade." The Hackathon Raptors information in the record further supports 
+the conclusion that, although other membership categories do not satisfy this criterion, the fellowship 
+membership level requires outstanding achievements as contemplated by the regulation at 8 C.F.R. 
+§ 204.5(h)(3)(ii). However, although the fellowship selection process entails a peer review conducted 
+by "at least five existing fellow members," the record does not establish that the peer-review panel of 
+fellows who select prospective fellows are recognized national or international experts in their 
+disciplines or fields, as opposed to having been recognized merely by the preexisting fellows within 
+the organization who selected them. Rather, the fellowship information states that the elector pool is 
+derived from fellows who: 
+• Have at least 5 years of significant performance; 
+• Represent extraordinary achievements and expertise in technology and innovation; 
+• Represent diverse areas of expertise within technology and innovation; 
+• Have demonstrated continued excellence in their field since becoming a fellow; and 
+• Are willing to serve as electors and can declare no conflicts ofinterest with current candidates. 
+Thus, the record does not establish that Hackathon Raptors fellowship is judged by nationally or 
+internationally-as opposed to merely intra-organizationally- recognized experts in their disciplines 
+or fields. 
+Next, the record establishes the Petitioner has been an honorary member ofthe IASDSSD since 
+2025, after having become a general member soon beforehand onl 2025. The record contains 
+a certified English translation of the IASDSSD articles of association. However, the articles do not 
+support the conclusions that the IASDSSD requires outstanding achievements of its members and that 
+prospective members are judged by recognized national or international experts in their disciplines or 
+fields. Rather, the articles provide that general members may be either individuals or legal entities 
+4 
+I 
+"who share the goals and objectives of the [IASDSSD and] recognize the Articles of Association and 
+directly participate in its activities." The only other stated general membership requirements are that 
+individuals must be at least 18 years of age and "citizens of any state" but not "a stateless person" or 
+"a person who is involved in illegal activities in any of the countries." The articles provide that the 
+IASDSSD: 
+has the right to award the status of Honorary Member of the Association to persons 
+who have made a significant contribution to the achievement ofthe goals and objectives 
+of the [IASDSSD] or the industry as a whole, who have gained significant authority of 
+an expert, and who have extraordinary abilities in their field of activity. 
+The articles generally indicate, "The decision to award the status of Honorary Member of the 
+Association shall be made by the Admissions Committee of the Association." However, the articles 
+do not establish who comprises the IASDSSD admissions committee and, more to the point, whether 
+they are nationally or internationally recognized experts in their disciplines or fields. Moreover, the 
+articles do not elaborate on what the IASDSSD considers to be significant contributions, authority of 
+an expert, and extraordinary abilities in a particular field of activity. Instead, in response to USCIS' 
+request for evidence (RFE) dated July 23, 2025, the Petitioner submitted a letter sent to her by the 
+head of the IASDSSD admission committee dated I 2025, confirming her honorary 
+membership status as of more than 50 days prior, and outlining 10 criteria for honorary membership. 
+A petitioner must establish eligibility for the benefit it is seeking at the time the petition is filed. See 
+8 C.F.R. § 103.2(b)(l). A visa petition may not be approved based on speculation of future eligibility 
+or after a petitioner becomes eligible under a new set of facts. See Matter of Katigbak, 14 I&N 
+Dec. 45, 49 (Reg'l Comm'r 1971). A petitioner may not make material changes to a petition in an 
+effort to make a deficient petition conform to U.S. Citizenship and Immigration Services (USCIS) 
+requirements. See Matter ofIzwnmi, 22 I&N Dec. 169, 176 (Assoc. Comm'r 1998). 
+Unlike the copies of the Petitioner's initial IASDSSD membership document and the IASDSSD 
+articles of association in the record, which are both written in a language other than English identified 
+by a translator as Russian, the August 2025 confirmation letter and a purported copy of the minutes of 
+the admission committee held "at 12:00 Moscow time" on I 2025, to vote on the Petitioner's 
+honorary membership application are written in English. The record does not explain why these newly 
+submitted documents are written in English when the association's prior documents were written in 
+Russian. The Petitioner must resolve these incongruities in the record with independent, objective 
+evidence pointing to where the truth lies. Matter of Ho, 19 I&N Dec. at 591-92. Further, the 
+IASDSSD articles do not list the 10 criteria for honorary membership that appear in the subsequent 
+confirmation letter; the articles appear to have been established specifically in response to USCIS' 
+RFE. These discrepancies undermine the confirmation letter's reliability and sufficiency, and that of 
+the remainder of the record. See id. (providing that doubt cast on any aspect of a petitioner's proof 
+may undermine the reliability and sufficiency of the remaining evidence offered in support of the visa 
+petition). Moreover, despite the minutes identifying meeting attendees, neither the minutes nor the 
+confirmation letter nor the remainder of the record establish whether and how those individuals may 
+qualify as nationally or internationally recognized experts in their disciplines or fields. 
+The record does not establish both that the Petitioner is a member of an association in the field for 
+which classification is sought that requires outstanding achievements of its members and that her 
+5 
+membership at that level in such an organization was judged by recognized national or international 
+experts in their disciplines or fields. Thus, the Petitioner has not established that she satisfies this 
+criterion. 
+3. Published Material About the Alien 
+The criterion at 8 C.F.R. § 204.5(h)(3)(iii) requires "[p]]ublished material about the alien in 
+professional or major trade publications or other major media, relating to the alien's work in the field 
+for which classification is sought. Such evidence shall include the title, date, and author of the 
+material, and any necessary translation." Relevant factors include the intended audience (for 
+professional and major trade publications) and the relative circulation, readership, or viewership (for 
+major trade publications and other major media). See generally 6 USCIS Policy Manual, supra, at 
+F.2(B)(l). 
+The extent of USCIS' analysis of this criterion was naming two articles the Petitioner submitted, 
+followed by the conclusory sentence, "As such, the submitted evidence meets this criterion," without 
+elaboration. We withdraw USCIS' determination that the record satisfies this criterion for the 
+following reasons. 
+The record contains copies of three articles about the Petitioner, relating to her work in the field for 
+which classification is sought, allegedly published on the internet by The AIJournal, TechBullion, and 
+The Tech. Although The AIJournal and The Tech articles include titles, dates, and authors, as required 
+by the regulation at 8 C.F.R. § 204.5(h)(3)(iii), the TechBullion article omits the date on which it 
+purports to have been published; therefore, it does not satisfy the plain language of the criterion, it 
+cannot-and it does not-establish eligibility, and we need not address it further. 1 
+The record does not show that The AIJournal or The Tech qualifies among professional or major trade 
+publications or other major media. The copy of The AI Journal article in the record is supplemented 
+with the journal's own description of itself and its usage, stating that it "provides analysis, opinions, 
+and market trends specifically on technologies to ambitious individuals and companies around the 
+world." The record does not elaborate on the "ambitious individuals" to whom The AI Journal 
+provides analysis, opinions, and market trends. In tum, the copy of The Tech article in the record is 
+supplemented with information about its usage and a copy ofits Instagram page, which describes itself 
+as a "Media/news company. Here [sic] about technologies and IT leaders of Central Asia." The record 
+does not clarify the intended audience of The Tech, whether academic researchers, learned 
+practitioners, novices and hobbyists, the general public, or other categories. Therefore, the record 
+does not establish whether The AI Journal and The Tech's intended audiences may qualify them as 
+professional or major trade publications. See generally id. Considering the alternative classification, 
+The AI Journal's own usage description supplementin the article states its "Industry 
+rank/Computers_Electronics_and_Technology" is " " and The Tech's similar usage 
+description provides that its "Industry rank/Programmmg_ an _Developer_ Software" is ' " 
+The record does not establish the basis for these rankings. Moreover, these insignificant industry 
+1 The Petitioner claims that TechBullion published the article onl 2025. However, the copy of the article in the 
+record does not bear a publication date; therefore, it does not establish the date on which it may have been published. 
+6 
+rankings do not support the conclusion that the publications' relative circulation, readership, or 
+viewership qualify them among major trade publications or other major media. 
+The record does not contain published material about the Petitioner in professional or major trade 
+publications or other major media, relating to her work in the field for which classification is sought, 
+including the title, date, and author of the material. Therefore, the Petitioner has not established that 
+she satisfies this criterion and we withdraw USeIS' statement to the contrary. 
+4. Authorship of Scholarly Articles in the Field 
+The criterion at 8 C.F.R. § 204.5(h)(3)(vi) requires "[e]vidence of the alien's authorship of scholarly 
+articles in the field, in professional or major trade publications or other major media." In academic 
+fields, a scholarly article reports on original research, experimentation, or philosophical discourse, 
+generally peer-reviewed by other experts in the field of specialization. See generally 6 USCIS Policy 
+Manual, supra, at F.2(B)(l). For other fields, a scholarly article should be written for learned persons 
+in the field, meaning persons with profound knowledge of a field. See generally id. Examples of 
+scholarly article authorship include, but are not limited to, publications in professionally relevant, 
+peer-reviewed journals and published conference presentations at nationally or internationally 
+recognized conferences. See generally id. 
+users acknowledged that the Petitioner submitted copies of articles she wrote, which were published 
+in ACADEMIC and American Journal of Engineering and Technology (AJET). However, USeIS 
+noted that the record does not establish that the publications qualify as major trade publications or 
+other major media. Therefore, users determined that the record does not satisfy this criterion. 
+On appeal, the Petitioner asserts that ACADEMIC and AJET "are professional, peer-reviewed, field­
+specific publications that regularly disseminate scholarly research in engineering, technology, and 
+applied sciences." She also states that users misapplied criteria for major trade publications or other 
+major media to ACADEMIC and AJET and, unlike major trade publications or other major media, a 
+record need not establish a professional publication's circulation statistics. 
+The Petitioner correctly states that the plain language of this criterion provides that scholarly articles 
+contemplated by this criterion need not be published in major trade publications or other major media, 
+provided they are instead published in professional publications. 8 C.F.R. § 204.5(h)(3)(vi). 
+However, the record does not establish that ACADEMIC or AJET qualify as professional, peer­
+reviewed journals. 
+The Petitioner supplemented a copy of her ACADEMIC article with a congratulatory letter, which 
+describes ACADEMIC as an "international scientific journal." However, neither the letter nor the 
+remainder of the record corroborate her claim that her article-or any article in general-published in 
+ACADEMIC underwent a peer-review process before publication, whether by other experts in the field 
+of specialization or otherwise. In tum, the Petitioner supplemented her AJET article with a copy of an 
+apparent portion ofAJET's website, which describes itself as an "open access, peer reviewed journal." 
+However, other than merely characterizing itself as a "peer reviewed journal," neither the excerpt from 
+AJETthat the Petitioner submitted nor the remainder ofthe record substantiate that statement, in order 
+to establish whether-and how-submissions to this open-access website in general-and the 
+7 
+Petitioner's article more specifically-may have actually undergone the type of peer review by other 
+experts in the field of specialization contemplated by this criterion. Therefore, the record does not 
+establish that the articles the Petitioner authored were published in professional publications. See 
+generally 6 USCIS Policy Manual, supra, at F.2(B)(l). In tum, the Petitioner does not assert, and the 
+record does not support the conclusion, that the articles the Petitioner authored were published in major 
+trade publications or other major media. For the foregoing reasons, the Petitioner has not established 
+that she satisfies this criterion. 
+5. Leading or Critical Role 
+The criterion at 8 C.F.R. § 204.5(h)(3)(viii) requires "[e]vidence that the alien has performed in a 
+leading or critical role for organizations 
+or establishments that have a distinguished reputation." For 
+a leading role, we consider whether evidence establishes the individual is (or was) a leader within the 
+organization or establishment, or a division or department thereof. See generally 6 USCIS Policy 
+Manual, supra, at F.2(B)(l). For a critical role, we consider whether the individual has contributed in 
+a way that is of significant importance to the outcome ofthe organization or establishment's activities, 
+or those of a division or department thereof. See generally id. 
+USCIS acknowled ed that the Petitioner submitted letters from representatives of LLP, 
+and _______ However, USCIS 
+observed that, although the letters praise the Petitioner's work, they do not establish that she performed 
+a leading or critical role for any of the organizations or establishments. Therefore, USCIS concluded 
+that the record does not satisfy this criterion. 
+On appeal, the Petitioner generally asserts that the letters "describe roles where the [Petitioner] was 
+entrusted with mission-critical analytical, financial, operational, or instructional duties relied upon by 
+the organizations" rather than providing "generic praise." She also claims that "critical roles may be 
+held at any level so long as the organization depends on the beneficiary's work," although she does 
+not clearly state whether she believes she performed a leading role or a critical role for any of the 
+particular organizations or establishments, which, as noted above, are distinct. 
+The record contains letters that purport the Petitioner performed the following roles: 
+• Assistant accountant at I ______LLP, located in Kazakhstan, from March 
+to June 2021; 
+• Graduate assistant to faculty atl located in New York, during 
+2023-24; 
+• An unspecified title related to "design[ing] a data-driven solution aimed at reducing the number 
+of missed client appointments" atl located inl I Kazakhstan, generally 
+"in early 2024"; 
+• An external data analytics consultant atl Ilocated in !Kazakhstan, generally 
+"in early 2024"; 
+• An unspecified title related to customer buying behavior analysis at I 
+I located in Germany, generally during "the summof 2024";er 
+8 
+• Data analyst at I Ilocated generally m Kazakhstan, for some unspecified period 
+beginning in August 2024; and 
+• A "collaborat[ or]" with "a DevOps Engineer at located in ___ 
+New York, generally in 2025. 
+The Petitioner's claim that she "was entrusted with mission-critical analytical, financial, operational, 
+or instructional duties relied upon by the organizations" suggests that she believes she performed 
+critical roles for the organizations or establishments noted above, or for divisions or departments 
+thereof. However, the letters from the respective organizations or establishments' representatives do 
+not clearly convey what the activities' outcomes of those organizations or establishments, or divisions 
+or departments thereof, are. Moreover, the letters provide generalized information that does not 
+substantiate what the Petitioner actually did for so many organizations or establishments in such a 
+short period and, in some cases, simultaneously, and how that may have been ofsignificant importance 
+to those activities' outcomes. For example, the letters from I Iand I I 
+attribute improved appointment scheduling to the Petitioner's generalized data analysis. However, the 
+record does not clarify how scheduling appointments may be the outcomes of the organizations or 
+establishments' activities, rather than a preliminary step in conducting their overall activities, which 
+we take administrative notice generally include providing grooming and cosmetic services or oral 
+healthcare services, respectively, to individuals. 
+As another example, the letter from _____________states that the Petitioner's 
+customer survey and data analysis resulted in "a sales increase in the five-digit euro range." However, 
+the record does not substantiate the claimed causal nexus between the sales increase and the 
+Petitioner's role performed only during "the summer of 2024" among any other possible factor that 
+could explain the increase. The record also does not establish the period ( e.g. monthly, quarterly, 
+annually) in which the claimed sales increase occurred and the company's typical sales during a similar 
+period, in order to determine whether a "five-digit euro" increase may be a significant change during 
+such a period. 
+As a further example, the letter from LLP states that, while the Petitioner worked 
+under the supervision of the company's commercial director, she "introduced efficiencies in 
+budgeting, made cost trends more visible, and helped management act quickly based on emerging 
+data." However, the letter does not clarify how these generalized budgeting efficiencies introduced 
+during her four-month period of employment under the supervision of the company's commercial 
+director tangibly affected the outcomes of the organization or establishment's activities, or a division 
+or department thereof. The remainder of the letters bear similar evidentiary deficiencies. 
+Finally, position descriptions such as graduate assistant, assistant accountant, collaborator, and 
+consultant indicate subordinate and assisting roles, not leading roles at the respective organizations or 
+establishments, or divisions or departments thereof. And notably, two of the letters do not provide the 
+Petitioner's job titles at all. Without corroborating evidence such as employment contracts, paystubs, 
+or organizational charts, the record does not support the conclusion that the Petitioner performed a 
+leading or critical role for any particular organization or establishment, and we need not determine 
+whether such an organization or establishment has a distinguished reputation. See generally 6 USCIS 
+Policy Manual, supra, at F.2(B)(l). Thus, the Petitioner has not established that she satisfies this 
+criterion. 
+9 
+Because the record would not satisfy at least three of the 10 criteria at 8 C.F.R. §§ 204.5(h)(3)(i)-(x) 
+even if the Petitioner met the criterion at 8 C.F.R. § 204.5(h)(3)(v) related to original contributions, 
+we reserve our opinion regarding that criterion. See INS v. Bagamasbad, 429 U.S. 24, 25 (1976) 
+(stating that agencies are not required to make "purely advisory findings" on issues that are 
+unnecessary to the ultimate decision). 
+B. Final Merits Determination 
+Because the record does not satisfy at least three of the 10 criteria at 8 C.F.R. §§ 204.5(h)(3)(i)-(x), 
+we need not conduct a final merits determination of whether the record shows sustained national or 
+international acclaim and demonstrates that the Petitioner is among the small percentage at the very 
+top of the field of endeavor. See Kazarian, 596 F.3d at 1119-20 (citing section 203(b)(l)(A) of the 
+Act; 8 C.F.R. §§ 204.5(h)(2)-(3)). Nevertheless, we note that, for the following reasons, the record 
+does not establish the Petitioner has sustained national or international acclaim and demonstrate that 
+she is among the small percentage at the very top of the field of endeavor. See id. 
+Black's Law Dictionary defines "sustain" as "to support or maintain, especially over a long period of 
+time" or "to persist in making (an effort) over a long period oftime." Sustain, Black's Law Dictionary 
+(11th ed. 2019). 
+Generally, evidence in this case pertaining to the respective evidentiary criteria is limited to few 
+instances, which occurred shortly before the Petitioner filed the Form 1-140, Immigrant Petition for 
+Alien Workers, in July 2025; the evidence does not show that she maintained any level of acclaim 
+over a long period of time. More specifically: 
+• The only prize or award the Petitioner references is dated 2025 for a 2024 submission; 
+• The Petitioner's Hackathon Raptors fellowship began in 2025, her honorary 
+membership in the IASDSSD began in 2025 just days before she filed the Form 1-140, 
+and her general membership began shortly before; 
+• The Tech and The AIJournal articles addressed above are dated! 2025 and 2025, 
+respectively, and the Petitioner claims the undated TechBullion article was published in 
+2025; 
+• The articles the Petitioner reviewed in the context ofthe criterion at 8 C.F.R. § 204.5(h)(3)(iv) 
+are dated 2024-25; 
+• License agreements the Petitioner purports establish she has made original contributions of 
+major significance in the field are dated 2024-25 and a presentation related to these license 
+agreements is undated; 
+• ACADEMIC andAJETpublished the Petitioner's articles in 2025; and 
+• The Petitioner asserts she performed roles for seven different organizations or establishments 
+within the period of 2021-25. 
+Given that much of the evidence in the record is dated only months and even just days before the 
+Petitioner filed the Form 1-140 in 2025, the Petitioner has not established she may have sustained any 
+particular degree of acclaim over a meaningful period of time. 
+10 
+III. CONCLUSION 
+The evidence does not meet at least three ofthe 10 criteria at 8 C.F.R. §§ 204.5(h)(3)(i)-(x). Moreover, 
+even ifthe evidence satisfied at least three ofthe 10 initial evidentiary criteria, the totality ofthe record 
+does not support a conclusion that the Petitioner has established the acclaim and recognition required 
+for the classification sought. See Kazarian, 596 F.3d at 1119-20. USCIS has long held that even 
+athletes performing at the major league level do not automatically meet the "extraordinary ability" 
+standard. Matter of Price, 20 I&N Dec. 953, 954 (Assoc. Comm'r 1994). The Petitioner has not 
+shown that the significance of her work is indicative of the required sustained national or international 
+acclaim or that it is consistent with a "career of acclaimed work in the field" as contemplated by 
+Congress. H.R. Rep. No. 101-723, 59 (Sep. 19, 1990); see also section 203(b)(l)(A) of the Act. The 
+record does not otherwise demonstrate that the Petitioner has garnered national or international 
+acclaim in the field and that she is one of the small percentage who has risen to the very top of the 
+field of endeavor. See section 203(b)(l)(A) of the Act; see also 8 C.F.R. § 204.5(h)(2). 
+ORDER: The appeal is dismissed. 
+NOTICE: This constitutes the final decision in this matter. The filing of a motion will not postpone 
+the effect ofthe decision. 8 C.F.R. § 103.5(a)(l)(iv). Aliens who are not lawfully present, 
+or who are otherwise inadmissible or deportable, may be subject to the commencement of 
+removal proceedings under section 240 of the Act through the issuance of a Form 1-862, 
+Notice to Appear. Those proceedings may result in their removal from the United States 
+and possible ineligibility for future visas or other immigration benefits. 
+11 

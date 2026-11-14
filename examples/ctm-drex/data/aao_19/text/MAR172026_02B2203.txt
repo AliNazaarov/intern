@@ -1,0 +1,337 @@
+Non-Precedent Decision of the
+Administrative Appeals Office 
+U.S. Citizenship 
+and Immigration 
+Services 
+In Re: 41002188 Date: MAR. 17, 2026 
+Appeal of Service Center Operations (SCOPS) Decision 
+Form 1-140, Immigrant Petition for Alien Workers (Exceptional Ability) 
+The Petitioner, a cybersecurity engineer, seeks classification as an alien of extraordinary ability. See 
+Immigration and Nationality Act (the Act) section 203(b)(l)(A), 8 U.S .C. § 1153(b)(l)(A). This first 
+preference classification makes immigrant visas available to those who can demonstrate their 
+extraordinary ability through sustained national or international acclaim and whose achievements have 
+been recognized in their field through extensive documentation. 
+SCOPS denied the petition, concluding that although the record establishes that the Petitioner satisfied 
+at least three ofthe ten initial evidentiary criteria, as required, the totality of the evidence did not show, 
+in a final merits determination, that the Petitioner has received sustained national or international 
+acclaim and that he is among the small percentage at the very top of the field of endeavor. The matter 
+is now before us on appeal pursuant to 8 C.F.R. § 103.3 . 
+The Petitioner bears the burden ofproof to demonstrate eligibility by a preponderance of the evidence. 
+Matter ofChawathe, 25 I&N Dec. 369, 375-76 (AAO 2010). We review the questions in this matter 
+de novo. Matter of Christa 's, Inc. , 26 I&N Dec. 537, 537 n.2 (AAO 2015). Upon de novo review, 
+we will dismiss the appeal. 
+I. LAW 
+Section 203(b)(l)(A) of the Act makes visas available to immigrants with extraordinary ability if: 
+(i) the alien has extraordinary ability in the sciences, arts, education, business, or 
+athletics which has been demonstrated by sustained national or international 
+acclaim and whose achievements have been recognized in the field through 
+extensive documentation, 
+(ii) the alien seeks to enter the United States to continue work in the area of 
+extraordinary ability, and 
+(iii) the alien's entry into the United States will substantially benefit prospectively 
+the United States. 
+The term "extraordinaiy ability" refers only to those individuals in "that small percentage who have 
+risen to the very top of the field of endeavor." 8 C.F.R. § 204.5(h)(2). The implementing regulation 
+at 8 C.F.R. § 204.5(h)(3) sets forth a multi-part analysis. First, a petitioner can demonstrate recognition 
+ofhis or her achievements in the field through a one-time achievement (that is, a major, internationally 
+recognized award). If that petitioner does not submit this evidence, then he or she must provide 
+sufficient qualifying documentation that meets at least three of the ten criteria listed at 8 C.F.R. 
+§ 204.5(h)(3)(i) - (x) (including items such as awards, published material in certain media, and 
+scholarly articles). The regulation at 8 C.F.R. § 204.5(h)(4) allows a petitioner to submit comparable 
+material if he or she is able to demonstrate that the standards at 8 C.F.R. § 204.5(h)(3)(i)-(x) do not 
+readily apply to the individual's occupation. 
+Where a petitioner meets these initial evidence requirements, we then consider the totality of the 
+material provided in a final merits determination and assess whether the record shows sustained 
+national or international acclaim and demonstrates that the individual is among the small percentage 
+at the very top of the field of endeavor. See Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010). 
+( discussing a two-part review where the documentation is first counted and then, if fulfilling the 
+required number of criteria, considered in the context of a final merits determination); see also 
+Visinscaia v. Beers, 4 F. Supp. 3d 126, 131-32 (D.D.C. 2013); Rijal v. USCIS, 772 F. Supp. 2d 1339 
+(W.D. Wash. 2011). 
+II. ANALYSIS 
+A. Evidentiary Criteria 
+Because the Petitioner has not claimed or established receipt of a major, internationally recognized 
+award, he must satisfy at least three of the alternate regulatory criteria at 8 C.F.R. § 204.5(h)(3)(i) -
+(x). The Petitioner initially claimed to have met seven criteria: 
+• (ii), membership in associations which require outstanding achievements of their members; 
+• (iii), published material about the individual in professional or major media; 
+• (iv), participation as a judge of the work of others; 
+• (v), original contributions of major significance to the field; 
+• (vi), authorship of scholarly articles in the field in professional or major trade publications or 
+other major media; 
+• (viii), leading or critical role for distinguished organizations or establishments; and 
+• (ix), commanded a high salary or other significantly high remuneration in relation to others in 
+the field. 
+SCOPS determined that the Petitioner met four of these claimed evidentiary criteria: published 
+material about himself; that he has participated as a judge of the work of others; that he has performed 
+in a leading or critical role for organizations or establishments that have a distinguished reputation; 
+and that he has commanded a high salary. 1 However, in a final merits determination, SCOPS 
+1 Additionally, although SCOPS did not state in the regulatory criteria section oftbe decision that the evidence shows that 
+2 
+concluded that the Petitioner did not show that he garnered sustained national or international acclaim 
+and that his achievements have been recognized in the field of endeavor, demonstrating he is one of 
+that small percentage who has risen to the very top of the field. Because SCOPS concluded that the 
+Petitioner has established three of the initial criteria, on appeal we will review the totality of the 
+evidence in the context of a final merits determination below. 2 
+B. Final Merits Determination 
+On appeal, the Petitioner contends that SCOPS erred by "relitigating" the initial regulatory criteria by 
+considering them in the final merits determination. The Petitioner also claims that SCOPS erred in 
+how it applied the sustained acclaim requirement in the national security context. Finally, the 
+Petitioner asserts that SCOPS ignored or improperly dismissed substantial evidence in the record. 
+As indicated above, we will evaluate whether the Petitioner has demonstrated, by a preponderance of 
+the evidence, his sustained national or international acclaim, 3 that he is one of that small percentage 
+at the very top of the field of endeavor, and that his achievements have been recognized in the field 
+through extensive documentation. In a final merits determination, we analyze an individual's 
+accomplishments and weigh the totality of the evidence to determine if his successes are sufficient to 
+demonstrate that he has extraordinary ability in the field of endeavor. See section 203(b)(l)(A)(i) of 
+the Act; 8 C.F.R. § 204.5(h)(2), (3); see also Kazarian v. USCIS, 596 F.3d at 1119-20.4 In this matter, 
+we determine the Petitioner has not shown his eligibility. 
+The Petitioner is a cybersecurity engineer who specializes in attack surface management, blockchain 
+intelligence, and critic 1 infr ture protection. The Petitioner is currently employed as an 
+engineering mana er at al lcompany, where he leads a team 
+that develops.__ __________.tools that are used by organizations that include major financial 
+institutions and by U.S. federal government agencies. Prior to the Petitioner's current employment, 
+he was emplored as a principal engineer atl I al I company, which 
+developed an Iplatform that is used by the U.S. Department of Defense, the 
+U.S. Department of Homeland Security, and the U.S. Department of Energy. The record shows that 
+the Petitioner possesses a bachelor of engineering degree in information science from an Indian 
+university and a master's degree in computer science fro~ IThe Petitioner 
+states that he is also working toward a master of science degree in cybersecurity froml I I I The Petitioner claims to have extraordinary ability in the field of cybersecurity 
+engmeenng. 
+the Petitioner has authored scholarly articles, in its final merits analysis SCOPS did refer to the evidence as establishing 
+this initial regulatory criterion. 
+2 See generally 6 users Policy Manual F.2(B)(2), https://www.uscis.gov/policymanual. 
+3 See generally 6 users Policy Manual, supra, at F.2(A)(l) (stating the definition of sustain is "to support or maintain, 
+especially over a long period of time ... To persist in making (an effort) over a long period of time"). 
+4 See also generally 6 users Policy Manual, supra, at F.2(B)(2) (instructing that USCIS officers should consider the 
+petition in its entirety to determine eligibility according to the standard: sustained national or international acclaim and the 
+achievements have been recognized in the field of expertise, indicating that the person is one of that small percentage who 
+has risen to the very top of the field of endeavor). 
+3 
+As an initial matter, we consider the Petitioner's claim that SCOPS erred by "re-litigating" the initial 
+regulatory criteria in its final merits determination and reversing its conclusions about those criteria. 
+The Petitioner claims that, despite accepting four criteria as established, SCOPS then improperly 
+imposed new requirements to dismiss these criteria in the final merits determination. For example, 
+the Petitioner objects to SCOPS stating, in its final merits determination, that although the evidence 
+shows that the Petitioner authored scholarly articles in the field, that the evidence does not show that 
+he has "consistently" published in journals "with the highest impact factors" or in publications "which 
+enjoy high circulation among national or international readers" or that the articles "advanced the field 
+and set the [Petitioner] apart." The Petitioner asserts that this is in error because the regulatory criteria 
+does not include these additional requirements, and that SCOPS therefore imposed novel substantive 
+requirements beyond those in the regulation at step two. The Petitioner claims that SCOPS made the 
+same error as it relates to judging the work of others and having a leading or critical role in an 
+organization with a distinguished reputation. 
+The Petitioner's claim relies on a mischaracterization ofKazarian and USCIS policy. In determining 
+whether a petitioner has established extraordinary ability, we use a two-step analysis to evaluate the 
+evidence. See Kazarian v. USCIS, 596 F.3d at 1119-20.5 As described in the USCIS Policy Manual, 
+the evidence evaluated in the first step analysis is also reviewed in the second step, where the officer 
+must determine whether the person is one of that small percentage of the who has risen to the very top 
+of the field of endeavor, and that the person has sustained national or international acclaim.6 
+Objectively meeting the regulatory criteria in the first step does not establish that the person in fact 
+meets the requirements for classification as a person with extraordinary ability. 7 
+Therefore, SCOPS' analysis, in a final merits determination, as to whether the evidence-including 
+evidence that demonstrates initial regulatory criteria-shows that the Petitioner meets the 
+requirements for classification as a person with extraordinary ability, is a proper application of this 
+framework. In fact, the USCIS Policy Manual provides the following example that relates to 
+publishing scholarly articles: 
+Publishing scholarly articles in professional or major trade publications or other major 
+media alone, regardless of the caliber, should satisfy the regulatory criteria in the first 
+step of the analysis. However, the second step requires the officer to evaluate the 
+person's publications to determine whether they were indicative of the person being 
+one of that small percentage who have risen to the very top of the field of endeavor and 
+enjoying sustained national or international acclaim. 8 
+This analysis is not, as the Petitioner claims, "re-litigating" the regulatory criteria of the first step in 
+the second step's final merits determination. Rather, this analysis reflects the proper analysis in which 
+the officer, at step one, determines only if the evidence objectively meets the regulatory criteria and, 
+at step two, considers whether the evidence in its totality demonstrates sustained national or 
+international acclaim. 
+5 See also generally 6 USCIS Policy Manual, supra, at F.2(B). 
+6 See id. 
+7 See id. 
+8 See generally 6 USC1S Policy Manual, supra, at F.2(B)(l). 
+4 
+The Petitioner also asserts on appeal that SCOPS erred by ignoring substantial evidence in the record, 
+that SCOPS focused only on the weakest evidence in the record to determine that the Petitioner did 
+not establish eligibility, and that SCOPS erred in how it considered sustained acclaim in the national 
+security context. Overall, the Petitioner contends that the record establishes that he has risen to the 
+top of the field. 
+However, in considering the totality of the evidence, the Petitioner has not demonstrated that his 
+achievements are reflective of a "career of acclaimed work in the field" as contemplated by Congress. 
+1990 U.S.C.C.A.N. 6710, 6739. Furthermore, the Petitioner has not shown that he has risen to that 
+small percentage at the very top ofthe field ofendeavor. See 8 C.F.R. § 204.5(h)(3). The commentary 
+for Congress that a very high standard be set for aliens of extraordinary ability is reflected in this 
+regulation by requiring the petitioner to present more extensive documentation than that required for 
+lesser classifications. 56 Fed. Reg. 30703, 30704. For the reasons discussed below, we conclude that 
+the Petitioner has not established that he enjoys a career that meets this very high standard. See Amin 
+v. Mayorkas, 24 F.4th 383, 386-87 (5th Cir. 2002) (stating that the narrow definition reflects the 
+stringency of the extraordinary ability standard). 
+First, regarding the Petitioner's membership in associations, the Petitioner does not contest on appeal 
+SCOPS' finding that the evidence is insufficient to establish this initial regulatory criterion. 9 In 
+considering this evidence in a final merits determination, we conclude that the evidence related to the 
+Petitioner's memberships is not reflective of garnering sustained national or international acclaim. 
+The record includes evidence that the Petitioner is a senior member of the Institute of Electrical and 
+Electronics Engineers (IEEE). The Petitioner provided background information about IEEE and the 
+qualifications needed to be a senior member. The evidence shows that senior membership requires at 
+least five years of"significant performance" in the field, as indicated by achievements or contributions 
+such as publishing books or papers, developing courses, or acting as a team lead or engineer in charge. 
+However, the Petitioner has not explained how these qualifications are reflective of acclaim consistent 
+with this highly restrictive classification. See, e.g., Nagaiah v. Allen, 784 F. Supp. 3d 798, 820 (E.D. 
+Pa. 2025) (upholding that the petitioner's IEEE membership did not show extraordinary ability 
+because the eligibility requirements were not stringent enough and IEEE senior membership did not 
+reflect sustained national or international acclaim). 
+Second, regarding thf Petitioner's roles in organizations w/th a distinguished reputation, the Petitioner 
+points to his roles at Iandl where he worked on teams that developed 
+cybersecurity tools. The Petitioner also contends that his contributions to these organizations have 
+been original and of major significance to the field. As noted above, SCOPS determined that the 
+evidence was sufficient to establish that the Petitioner had a leading or critical role with organizations 
+that have a distinguished reputation, but not that the Petitioner has made original contributions of 
+major significance to the field. In support of the Petitioner's work with these organizations, the 
+Petitioner submitted recommendation letters, press releases, and reports. 
+9 Because the Petitioner does not challenge SCOPS' finding that the record does not establish the regulatory criterion at 
+8 C.F.R. § 204.5(h)(3)(ii), we consider this claim to be waived. See Matter ofO-R-E-, 28 l&N Dec. 330. 336. n.5 (BIA 
+2021) ( citing Matter ofR-A-M-, 25 l&N Dec. 657, 658 n.2 (BIA 2012)). 
+5 
+Regardin~ lthe record contains a press release from the company stating that it 
+has entered into a contract with the U.S. De artment of Defense to lrovide internet operations 
+management (IOM) capabilities, including the company's_ I 
+platform. The company's press release states that the~_~suite of products uses machine learning 
+to enable the U.S. military to automatically identify its known and unknown internet-facing assets, 
+prioritize them for remediation, and address fhejr vu]nerahj)jties The record also contains a press 
+release and other promotional materials from_ Ito demonstrate that the company 
+has agreements with large corporations such asl Ito provide cybersecurity products and services. 
+Regarding I I the record contains press releases from I Istating that it supported the 
+U.S. Department of Justice and the Federal Bureau of Investigation in a seizure of cryptocurrency 
+funds in a fraud investigation and that it supported law enforcement in investigating a website invpbled, 
+in distributing child sexual abuse material. The Petitioner also submitted evidence to show thatL_J 
+~ has received investments from companies such as Citi, PayPal, and Amex. 
+To demonstrate the Petitioner's contributions at.
+_______________...., he submitted 
+letters of support, white papers, and reports. For example, the Petitioner submitted a letter from P.L., 10 
+who was a supervisor of the Petitioner atl IP .L. states that the Petitioner was a 
+"core member" of the team that developed advanced techniques for identifying and classifying 
+internet-facing assets. P.L. also mentions the Petitioner's work on development of scanning payloads 
+for BGP (Border Gateway Protocol) servers on the internet. The Petitioner also submitted an 
+employment letter from I I stating that he is an engineering manager who leads two data 
+product teams consisting of ten engineers. The letter describes the Petitioner's work as "technically 
+sophisticated" and "mission critical." 
+Although the evidence shows that the Petitioner has provided valuable contributions to his employers, 
+the letters are not sufficiently persuasive to demonstrate that the Petitioner's contributions are 
+indicative of sustained national or international acclaim. The letters generally highlight the 
+Petitioner's work and state the author's opinion that the Petitioner is a talented cybersecurity engineer. 
+Letters that make general or expansive statements regarding the petitioner and the petitioner's 
+accomplishments are generally not persuasive. 11 The letters do not claim, nor does the content show, 
+that the Petitioner achieved national or international acclaim from the field. Moreover, the letters do 
+not demonstrate that the Petitioner has attracted a level of attention placing him at the very top of his 
+field. In addition, the letters do not show that he has enjoyed a career of acclaimed work. See Jafarov 
+v. United States Citizenship & Immigr. Servs., No. 23 CIV. 3372 (PAE), 2024 WL 69056, at *9 
+(finding testimonial letters were insufficient to establish his relative status in the field and do not 
+compare him to others). 
+The Petitioner asserts on appeal that SCOPS erred by misunderstanding how sustained acclaim 
+"manifests in classified or operationally sensitive fields." The Petitioner contends that in the area of 
+critical infrastructure cybersecurity, individuals commonly work under non-disclosure agreements and 
+"operational anonymity," and claims that SCOPS erred by expecting the Petitioner to demonstrate 
+"public celebrity or widespread name recognition." Even considering the Petitioner's claim regarding 
+10 We use initials to protect individuals' privacy. 
+11 See generally 6 USC1S Policy Manual. supra, at F.2(B)(3). 
+6 
+the nature of his work, the Petitioner's letters of support are not supportive of sustained national or 
+international acclaim. In describing the Petitioner's work, the letters, at most, indicate that the 
+Petitioner is a competent, respected figure within the field. 12 However, they do not contain sufficient 
+information and explanation to show that the Petitioner is viewed by the overall field, rather than by a 
+solicited few, to be among the upper echelon or that he has garnered recognition on a national or 
+international scale, consistent with being among the small percentage at the very top of the field of 
+endeavor. Mishra v. Richardson, No. l:20-cv-991 (LMB/TCB), 2021 WL 1566071, at *3 (E.D. Va. 
+Apr. 20, 2021) (finding that none ofthe plaintiff's letters point to evidence of extensive documentation 
+of his accomplishments to show sustained national or international acclaim). Although the letters 
+highlight the Petitioner's work, they do not reflect a career of acclaimed work in the field, garnering 
+the required sustained national or international acclaim. See Bodhankar v. USCIS, No. 1: l 9-CV-706 
+(MAD/CFH), 2020 WL 777211, at *5 (N.D.N.Y. Feb. 18, 2020) (finding the submitted letters failed 
+to establish the plaintiff's contributions resulted in significant acclaim). 
+Additionally, although the Petitioner documented his high salary, including with these organizations 
+from 2021 to 2024, the Petitioner did not establish that he commanded earnings commensurate with 
+sustained national or international acclaim. The Petitioner did not show that his wages are tantamount 
+to an individual who is among that small percentage at the very top of the field of endeavor. He did 
+not demonstrate, for example, how his earnings compare to other cybersecurity engineers at the very 
+top of the field, 13 or that he has received notoriety or attention based on his earnings, setting himself 
+apart from others in the field or placing him in the upper echelon. See id., at *5 (finding that the 
+plaintiff's high salary was not so high as to indicate that he has risen to the very top of the field). 
+Regarding media coverage, the Petitioner offered four articles purhshed between September 2024 and 
+December 2024 in online publications including! land IThe articles describe 
+the Petitioner's education and work experience and describe his work as important to the field. 
+Additionally, some of the articles contain quotes from the Petitioner. The articles generally do not 
+cite other sources and therefore appear to be opinion or analysis pieces. While this published material 
+may indicate some attention to the Petitioner and his work, the Petitioner did not establish that such 
+reporting is consistent with a level of success among that small percentage who has risen to the very 
+top of the field of endeavor, has achieved sustained national or international acclaim, or has a career 
+of acclaimed work. The Petitioner, for instance, did not show how the amount of his media coverage 
+compares to others in his field who are among the very top. Again, the Petitioner did not demonstrate 
+how this nominal press coverage, occurring over a period of a few months, reflects a career of 
+acclaimed work in the field or the very high standard to present extensive documentation. See id. 
+(finding the lack of press coverage about the plaintiff was not consistent with national or international 
+acclaim). 
+Regarding the Petitioner's service as a judge of the work of others, an evaluation of the significance 
+of his experience is appropriate to determine if such evidence indicates the required extraordinary 
+ability for this highly restrictive classification. See Kazarian v. USCIS, 596 F. 3d. at 1121-22. 14 The 
+12 See generally 6 USCIS Policy Manual, supra, at F.2(B)(3). 
+13 The Petitioner provided comparative wage data for "Computer and Information Systems Managers." 
+14 See also generally 6 USC1S Policy Manual. supra, at F.2(B)(l) (providing that the second step requires USCIS to 
+evaluate the person's judging participation to determine whether it was indicative of the person being of that small 
+percentage who has risen to the very top of the field of endeavor and enjoying sustained national or international acclaim). 
+7 
+record shows that the Petitioner reviewed approximately 13 conference submissions in connection 
+with 2 conferences and completed 1 journal article review. 15 The Petitioner on appeal contends that 
+SCOPS failed to "acknowledge the qualitative rigor" of the Petitioner's judging activities and asserts 
+that these activities are not "perfunctory" but are performed by "recognized experts." However, the 
+Petitioner has not provided evidence to demonstrate that he received acclaim, attention, or recognition 
+from his service as a judge or peer reviewer that would be indicative of the Petitioner being of that 
+small percentage who has risen to the very top of the field. We are not persuaded that these few 
+instances of peer review service are representative of one who is among that small percentage who has 
+risen to the very top of the field of endeavor. See 8 C.F.R. § 204.5(h)(2). 
+Likewise, authorship and publication of scholarly articles does not automatically place one at the top 
+of the field. The record shows that the Petitioner has published three articles and been cited a total of 
+five times. The Petitioner contends that the articles are peer-reviewed, published in "reputable" 
+journals, and that the citations indicate their impact on the field. However, the Petitioner did not 
+demonstrate that this small number ofpublications and a handful ofcitations is consistent with a career 
+of acclaimed work, sustaining national or international acclaim, or being among the small percentage 
+at the very top ofthe field. The Petitioner, for instance, did not show the significance ofhis authorship 
+or how his publication record compares to others who are viewed to be at the very top of the field. See 
+Bhanu v. Garland, No. 22-103, 2023 WL 6119357, at *9 (E.D. Pa. Sept. 18, 2023) (upholding the 
+Petitioner did not show the significance of authorships to reflect that he is among the small percentage 
+at the very top of the field). 
+The record as a whole, including the evidence discussed above, does not establish the Petitioner's 
+eligibility for the benefit sought. 16 Here, the Petitioner seeks a highly restrictive visa classification, 
+intended for individuals already at the top of their respective fields, rather than those progressing 
+toward the top. Matter ofPrice, 20 I&N Dec. 953,954 (Assoc. Comm'r 1994) (concluding that even 
+major league level athletes do not automatically meet the statutory standards for classification as an 
+individual of "extraordinary ability,"); Amin v. Mayorkas, 24 F.4th at 394 (stating that extraordinary 
+ability is such an elite level of accomplishment); Lapteva v. Schuurmans, No. 8:24CV83, 2025 WL 
+815087, at *1 (D. Neb. Mar. 10, 2025) (stating that EB-1 visas are intended to be available to only an 
+exceedingly small amount of individuals with extraordinary ability). In this case, the Petitioner has 
+not shown that the significance of his work is indicative of the required sustained national or 
+international acclaim or that it is consistent with a career of acclaimed work in the field. See Section 
+203(b)(l)(A) of the Act. While the Petitioner need not establish that there is no one more 
+accomplished to qualify for the classification sought, the record is insufficient to demonstrate that he 
+is among the small percentage at the top of his field. See 8 C.F.R. § 204.5(h)(2). 
+We have reviewed the entirety of the record, including those items of evidence which are not 
+specifically analyzed in this decision. When USCIS provides a reasoned consideration to the petition, 
+and has made adequate findings, it will not be required to specifically address each claim the Petitioner 
+makes, nor is it necessary for it to address every piece of evidence the Petitioner presents. Guaman­
+Loja v. Holder, 707 F.3d 119, 123 (1st Cir. 2013) (citing Martinez v. INS, 970 F.2d 973, 976 (1st 
+15 The Petitioner also submitted evidence of being asked to review two additional conference submissions, but the record 
+does not demonstrate whether the Petitioner completed these reviews. 
+16 See generally 6 USC1S Policy Manual, supra, at F.2(B)(2) (providing that some evidence weighs more favorably on its 
+own, while other evidence is more persuasive when viewed with other evidence). 
+8 
+Cir.1992); see also Kazemzadeh v. US. Atty. Gen., 577 F.3d 1341, 1351 (11th Cir. 2009); Casalena 
+v. US. INS, 984 F.2d 105, 107 (4th Cir. 1993). 
+III. CONCLUSION 
+For the reasons discussed above, the Petitioner has not demonstrated his eligibility as an individual of 
+extraordinary ability. The appeal will be dismissed for the above stated reasons. 
+ORDER: The appeal is dismissed. 
+NOTICE: This constitutes the final decision in this matter. The filing of a motion will not postpone the 
+effect of the decision. 8 C.F.R. § 103.5(a)(l)(iv). Aliens who are not lawfully present, or who are 
+otherwise inadmissible or deportable, may be subject to the commencement of removal proceedings 
+under section 240 ofthe Act through the issuance of a Form 1-862, Notice to Appear. Those proceedings 
+may result in their removal from the United States and possible ineligibility for future visas or other 
+immigration benefits. 
+9 

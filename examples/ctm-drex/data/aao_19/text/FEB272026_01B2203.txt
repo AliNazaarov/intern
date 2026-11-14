@@ -1,0 +1,194 @@
+Non-Precedent Decision of the
+Administrative Appeals Office 
+U.S. Citizenship 
+and Immigration 
+Services 
+In Re: 40669786 Date: FEB. 27, 2026 
+Appeal of Service Center Operations (SCOPS) Decision 
+Form 1-140, Immigrant Petition for Alien Workers (Extraordinary Ability) 
+The Petitioner, a site reliability engineer, seeks classification as an alien of extraordinary ability. 
+See section 203(b)(l)(A) of the Immigration and Nationality Act (the Act), 8 U.S.C. § l 153(b)(l)(A). 
+This first preference classification makes immigrant visas available to those aliens who can 
+demonstrate their extraordinary ability through sustained national or international acclaim and whose 
+achievements have been recognized in their field through extensive documentation. Id. 
+Service Center Operations (SCOPS) denied the petition, concluding the Petitioner was not the 
+recipient of a major, internationally recognized award, and, did not satisfy at least three of the ten 
+evidentiary criteria to meet the initial evidentiary requirements of the classification. The matter is now 
+before us on appeal pursuant to 8 C.F.R. § 103.3. 
+The Petitioner bears the burden ofproof to demonstrate eligibility by a preponderance of the evidence. 
+Matter ofChawathe, 25 l&N Dec. 369, 375-76 (AAO 2010). We review the questions in this matter 
+de novo. Matter of Christo 's, In c., 26 l&N Dec. 537, 537 n.2 (AAO 2015). Upon de novo review, 
+we will dismiss the appeal. 
+I. LAW 
+Section 203(b)(l)(A) of the Act makes immigrant visas available to aliens with extraordinary ability if: 
+they have extraordinary ability in the sciences, arts, education, business, or athletics which has been 
+demonstrated by sustained national or international acclaim; they seek to enter the United States to 
+continue work in the area of extraordinary ability; and their entry will substantially benefit the United 
+States prospectively. The term "extraordinary ability" refers only to those individuals in "that small 
+percentage who have risen to the very top of the field of endeavor." 8 C.F.R. § 204. 5(h)(2). 
+The implementing regulation at 8 C.F.R. § 204. 5(h)(3) sets forth a multi-part analysis of the evidence 
+to determine whether a petitioner has sustained national or international acclaim and whether their 
+achievements have been recognized in the field. First, a petitioner can provide evidence of either "a 
+major, international recognized award," or satisfaction of at least three of ten evidentiary criteria at 
+8 C.F.R. § 204.5(h)(3). 
+Where a petitioner meets these initial evidence requirements, U.S. Citizenship and Immigration 
+Services (USCIS) then considers the totality of the material provided in a final merits determination 
+and assesses whether the record shows sustained national or international acclaim and demonstrates 
+that the individual is among the small percentage at the very top ofthe field of endeavor. See Kazarian 
+v. USCIS, 596 F.3d 1115, 1121 (9th Cir. 2010) (discussing a two-step review where the documentation 
+is frrst counted and then, if fulfilling the required number of criteria, considered in the context of a 
+final merits determination); see also Visinscaia v. Beers, 4 F. Supp. 3d 126, 131-32 (D.D.C. 2013); 
+Rijal v. USCJS, 772 F. Supp. 2d 1339 (W.D. Wash. 2011); see generally 6 USCJS Policy Manual 
+F.2(B), www.uscis.gov/policy-manual (providing, as guidance, USCIS' two-step extraordinary ability 
+analysis). 
+II. ANALYSIS 
+The Petitioner has not indicated or established that he has received a major, internationally recognized 
+award under 8 C.F.R. § 204.5(h)(3). He must therefore satisfy at least three of the regulatory criteria 
+at 8 C.F.R. § 204.5(h)(3)(i)-(x). Based on our de novo review, the Petitioner has not met this showing. 
+A. Evidentiary Criteria Waived 
+The Petitioner did not assert in the record below or on appeal that he meets the criteria at 
+8 C.F.R. § 204.5(h)(3)(i), (vi), (vii), or (x) regarding receipt of lesser nationally or internationally 
+recognized prizes or awards, authorship of scholarly articles, display ofhis work at artistic exhibitions 
+or showcases, and commercial success in the performing arts. We therefore deem the Petitioner's 
+eligibility under these four criteria waived. See Matter of O-R-E-, 28 I&N Dec. 330, 336 n.5 (BIA 
+2021) (citing Matter ofR-A-M-, 25 I&N Dec. 657, 658 n.2 (BIA 2012))(An eligibility ground that is 
+not raised on appeal is waived.) 
+B. Evidentiary Criteria Withdrawn 
+SCOPS determined the Petitioner met the criterion at 8 C.F.R. § 204.5(h)(3)(iv), which requires 
+evidence of his participation, either individually or on a panel, as a judge of the work of others in the 
+same or an allied field of specification for which classification is sought. In support of this criterion, 
+the Petitioner provided documentation that he served as a judge for the 
+I Ia competition where high school students develop solutions t._o_p_r_o_b-le_m_s_i_n_a_e_ro_s_p_a_c_e_a_n_d_. 
+aviation, cyber-technology and security, energy and environment, health and nutrition, and water 
+challenges. According to the supporting documents, the judges consisted of those in "industry, 
+government, research and academia" and his role was to spend two hours reviewing, scoring, and 
+providing coaching comments for each of the five teams he was assigned. The Petitioner, however, 
+did not explain how his role judging high school students' submissions in a wide breadth of industries 
+would amount to judging the work of others in the field. See generally 6 USCIS Policy Manual, supra, 
+at F.2(B)(l) (providing, as guidance, examples of"judging the work of others" to include peer review 
+and serving on a doctoral dissertation committee)( emphasis added). 
+2 
+SCOPS also determined the Petitioner met the criterion at 8 C.F.R. § 204.5(h)(3)(viii), which requires 
+evidence of performing in a leading or critical role for organizations or establishments, or a division 
+or department thereof: that have a distinguished reputation. The Petitioner asserted that he served in 
+a leading and critical role as the director of Site Reliability Engineering (SRE) atl l For a 
+leading role, we look at whether the evidence establishes that the person is ( or was) a leader within 
+the organization or establishment or a division or department thereof. See generally 6 USCIS Policy 
+Manual, supra, at F.2(B)(l ). In support, the Petitioner included recommendation letters and a chart 
+ofhis team members. According to a letter dated April 2025, by a senior vice president atl ~ 
+the Petitioner leads a team of 35 engineers and manages an operating budget exceeding five million 
+dollars. However, neither the senior vice president nor the authors of the Petitioner's other 
+recommendation letters, who discuss the Petitioner leading his team and initiatives, demonstrate the 
+Petitioner's role atl l or a division or department withinl Lis leading. While we 
+acknowledge the Petitioner's team chart, it does not demonstrate where his team is in the overall 
+organizational structure to corroborate that his role as a director of SRE atl lis a leading one. 
+In addition, the Petitioner has not established that his role is critical. For a critical role, we look at 
+whether the evidence establishes that the person has contributed in a way that is of significant 
+importance to the outcome of the organization or establishment's activities or those of a division or 
+department of the organization or establishment. While the Petitioner's recommendation letters 
+describe his successes, such as onboarding over 150 new enterprise customers, and implementing 
+initiatives that saved the company $1. 7 million, the evidence does not place these successes in context 
+to demonstrate how they were of significant importance to the outcome o~ lor any particular 
+division or department therein. 1 
+For these reasons the Petitioner has not established that he meets the criteria at 
+8 C.F.R. § 204.5(h)(3)(iv) and (viii) and we withdraw SCOPS determination to the contrary. 
+C. Remaining Evidentiary Criteria 
+1. Criteria Not Established 
+SCOPS determined the Petitioner did not establish the criterion at 8 C.F.R. § 204.5(h)(3)(ii), which 
+requires he provide documentation of his membership in associations in the field for which 
+classification is sought, which require outstanding achievements of their members, as judged by 
+recognized national or international experts in their disciplines or fields. In his initial filing, the 
+Petitioner claimed that his membership in the International Association of Engineers (IAENG) met 
+this criterion, but in response to SCOPS request for evidence, he did not pursue this argument, rather 
+he claimed membership in a different organization, Sigma XI, the Scientific Research Honor Society. 
+However, he does not state when he became a member of Sigma XI and his supporting documents 
+evidencing his membership do not clarify when he became a member. The Petitioner filed his petition 
+in April 2025. It is his burden to establish that this membership in Sigma XI was in existence at the 
+time of filing, which he has not done. See 8 C.F.R. § 103.2(b)(l) (An applicant or petitioner must 
+1 We would also note that while the distinguished nature ofl lis not in question, if the Petitioner were to establish 
+that he held a leading or critical role for a department or divis~'io_n_o_fFI====....:...._-'---il he would need to establish the distinguished 
+nature of that particular department or division, 
+3 
+establish that he or she remains eligible for the benefit sought from the time of filing and continuing 
+through adjudication.) 
+Further, we agree with SCOPS' determination that the Petitioner has not established that either of 
+these associations require outstanding achievements of its members, and that membership eligibility 
+is judged by recognized national or international experts in their field. The Petitioner submitted a 
+January 2025 letter evidencing he is a member ofIAENG. With respect to membership requirements, 
+the Petitioner provided printouts from IAENG's website, which state "IAENG welcome all the 
+engineering professions to join us" and, to the extent there are additional requirements for 
+membership, the Petitioner did not provide such information. As a result, the Petitioner did not 
+establish IAENG requires outstanding achievement of its members as judged by recognized national 
+and international experts in his field. 
+The Petitioner also submitted a certificate indicating that he is an "associate member" of Sigma XI 
+and its bylaws defines an associate member as: 
+Any individual who has through initial research achievement in a field of pure or applied 
+science shown aptitude for research which is expected in due course to lead to the fulfillment 
+of the requirements for full membership and any individual who is a bench scientist or 
+technician who "does" the research but may never be recognized as an author or cannot be an 
+author but holds full time job in science research, is eligible for election to associate 
+membership in the Society. 
+( emphasis added). The bylaws further state, "any individual who has shown noteworthy achievement 
+as an original investigator in a field of pure or applied science is eligible for election or promotion to 
+full membership in the Society." On appeal, the Petitioner argues that he has demonstrated that 
+membership in Sigma XI requires noteworthy original investigation or significant research aptitude. 
+However, he has not demonstrated he is a member of Sigma XI, but rather an associate member, which 
+only required him to show, in relevant part, an aptitude for research or to hold a job in research. 
+Further, even ifhe had demonstrated he was a member, he does not explain how requiring "noteworthy 
+original investigation or significant research aptitude" amounts to requiring outstanding achievements 
+ofits members. Moreover, he also argues on appeal that election for membership requires nomination, 
+independent evaluation by scientific peers, and documented evidence of achievement. Here again, 
+however, it is important to note that the Petitioner has not demonstrated he is a member or that he went 
+through this nomination process. Even if he had, he also has not submitted any documentation 
+evidencing that membership eligibility in Sigma XI is judged by recognized national or international 
+experts in the field. The Petitioner has therefore not established this criterion. 
+SCOPS found the Petitioner had not established the criterion at 8 C.F.R. § 204.5(h)(3)(v), which 
+requires evidence ofhis original scientific, scholarly, artistic, athletic, or business-related contributions 
+ofmajor significance in the field. SCOPS did not analyze whether the Petitioner's contributions were 
+original. Rather, it detennined that the Petitioner had not demonstrated his contributions were ofmajor 
+significance in the field and we agree. In addition, the Petitioner has not identified in his personal 
+statement what his original contributions are or any impact to the field. His recommendation letters 
+are from his co-workers and describe him, for example, optimizing operational processes, 
+implementing initiatives, deploying new technology, re-designing infrastructure, spearheading design 
+4 
+and rollout of solutions, but they provide little additional detail and do not explain how these tasks 
+demonstrate the originality of his work. See generally 6 USCIS Policy Manual, supra, at F.2(B)(l) 
+(providing, as guidance, submitted letters should specifically describe the person's contribution and 
+its significance to the field and should also set forth the basis of the writer's knowledge and expertise). 
+The Petitioner has therefore not met his burden to establish he has made original contributions to the 
+field. Nor has he demonstrated that his contributions have been of major significance in the field. On 
+appeal, the Petitioner reasserts that he implemented initiatives that saved I I$ I. 7 million 
+annually and argues for the first time that his frameworks have been adopted by other teams within 
+I ~ He then argues that we have recognized in the past that others' adoption and 
+implementation of an individual's work establishes its major significance, but the authority he cites 
+does not stand for such an assertion. Moreover, he provides on appeal an undated letter by a manager 
+on the SRE team claiming the Petitioner's team has developed a solution that will be used by his own 
+team. While the Petitioner may have contributed to improved processes within one division or branch 
+within his employer, he has not demonstrated the major significance of these contributions. Further, 
+he also has not shown that his work product, which may be considered proprietary, would be shared 
+with the field and, if so, would be considered of major significance in the field. As a result, he has not 
+demonstrated this criterion. 
+2. Issues Reserved 
+SCOPS determined the Petitioner did not establish he meets the criteria at 8 C.F.R. § 204.5(h)(3)(iii), 
+requiring evidence of published material about the Petitioner in professional or major trade 
+publications or other major media, relating to the Petitioner's work in the field for which classification 
+is sought; and 8 C.F.R. § 204.5(h)(3)(ix), requiring evidence the Petitioner has commanded a high 
+salary or other significantly high remuneration for services, in relation to others in the field. As the 
+Petitioner would still be unable to establish that he meets at least three of the ten threshold "initial 
+evidence" requirements at 8 C.F.R. § 204.5(h)(3), we cannot conclude he is an alien of extraordinary 
+ability and reserve our analysis of the remaining two criteria as well as a final merits determination in 
+this matter. See INS v. Bagamasbad, 429 U.S. 24, 25 (1976) (per curiam) (holding that agencies are 
+not required to make "purely advisory findings" on issues that are unnecessary to the ultimate 
+decision); see also Kazarian, 596 F.3d at 1119-20 ( discussing a two-step review, where if the required 
+number of criteria are met by the documentation, then it is considered in the context of a final merits 
+determination). 
+III. CONCLUSION 
+The Petitioner has not demonstrated eligibility as an individual of extraordinary ability. 
+ORDER: The appeal is dismissed. 
+NOTICE: This constitutes the final decision in this matter. The filing of a motion will not postpone the 
+effect of the decision. 8 C.F.R. § 103.S(a)(l)(iv). Aliens who are not lawfully present, or who are 
+otherwise inadmissible or deportable, may be subject to the commencement of removal proceedings 
+under section 240 ofthe Act through the issuance ofa Form I-862, Notice to Appear. Those proceedings 
+may result in their removal from the United States and possible ineligibility for future visas or other 
+immigration benefits. 
+5 

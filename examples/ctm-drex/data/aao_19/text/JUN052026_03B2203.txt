@@ -1,0 +1,253 @@
+Non-Precedent Decision of the
+Administrative Appeals Office 
+U.S. Citizenship 
+and Immigration 
+Services 
+In Re: 43246121 Date: JUN. 05, 2026 
+Appeal of U.S. Citizenship and Immigration Services (USCIS) Decision 
+Form I-140, Immigrant Petition for Alien Workers (Extraordinary Ability) 
+The Petitioner, a software development company, seeks classification for the Beneficiary as an alien 
+of extraordinary ability. See Immigration and Nationality Act (the Act) section 203(b)(l)(A), 8 U.S .C. 
+§ 1153(b)(l)(A). This first preference classification makes immigrant visas available to those who 
+can demonstrate their extraordinary ability through sustained national or international acclaim and 
+whose achievements have been recognized in their field through extensive documentation 
+USCIS denied the petition, concluding that while the Petitioner established that the Beneficiary met 
+the initial evidentiary requirements for this classification by meeting at least three of the criteria under 
+8 C.F.R. § 204.5(h)(3), the record did not establish that he has garnered sustained national or 
+international acclaim for his achievements and is among the small percentage of technology 
+entrepreneurs at the top of the field. The matter is now before us on appeal pursuant to 8 C.F.R. § 
+103.3. 
+The Petitioner bears the burden ofproof to demonstrate eligibility by a preponderance ofthe evidence. 
+Matter ofChawathe, 25 I&N Dec. 369, 375-76 (AAO 2010). We review the questions in this matter 
+de novo. Matter of Christo 's, Inc., 26 I&N Dec. 537, 537 n.2 (AAO 2015). Upon de novo review, 
+we will dismiss the appeal. 
+I. LAW 
+To establish eligibility as an individual of extraordinary ability, a petitioner (or anyone on the 
+petitioner's behalf) must establish that they: 
+• Have extraordinary ability in the sciences, arts, education, business, or athletics; 
+• Seek to enter the United States to continue work in their area of extraordinary ability; and that 
+• Their entry into the United States will prospectively substantially benefit the United States. 
+Extraordinary ability must be demonstrated by evidence of sustained national or international acclaim 
+as well as extensive documentation that the petitioner's achievements have been recognized in the 
+field. Section 203 (b)(1) of the Act. 
+The implementing regulation further states that the term "extraordinary ability" refers only to those 
+aliens in "that small percentage who have risen to the very top of the field of endeavor." A petitioner 
+can demonstrate that they meet the initial evidence requirements for this immigrant visa classification 
+through evidence of a one-time achievement (that is, a major, internationally recognized award). If 
+such evidence is unavailable, then they must alternatively provide evidence that meets at least three of 
+the ten listed criteria, which call for evidence about lesser awards they may have received, published 
+material about them in qualifying media, and their authorship of scholarly articles, among other types 
+of evidence. 8 C.F.R. §§ 204.5(h)(2),(3). 
+Where a petitioner meets these initial evidence requirements, we then consider the totality of the 
+material provided in a final merits determination, assessing whether the record shows that the alien 
+possesses the acclaim and recognition required for this highly exclusive immigrant visa 
+classification. See Kazarian v. USCIS, 596 F.3d 1115 (9th Cir. 2010) (discussing a two-part review 
+where the documentation is first counted and then, if fulfilling the required number of criteria, 
+considered in the context of a final merits determination); see also Amin v. Mayorkas, 24 F.4th 383, 
+394 (5th. Cir. 2022). 
+II. ANALYSIS 
+The Beneficiary is a co-founder and the chief executive officer (CEO) ofthe Petitioner. He is primarily 
+responsible for the development of I I an open-source software platform which allows 
+developers tol l The record indicates that the Beneficiary built I 
+c=]and released it on the open-source development platform GitHub in late 2024, and founded the 
+Petitioner in early 2025. 
+USCIS concluded that the Beneficiary met three of the evidentiary criteria for this classification, 
+pertaining to published material about him and his work, his original contributions of major 
+significance to the field, and his leading or critical role for organizations with a distinguished 
+reputation. 1 However, in conducting a final merits determination of the Beneficiary's eligibility as an 
+alien of extraordinary ability, USCIS determined that he had not garnered sustained national or 
+international acclaim as a technology entrepreneur and had not elevated himself to be among the small 
+percentage of technology entrepreneurs at the very top of this field. 
+On appeal, the Petitioner submits a brief accompanied by evidence already in the record. The brief 
+includes three headings naming the three criteria granted by USCIS and asserts that USCIS employed 
+a "heightened standard" in reviewing the evidence in its final merits determination. For example, 
+when addressing evidence of a leading or critical for organizations with a distinguished reputation, the 
+brief quotes a portion of USCIS' final merits determination and then states the following: 
+By this, the NOID [sic] reveals material USCIS error with qualitative challenges to 
+objective facts under 8 CFR 204.5(h)(3)(viii), as if constituted a 'one-time 
+achievement', such as a major international recognized award per 8 CFR 204.5(h)(3). 
+1 USCTS also concluded without analysis that the Petitioner had not established that the Beneficiary meets the evidentiary 
+criteria pertaining to lesser nationally or internationally recognized awards, membership in an association requiring 
+outstanding achievements, display ofhis work at an mtistic exhibition or showcase, and his ability to command a relatively 
+high salary or very high remuneration. 
+2 
+I 
+an accolade USCIS would duly confirm that it sufficiently: indicates one's sustained 
+national or international acclaim and that their achievements have been recognized in 
+the field ofexpertise to establish their eligibility 8 USC l 153(b )(1 )(A)(i). 
+Yet the absence of a 'one-time achievement' is, itself: why USCIS adjudicates the 
+record in two 'steps', 6 USCIS-PM F .2B ( emphasis in original). 
+This assertion, which is repeated under the brief' s discussion of the published materials about the 
+Beneficiary, appears to be based on the premise that a final merits determination is not conducted 
+where a Petitioner has established a one-time achievement (receipt of a major, internationally 
+recognized award). This is not accurate, as the regulation at 8 C.F.R. § 204.5(h)(3) states that meeting 
+at least three of the ten evidentiary criteria is an alternative to providing evidence of a one-time 
+achievement. In either case, a final merits determination must follow to determine eligibility for this 
+classification. See generally 6 USCIS Policy Manual F.2(B), www.uscis.gov/policy-manual. 
+Upon review of the record and the Petitioner's brief, we disagree with USCIS' conclusion that the 
+Beneficiary has made original contributions of major significance in the field of technology 
+entrepreneurship, and per the discussion below we withdraw that conclusion. 
+A. Original Contributions of Major Significance in the Field 
+The regulation at 8 C.F.R. § 204.5(h)(3)(v) seeks "[e]vidence of the alien's original scientific, 
+scholarly, artistic, athletic, or business-related contributions of major significance in the field." In 
+order to satisfy the regulation at 8 C.F.R. § 204.5(h)(3)(v), a petitioner must establish that not only 
+have they made original contributions, but that those contributions have been of major significance in 
+the field. For example, a petitioner may show that the contributions have been widely implemented 
+throughout the field, have remarkably impacted or influenced the field, or have otherwise risen to a 
+level of major significance. See Visinscaia v. Beers, 4 F. Supp. 3d 126, 134-5 (D.D.C. 2013). 
+The Petitioner asserts that the Beneficiary's development ofl Iand its implementation by 
+other companies and software developers is an original contribution of major significance. This 
+assertion primarily relies upon the evidence of the reaction to the software platform since its posting 
+on GitHub and the information relating to its adoption by companies based upon their websites. The 
+Petitioner initially submitted a page from GitHub showing tha~ Ihad received 22,300 "stars" 
+and 1,800 "forks," which was updated to 24,000 and 2,000 in its response to USCIS' request for 
+evidence (RFE). Various articles in the record explain these terms, with an article on the website 
+https://shega.co stating that "stars represent the number of users that have favorited or bookmarked 
+the project" and "forks refers to the number of developers who have copied the project to modify or 
+build upon it." Other articles indicate that stars are "a good way to check project popularity" and 
+"show support or appreciation." While a letter from P-K-, a general partner wit~ 
+references the number of GitHub stars as a measure of the Beneficiary's contributions to the field, the 
+record does not show that the level ofpopularity and interest inl Ireflect remarkable impact 
+or influence on other developers and entrepreneurs. 
+Another measure of the significance of the Beneficiary's original contribution mentioned in P-K-'s 
+reference letter is the number of downloads ofl Iwhich he states increased to 680,000 a 
+3 
+I 
+week in December 2025. But unlike the GitHub data discussed above, the record does not include 
+independent evidence to verify this information, as the source appears to be the Petitioner's website. 
+Further, the record lacks the context to demonstrate that this level of downloads of the Beneficiary's 
+original contribution is indicative of a significant contribution to the field or industry. 
+As for implementation ofl I in the industry, the record includes webpages from companies 
+indicating that they have modified their own software products to integrate or work with I I 
+For example, a page from https:I I shows that that company released a new version of its 
+software which added functionality for "popular auth providers" including! I However, 
+other webpages in the record from companies which the Petitioner claims have adopted! I 
+make no mention of the product, including www.beatbread.com, https://hypermode.com, 
+https://dokploy.com, and https://supermemory.ai. And while the article on https:I I lists 
+several "open-source projects [that] have adopted I I for their authentication needs," it cites 
+the Beneficiary as the source of this information. The sum of this evidence does not support the 
+Petitioner's claim that implementation of the Beneficiary's original contribution has been widely 
+implemented or has otherwise reached the level of major significance. 
+The Petitioner alsol higrighted evidence of its funding by several venture capital firms under this 
+criterion, including Although the funding by these investors shows their confidence in the ability 
+of the Beneficiary and his co-founder to develop the Petitioner and its product and achieve 
+profitability, the record does not establish that this early-stage funding is indicative of the significance 
+of the Beneficiary's contribution that has already been made to the technology entrepreneur field. 
+For all of the reasons discussed above, we conclude that the record does not sufficiently demonstrate 
+that I I the Beneficiary's original contribution, is of major significance to his field. We 
+therefore withdraw USCIS' s conclusion on this issue. 
+B. Additional Criteria 
+As noted above, USCIS concluded in its decision that the Petitioner had not established that the 
+Beneficiary meets an additional four evidentiary criteria under 8 C.F.R. § 204.5(h)(3). On appeal, the 
+Petitioner asserts that USCIS did not give sufficient consideration to the evidence submitted in support 
+of these four criteria, but does not directly challenge USCIS' conclusions regarding the individual 
+criteria. Rather, it states that "USCIS no longer contests this criterion" when referring to evidence of 
+the Beneficiary's remuneration and the display of his work, and the discussion of this evidence takes 
+place within the context of the final merits determination and the three evidentiary criteria which 
+USCIS granted. We will therefore not consider the Beneficiary's potential qualification under these 
+four criteria. See Giday v. INS, 113 F.3d 230,234 (D.C. Cir. 1997) (declining to address a "passing 
+reference" to an argument in a brief that did not provide legal support). 
+Because per the analysis above we have withdrawn one of the three criteria which USCIS concluded 
+that the Beneficiary met, he no longer meets the requisite three criteria under 8 C.F.R. § 204.5(h)(3). 
+He therefore does not meet the initial evidence requirement for classification as an alien of 
+extraordinary ability. However, as the final merits determination was the primary focus of USCIS' 
+decision and the appeal brief before us, we will review that aspect of the decision below. 
+4 
+C. Final Merits Determination 
+In a final merits determination, we analyze an individual's accomplishments and weigh the totality of 
+the evidence to determine if their successes are sufficient to demonstrate extraordinary ability in the 
+field of endeavor. See section 203(b)(1 )(A)(i) of the Act; 8 C.F.R. § 204.5(h)(2), (3); see also 
+Kazarian, 596 F.3d at 1119-20. 
+Because extraordinary ability is an elite level ofaccomplishment whose recognition necessarily entails 
+a judgement call, it cannot be established through meeting at least three of the evidentiary criteria 
+alone. The final merits determination is the ultimate statutory inquiry of whether the applicant has 
+extraordinary ability as demonstrated by sustained national or international acclaim. Amin v. 
+Mayorkas, 24 F.4th 383, at 395 (2022)(finding USCIS' two-step analysis of extraordinary ability 
+"consistent with the governing statute and regulation"). 
+On appeal, the Petitioner asserts that USCIS did not give sufficient consideration to some of the 
+evidence in the record, particularly pertaining to those evidentiary criteria which they determined the 
+Beneficiary did not meet. We will address the totality of the record below. 
+As discussed above, the Petitioner has established that under the Beneficiary's leadership,~!---~ 
+has been adopted amongst other developers and technology startups to some degree. But while the 
+evidence indicates that this software platform has achieved a level of popularity in the field and 
+attracted fonding from well-known venture capitalist firms, the totality of the record is insufficient to 
+show that this level of interest places the Beneficiary amongst the very few technology entrepreneurs 
+at the top of the field. Notably, some of the Petitioner's claims of implementation by other startups 
+are not supported in the record. Further, while the record indicates thatI Iis a product 
+focused on user authentication for software applications, the Petitioner has not demonstrated that its 
+popularity in this niche equates to acclaim for the Beneficiary in the broader field of technology 
+entrepreneurialism. 
+The Petitioner asserts that the Beneficiary's remuneration is significantly high, noting his 44% equity 
+stake in the Petitioner which it asserts is valued at $17.6 million. We first note that of the SAFE 
+agreements in the record which provide a figure for the "Post Money Valuation Cap" the Petitioner 
+relies upon for this calculation, most place this figure at $35 million, which would put the value of the 
+Beneficiary's stake in the Petitioner at $15.4 million. More importantly, the record shows that this is 
+a highly speculative figure. Notably, the article from https://dlapiperaccelerate.com submitted with 
+the Petitioner's initial filing defines "post-money value" as "the amount that a given pre-money value 
+infers the company to be worth at the moment immediately following an investment." It goes on to 
+define "pre-money value" as "the amount that an investor and the company agree to deem the company 
+to be worth immediately prior to the investor's investment." After humorously explaining the process 
+of determining pre-money value, the article explains that it "is often not derived from accounting 
+measures such as revenue, free cash flow or EBITDA," and "is often highly negotiated, driven by 
+market forces and inherently speculative." Accordingly, the figure proposed by the Petitioner for the 
+Beneficiary's remuneration is insufficiently supported, and the record does not show that his salary or 
+remuneration places him among those technology startup entrepreneurs at the very top of this field. 
+5 
+The Petitioner also refers on appeal to the evidence that the Beneficiary presented his work at the0 
+Demo Day for his cohort. We first note that the only evidence of this presentation is the letter from 
+P-K-, who indicates that this resulted from his "cohort affiliation." While the record indicates that 
+selection byO for its accelerator program is considered to be prestigious in the Beneficiary's field 
+and as such represents a certain level of acclaim, the Petitioner has not shown that pitching one's 
+startup at the demo day as the culmination of the program adds any prestige or recognition beyond 
+that already associated with participation in the program. 
+In addition, when evaluating whether a petitioner has demonstrated sustained national or international 
+acclaim, we consider whether any such acclaim has been maintained. See generally 6 USCIS Policy 
+Manual F.2(A)(l). "Sustain" is defined per Black's Law Dictionary (11th ed. 2019) as "to support or 
+maintain, especially over a long period of time ... To persist in making (an effort) over a long period 
+of time." Id. note 5. As noted in the beginning ofour analysis, the Beneficiary initially released! I 
+~on GitHub in late 2024, just over a year prior to the Petitioner filing the instant petition. He co­
+founded the Petitioner months after this release, has led it as its CEO since, and was accepted into 
+Dspring 2025 cohort. The entirety of the record proceeds from these events.2 
+For example, the two articles about the Beneficiary and his work that appeared in 
+www.techcrunch.com and www.forbes.com were published inc=]2025. The content of these 
+articles are complimentary towards the Beneficiary and I I but also acknowledge the 
+compact timeframe in which he created the product, made it available as an open source project on 
+GitHub, and attracted fonding for the Petitioner. Similarly, all of the "Simple Agreement for Future 
+Equity" (SAFE) agreements which document the venture capital fonding received by the Petitioner 
+were executed from March through June 2025. 
+While the totality of this and other evidence in the record, including comments, videos, and other 
+materials on social media sites, verifies the growing popularity of I I in the software 
+development and technology entrepreneur field throughout this period, the Petitioner has not 
+established that the level of acclaim he has achieved has reached the national or international level, or 
+has persisted over a sufficient period of time to demonstrate his eligibility as an alien of extraordinary 
+ability. 
+The Petitioner also asserts that USCIS disregarded evidence of the Beneficiary's 0-lA nonimmigrant 
+status. The record reflects that the Petitioner received 0-1 status, a classification reserved for 
+nonimmigrants of extraordinary ability. However, the prior approval does not preclude USCIS from 
+denying an immigrant visa petition, which is adjudicated based on a different standard - statute, 
+regulations, and case law. See Aravamuthan v. Jaddou, No. 3:23-CV-01412-N, 2025 WL 1708126, 
+at *9 (N.D. Tex. June 17, 2025); Cuckic v. Jaddou, No. 21-CV-8395 (JPO), 2023 WL 2586031, at *2 
+(S.D.N.Y. Mar. 21, 2023); Lapteva v. Schuurmans, No. 8:24CV83, 2025 WL 815087, at *1 (D. Neb. 
+Mar. 10, 2025). Many immigrant petitions are denied after USCIS approves prior nonimmigrant 
+petitions. See, e.g., Q Data Consulting, Inc. v. INS, 293 F. Supp. 2d 25, 29-30 (D.D.C. 2003); IKEA 
+US, Inc. v. US. Dep 't ofJust. INS, 48 F. Supp. 2d 22, 23 (D.D.C. 1999), aff'd sub nom. IKEA US, Inc. 
+2 The Petitioner submitted the Beneficiary's resume which lists education and work experience he obtained prior to 
+beginning development ofl I but does not assert that this previous education and experience contributed to 
+sustained national or international acclaim or the placement of the Beneficiary among the small percentage of those at the 
+top of his field. 
+6 
+v. Dep't ofJust., INS, No. 99-5159, 1999 WL 825420 (D.C. Cir. Sept. 27, 1999); Fedin Bros. Co. v. 
+Sava, 724 F. Supp. 1103, 1104 (E.D.N.Y. 1989), aff'd, 905 F.2d 41 (2d Cir. 1990). Furthermore, our 
+authority over SCOPS, the office adjudicating nonimmigrant visa petitions, is comparable to the 
+relationship between a court of appeals and a district court. Even if SCOPS has approved a 
+nonimmigrant petition on behalf of an individual, we are not bound to follow that finding in the 
+adjudication of another immigrant petition. See Louisiana Philharmonic Orchestra v. INS, No. CIV. 
+A. 98-2855, 2000 WL 282785, at *2 (E.D. La. Mar. 15, 2000). 
+ORDER: The appeal is dismissed. 
+NOTICE: This constitutes the final decision in this matter. The filing of a motion will not postpone the 
+effect of the decision. 8 C.F.R. § 103.S(a)(l)(iv). Aliens who are not lawfully present, or who are 
+otherwise inadmissible or deportable, may be subject to the commencement of removal proceedings 
+under section 240 ofthe Act through the issuance of a Form 1-862, Notice to Appear. Those proceedings 
+may result in their removal from the United States and possible ineligibility for future visas or other 
+immigration benefits. 
+7 
